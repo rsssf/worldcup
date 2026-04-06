@@ -150,8 +150,8 @@ BRA - JUG 0:0
 
 BRA: Leão - Nelinho, Luis Pereira, M.Marinho, F.Marinho - Piazza (c),
 Rivelino, Paulo Cesar Lima, Valdomiro - Jairzinho, Leivinha
-JUG: Marić - Buljan, Katalinski, Bogićević, E.Hadľiabdić - Muľinić,
-Oblak, Aćimović, Petković - ©urjak, Dľajić (c)
+JUG: Marić - Buljan, Katalinski, Bogićević, E.Hadžiabdić - Mužinić,
+Oblak, Aćimović, Petković - Šurjak, Džajić (c)
 
 Booked: Aćimović, Oblak
 
@@ -196,15 +196,15 @@ JUG - ZAI 9:0 (6:0)
 
 (+31000) Delgado COL, Barreto URU, Liebregat VEM
 
-JUG: Marić - Buljan, Katalinski, Bogićević, E.Hadľiabdić - Bajević,
-Oblak, Aćimović, Petković, ©urjak, Dľajić (c)
+JUG: Marić - Buljan, Katalinski, Bogićević, E.Hadžiabdić - Bajević,
+Oblak, Aćimović, Petković, Šurjak, Džajić (c)
 ZAI: Kazadi (21 Tubilandu) - Mwepu, Mukombo, Buhanga, Lobilo - Kilasu,
 Kembo, Mana, N'daye - Kidumu (c), Kakoko (46 Mayanga)
 
-1:0 Bajević 8, 2:0 Dľajić 14, 3:0 ©urjak 18, 4:0 Katalinski 28, 5:0 Bajević
+1:0 Bajević 8, 2:0 Džajić 14, 3:0 Šurjak 18, 4:0 Katalinski 28, 5:0 Bajević
 30, 6:0 Bogićević 38, 7:0 Oblak 51 f, 8:0 Petković 65, 9:0 Bajević 81
 
-booked: E.Hadľiabdić
+booked: E.Hadžiabdić
 sent off: N'daye (23)
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
@@ -217,8 +217,8 @@ SCO - JUG 1:1 (0:0)
 
 SCO: Harvey - Jardine, McGrain, Bremner (c), Holton - Buchan, Dalglish
 (66 Hutchison), Hay, Lorimer - Jordan, Morgan
-JUG: Marić - Buljan, Katalinski, Bogićević, E.Hadľiabdić - Bajević
-(72 Karasi), Oblak, Aćimović, Petković - ©urjak, Dľajić (c)
+JUG: Marić - Buljan, Katalinski, Bogićević, E.Hadžiabdić - Bajević
+(72 Karasi), Oblak, Aćimović, Petković - Šurjak, Džajić (c)
 
 0:1 Karasi 82 h, 1:1 Jordan 89
 
@@ -594,12 +594,12 @@ GER - JUG 2:0 (1:0)
 
 GER: Maier - Vogts, Schwarzenbeck, Beckenbauer (c), Breitner - Bonhof,
 Wimmer (74 Hoeness), Hölzenbein (79 Flohe), Overath - Müller, Herzog
-JUG: Marić - Buljan, E.Hadľiabdić, Muľinić, Katalinski - Oblak (84 - Jerkovic),
-Popivoda, Aćimović, ©urjak - Karasi, Dľajić (c - 84 Petković)
+JUG: Marić - Buljan, E.Hadžiabdić, Mužinić, Katalinski - Oblak (84 - Jerkovic),
+Popivoda, Aćimović, Šurjak - Karasi, Džajić (c - 84 Petković)
 
 1:0 Breitner 39, 2:0 Müller 80
 
-booked: Overath, Vogts / Buljan, E.Hadľiabdić
+booked: Overath, Vogts / Buljan, E.Hadžiabdić
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
@@ -611,9 +611,9 @@ POL - JUG 2:1 (1:1)
 
 POL: Tomaszewski - Szymanowski, Gorgoń, Żmuda, Musiał - Deyna (c -
 81 Domarski), Kasperczak, Maszczyk - Lato, Szarmach (58 Ćmikiewicz), Gadocha
-JUG: Marić - Buljan, E.Hadľiabdić, Bogićević, Katalinski - Oblak (17
+JUG: Marić - Buljan, E.Hadžiabdić, Bogićević, Katalinski - Oblak (17
 Jerković),
- Bajević, Aćimović (c), ©urjak - Karasi, Petković (81 V.Petrović)
+ Bajević, Aćimović (c), Šurjak - Karasi, Petković (81 V.Petrović)
 
 1:0 Deyna 27 p, 1:1 Karasi 43, 2:1 Lato 63 h
 
@@ -645,10 +645,10 @@ SWE - JUG 2:1 (1:1)
 
 SWE: Hellström - Karlsson, Olsson, Nordqvist (c), Augustsson - Grahn, Tapper,
 Persson, Torstensson - Sandberg, Edström
-JUG: Marić, Buljan, E.Hadľiabdić, Bogićević, Katalinski - Pavlović
-(78 Peruzović), Dľajić (c), Aćimović - ©urjak, V.Petrović (66 Karasi), Jerković
+JUG: Marić, Buljan, E.Hadžiabdić, Bogićević, Katalinski - Pavlović
+(78 Peruzović), Džajić (c), Aćimović - Šurjak, V.Petrović (66 Karasi), Jerković
 
-0:1 ©urjak 27, 1:1 Edström 30, 2:1 Torstensson 85
+0:1 Šurjak 27, 1:1 Edström 30, 2:1 Torstensson 85
 
 booked: Katalinski, Karasi
 
@@ -716,11 +716,11 @@ booked: Vogts / Neeskens, Van Hanegem, Cruijff (during half-time)
 3 - Houseman ARG, Rivelino BRA, Breitner GER, Cruijff HOL, Bajević JUG, Deyna
     POL
 2 - Yazalde ARG, Jairzinho BRA, Streich DDR, Overath GER, Sanon HAI, Karasi,
-    ©urjak JUG, Jordan SCO, Sandberg SWE
+    Šurjak JUG, Jordan SCO, Sandberg SWE
 1 - Ayala, Babington, Brindisi, Heredia ARG, Valdomiro BRA, Bonev BUL, Alemada
     CHI, Hoffmann, Sparwasser DDR, Bonhof, Cullman, Grabowski, Hoeness GER,
     de Jong, Krol + 1 own goal, Rensenbrink HOL, Anastasi, Capello, Rivera
-    ITA, Bogićević, Dľajić, Katalinski, Oblak, Petković JUG, Gorgoń POL,
+    ITA, Bogićević, Džajić, Katalinski, Oblak, Petković JUG, Gorgoń POL,
     Lorimer SCO, Torstensson SWE, Pavoni URU
 own goals - 4 (Perfumo ARG for ITA, Curran AUS for DDR, Krol HOL for BUL +
     1 goal, Augusto HAI for ITA)
@@ -749,7 +749,7 @@ Schrivjers, Strik, Treytel, W.Van de Kerkhof, Van Iersel, Vos
 ITA: F. Valcareggi, E. Bearzot, A. Vicini | Albertosi, Bellugi,
 Castellini, Juliano, Pulicci, Re Cecconi, Sabadini
 JUG: M. Miljanić, M. Čirić, T. Ivić, S. Rebac, M. RIbar + I. Toplak |
-Dojčinovski, Meąković, O.Petrović, Vladić
+Dojčinovski, Mešković, O.Petrović, Vladić
 POL: K. Górski, J. Gmoch, A. Strejlau | Bulzacki, Fischer, Jakóbczak,
 Kalinowski, Kusto, Wieczorek
 SCO: W. Ormond, H. Allan, R. McKenzie | Allan, Cormack, Donachie, Ford,

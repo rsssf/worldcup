@@ -62,12 +62,12 @@ CZE - USA 5:1 (2:0)
 
 (+33000) Röthlisberger SUI, Schmidhuber GER, Van Langenhove BEL
 
-CZE: Stejskal - Straka, Kadlec, Kocian, Haąek (c) - Kubik, Bilek, Chovanec,
+CZE: Stejskal - Straka, Kadlec, Kocian, Hašek (c) - Kubik, Bilek, Chovanec,
 Moravčik (83 Weiss) - Skuhravý, Knofliček (77 Luhový)
 USA: Meola (c) - Trittschuh, Windischmann, Armstrong, Wynalda - Caligiuri, Ramos,
 Harkes, Stollmeyer (64 Balboa) - Murray (79 Sullivan), Vermes
 
-1:0 Skuhravý 25, 2:0 Bilek 39 p, 3:0 Haąek 50 h, 3:1 Caliguri 61, 4:1 Skuhravý
+1:0 Skuhravý 25, 2:0 Bilek 39 p, 3:0 Hašek 50 h, 3:1 Caliguri 61, 4:1 Skuhravý
 78 h, 5:1 Luhový 90 (88 Meola saved a penalty by Bilek)
 
 booked: Kubik, Kadlec / Meola, Trittschuh
@@ -98,7 +98,7 @@ CZE - AUT 1:0 (1:0)
 
 (-39000) Smith SCO, Al-Sharif SYR, Lorenc AUS
 
-CZE: Stejskal - Kadlec, Kocian, Haąek (c), Kubik - Bilek, Chovanec (32
+CZE: Stejskal - Kadlec, Kocian, Hašek (c), Kubik - Bilek, Chovanec (32
 Bielik), Moravčik, Nemeček - Skuhravý, Knofliček (83 Weiss)
 AUT: Lindenberger - Pfeffer, Pecl, Aigner, Russ (46 Streiter) - Schöttel
 (46 Ogris), Hörtnagl, Zsak, Herzog - Rodax, Polster (c)
@@ -117,7 +117,7 @@ ITA - CZE 2:0 (1:0)
 
 ITA: Zenga - F.Baresi, Bergomi (c), Ferri, Maldini - Berti, de Napoli
 (66 Vierchowod), Giannini, Donadoni (52 de Agostini) - R.Baggio, Schillaci
-CZE: Stejskal - Kadlec, Kinier, Haąek (c), Bilek - Chovanec, Moravčik, Nemeček
+CZE: Stejskal - Kadlec, Kinier, Hašek (c), Bilek - Chovanec, Moravčik, Nemeček
 (46 Bielik) - Skuhravý, Knofliček, Weiss (58 Griga)
 
 1:0 Schillaci 9 h, 2:0 R.Baggio 78
@@ -398,7 +398,7 @@ GER - JUG 4:1 (2:0)
 
 GER: Illgner - Reuter, Brehme, Augenthaler, Buchwald - Berthold,
 Hässler (75 Möller), Matthäus (c), Bein (75 Littbarski) - Völler, Klinsmann
-JUG: Ivković, Spasić, Vulić, Hadľibegić, Jozić, Suąić (56 Prosinečki),
+JUG: Ivković, Spasić, Vulić, Hadžibegić, Jozić, Sušić (56 Prosinečki),
 Baljić, Stojković, Katanec, Zl.Vujović, Savičević (56 D.Brnović)
 
 1:0 Matthäus 29, 2:0 Klinsmann 39 h, 2:1 Jozić 55 h, 3:1 Matthäus 65,
@@ -414,14 +414,14 @@ JUG - COL 1:0 (0:0)
 
 (+32000) Agnolin ITA, Diramba GAB, Jonini TUN
 
-JUG: Ivković - Spasić, Stanojković, Hadľibegić, Jozić - Susić,
-Stojković, ©abanadľović, Katanec (46 Jarni) - Zl.Vujović (c - 55 Pančev),
+JUG: Ivković - Spasić, Stanojković, Hadžibegić, Jozić - Susić,
+Stojković, Šabanadžović, Katanec (46 Jarni) - Zl.Vujović (c - 55 Pančev),
 D.Brnović
 COL: Higuita - A.Herrera, Perea, Escobar, Gómez Monsalvez - Alvarez,
 Gómez Jaramillo, Valderrama (c), Redin (81 Estrada) - Iguaran, Rincón
 (70 Hernández)
 
-1:0 Jozić 75 (81 Higuita saved a penalty by Hadľibegić)
+1:0 Jozić 75 (81 Higuita saved a penalty by Hadžibegić)
 
 booked: Stojković
 
@@ -470,16 +470,16 @@ JUG - EMI 4:1 (2:1)
 
 (-28000) Takada JAP, Mikkelsen DAN, Vautrot FRA
 
-JUG: Ivković - Spasić, Stanojković, Hadľibegić, Jozić - Suąić, Stojković,
-Pančev, Zl.Vujović (c - 70 Vulić) - D.Brnović, ©abanadľović (79 Prosinečki)
+JUG: Ivković - Spasić, Stanojković, Hadžibegić, Jozić - Sušić, Stojković,
+Pančev, Zl.Vujović (c - 70 Vulić) - D.Brnović, Šabanadžović (79 Prosinečki)
 EMI: Faraj - E.M.Abdulrahman, I.M.Abdulrahman, Al Haddad, K.G.Mubarak -
 N.K.Mubarak (36 Ali Sultan), Abbas, Abudllah (c) - Jumaa (46 F.K.Mubarak),
 Al Talyani, K.I.Mubarak
 
-1:0 Suąić 8 h, 2:0 Pančev 9, 2:1 Jumaa 23 h, 3:1 Pančev 46, 4:1 Prosinečki
+1:0 Sušić 8 h, 2:0 Pančev 9, 2:1 Jumaa 23 h, 3:1 Pančev 46, 4:1 Prosinečki
  90
 
-booked: D.Brnović, ©abadľanović, Pančev / K.G.Mubarak
+booked: D.Brnović, Šabadžanović, Pančev / K.G.Mubarak
 sent off: K.G.Mubarak (76)
 
 1. GER^         3  2 1 0  5 10-3
@@ -733,7 +733,7 @@ CZE - COS 4:1 (1:0)
 
 (-48000) Kirschen DDR, Pérez COL, d'Elia ITA
 
-CZE: Stejskal - Kadlec, Kocian, Chovanec, Haąek (c) - Bilek, Kubik, Moravčik,
+CZE: Stejskal - Kadlec, Kocian, Chovanec, Hašek (c) - Bilek, Kubik, Moravčik,
 Straka - Skuhravý, Knofliček
 COS: Barrantes - Flores (c), Montero, J.Obando (46 Medford), Chavez - González,
 Chavarria (66 Guimaráes), Marchena, Cayasso -  Ramirez,  C.Jara
@@ -741,7 +741,7 @@ Chavarria (66 Guimaráes), Marchena, Cayasso -  Ramirez,  C.Jara
 1:0 Skuhravý 11 h, 1:1 González 55 h, 2:1 Skuhravý 62 h, 3:1 Kubik 78 f,
 4:1 Skuhravý 82 h
 
-booked: Kocian, Straka, Haąek / González, Marchena
+booked: Kocian, Straka, Hašek / González, Marchena
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
@@ -824,8 +824,8 @@ JUG - ESP 2:1 (0:0, 1:1, 2:1)
 
 (+35000) Schmidhuber GER, Listkiewicz POL, Snoddy NIR
 
-JUG: Ivković - Spasić, Hadľibegić, Jozić, D.Brnović - Suąić, Stojković,
-Katanec (80 Vulić), ©abanadľović - Pančev (57 Savićević), Vujović (c)
+JUG: Ivković - Spasić, Hadžibegić, Jozić, D.Brnović - Sušić, Stojković,
+Katanec (80 Vulić), Šabanadžović - Pančev (57 Savićević), Vujović (c)
 ESP: Zubizarreta - Chendo, Villaroya, Gorriz, Andrinúa (49 Jimenez) -
 Sanchis, Roberto, Vázquez, Butragueño (c - 80 Paz) - Michel, Salinas
 
@@ -863,15 +863,15 @@ ARG - JUG 0:0 (0:0, 0:0, 0:0)  p 3-2
 ARG: Goycoechea - Ruggeri, Simon, Olarticoechea (51 Troglio),
 Serrizuela - Giusti, Burruchaga, Basualdo, Calderón (89 Dezotti) -
 Caniggia, Maradona (c)
-JUG: Ivković - Spasić, Hadľibegić, Jozić, Vulić - ©abanadľović,
-D.Brnović, Suąić (60 Savićević), Stojković - Prosinečki, Vujović (c)
+JUG: Ivković - Spasić, Hadžibegić, Jozić, Vulić - Šabanadžović,
+D.Brnović, Sušić (60 Savićević), Stojković - Prosinečki, Vujović (c)
 
 Penalties: 1:0 Serrizuela, (1:0) Stojković, 2:0 Burruchaga, 2:1 Prosinečki,
 (2:1) Maradona (save Ivković), 2:2 Savicević, (2:2) Troglio (out), (2:2)
-D.Brnović (save Goychoecea), 3:2 Desotti, (3:2) Hadľibegić (save Goychoecea)
+D.Brnović (save Goychoecea), 3:2 Desotti, (3:2) Hadžibegić (save Goychoecea)
 
-booked: Serrizuela, Olartichoecea, Simon / ©abadľanović
-sent off: ©abadzanović (31)
+booked: Serrizuela, Olartichoecea, Simon / Šabadžanović
+sent off: Šabadzanović (31)
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
@@ -900,7 +900,7 @@ GER - CZE 1:0 (1:0)
 
 GER: Illgner - Brehme, Kohler, Augenthaler, Buchwald - Berthold, Littbarski,
 Bein (84 Möller), Matthäus (c) - Klinsmann, Riedle
-CZE: Stejskal - Kadlec, Kocian, Chovanec, Haąek (c) - Bilek (70 Nemeček),
+CZE: Stejskal - Kadlec, Kocian, Chovanec, Hašek (c) - Bilek (70 Nemeček),
 Kubik (81 Griga), Moravčik, Straka - Skuhravý, Knofliček
 
 1:0 Matthäus 24 p
@@ -1643,10 +1643,10 @@ Coach: Ivan Osim (Yugoslavia).
     Jozić, Pančev, Stojković JUG, Balint, Lăcătuş ROM
 1 - Burruchaga, Monzón, Troglio ARG, Ogris, Rodax AUT Ceulemans, Clijsters,
     Degryse, de Wolf, Scifo, Vervoort BEL, Omam Biyik, Ekéké, Kunde CAM,
-    Rincón, Valderrama COL, Cayasso, Flores, González, Medford COS, Haąek,
+    Rincón, Valderrama COL, Cayasso, Flores, González, Medford COS, Hašek,
     Kubik, Luhový CZE, Ghani EGY, K.I.Mubarak, Juma'a EMI, Wright ENG,
     Gorriz, Salinas ESP, Bein, Littbarski GER, Gullit, Kieft, R.Koeman HOL,
-    Quinn, Sheedy IRL, Giannini, Serena ITA, Prosinečki, Suąić JUG, Hwang
+    Quinn, Sheedy IRL, Giannini, Serena ITA, Prosinečki, Sušić JUG, Hwang
     Bo-kwang KOR, Johnston SCO, Brolin, Ekström, Strömberg SWE, Bengoechea,
     Fonseca URU, Caliguri, Murray USA, Dobrovolski, Protasov, Zavarov,
     Zygmantovich ZSR
@@ -1668,7 +1668,7 @@ COL: F. Maturana | Cabrera Linares, Cassiani, E.N.Garcia, Guerrero Paz,
 Hoyos Jaramillo, Mendoza Barrina, Pérez Morales, Villa Arango
 COS: V. Milutinović | Davis, Jaikel, L.G.Jara, Marin, M.Obando, Quesada,
 Segura
-CZE: J. Vengloą | Fieber, Hyravý, Mikloąko, Nemec, Paluch
+CZE: J. Vengloš | Fieber, Hyravý, Mikloško, Nemec, Paluch
 EGY: M. El Duhary | Eid, El Batam, Kasem, Maihoub, Shawky, Taher
 EMI: C. A. Parreira | A.M.Abdullah, F.A.Abudllah, Ali, A.H.Mohammed,
 H.S.Mubarak, M.G.Mubarak
@@ -1679,7 +1679,7 @@ GER: F. Beckenbauer | Aumann, Hermann, Köpke, Mill, Steiner
 HOL: L. Beenhakker | Blind, Hiele, Menzo, Roy
 IRL: J. Charlton | Byrne, Hughton, D.Kelly, Peyton, Slaven, Stapleton
 ITA: A. Vicini | Mancini, Marocchi, Pagliuca, Tacconi
-JUG: I. Osim | Bokąić, Leković, Omerović, Panadić, ©uker
+JUG: I. Osim | Bokšić, Leković, Omerović, Panadić, Šuker
 KOR: Lee Hoe-taik | Jeong Gi-dong, Kim Poong-jo, Leo Sang-yoon
 ROM: E. Jenei | Cămătaru, Liliac, Muşnai, A.Popescu, Săndoi, Stelea
 SCO: A. Roxburgh | Collins, Goram, Gunn, McAllister

@@ -620,7 +620,7 @@ JUG - IRN 1:0 (0:0)
 (+38000) Tejada PER, Powell JAM, Pocięgiel POL
 
 JUG: Kralj - Mirković, Djorović, Jokanović, Brnović (50 Stanković) -
-Jugović, Petrović, Miloąević (85 Ognjenović), Mijatović - Stojković (c - 68
+Jugović, Petrović, Milošević (85 Ognjenović), Mijatović - Stojković (c - 68
 Kovačević), Mihajlović
 IRN: Nakisa - Mahdavi, Khakpour, Estili, Khani (c) - Zanricheh,
 Pashazadeh, Minavand, Daei - Bagheri, Azizi
@@ -712,7 +712,7 @@ JUG - USA 1:0 (1:0)
 
 JUG: Kralj - Djorović, Komljenović, Petrović, Jokanović - Jugović,
 Stojković (c - 62 Savićević), Mihajlović, Stanković (55 Brnović) - Mijatović
-(31 Ognjenović), Miloąević
+(31 Ognjenović), Milošević
 USA: Friedel - Regis, Hejduk (64 Wynalda), Dooley (c - 82 Balboa),
 Burns - Jones, Reyna, Maisonneuve, Moore (58 Radovsavljevic) - McBride,
 Stewart
@@ -864,14 +864,14 @@ CRO - JAM 3:1 (1:1)
 
 (~38000) Melo Pereira POR, Grigorescu ROM, Poudevigne FRA
 
-CRO: Ladić - ©timac, Bilić, Asanović, Soldo - Prosinečki, Stanić,
-©imić (74 Vlaović), Jarni - ©uker, Boban (c)
+CRO: Ladić - Štimac, Bilić, Asanović, Soldo - Prosinečki, Stanić,
+Šimić (74 Vlaović), Jarni - Šuker, Boban (c)
 JAM: Barrett (c) - Simpson, Cargill (69 Powell), Whitmore, Goodison -
 Earle (74 Williams), Gardner, Lowe, Sinclair - Burton, Hall (81 Boyd)
 
-1:0 Stanić 27, 1:1 Earle 45, 2:1 Prosinečki 53, 3:1 ©uker 69
+1:0 Stanić 27, 1:1 Earle 45, 2:1 Prosinečki 53, 3:1 Šuker 69
 
-booked: Soldo, ©imić / Burton
+booked: Soldo, Šimić / Burton
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
@@ -881,13 +881,13 @@ CRO - JAP 1:0 (0:0)
 
 (+39000) Rhamdhan TRI
 
-CRO: Ladić - Soldo, Bilić, ©timac (46 Vlaović) - ©imić, Prosinečki (67
-Marić), Asanović, Jurčić, Jarni - Stanić (88 Tudor), ©uker (c)
+CRO: Ladić - Soldo, Bilić, Štimac (46 Vlaović) - Šimić, Prosinečki (67
+Marić), Asanović, Jurčić, Jarni - Stanić (88 Tudor), Šuker (c)
 JAP: Kawaguchi - Ihara (c), Nakanishi, Akita, Narahashi (79
 Morishima) - Nakata, Nanami (84 Lopes), Yamaguchi, Soma - Jo, Nakayama
 (61 Okano)
 
-1:0 ©uker 77
+1:0 Šuker 77
 
 booked: Prosinečki, Stanić / Nanami, Nakamishi, Akita
 
@@ -920,8 +920,8 @@ ARG - CRO 1:0 (1:0)
 
 ARG: Roa - Ayala, Vivas, Paz - Zanetti (68 Simeone), Almeyda, Pineda,
 Veron - Ortega (53 Lopez), Gallardo (81 Berti), Batistuta (c)
-CRO: Ladić - Soldo, Bilić, ©imić - Marić (46 Vlaović), Prosinečki (68
-©timac), Asanović, Boban (c), Jarni - Stanić, Suker
+CRO: Ladić - Soldo, Bilić, Šimić - Marić (46 Vlaović), Prosinečki (68
+Štimac), Asanović, Boban (c), Jarni - Stanić, Suker
 
 1:0 Pineda 34
 
@@ -1065,13 +1065,13 @@ CRO - ROM 1:0 (1:0)
 
 (~35000) Castrilli ARG, Pinto Filho BRA, Rossi ARG
 
-CRO: Ladić - ©timac, Bilić, ©imić - Stanić (83 Tudor), Asanović,
-Jurčić, Boban (c), Jarni - Vlaović (77 Krpan), ©uker
+CRO: Ladić - Štimac, Bilić, Šimić - Stanić (83 Tudor), Asanović,
+Jurčić, Boban (c), Jarni - Vlaović (77 Krpan), Šuker
 ROM: Stelea - Gh.Popescu, Ciobotariu, Filipescu - Hagi (c - 57
 Craioveanu), Petrescu (76 Marinescu), Gab.Popescu (61 Niculescu), Galca,
 Munteanu - A.Ilie, Moldovan.
 
-1:0 ©uker 45 p (penalty was repeated)
+1:0 Šuker 45 p (penalty was repeated)
 
 booked: Boban, Bilić / Gh.Popescu, Petrescu, A.Ilie
 
@@ -1163,14 +1163,14 @@ CRO - GER 3:0 (1:0)
 
 (~44000) Pedersen NOR, van den Broeck BEL, Nilsson SWE
 
-CRO: Ladić - ©timac, Bilić, ©imić - Stanić, Soldo, Jarni, Boban,
-Asanović - ©uker, Vlaović (83 Marić)
+CRO: Ladić - Štimac, Bilić, Šimić - Stanić, Soldo, Jarni, Boban,
+Asanović - Šuker, Vlaović (83 Marić)
 GER: Köpke - Wörns, Matthäus, Kohler - Heinrich, Jeremies, Häßler
 (69 Kirsten), Hamann (79 Marschall), Tarnat - Klinsmann (c), Bierhoff
 
-1:0 Jarni 45, 2:0 Vlaović 80, 3:0 ©uker 85
+1:0 Jarni 45, 2:0 Vlaović 80, 3:0 Šuker 85
 
-booked: ©imić, Stanić, ©uker / Heinrich, Tarnat
+booked: Šimić, Stanić, Šuker / Heinrich, Tarnat
 sent off: Wörns (40)
 
 == Semifinals  ‹§2fin›
@@ -1206,12 +1206,12 @@ FRA - CRO 2:1 (0:0)
 FRA: Barthéz - Thuram, Blanc, Desailly, Lizarazu - Karembeu (31 Henry),
 Djorkaeff (77 Leboeuf), Deschamps (c), Zidane - Petit, Guivarc'h (68
 Trézeguet)
-CRO: Ladić - ©timac, Bilić, Soldo, Jarni - Stanić (89 Prosinečki),
-©imić, Asanović, Boban (c - 66 Marić) - ©uker, Vlaović
+CRO: Ladić - Štimac, Bilić, Soldo, Jarni - Stanić (89 Prosinečki),
+Šimić, Asanović, Boban (c - 66 Marić) - Šuker, Vlaović
 
-0:1 ©uker 46, 1:1 Thuram 47, 2:1 Thuram 69
+0:1 Šuker 46, 1:1 Thuram 47, 2:1 Thuram 69
 
-booked: Asanović, Stanić, ©imić
+booked: Asanović, Stanić, Šimić
 sent off: Blanc (73)
 
 == Third place match  ‹§3place›
@@ -1222,14 +1222,14 @@ CRO - HOL 2:1 (2:1)
 
 (-46000) González PAR, Zammit MLT, Fred VAN
 
-CRO: Ladić - Bilić, Soldo, ©timac, Stanić - Boban (c - 77 Vlaović),
-Jarni, Prosinečki (85 Tudor), Asanović - Jurčić, ©uker
+CRO: Ladić - Bilić, Soldo, Štimac, Stanić - Boban (c - 77 Vlaović),
+Jarni, Prosinečki (85 Tudor), Asanović - Jurčić, Šuker
 HOL: van der Sar - Stam, Numan, F.de Boer (c), Davids - Jonk, Cocu (46
 Overmars), Seedorf - Kluivert, Bergkamp (57 van Hooijdonk), Zenden
 
-1:0 Prosinečki 13, 1:1 Zenden 21, 2:1 ©uker 35
+1:0 Prosinečki 13, 1:1 Zenden 21, 2:1 Šuker 35
 
-booked: ©timac, Stanić, Jurčić, Asanović / Davids, Bergkamp
+booked: Štimac, Stanić, Jurčić, Asanović / Davids, Bergkamp
 
 == Final  ‹§fin›
 
@@ -2124,7 +2124,7 @@ Coach: Slobodan Santrač (Yugoslavia).
 
 == Scorers' list  ‹§scorers›
 
-6 - ©uker CRO
+6 - Šuker CRO
 5 - Batistuta ARG, Vieri iTA
 4 - Ronaldo BRA, Salas CHI, Hernández MEX
 3 - Bebeto, C.Sampaio, Rivaldo BRA, Henry FRA, Bergkamp HOL, Bierhoff,
@@ -2165,7 +2165,7 @@ CAN: C. le Roy | Abanda, Andem, Boukar, Eklanga
 CHI: N. L. Acosta | Barrera, Musrri, M.Ramirez, Tejas
 COL: H. Gómez Jaramillo | Calebo, I.Cordoba, O.Cordoba, Estrada, J.
 Pérez
-CRO: M. Blaľević | Jurić, Kozniku, Mamič, Mrmič, Serić, Vasili
+CRO: M. Blažević | Jurić, Kozniku, Mamič, Mrmič, Serić, Vasili
 DAN: B. Johansson | Goldbæk, Henrikssen, Kjar, Krøgh
 ENG: G. Hoddle | L.Ferdinand, R.Ferdinand, Flowers, Keown, Martyn
 ESP: J. Clemente | Aranzabal, Cañizares, Molina

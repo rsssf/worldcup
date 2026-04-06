@@ -49,7 +49,7 @@ NIR - CZE 1:0 (1:0)
 
 NIR: Gregg - Keith, McMichael, Blanchflower (c) - Cunningham, Peacock -
 Bingham, Cush, Dougan, McIlroy, McParland
-CZE: Dolejąi - Mráz, Novák (c), Pluskal - Čadek, Masopust - Hovorka, Dvořak,
+CZE: Dolejši - Mráz, Novák (c), Pluskal - Čadek, Masopust - Hovorka, Dvořak,
 Borovička, Hertl, Kraus
 
 1:0 Cush 20
@@ -94,7 +94,7 @@ GER - CZE 2:2 (0:2)
 
 GER: Herkenrath - Stollenwerk, Juskowiak, Schnellinger - Erhardt, Szymaniak -
 Rahn, F.Walter, Seeler, Klodt, Schäfer (c)
-CZE: Dolejąi - Mráz, Novák (c), Pluskál - Popluhar, Masopust - Hovorka, Dvořák,
+CZE: Dolejši - Mráz, Novák (c), Pluskál - Popluhar, Masopust - Hovorka, Dvořák,
 Molnár, Feureisl, Zikán
 
 0:1 Dvořák 24 p, 0:2 Zikan 42, 1:2 Schäfer 60, 2:2 Rahn 70
@@ -120,7 +120,7 @@ CZE - ARG 6:1 (3:0)
 
 (~16000) Ellis ENG, Leafe ENG, Seipelt AUT
 
-CZE: Dolejąi - Mráz, Novák (c), Popluhár - Masopust, Hovorka - Dvořák,
+CZE: Dolejši - Mráz, Novák (c), Popluhár - Masopust, Hovorka - Dvořák,
 Borovička, Molnár, Feureisl, Zikán
 ARG: Carrizo - Lombardo, Vairo, Rossi - Dellacha (c), Varacka - Corbatta,
 Avio, Menéndez, Labruna, Cruz
@@ -141,7 +141,7 @@ NIR - CZE 2:1 (1:1)
 
 NIR: Uprichard - Keith, McMichael, Blanchflower (c) - Cunningham, Peacock -
 Bingham, Cush, Scott, McIlroy, McParland
-CZE: Dolejąi - Mráz, Novák (c), Bubernik - Popluhár, Masopust - Zikán, Dvořák,
+CZE: Dolejši - Mráz, Novák (c), Bubernik - Popluhár, Masopust - Zikán, Dvořák,
 Borovička, Feureisl, Molnár
 
 0:1 Zikán 19 h, 1:1 McParland 44, McParland 99
@@ -158,8 +158,8 @@ SCO - JUG 1:1 (0:1)
 
 SCO: Younger (c) - Caldow, Hewie, Turnbull - Evans, Cowie - Leggat, Murray
 Mudie, Collins, Imlach
-JUG: Beara - ©ijaković, Crnković, Krstić - Zebec (c), Boskov - Petaković,
-Veselinović, Milutinović, ©ekularac, Rajkov
+JUG: Beara - Šijaković, Crnković, Krstić - Zebec (c), Boskov - Petaković,
+Veselinović, Milutinović, Šekularac, Rajkov
 
 0:1 Petaković 13, 1:1 Murray 48
 
@@ -204,7 +204,7 @@ JUG - FRA 3:2 (1:1)
 (+12000) Griffiths WAL, Dragvoli NOR, Wyssling SUI
 
 JUG: Beara - Tomić, Crnković, Krstić - Zebec (c), Boskov - Petaković,
-Veselinović, Milutinović, ©ekularac, Rajkov
+Veselinović, Milutinović, Šekularac, Rajkov
 FRA: Remetter - Kaelbel, Lerond, Penverne - Jonquet (c), Marche - Wisnieski,
 Fontaine, Kopa, Piantoni, Vincent
 
@@ -237,7 +237,7 @@ PAR - JUG 3:3 (1:2)
 PAR: Aguilar - Arevalo, Echague, Achucaro - Lezcano, Villalba - Aguero (c),
 Parodi, Romero, Re, Amarilla
 JUG: Beara - Tomić, Crnković, Krstić - Zebec (c), Boskov - Petaković,
-Veselinović, Ognjanović, ©ekularac, Rajkov
+Veselinović, Ognjanović, Šekularac, Rajkov
 
 0:1 Ognjanović 12, 1:1 Parodi 21, 1:2 Veselinović 29, 2:2 Aguero 49, 2:3 Rajkov
 74, 3:3 Romero 90
@@ -270,7 +270,7 @@ NOTE: Match preceded by WC opening ceremony
 
 HUN - WAL 1:1 (1:1)
 
-(+15000) Codesal URU, Lemeąić JUG, van Nuffel BEL
+(+15000) Codesal URU, Lemešić JUG, van Nuffel BEL
 
 HUN: Grosics - Matrái, Sárosi, Bozsik - Sipos, Berendi - Sándor,
 Hidegkuti (c), Tichy, Bundzsák, Fenyvesi
@@ -285,7 +285,7 @@ Medwin, J.Charles, Allchurch, Jones
 
 MEX - WAL 1:1 (0:1)
 
-(+15000) Lemeąić JUG, Codesal URU, Latichev ZSR
+(+15000) Lemešić JUG, Codesal URU, Latichev ZSR
 
 MEX: Carbajal - del Muro, Cárdenas (c), Belmonte - Romo, Flóres - González,
 Reyes, Blanco, Gutiérrez, Sesma
@@ -315,7 +315,7 @@ Tichy, Bundzsák, Fenyvesi
 
 SWE - WAL 0:0
 
-(+29000) van Nuffel BEL, Latichev ZSR, Lemeąić JUG
+(+29000) van Nuffel BEL, Latichev ZSR, Lemešić JUG
 
 SWE: Svensson - Bergmark, Axbom, Börjesson - Gustavsson (c), Parling -
 Berndtsson, Selmonsson, Källgren, Löfgren, Skoglund
@@ -618,7 +618,7 @@ AUT: J. Argauer, J. Molzer | Berschandt, Dienst, Engelmeier, Hammerl,
 Ninaus, Puschnik
 BRA: V. I. Feola, P. L. Amaral | de Castilho, Calazana, Mauro, de
 Oliveira, Oreco, Pepé, Claudio Pinto
-CZE: K. Kolský | Gajdas, Moravčik, ©afránek, Scherer, Schrojf, Staco
+CZE: K. Kolský | Gajdas, Moravčik, Šafránek, Scherer, Schrojf, Staco
 ENG: W. Winterbottom, H. Shepherdson, J. Mears | R. Charlton, Hodgkinson,
 Hopkinson, Norman, Setters, Siller, Smith
 FRA: F. Nicolas, A. Batteux, J. Snella, A. Thépot | Bellot, Bruey,
@@ -627,8 +627,8 @@ GER: J. Herberger, H. Schön, G. Gawliczek | Hoffmann, Nuber, Peters,
 Sawitski
 HUN: L. Baróti, K. Soos | Friedmanszky, Kárpáti, Lachos, Monostori,
 Szigeti, Vasas
-JUG: A. Tirnanić, S. Miloąević | Irović, Jerković, Lipoąinović,
-Milutinović, Paąić, Popović, Radović, ©antek
+JUG: A. Tirnanić, S. Milošević | Irović, Jerković, Lipošinović,
+Milutinović, Pašić, Popović, Radović, Šantek
 MEX: A. López Herrans, J. Trelles Campos (A. Obregon, G.J. Cañedo,
 E. Evheverria) | Camacho-Melendez, Gómez-Munquia, López-Altamirano, Roca,
 Salazar-Gutierrez

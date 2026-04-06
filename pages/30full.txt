@@ -142,7 +142,7 @@ JUG - BRA 2:1 (2:0)
 
 (~20000) Tejada URU, Vallarino URU, Balway FRA
 
-JUG: Jakąić - Ivković (c), Mihajlović - Arsenijević, Stevanović,
+JUG: Jakšić - Ivković (c), Mihajlović - Arsenijević, Stevanović,
 Djokić - Tirnanić, Marjanović, Bek, Vujadinović, Sekulić
 BRA: Joel - Brilhante, Itália - Hermógenes, Fausto, Fernando -
 Poly, Nilo, Arakén, Preguinho (c), Pereira
@@ -157,7 +157,7 @@ JUG - BOL 4:0 (0:0)
 
 (~20000) Matteucci URU, Lombardi URU, Wernken CHI
 
-JUG: Jakąić - Ivković (c), Mihajlović - Arsenijević, Stevanović,
+JUG: Jakšić - Ivković (c), Mihajlović - Arsenijević, Stevanović,
 Djokić - Tirnanić, Marjanović, Bek, Vujadinović, Najdanović
 BOL: Bermùdes - Durandal, Chavarria - Argote, Lara,
 Balderrama - Gómez, Bustamante, Mendéz (c), Alborta, Férnandez
@@ -315,7 +315,7 @@ URU - JUG 6:1 (3:1)
 
 URU: Ballestero - Mascheroni, Nasazzi (c) - Andrade, Fernández, Gestido -
 Dorado, Scarone, Anselmo, Cea, Iriarte.
-JUG: Jakąić - Ivković (c), Mihajlović - Arsenijević, Stevanović,
+JUG: Jakšić - Ivković (c), Mihajlović - Arsenijević, Stevanović,
 Djokić - Tirnanić, Marjanović, Bek, Vujadinović, Sekulić
 
 0:1 Vujadinović 4, 1:1 Cea 19, 2:1 Anselmo 21 h, 3:1 Anselmo 23, 4:1 Iriarte
@@ -377,7 +377,7 @@ BRA: F. Rodriguez | Benvenuto, Costa, Doca, de Figuelrado, Fortes
 Filho, Manuelzinho
 CHI: G. Orth | Coddon, Espinoza, Muñoz
 ‹FRA, see page ../tablesf/fran-wktrip30›: R. Caudron* | Andoire, J.Laurent, Tassin
-‹JUG, see page ../tablesj/joeg-wktrip30›: B. Simonović | Hrnijiček, Petković, Spasojević, Stojanović, Toąić
+‹JUG, see page ../tablesj/joeg-wktrip30›: B. Simonović | Hrnijiček, Petković, Spasojević, Stojanović, Tošić
 MEX: J. Luque** | Castro Aguirol
 PAR: J. Durand Laguna | Carreras Saguier, Chamorro, Florentin, Ortega,
 Rivera Núñez, Vilalba

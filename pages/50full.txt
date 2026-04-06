@@ -56,12 +56,12 @@ JUG - SUI 3:0 (2:0)
 
 (~8000) Galeati ITA, Datillo ITA, Eklind SWE
 
-JUG: Mrkuąić - I.Horvat, B.Stanković, Zl.Čajkovski - M.Jovanović, Djajić -
-Ognjanov, Mitić (c), K.Tomaąević, Bobek, Vukas
+JUG: Mrkušić - I.Horvat, B.Stanković, Zl.Čajkovski - M.Jovanović, Djajić -
+Ognjanov, Mitić (c), K.Tomašević, Bobek, Vukas
 SUI: Stuber - Neury, Bocquet, Lusenti - Eggimann, Quinche - Bickel (c),
 Antenen, Tamini, Bader, Fatton
 
-1:0 Mitić 60, 2:0 Tomaąević 70 h, 3:0 Ognjanov 76
+1:0 Mitić 60, 2:0 Tomašević 70 h, 3:0 Ognjanov 76
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
@@ -86,12 +86,12 @@ Friedländer, Tamini, Bader, Fatton
 
 JUG - MEX 4:1 (2:0)
 
-JUG: Mrkuąić - I.Horvat (c), B.Stanković, Zl.Čajkovski - M.Jovanović, Djajić -
-P.Mihajlović, Mitić, K.Tomaąević, Bobek, ®.Čajkovski
+JUG: Mrkušić - I.Horvat (c), B.Stanković, Zl.Čajkovski - M.Jovanović, Djajić -
+P.Mihajlović, Mitić, K.Tomašević, Bobek, Ž.Čajkovski
 MEX: Carbajal - Gutierrez, Gomez, Ruiz - Ochoa, Flores - Naranjo, Ortiz,
 Casarin (c), Peréz, Velasquez
 
-1:0 Bobek 20, 2:0 ®.Čajkovski 23. 3:0 ®.Čajkovski 51. 4:0 Tomaąsević 80, 4:1
+1:0 Bobek 20, 2:0 Ž.Čajkovski 23. 3:0 Ž.Čajkovski 51. 4:0 Tomašsević 80, 4:1
 Ortiz
  89 p
 
@@ -105,8 +105,8 @@ BRA - JUG 2:0 (1:0)
 
 BRA: Barbosa - Augusto (c), Juvenal - Bauer, Danilo, Bigode - Maneca, Ademir,
 Jair, Zizinho, Chico
-JUG: Mrkuąić - I.Horvat, B.Stanković, Zl.Čajkovski (c) - M.Jovanović, Djajić -
-Vukas, Mitić, K.Tomaąević, Bobek, ®.Čajkovski
+JUG: Mrkušić - I.Horvat, B.Stanković, Zl.Čajkovski (c) - M.Jovanović, Djajić -
+Vukas, Mitić, K.Tomašević, Bobek, Ž.Čajkovski
 
 1:0 Ademir 4 h, 2:0 Zizinho 89
 
@@ -254,7 +254,7 @@ Muccinelli 78
 
 SWE - PAR 2:2 (2:1)
 
-(-8000) Mitchell SCO, Lameąić JUG, Garcia USA
+(-8000) Mitchell SCO, Lamešić JUG, Garcia USA
 
 SWE: Svensson - Samuelsson, E.Nilsson (c), Andersson - Nordahl, Gärd -
 Sundqvist, Palmer, Jeppson, Skoglund, Jönsson
@@ -288,7 +288,7 @@ Lopez, Jara, López Fretes (c), Unzain
 
 URU - BOL 8:0 (4:0)
 
-(+5000) Reader ENG, Viana BRA, Lameąić JUG
+(+5000) Reader ENG, Viana BRA, Lamešić JUG
 
 URU: Máspoli - M.Gonzáles, Tejera, J.C.Gonzáles - Varela (c), Andrade -
 Ghiggia, Peréz, Miguez, Schiaffino, Vidal
@@ -411,7 +411,7 @@ Ademir. Jair, Chico
 4 - Chico BRA, Basora, Zarra ESP, Ghiggia URU
 3 - Palmer, Sundqvist SWE, Schiaffino URU
 2 - Baltazar, Jair, Zizinho BRA, Cremaschi CHI, Igoa ESP, Carapallese ITA,
-    ®.Čajkovski JUG, Fatton SUI, Andersson, Jepsson SWE, J.Souza USA
+    Ž.Čajkovski JUG, Fatton SUI, Andersson, Jepsson SWE, J.Souza USA
 1 - Alfredo, Friaça, Maneca BRA, Prieto, Riera, Robledo CHI, Mannion,
     Mortensen ENG, Muccinelli, Pandolifini ITA, Bobek,  Mitić, Ognjanov
     JUG, Casarin, Ortiz MEX, López, López Fretes PAR, Antenen, Bader SUI,
@@ -453,7 +453,7 @@ McLaughlin
 
 Youngest                  Oldest
 player      Ibánez CHI     18y224d   Matthews ENG       35y151d
-goalkeeper  Carbajal MEX   21y 17d   Mrkuąić JUG        35y 36d
+goalkeeper  Carbajal MEX   21y 17d   Mrkušić JUG        35y 36d
 scorer      Antenen SUI    20y241d   Varela URU         32y292d
 champion    Morán URU      19y344d   Varela URU         32y299d
 finalist    Morán URU      19y344d   Nilsson SWE        33y344d

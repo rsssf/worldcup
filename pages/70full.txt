@@ -261,10 +261,10 @@ BRA - CZE 4:1 (1:1)
 
 BRA: Felix - Carlos Alberto (c), Piazza (88 Fontana), Brito, Everaldo -
 Clodoaldo, Gérson (74 Paulo Cesar Lima), Jairzinho, Tostao - Pelé, Rivelino
-CZE: Viktor - Dobiáą, Migas, Horváth (c), Hagara - Hrdlička (46
-Kvaąňák), Kuna, F.Veselý (75 B.Veselý), Petráą - Adamec, Jokl
+CZE: Viktor - Dobiáš, Migas, Horváth (c), Hagara - Hrdlička (46
+Kvašňák), Kuna, F.Veselý (75 B.Veselý), Petráš - Adamec, Jokl
 
-0:1 Petráą 12, 1:1 Rivelino 24 f, 2:1 Pelé 60, 3:1 Jairzinho 64, 4:1 Jairzinho
+0:1 Petráš 12, 1:1 Rivelino 24 f, 2:1 Pelé 60, 3:1 Jairzinho 64, 4:1 Jairzinho
 83
 
 booked: Gérson, Tostão / Horváth
@@ -279,12 +279,12 @@ ROM - CZE 2:1 (0:1)
 
 ROM: Adamache - Sătmăreanu, Lupescu, Dinu, Mocanu - Dumitru (82 Ghergheli),
 Nunweiller, Dembrovschi, Neagu - Dumitrache, Lucescu (c - 70 G.Tătaru)
-CZE: Vencel - Dobiáą, Migas, Horváth (c), Zlocha - Kvaąňák, Kuna - B.Veselý,
-Petráą, Jurkanin (46 Adamec), Jokl (67 F.Veselý)
+CZE: Vencel - Dobiáš, Migas, Horváth (c), Zlocha - Kvašňák, Kuna - B.Veselý,
+Petráš, Jurkanin (46 Adamec), Jokl (67 F.Veselý)
 
-0:1 Petráą 4 h, 1:1 Neagu 53, 2:1 Dumitrache 76 p
+0:1 Petráš 4 h, 1:1 Neagu 53, 2:1 Dumitrache 76 p
 
-booked: Nunweiller / Kvaąňák
+booked: Nunweiller / Kvašňák
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
@@ -332,12 +332,12 @@ ENG - CZE 1:0 (0:0)
 
 ENG: Banks - Newton, Cooper, Mullery, J.Charlton - Moore (c), Clarke, Ball,
 R.Charlton (66 Bell) - Astle (61 Osgood), Peters
-CZE: Viktor (c) - Dobiáą, Migas, Hrivňák, Hagara - Pollák, Kuna, F.Veselý,
-Petráą - Adamec, Jokl (71 Čapkovič)
+CZE: Viktor (c) - Dobiáš, Migas, Hrivňák, Hagara - Pollák, Kuna, F.Veselý,
+Petráš - Adamec, Jokl (71 Čapkovič)
 
 1:0 Clarke 49 p
 
-booked: Dobiáą
+booked: Dobiáš
 
 1. BRA^         3  3 0 0  6  8-3
 2. ENG^         3  2 0 1  4  2-1
@@ -593,7 +593,7 @@ booked: Rivelino / Burgnich
  5 - Cubillas PER
  4 - Pelé BRA, Bischovets ZSR
  3 - Rivelino BRA, Seeler GER, Riva ITA
- 2 - Lambert, van Moer BEL, Tostão BRA, Petráą CZE, Boninsegna, Rivera ITA,
+ 2 - Lambert, van Moer BEL, Tostão BRA, Petráš CZE, Boninsegna, Rivera ITA,
      Valdivia MEX, Gallardo PER, Dumitrache ROM
  1 - Carlos Alberto, Clodoaldo, Gérson BRA, Bonev, Dzhermendiev, Kolev,
      Nikodimov, Zhechev BUL, Clarke, Hurst, Mullery, Peters ENG, Beckenbauer,
@@ -616,7 +616,7 @@ BRA: M. Zagalo (A. de Abreu Chirol, C. A. Parreira, A. de Passo) |
 Baldochi, Leão, Ado, Zé Maria, Camargo, D.J.dos Santos
 BUL: S. Bozhkov, J. Arsov | Grigorov, Kamienski (replaced injured
 Filipov)
-CZE: J. Marko, J. Hucko | Albrecht, Fleąar, Pivarnik
+CZE: J. Marko, J. Hucko | Albrecht, Flešar, Pivarnik
 ENG: A. Ramsey, L. Cocker, R. Shepherdson | Hughes, Stepney, Stiles
 GER: H. Schön, J. Derwall | Dietrich, Manglitz, Sieloff
 ISR: E. Schaffer, A. Levkovitch, A. Mitchan | Ben-Rimos, Borba, Chazom,

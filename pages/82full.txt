@@ -386,7 +386,7 @@ CZE - KUW 1:1 (1:0)
 
 (~25000) Dwomoh GHA, Valentine SCO, Méndez GUA
 
-CZE: Hruąka - Barmoą, Jurkemik, Fiala, Kukučka - Panenka, Berger, Křiľ
+CZE: Hruška - Barmoš, Jurkemik, Fiala, Kukučka - Panenka, Berger, Křiž
 (62 Bičovský), Janečka (68 Petřela) - Nehoda (c), Vizek
 KUW: Al Tarabulsi - Naeem Saed, Ma'Yoof, Mubarak, Jasem - Al Buloushi,
 Al Houti (c), Ahmed Karam (57 Marzouq), Al Anbari - Yaqoub, Al Dakheel
@@ -403,10 +403,10 @@ ENG - CZE 2:0 (0:0)
 
 ENG: Shilton - Butcher, Mills (c), Sansom, Thompson - Coppell, Robson
 (46 Hoddle), Wilkins, Francis - Mariner, Rix
-CZE: Seman (75 Stromąik) - Barmoą, Jurkemik, Fiala, Radimec - Chaloupka,
+CZE: Seman (75 Stromšik) - Barmoš, Jurkemik, Fiala, Radimec - Chaloupka,
 Berger, Vojáček, Janečka (77 Masný) - Nehoda (c), Vizek
 
-1:0 Francis 62, 2:0 Barmoą 66 o
+1:0 Francis 62, 2:0 Barmoš 66 o
 
 booked: Chaloupka
 
@@ -437,7 +437,7 @@ CZE - FRA 1:1 (0:0)
 
 (~25000) Casarin ITA, Palotai HUN, Dwomoh GHA
 
-CZE: Stromąik - Barmoą, Křiľ (31 Masný), Fiala, Radimec - Stambacher,
+CZE: Stromšik - Barmoš, Křiž (31 Masný), Fiala, Radimec - Stambacher,
 Bičovský, Vojáček, Janečka (71 Panenka) - Nehoda (c), Vizek
 FRA: Ettori - Amoros, Bossis, Trésor, Janvion - Genghini, Giresse, Six,
 Platini (c) - Lacombe (70 Couriol), Soler (89 Girard)
@@ -496,8 +496,8 @@ NIR - JUG 0:0
 
 NIR: Jennings - J.Nicholl, C.Nicholl, McClelland, Donaghy - McIlroy,
 M.O'Neill (c), McCreery, Armstrong - Hamilton, Whiteside
-JUG: Pantelić - Zajec, Jovanović, Stojković, Hrstić - ©ljivo, Gudelj,
-©urjak (c), Petrović - Zl.Vujović, Suąić
+JUG: Pantelić - Zajec, Jovanović, Stojković, Hrstić - Šljivo, Gudelj,
+Šurjak (c), Petrović - Zl.Vujović, Sušić
 
 booked: Whiteside
 
@@ -511,8 +511,8 @@ ESP - JUG 2:1 (1:1)
 
 ESP: Arconada (c) - Camacho, Tendillo, Alexanco, Gordillo - Sánchez
 (62 Saura), Alonso, Zamora, Juanito - Satrustegui (62 Quini), López Ufarte
-JUG: Pantelić - Zajec, Jovanović (74 Halilhodľić), Stojković - Krmpotić,
-©lijvo, Gudelj, ©urjak (c), Petrović - Zl.Vujović (83 ©estić), Suąić
+JUG: Pantelić - Zajec, Jovanović (74 Halilhodžić), Stojković - Krmpotić,
+Šlijvo, Gudelj, Šurjak (c), Petrović - Zl.Vujović (83 Šestić), Sušić
 
 0:1 Gudelj 10 h, 1:1 Juanito 14 p, 2:1 Saura 66 (14 López Ufarte missed penalty,
 which was repeated)
@@ -543,8 +543,8 @@ JUG - HON 1:0 (0:0)
 
 (~25000) Castro CHI, Silva COS, Ithurralde ARG
 
-JUG: Pantelić - Zajec, Jovanović (64 Halihodľić), Stojković - Krmpotić,
-Slijvo, Gudelj, ©urjak (c) - Petrović, Zl.Vujović (63 ©estić), Suąić
+JUG: Pantelić - Zajec, Jovanović (64 Halihodžić), Stojković - Krmpotić,
+Slijvo, Gudelj, Šurjak (c) - Petrović, Zl.Vujović (63 Šestić), Sušić
 HON: Arzu - Drummond, Villegas, Costly, José Cruz (65 Laing) -
 Maradiaga (c), Yearwood, Zelaya, Bulnes - Betancourt, R.Figueroa
 
@@ -992,7 +992,7 @@ booked: Conti, Oriali / Dremmler, Littbarski, Stielike
     Kupcewicz, Lato, Majewski, Smolarek, Szarmach POL, Ramirez SAL, Archibald,
     Dalglish, Jordan, Narey, Robertson, Souness SCO, Bal, Baltacha, Blokhin,
     Chivadze, Gavrilov, Oganesian, Shengelia ZSR
-own goals - 1 (Barmoą CZE for ENG)
+own goals - 1 (Barmoš CZE for ENG)
 
 In total 146 goals (8 p, 7 f, 21 h, 1 o), 2,81 per match. Most goals FRA (16 -
 10 players scored, which is a record). No team without goals. 99 players
@@ -1016,7 +1016,7 @@ CAM: J. Vincent | Bell, Ebongue, Enanga, Enoka, Eyobo Makonga, Kamga,
 N'Doumbe Lea, Toube, Tschobang
 CHI: L. Santibáñez, G. Ortlieb, G. Cornejo | Cornez, Escobar, Ormaño,
 Rivas, Rojas, Wirth
-CZE: J. Vengloą, F. Havranek | Jakubec, Kozak
+CZE: J. Vengloš, F. Havranek | Jakubec, Kozak
 ENG: R. Greenwood, D. Howe, G. C. Hurst | Anderson, Clemence, Durrigan,
 McDermott, Withe
 ESP: J. E. Santamaria, L. Suárez-Miramontes | Jiménez, González-Suárez,
@@ -1030,7 +1030,7 @@ HUN: E. Mészöly, G. Mesey | Bodonyi, Caspó, Csuhay, Katzirz, I.Kiss
 ITA: E. Bearzot, A. Vicini, C. Maldini | F.Baresi, Bordon, Dossena,
 Galli, Massaro, Selvaggi, Vierchowood
 JUG: M. Miljanić, D. Jerković, I. Pantelić, I. Toplak | Deverić, J.
-Jerković, Jerolimov, Paąić, Pudar, Svilar, Z.Vujović, ®ivković
+Jerković, Jerolimov, Pašić, Pudar, Svilar, Z.Vujović, Živković
 KUW: C. A. Parreira, A. de Abreu Chirol | Al Ahmed, Al Bouloushi-
 Mohammed, Al Ghanan, Al Hashash, Al Issa, Al Quanedi, Rahman, Rehayyen Allen
 NIR: W. L. Bingham, R. Peacock, M. Harvey | Campbell, Cleary, Dunlop,

@@ -49,7 +49,7 @@ JUG - FRA 1:0 (1:0)
 
 (~16000) Griffiths WAL, Asensi ESP, Baumberger SUI
 
-JUG: Beara - B.Stanković, Crnković, ®l.Čajkovski - I.Horvat, Boąkov -
+JUG: Beara - B.Stanković, Crnković, Žl.Čajkovski - I.Horvat, Boškov -
 Milutinović, Mitić, Vukas, Bobek (c), Zebec
 FRA: Remetter - Gianessi, Kaelbel, Penverne - Jonquet (c), Marcel - Kopa,
 Glovacki, Strappe, Dereuddre, Vincent
@@ -221,8 +221,8 @@ URU - CZE 2:0 (0:0)
 
 URU: Maspoli - Santamaria, Martinez, Andrade - Varela (c), Cruz - Abbadie,
 Ambrois, Miguez, Schiaffino, Borges
-CZE: Reimann - ©afránek, Novák (c), Trnka - Hledik, Hertl - Hlaváček, Hemele,
-Kačáni, Paľický, Peąek
+CZE: Reimann - Šafránek, Novák (c), Trnka - Hledik, Hertl - Hlaváček, Hemele,
+Kačáni, Pažický, Pešek
 
 1:0 Miguez 70 h, 2:0 Schiaffino 84 f
 
@@ -236,8 +236,8 @@ AUT - CZE 5:0 (4:0)
 
 AUT: Schmied - Hanappi, Barschandt, Ocwirk (c) - Happel, Koller -
 R.Körner, Wagner, Stojaspal, Probst, A.Körner
-CZE: Stacho - ©afránek, Novák (c), Trnka - Pluskal, Hertl - Hlaváček, Hemele,
-Kačáni, Paľický, Kraus
+CZE: Stacho - Šafránek, Novák (c), Trnka - Pluskal, Hertl - Hlaváček, Hemele,
+Kačáni, Pažický, Kraus
 
 1:0 Stojaspal 3, 2:0 Probst 4, 3:0 Probst 21, 4:0 Probst 24, 5:0 Stojaspal 65
 
@@ -508,7 +508,7 @@ van der Linden, van Royweghen, van Steen, Vliers
 BRA: Zezé Moreira, L. Vinhais, A. Carvello | Alfredo de Oliveira,
 Cabação, Dequinha, Ely do Amparo, Paulinho, Rubens, W.dos Santos,
 Velludo
-CZE: K. Borby, J. Cajp, O. Nejedlý | Benediković, Gajdaą, Koąnar,
+CZE: K. Borby, J. Cajp, O. Nejedlý | Benediković, Gajdaš, Košnar,
 Krásnoborsky, Majer, Malatinský, Procháska, Schrojf
 ENG: W. Winterbottom, J. Trotter | Armstrong, Burgin, Chillion, Green,
 Haynes, Hooper Jr., Jazzard, Quizzali
@@ -519,7 +519,7 @@ HUN: G. Sebes (G. Mandi, M. Bukovi, J. Kalmar, G. Kalocsay, P. Titkos) |
 Csordás, Galler, Karpati, Kovács, Machos, Várhidi **
 ITA: L. Sceisler, A. Schlavio, S. Piola | Cervato, Costagliola, Ferrario,
 Gratton, Pivatelli
-JUG: A. Tirnanić (F. Wölf, B. Peąić, L. Lemeąić, M. Ćrić) | Belin,
+JUG: A. Tirnanić (F. Wölf, B. Pešić, L. Lemešić, M. Ćrić) | Belin,
 Kralj, Mantula, Milovanov, Ognjanov, Pepec, Petaković, Spajić, Veselinović,
 Zeković
 KOR: Kim Young-sik | Han Neung-chul, Lee Sang-yi

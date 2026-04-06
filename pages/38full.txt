@@ -106,12 +106,12 @@ Leclerc FRA, Olive FRA, Sdez FRA
 
 CZE - HOL 3:0 (0:0, 0:0, 1:0)
 
-CZE: Planička (c) - Burgr, Daučik - Koątálek, Bouček, Kopecký -
-Řiha, ©imúnek, Zeman, Nejedlý, Puč
+CZE: Planička (c) - Burgr, Daučik - Koštálek, Bouček, Kopecký -
+Řiha, Šimúnek, Zeman, Nejedlý, Puč
 HOL: Van Male - Weber, Caldenhove - Paauwe, Anderiesen, Van Heel (c) -
 Wels, Van der Veen, Smit, Vente, de Harder
 
-1:0 Koątálek 93, 2:0 Zeman 111, 3:0 Nejedlý 118
+1:0 Koštálek 93, 2:0 Zeman 111, 3:0 Nejedlý 118
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
@@ -179,7 +179,7 @@ BRA - POL 6:5 (3:1, 4:4, 6:4)
 BRA: Batatais - Domingos, Machado - Zezé Procopio, Martim Silveira (c),
 Alfonsinho - Lopez, Romeu, Leónidas, Peració, Hercules
 POL: Madejski - Szczepaniak (c), Gałecki - Góra, Nyc, Dytko - Piec I,
-Pi±tek, Scherfke, Wilimowski, Wodarz
+Piątek, Scherfke, Wilimowski, Wodarz
 
 1:0 Leónidas 18, 1:1 Scherfke 23 p, 2:1 Romeu 25, 3:1 Peració 44 h, 3:2
 Wilimowski 53, 3:3 Wilimowski 59, 4:3 Peració 71, 4:4 Wilimowski 89,
@@ -243,8 +243,8 @@ BRA - CZE 1:1 (1:0, 1:1, 1:1)
 
 BRA: Walter - Domingos, Machado - Zezé Procopio, Martim Silveira (c),
 Alfonsinho - López, Romeu, Leónidas, Perácio, Hércules
-CZE: Planička (c) - Burgr, Daučik - Koątálek, Bouček, Kopecký -
-Řiha, ©imúnek, Ludl, Nejedlý, Puč.
+CZE: Planička (c) - Burgr, Daučik - Koštálek, Bouček, Kopecký -
+Řiha, Šimúnek, Ludl, Nejedlý, Puč.
 
 1:0 Leónidas 30, 1:1 Nejedlý 65 p
 
@@ -260,7 +260,7 @@ BRA - CZE 2:1 (0:1)
 
 BRA: Walter - Jau, Nariz - Britto, Brandão, Argemiro - Roberto,
 Luizinho, Leonidas (c), Tim, Patesko
-CZE: Burket - Burgr (c), Daučik - Koątálek, Bouček, Kopecký - Kreuz,
+CZE: Burket - Burgr (c), Daučik - Koštálek, Bouček, Kopecký - Kreuz,
 Horak, Ludl, Senecký, Rulc
 
 0:1 Kopecký 25, 1:1 Leónidas 57 2:1 Roberto 62
@@ -340,7 +340,7 @@ Sárosi (c), Zsengellér, Titkos
 3 - Perácio, Romeu BRA, Abegglen SUI, H.Andersson, Nyberg, Wetterström SWE
 2 - Magriñá, Socorro CUB, Nejedlý CZE, Nicolas FRA, Titkos HUN,
     Dobay ROM
-1 - Isemborghs BEL, Roberto BRA, Fernández CUB, Kopecký, Koątálek, Zeman CZE,
+1 - Isemborghs BEL, Roberto BRA, Fernández CUB, Kopecký, Koštálek, Zeman CZE,
     Heisserer, Veinante FRA, Gauchel, Hahnemann GER, Kohut, Toldi HUN,
     Ferraris, Meazza ITA, Brustad NOR, Scherfke POL, Barátky, Covaci ROM,
     Bickel, Walaschek SUI, Jonasson, Keller SWE
@@ -356,7 +356,7 @@ BEL: J. Butler | Capelle, Dalem, Smellincx, Vandewijer, Braet,
 Ceulleers, Gevena, Gommers, Henry, Nelis, Petit
 BRA: A. Pimente | Niginho
 CUB: J. Tápis, J. Gironella | Olivera
-CZE: J. Meissner, J. Sedláček | Bradáč, Kolský, Noľiř, Černy, Orth
+CZE: J. Meissner, J. Sedláček | Bradáč, Kolský, Nožiř, Černy, Orth
 FRA: G. Barreau (M. Cottenet, V. Mestre) | Ben Bouali, Bourbotte,
 Brusseaux, Courtois, Darui, Jasseron, Kowalczyk, Liense, Powolny, Vondooren,
 Zatelli
@@ -371,7 +371,7 @@ ITA: V. Pozzo, L. Burlandi | Bertoni, Ceresolli, Chizzo, Donati, Genta,
 Mazetti, Olmi, Perazzollo
 NOR: A. Halvorssen | Amundsen, H.Aldressen, G.Andressen, Gundersen,
 Hansen, Heby, Juve, Kihle, Martinsen, Nordoby, Ulleberg
-POL: J. Kałuża (manager), M. Spoida (coach), T. Fory¶ (director) |
+POL: J. Kałuża (manager), M. Spoida (coach), T. Foryś (director) |
 Baran, Brom, Cebula, Giemza, Habowski, Korbas, Lis, Łyko, Piec II, Twórz,
 Wasiewicz (‹full squad info, see §polsquad›)
 ROM: A. Săvulescu, C. Rădulescu | Braun, David, Nagy, Sfera

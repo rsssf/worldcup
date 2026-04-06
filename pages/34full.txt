@@ -36,7 +36,7 @@ drawn 3 May 1934 at Rome.
 
 ITA - USA 7:1 (3:0)
 
-(~30000) Mercet SUI, Escartin ESP, ®eniąek CZE
+(~30000) Mercet SUI, Escartin ESP, Ženišek CZE
 
 ITA: Combi - Rosetta (c), Allemandi - Pizziolo, Monti, Bertolini -
 Guarisi, Meazza, Schiavio, Ferrari, Orsi
@@ -54,7 +54,7 @@ CZE - ROM 2:1 (0:1)
 
 (+8000) Langenus BEL, Scarpi ITA, Scorzoni ITA
 
-CZE: Plánička (c) - ®eniąek, Čtyroký - Koątálek, Čambal, Krcil -
+CZE: Plánička (c) - Ženišek, Čtyroký - Koštálek, Čambal, Krcil -
 Junek, Silný, Sobotka, Nejedlý, Puč
 ROM: Zombory - Vogl (c), Albu - Deheleanu, Cotormani, Moraveţ -
 Bindea, Covaci, Sepi, Bodola, Dobai
@@ -194,7 +194,7 @@ sent off: Markos (80)
 
 ITA - ESP 1:1 (0:1, 1:1, 1:1)
 
-(~35000) Baert BEL, Ivanciscs HUN, ®eniąek CZE
+(~35000) Baert BEL, Ivanciscs HUN, Ženišek CZE
 
 ITA: Combi (c) - Monzeglio, Allemandi - Pizziolo, Monti, Castellazzi -
 Guaita, Meazza, Schiavio, Ferrari, Orsi
@@ -207,7 +207,7 @@ NOTE: This match was replayed
 
 01.06.34  Florence, Stadio Giovanni Berta (replay)
 
-(~45000) Mercet SUI, Ivanciscs HUN, ®eniąek CZE
+(~45000) Mercet SUI, Ivanciscs HUN, Ženišek CZE
 
 ITA - ESP 1:0 (1:0)
 
@@ -226,7 +226,7 @@ Ventolrá, Regueiro, Campanal, Chacho, Bosch
 
 CZE - SUI 3:2 (1:1)
 
-CZE: Planička (c) - ®eniąek, Čtyroký - Koątálek, Čambal, Krcil - Junek,
+CZE: Planička (c) - Ženišek, Čtyroký - Koštálek, Čambal, Krcil - Junek,
 Svoboda, Sobotka, Nejedlý, Puč
 SUI: Séchehaye - Minelli (c), Weiler - Guinchard, Jaccard, Hufschmid -
 von Känel, Jäggi, Kielholz, Abegglen III, Jaeck.
@@ -240,7 +240,7 @@ von Känel, Jäggi, Kielholz, Abegglen III, Jaeck.
 
 ITA - AUT 1:0 (0:0)
 
-(~60000) Eklind SWE, Baert BEL, ®eniąek CZE
+(~60000) Eklind SWE, Baert BEL, Ženišek CZE
 
 ITA: Combi (c) - Monzeglio, Allemandi - Ferraris, Monti, Bertolini -
 Guaita, Meazza, Schiavio, Ferrari, Orsi
@@ -257,7 +257,7 @@ CZE - GER 3:1 (1:0)
 
 (~10000) Barlassina ITA, Beranek AUT, Escartin ESP
 
-CZE: Planička (c) - Burgr, Čtyroký - Koątálek, Čambal, Krcil - Junek,
+CZE: Planička (c) - Burgr, Čtyroký - Koštálek, Čambal, Krcil - Junek,
 Svoboda, Sobotka, Nejedlý, Puč
 GER: Kress - Busch, Haringer - Zielinski, Szepan (c), Bender - Lehner,
 Siffling, Conen, Noack, Kobierski
@@ -292,7 +292,7 @@ ITA - CZE 2:1 (0:0, 1:1, 2:1)
 
 ITA: Combi (c) - Monzeglio, Allemandi - Ferraris, Monti, Bertolini -
 Guaita, Meazza, Schiavio, Ferrari, Orsi
-CZE: Plánička (c) - ®eniąek, Čtyroký - Koątálek, Čambal, Krcil -
+CZE: Plánička (c) - Ženišek, Čtyroký - Koštálek, Čambal, Krcil -
 Junek, Svoboda, Sobotka, Nejedlý, Puč
 
 0:1 Puč 71, 1:1 Orsi 81, 2:1 Schiavio 95

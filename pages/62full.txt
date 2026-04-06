@@ -58,8 +58,8 @@ ZSR - JUG 2:0 (0:0)
 
 ZSR: Yashin - Dubinski, Ostrovski, Voronin, Maslenkin - Netto (c),
 Metreveli - Ivanov, Ponedelnik, Kanevski, Meschki
-JUG: ©oąkić - Durković, Jusufi, Marković - Popović, Matuą - Mujić (c),
-©ekularac,
+JUG: Šoškić - Durković, Jusufi, Marković - Popović, Matuš - Mujić (c),
+Šekularac,
  Jerković, Galić, Skoblar
 
 1:0 Ivanov 52 h, 2:0 Ponedelnik 84
@@ -72,8 +72,8 @@ JUG - URU 3:1 (2:1)
 
 (-9000) Galba CZE, Dusch GER, Jonni ITA
 
-JUG: ©oąkić - Durković, Jusufi, Radaković, Marković - Popović,
-Melić - ©ekularac, Jerković, Galić (c), Skoblar
+JUG: Šoškić - Durković, Jusufi, Radaković, Marković - Popović,
+Melić - Šekularac, Jerković, Galić (c), Skoblar
 URU: Sosa - Troche (c), E.Alvarez, El.Alvarez, Méndez - Gonsalves, Bergara -
 Rocha, Cabrera, Sasia, Perez
 
@@ -120,8 +120,8 @@ JUG - COL 5:0 (2:0)
 
 (+7000) Robles CHI, Galba CZE, Jonni ITA
 
-JUG: ©oąkić - Durković, Jusufi, Radaković, Marković - Popović, Melić -
-©ekularac, Jerković, Galić (c), Anković
+JUG: Šoškić - Durković, Jusufi, Radaković, Marković - Popović, Melić -
+Šekularac, Jerković, Galić (c), Anković
 COL: Sánchez - Alzate, J.González, López, Echeverri - Serrano, Coll (c) -
 Aceros, Klinger, Rada, H.González
 
@@ -252,12 +252,12 @@ CZE - ESP 1:0 (0:0)
 
 (-13000) Steiner AUT, Marmo URU, van Rosberg AHO
 
-CZE: Schrojf - Lála, Novák (c), Pluskal, Popluhar - Masopust, ©tibrányi -
-Scherer, Kvaąňák, Adamec, Jelinek
+CZE: Schrojf - Lála, Novák (c), Pluskal, Popluhar - Masopust, Štibrányi -
+Scherer, Kvašňák, Adamec, Jelinek
 ESP: Carmelo - Rivilla, Reija, Segarra (c), Santamaria - Garay, del Sol -
 Martinez, Puskás, Suárez, Gento
 
-1:0 ©tibrányi 60
+1:0 Štibrányi 60
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
@@ -269,8 +269,8 @@ BRA - CZE 0:0
 
 BRA: Gilmar - D.Santos, Mauro (c), Zózimo, N.Santos - Zito, Garrincha -
 Didi, Vavá, Pelé, Zagalo
-CZE: Schrojf - Lála, Novák (c), Pluskal, Popluhar - Masopust, ©tibrányi -
-Scherer, Kvaąňák, Adamec, Jelinek
+CZE: Schrojf - Lála, Novák (c), Pluskal, Popluhar - Masopust, Štibrányi -
+Scherer, Kvašňák, Adamec, Jelinek
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
@@ -278,7 +278,7 @@ Scherer, Kvaąňák, Adamec, Jelinek
 
 ESP - MEX 1:0 (0:0)
 
-(-12000) Teąanić JUG, Vicuña CHI, van Rosberg AHO
+(-12000) Tešanić JUG, Vicuña CHI, van Rosberg AHO
 
 ESP: Carmelo - Rodri, Gracia, Verges - Santamaria, Pachin - del Sol, Peiró,
 Puskás, Suárez, Gento (c)
@@ -307,14 +307,14 @@ Peiró, Puskás, Adélardo, Gento
 MEX - CZE 3:1 (2:1)
 
 (-11000)
- Dienst SUI, Teąanić JUG, Sundhelm COL
+ Dienst SUI, Tešanić JUG, Sundhelm COL
 
 MEX: Carbajal - del Muro, Cárdenas, Sepulveda, Jauregui - Reyes, Nájera -
 del'Aguila, H.Hernández, A.Hernández, Diaz
-CZE: Schrojf - Lála, Novák (c), Pluskal, Popluhar - Masopust, ©tibrányi -
-Scherer, Kvaąňák, Adamec, Maąek
+CZE: Schrojf - Lála, Novák (c), Pluskal, Popluhar - Masopust, Štibrányi -
+Scherer, Kvašňák, Adamec, Mašek
 
-0:1 Maąek 1 (20 sec), 1:1 Diaz 13, 2:1 del'Aguila 29, 3:1 H.Hernández 90 p
+0:1 Mašek 1 (20 sec), 1:1 Diaz 13, 2:1 del'Aguila 29, 3:1 H.Hernández 90 p
 
 1. BRA^         3  2 1 0  5  4-1
 2. CZE^         3  1 1 1  3  2-3
@@ -438,7 +438,7 @@ JUG - GER 1:0 (0:0)
 
 (+63000) Yamasaki PER, Silva CHI, Ventre ARG
 
-JUG: ©oąkić - Durkovic, Jusufi, Radaković - Marković, Popović - Kovačević,
+JUG: Šoškić - Durkovic, Jusufi, Radaković - Marković, Popović - Kovačević,
 Sekularac, Jerković, Galić (c), Skoblar
 GER: Fahrian - Nowak, Schnellinger, Schulz - Erhardt, Giesemann, Brülls -
 Haller, Seeler, Szymaniak, Schäfer (c)
@@ -470,7 +470,7 @@ CZE - HUN 1:0 (1:0)
 (-12000) Latischev ZSR, Rumenchev BUL, Buergo MEX
 
 CZE: Schrojf - Lalá, Novák (c), Pluskal, Popluhár - Masopust, Pospichal -
-Scherer, Kvaąňák, Kadraba, Jelinek
+Scherer, Kvašňák, Kadraba, Jelinek
 HUN: Grosics (c) - Mátrai, Sarosi, Solymosi, Mészöly - Sipos, Sándor - Rákosi,
 Albert, Tichy, Fenyvesi
 
@@ -503,9 +503,9 @@ CZE - JUG 3:1 (0:0)
 (-6000) Dienst SUI, Jonni ITA, Steiner AUT
 
 CZE: Schrojf - Lalá, Novák (c), Pluskal, Popluhár - Masopust, Pospichal -
-Scherer, Kvaąňák, Kadraba, Jelinek
-JUG: ©oąkić - Durković, Jusufi, Radaković, Marković - Popović, Sijaković -
-©ekularac, Jerković, Galić (c), Skoblar
+Scherer, Kvašňák, Kadraba, Jelinek
+JUG: Šoškić - Durković, Jusufi, Radaković, Marković - Popović, Sijaković -
+Šekularac, Jerković, Galić (c), Skoblar
 
 1:0 Kadraba 49 h, 1:1 Jerković 69, 2:1 Scherer 80, 3:1 Scherer 87 p
 
@@ -519,7 +519,7 @@ CHI - JUG 1:0 (0:0)
 
 CHI: Godoy - Eyzaguirre, Cruz, R.Sánchez, Rodriguez - Toro (c), Rojas -
 Ramirez, Campos, Tobar, L.Sánchez
-JUG: ©oąkić - Durković, Svinjarević, Radaković - Marković, Popović -
+JUG: Šoškić - Durković, Svinjarević, Radaković - Marković, Popović -
 Kovačević, Sekularac, Jerković, Galić (c), Skoblar
 
 1:0 Rojas 90
@@ -535,7 +535,7 @@ BRA - CZE 3:1 (1:1)
 BRA: Gilmar - D. Santos, N. Santos, Zito - Mauro (c), Zózimo, Garrincha,
 Didi - Vavá, Amarildo, Zagalo
 CZE: Schrojf - Tichý, Novák (c), Masopust - Popluhár, Pluskal - Pospichal,
-Scherer, Kadraba, Kvaąňák, Jelinek
+Scherer, Kadraba, Kvašňák, Jelinek
 
 0:1 Masopust 15, 1:1 Amarildo 17, 2:1 Zito 69 h, 3:1 Vavá 78
 
@@ -546,7 +546,7 @@ Scherer, Kadraba, Kvaąňák, Jelinek
 2 - Ramirez, Rojas, Toro CHI, Flowers ENG, Seeler GER, Bulgarelli ITA,
     Sasia URU, Chislenko, Ponedelnik ZSR
 1 - Facundo, Sanfilippo ARG, Pelé, Zagalo, Zito BRA, Asparoukhov BUL, Aceros,
-    Coll, Klinger, Rada, Zuluaga COL, Kadraba, Maąek, Masopust, ©tibrányi CZE,
+    Coll, Klinger, Rada, Zuluaga COL, Kadraba, Mašek, Masopust, Štibrányi CZE,
     R.Charlton, Greaves, Hitchens ENG, Adelárdo, Peiró ESP, Brülls, Szymaniak
     GER, Solymosi HUN, Mora ITA, Melić, Radaković, Skoblar JUG, del'Aguila,
     Diaz, Hernández MEX, Scheitner, Wüthrich SUI, Cabrera, Cubilla URU,
@@ -581,8 +581,8 @@ Tilkovski, Vollmar, Werner, Wilden
 HUN: L. Baróti, J. Csanadi, B. Volennik | Bódór, Farkas, Ihas, Menczel,
 Nagy, Sóvári, Szemtmihalyi
 ITA: P. Masza, G. Ferrari | Albertosi, Trapattoni
-JUG: M. Ćrić, L. Lovrić, P. Mihajlović, H, Ruąevjanin | Kriwokuča,
-Stojanović, Nikolić, Stipić, Ivoą
+JUG: M. Ćrić, L. Lovrić, P. Mihajlović, H, Ruševjanin | Kriwokuča,
+Stojanović, Nikolić, Stipić, Ivoš
 MEX: I. Trelles Campos, A. Scopelli, H. Ortiz Benitez | Baeza Mena,
 Chairez, Fafrán, Gómez Munquia, Mota Romero, Ortiz Camargo, Romero Precoro,
 Ruvalcaba Ciarenos, Velarde Vélasquez
