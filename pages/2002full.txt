@@ -4,7 +4,7 @@
   
 
 
-## World Cup 2002 - Match Details
+== World Cup 2002 - Match Details
 
 <menu>
 <ul>
@@ -28,13 +28,12 @@
 <LI>‹Awards, see §awards›
 </ul>
 </menu>
+
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-####
-‹§gra›
-Group A</a>
+==== Group A  ‹§gra›
 
-
+<!-- start pre -->
 
 31/05/2002, Seoul (South Korea), Seoul World Cup Stadium, 62561
 World Cup
@@ -154,14 +153,13 @@ Table:
  2.SENEGAL          3  1  2  0   5- 4  5
  3.Uruguay          3  0  2  1   4- 5  2
  4.France           3  0  1  2   0- 3  1
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-####
-‹§grb›
-Group B</a>
+==== Group B  ‹§grb›
 
-
+<!-- start pre -->
 02/06/2002, Gwangju (South Korea), Gwangju World Cup Stadium, 28598
 World Cup
 SPAIN               3 (Raúl 44', Valerón 74', Hierro 87' pen)
@@ -279,14 +277,13 @@ Table:
  2.PARAGUAY         3  1  1  1   6- 6  4
  3.South Africa     3  1  1  1   5- 5  4
  4.Slovenia         3  0  0  3   2- 7  0
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-####
-‹§grc›
-Group C</a>
+==== Group C  ‹§grc›
 
-
+<!-- start pre -->
 03/06/2002, Ulsan (South Korea), Munsu Football Stadium, 33842
 World Cup
 BRAZIL              2 (Ronaldo 50', Rivaldo 87' pen)
@@ -393,14 +390,13 @@ Table:
  2.TURKEY           3  1  1  1   5- 3  4
  3.Costa Rica       3  1  1  1   5- 6  4
  4.China            3  0  0  3   0- 9  0
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-####
-‹§grd›
-Group D</a>
+==== Group D  ‹§grd›
 
-
+<!-- start pre -->
 04/06/2002, Busan, Busan Asiad Main Stadium, 48760
 World Cup
 SOUTH KOREA         2 (Hwang Seon-Hong 26', Yoo Sang-Cheol 53')
@@ -515,14 +511,13 @@ Table:
  2.USA              3  1  1  1   5- 6  4
  3.Portugal         3  1  0  2   6- 4  3
  4.Poland           3  1  0  2   3- 7  3
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-####
-‹§gre›
-Group E</a>
+==== Group E  ‹§gre›
 
-
+<!-- start pre -->
 01/06/2002, Niigata (Japan), Niigata Stadium, 33679
 World Cup
 IRELAND             1 (Matt Holland 52')
@@ -640,14 +635,13 @@ Table:
  2.IRELAND          3  1  2  0   5- 2  5
  3.Cameroon         3  1  1  1   2- 3  4
  4.Saudi Arabia     3  0  0  3   0-12  0
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-####
-‹§grf›
-Group F</a>
+==== Group F  ‹§grf›
 
-
+<!-- start pre -->
 02/06/2002, Saitama (Japan), Saitama Stadium 2002, 52721
 World Cup
 ENGLAND             1 (Sol Campbell 24')
@@ -760,14 +754,13 @@ Table:
  2.ENGLAND          3  1  2  0   2- 1  5
  3.Argentina        3  1  1  1   2- 2  4
  4.Nigeria          3  0  1  2   1- 3  1
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-####
-‹§grg›
-Group G</a>
+==== Group G  ‹§grg›
 
-
+<!-- start pre -->
 03/06/2002, Niigata (Japan), Niigata Stadium Big Swan, 32239
 World Cup
 CROATIA             0
@@ -887,14 +880,13 @@ Table:
  2.ITALY            3  1  1  1   4- 3  4
  3.Croatia          3  1  0  2   2- 3  3
  4.Ecuador          3  1  0  2   2- 4  3
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-####
-‹§grh›
-Group H</a>
+==== Group H  ‹§grh›
 
-
+<!-- start pre -->
 04/06/2002, Saitama, Saitama Stadium 2002, 55256
 World Cup
 JAPAN               2 (Takayuji Suzuki 59', Junichi Inamoto 67')
@@ -1012,14 +1004,13 @@ Table:
  2.BELGIUM          3  1  2  0   6- 5  5
  3.Russia           3  1  0  2   4- 4  3
  4.Tunisia          3  0  1  2   1- 5  1
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-####
-‹§8f›
-1/8 Finals</a>
+==== 1/8 Finals  ‹§8f›
 
-
+<!-- start pre -->
 15/06/2002, Seogwipo (South Korea), Jeju World Cup Stadium, 25176
 World Cup
 GERMANY             1 (Oliver Neuville 88')
@@ -1173,14 +1164,13 @@ Cards:              South Korea: Kim Tae-Young [Y 17'], Song Jong-Gook [Y 80'],
                     Italy: Francesco Coco [Y 4'], Francesco Totti [Y 22' YR 103'],
                            Damiano Tommasi [Y 55'], Cristiano Zanetti [Y 59'].
 Note:               Gianluigi Buffon saved a penalty by Ahn Jung-Hwan at 4'.
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-####
-‹§qf›
-Quarterfinals</a>
+==== Quarterfinals  ‹§qf›
 
-
+<!-- start pre -->
 21/06/2002, Shizuoka (Japan), Shizuoka Stadium ECOPA, 47436
 World Cup
 ENGLAND             1 (Michael Owen 23')
@@ -1254,14 +1244,13 @@ Coaches:            Senegal: Bruno Metsu (France).
                     Turkey: Şenol Güneş.
 Cards:              Senegal: Omar Daf [Y 12'], Aliou Cissé [Y 63'].
                     Turkey: Emre Belözoğlu [Y 22'], İlhan Mansız [Y 87'].
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-####
-‹§sf›
-Semifinals</a>
+==== Semifinals  ‹§sf›
 
-
+<!-- start pre -->
 25/06/2002, Seoul, Seoul World Cup Stadium, 65256
 World Cup
 SOUTH KOREA         0
@@ -1296,14 +1285,13 @@ Coaches:            Brazil: Luiz Felipe Scolari.
                     Turkey: Şenol Güneş.
 Cards:              Brazil: Gilberto Silva [Y 41'].
                     Turkey: Tugay Kerimoğlu [Y 59'], Hasan Şaş [Y 90'].
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-####
-‹§3m›
-Third Place Match</a>
+==== Third Place Match  ‹§3m›
 
-
+<!-- start pre -->
 29/06/2002, Daegu, Daegu World Cup Stadium, 63483
 World Cup
 SOUTH KOREA         2 (Lee Eul-Yong 9', Song Jong-Gook 90+')
@@ -1321,14 +1309,13 @@ Coaches:            South Korea: Guus Hiddink (Netherlands).
                     Turkey: Şenol Güneş.
 Cards:              South Korea: Lee Eul-Yong [Y 23'].
                     Turkey: Tugay Kerimoğlu [Y 50'], Rüştü Reçber [Y 83'].
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-####
-‹§fin›
-Final</a>
+==== Final  ‹§fin›
 
-
+<!-- start pre -->
 30/06/2002, Yokohama (Japan), International Stadium Yokohama, 69029
 World Cup
 GERMANY             0
@@ -1345,15 +1332,13 @@ Coaches:            Germany: Rudi Völler.
                     Brazil: Luiz Felipe Scolari.
 Cards:              Germany: Miroslav Klose [Y 9'].
                     Brazil: Roque Júnior [Y 6'].
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹§squads›
+== Squads  ‹§squads›
 
-## Squads
-
-</a>
-
+<!-- start pre -->
 
 ‹Argentina, see §arg›.
 ‹Belgium, see §bel›.
@@ -1388,9 +1373,7 @@ Cards:              Germany: Miroslav Klose [Y 9'].
 ‹Uruguay, see §uru›.
 ‹USA, see §usa›.
 
-
-‹§arg›
-**ARGENTINA**</a>
+ARGENTINA  ‹§arg›
 
 Germán Burgos
 Roberto Ayala
@@ -1417,9 +1400,7 @@ Ariel Ortega
 Roberto Bonano
 Coach: Marcelo Bielsa (Argentina).
 
-
-‹§bel›
-**BELGIUM**</a>
+BELGIUM  ‹§bel›
 
 Geert de Vlieger
 Eric Deflandre
@@ -1446,9 +1427,7 @@ Mbo Mpenza
 Frédéric Herpoël
 Coach: Robert Waseige (Belgium).
 
-
-‹§bra›
-**BRAZIL**</a>
+BRAZIL  ‹§bra›
 
 Marcos [Marcos Roberto Silveira Reis]
 Cafu [Marcos Evangelista de Moraes]
@@ -1475,9 +1454,7 @@ Rogério Ceni [Rogério Ceni]
 Kaká [Ricardo Izecson dos Santos Leite]
 Coach: Luiz Felipe Scolari (Brazil).
 
-
-‹§cam›
-**CAMEROON**</a>
+CAMEROON  ‹§cam›
 
 Boukar Alioum
 Bill Tchato
@@ -1504,9 +1481,7 @@ Idriss Carlos Kameni
 Daniel Ngom Kome
 Coach: Winfried Schäfer (Germany).
 
-
-‹§chi›
-**CHINA**</a>
+CHINA  ‹§chi›
 
 An Qi
 Zhang Enhua
@@ -1533,9 +1508,7 @@ Jiang Jin
 Ou Chuliang
 Coach: Velibor 'Bora' Milutinović (Yugoslavia).
 
-
-‹§cos›
-**COSTA RICA**</a>
+COSTA RICA  ‹§cos›
 
 Erick Lonnis
 Jervis Drummond
@@ -1562,9 +1535,7 @@ Carlos Castro
 Lester Morgan
 Coach: Alexandre Guimarães (Costa Rica).
 
-
-‹§cro›
-**CROATIA**</a>
+CROATIA  ‹§cro›
 
 Stipe Pletikosa
 Anthony Šerić
@@ -1591,9 +1562,7 @@ Boško Balaban
 Vladimir Vasilj
 Coach: Mirko Jozić (Croatia).
 
-
-‹§den›
-**DENMARK**</a>
+DENMARK  ‹§den›
 
 Thomas Sørensen
 Stig Tøfting
@@ -1620,9 +1589,7 @@ Jesper Christiansen
 Brian Steen Nielsen
 Coach: Morten Olsen (Denmark).
 
-
-‹§ecu›
-**ECUADOR**</a>
+ECUADOR  ‹§ecu›
 
 José Francisco Cevallos
 Augusto Porozo
@@ -1649,9 +1616,7 @@ Daniel Viteri
 Walter Ayoví
 Coach: Hernán Darío Gómez (Colombia).
 
-
-‹§eng›
-**ENGLAND**</a>
+ENGLAND  ‹§eng›
 
 David Seaman
 Danny Mills
@@ -1678,9 +1643,7 @@ David James
 Kieron Dyer
 Coach: Sven-Göran Eriksson (Sweden).
 
-
-‹§fra›
-**FRANCE**</a>
+FRANCE  ‹§fra›
 
 Ulrich Ramé
 Vincent Candela
@@ -1707,9 +1670,7 @@ Johan Micoud
 Grégory Coupet
 Coach: Roger Lemerre (France).
 
-
-‹§ger›
-**GERMANY**</a>
+GERMANY  ‹§ger›
 
 Oliver Kahn
 Thomas Linke
@@ -1736,9 +1697,7 @@ Torsten Frings
 Hans-Jörg Butt
 Coach: Rudolf 'Rudi' Völler (Germany).
 
-
-‹§ire›
-**IRELAND**</a>
+IRELAND  ‹§ire›
 
 Shay Given
 Steve Finnan
@@ -1766,9 +1725,7 @@ Alan Kelly
 Coach: Mick [Michael?] McCarthy (Ireland).
 *Roy Keane was sent home before the tournament began.
 
-
-‹§ita›
-**ITALY**</a>
+ITALY  ‹§ita›
 
 Gianluigi Buffon
 Christian Panucci
@@ -1795,9 +1752,7 @@ Francesco Toldo
 Marco Materazzi
 Coach: Giovanni Trapattoni (Italy).
 
-
-‹§jap›
-**JAPAN**</a>
+JAPAN  ‹§jap›
 
 Yoshikatsu Kawaguchi
 Yutaka Akita
@@ -1824,9 +1779,7 @@ Daisuke Ichikawa
 Hitoshi Sogahata
 Coach: Philippe Troussier (France).
 
-
-‹§mex›
-**MEXICO**</a>
+MEXICO  ‹§mex›
 
 Oscar Pérez
 Francisco Gabriel de Anda
@@ -1853,9 +1806,7 @@ Alberto Rodríguez
 Jorge Campos
 Coach: Javier Aguirre (Mexico).
 
-
-‹§nig›
-**NIGERIA**</a>
+NIGERIA  ‹§nig›
 
 Ike Shorunmu
 Joseph Yobo
@@ -1882,9 +1833,7 @@ Vincent Enyeama
 Femi Opabunmi
 Coach: Adegboye Onigbinde (Nigeria).
 
-
-‹§par›
-**PARAGUAY**</a>
+PARAGUAY  ‹§par›
 
 José Luis Chilavert
 Francisco Arce
@@ -1911,9 +1860,7 @@ Ricardo Tavarelli
 Nelson Cuevas
 Coach: Cesare Maldini (Italy).
 
-
-‹§pol›
-**POLAND**</a>
+POLAND  ‹§pol›
 
 Jerzy Dudek
 Tomasz Kłos
@@ -1940,9 +1887,7 @@ Adam Matysek
 Paweł Sibik
 Coach: Jerzy Engel (Poland).
 
-
-‹§por›
-**PORTUGAL**</a>
+PORTUGAL  ‹§por›
 
 Vítor Baía
 Jorge Costa
@@ -1969,9 +1914,7 @@ Beto
 Rui Jorge
 Coach: António Oliveira (Portugal).
 
-
-‹§rus›
-**RUSSIA**</a>
+RUSSIA  ‹§rus›
 
 Ruslan Nigamatullin
 Yuri Kovtun
@@ -1998,9 +1941,7 @@ Dmitri Sychev
 Aleksander Filimonov
 Coach: Oleg Romantsev (Russia).
 
-
-‹§sau›
-**SAUDI ARABIA**</a>
+SAUDI ARABIA  ‹§sau›
 
 Mohammed Al-Deayea
 Mohammed Al-Jahani
@@ -2027,9 +1968,7 @@ Mohammed Khojali Babkr
 Mansour Al-Thagafi
 Coach: Nasser Al-Johar (Saudi Arabia).
 
-
-‹§sen›
-**SENEGAL**</a>
+SENEGAL  ‹§sen›
 
 Tony Sylva
 Omar Daf
@@ -2056,9 +1995,7 @@ Kalidou Cissokho
 Makthar Ndiaye
 Coach: Bruno Metsu (France).
 
-
-‹§slo›
-**SLOVENIA**</a>
+SLOVENIA  ‹§slo›
 
 Marko Simeunovič
 Goran Sankovič
@@ -2085,9 +2022,7 @@ Dejan Nemec
 Spasoje Bulajič
 Coach: Srečko Katanec (Slovenia).
 
-
-‹§saf›
-**SOUTH AFRICA**</a>
+SOUTH AFRICA  ‹§saf›
 
 Hans Vonk
 Cyril Nzama
@@ -2114,9 +2049,7 @@ Thabang Molefe
 George Koumantarakis
 Coach: Jomo Sono (South Africa).
 
-
-‹§sko›
-**SOUTH KOREA**</a>
+SOUTH KOREA  ‹§sko›
 
 Lee Woon-Jae
 Hyun Young-Min
@@ -2143,9 +2076,7 @@ Song Jong-Gook
 Choi Eun-Sung
 Coach: Guus Hiddink (Netherlands).
 
-
-‹§spa›
-**SPAIN**</a>
+SPAIN  ‹§spa›
 
 Iker Casillas
 Curro Torres
@@ -2172,9 +2103,7 @@ Joaquín Sánchez
 Contreras
 Coach: Camacho (Spain).
 
-
-‹§swe›
-**SWEDEN**</a>
+SWEDEN  ‹§swe›
 
 Magnus Hedman
 Olof Mellberg
@@ -2201,9 +2130,7 @@ Andreas Andersson
 Andreas Isaksson
 Coach: Lars Lagerbäck (Sweden) and Tommy Söderberg (Sweden).
 
-
-‹§tun›
-**TUNISIA**</a>
+TUNISIA  ‹§tun›
 
 Ali Boumnijel
 Khaled Badra
@@ -2230,9 +2157,7 @@ Ahmed Jaouachi
 José Clayton
 Coach: Ammar Souayah (Tunisia).
 
-
-‹§tur›
-**TURKEY**</a>
+TURKEY  ‹§tur›
 
 Rüştü Reçber
 Emre Aşık
@@ -2259,9 +2184,7 @@ Emre Belözoğlu
 Zafer Özgültekın
 Coach: Şenol Güneş (Turkey).
 
-
-‹§uru›
-**URUGUAY**</a>
+URUGUAY  ‹§uru›
 
 Fabián Carini
 Gustavo Méndez
@@ -2288,9 +2211,7 @@ Gonzalo De los Santos
 Federico Elduayen
 Coach: Víctor Púa (Uruguay).
 
-
-‹§usa›
-**USA**</a>
+USA  ‹§usa›
 
 Brad Friedel
 Frankie Hejduk
@@ -2317,15 +2238,13 @@ Tony Sanneh
 Eddie Pope
 Coach: Bruce Arena (USA).
 
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹§records›
+== Oldest and youngest  ‹§records›
 
-## Oldest and youngest
-
-</a>
-
+<!-- start pre -->
                Youngest                        Oldest
 player         Opabunmi, NGR     17 y 101 d    Heintze, DEN      38 y 293 d
 goalkeeper     Enyeama, NGR      19 y 287 d    Seaman, ENG       38 y 275 d
@@ -2337,15 +2256,13 @@ captain        Márquez, MEX      23 y 110 d    Heintze, DEN      38 y 293 d
 coach          Katanec, SLO      38 y 321 d    Maldini, PAR      70 y 110 d
 referee        Shield, AUS       28 y 281 d    Sánchez, ARG      45 y 103 d
 
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹§awards›
+== Awards  ‹§awards›
 
-## Awards
-
-</a>
-
+<!-- start pre -->
 Tournament's Best Player:
 adidas Golden Ball - Oliver Kahn (Germany)
 adidas Silver Ball - Ronaldo (Brazil)
@@ -2359,14 +2276,13 @@ Most Entertaining Team - South Korea
 Lev Yashin (Best Goalkeeper) - Oliver Kahn (Germany)
 FIFA Fair Play Trophy - Belgium
 
-
+<!-- end pre -->
 
 ‹overview 2002 final tournament, see page 2002f›
+
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-##
-‹§about›
-About this document</A>
+== About this document  ‹§about›
 
 With thanks to Neil Morrison
 for adding squads, special characters and improving lay-out,
@@ -2384,6 +2300,6 @@ Author: Erlan Manaschev
 Last updated: 3 Jul 2008
 
 
-**(C) Copyright Erlan Manaschev and RSSSF 2003/08**
+(C) Copyright Erlan Manaschev and RSSSF 2003/08
 You are free to copy this document in whole or part provided that proper
 acknowledgement is given to the author. All rights reserved.

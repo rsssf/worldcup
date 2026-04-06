@@ -2,15 +2,9 @@
      source: https://www.rsssf.org/tables/50full.html
     -->
   
-<!DOCTYPE HTML PUBLIC  "-//IETF//DTD HTML 3.2//EN">
-<html>
-<head>
-<title>World Cup 1950 finals</title>
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-2">
-</head>
-<body bgcolor="yellow">
 
-<H1>World Cup 1950</H1>
+
+= World Cup 1950
 
 <UL>
 <LI>‹Results, see §results›
@@ -35,12 +29,9 @@ played (7 for the first time). TUR, IND, SCO waived their place in finals.
 Qualiifications drawn 15 Jan 1949 in Geneve. Finals drawn 30 Apr 1950 in
 London.
 
+<!-- start pre -->
 
-
-
-‹§gra›
-
-## Group A - BRA JUG MEX SUI
+== Group A - BRA JUG MEX SUI  ‹§gra›
 
 24.06.50  (15.00) Rio de Janeiro, Estadio Maracaná
 
@@ -48,16 +39,16 @@ BRA - MEX 4:0 (1:0)
 
 (+81000) Reader ENG, Mitchell SCO, Griffiths WAL
 
-**BRA**: Barbosa - Augusto (c), Juvenal, Eli - Danilo, Bigode - Maneca,
+BRA: Barbosa - Augusto (c), Juvenal, Eli - Danilo, Bigode - Maneca,
 Ademir, Baltazar, Jair, Friaça
-**MEX**: Carbajal - Zetter, Montemayor (c), Ruiz - Ochoa, Roca - Septien, Ortiz,
+MEX: Carbajal - Zetter, Montemayor (c), Ruiz - Ochoa, Roca - Septien, Ortiz,
 Casarin, Peréz, Velasquez
 
 1:0 Ademir 31, 2:0 Jair 65, 3:0 Baltazar 71 h, 4:0 Ademir 79
 
-**NOTE**: Match preceded by WC opening ceremony
+NOTE: Match preceded by WC opening ceremony
 
-<IMG SRC="xshadow.gif.pagespeed.ic.AbdeNVcmzw.png" ALT="-----">
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 25.06.50  (18.00) Belo Horizonte, Estadio Sete de Setembro
 
@@ -65,14 +56,14 @@ JUG - SUI 3:0 (2:0)
 
 (~8000) Galeati ITA, Datillo ITA, Eklind SWE
 
-**JUG**: Mrkuąić - I.Horvat, B.Stanković, Zl.Čajkovski - M.Jovanović, Djajić -
+JUG: Mrkuąić - I.Horvat, B.Stanković, Zl.Čajkovski - M.Jovanović, Djajić -
 Ognjanov, Mitić (c), K.Tomaąević, Bobek, Vukas
-**SUI**: Stuber - Neury, Bocquet, Lusenti - Eggimann, Quinche - Bickel (c),
+SUI: Stuber - Neury, Bocquet, Lusenti - Eggimann, Quinche - Bickel (c),
 Antenen, Tamini, Bader, Fatton
 
 1:0 Mitić 60, 2:0 Tomaąević 70 h, 3:0 Ognjanov 76
 
-<IMG SRC="xshadow.gif.pagespeed.ic.AbdeNVcmzw.png" ALT="-----">
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 28.06.50  (15.00) São Paulo, Estadio Pacaembu
 
@@ -80,14 +71,14 @@ BRA - SUI 2:2 (2:1)
 
 (+42000) Azon ESP, de Nicola PAR, Bustamante CHI
 
-**BRA**: Barbosa - Augusto (c), Juvenal - Bauer, Ruy, Noronha - Maneca, Ademir,
+BRA: Barbosa - Augusto (c), Juvenal - Bauer, Ruy, Noronha - Maneca, Ademir,
 Baltazar, Alfredo, Friaça
-**SUI**: Stuber - Neury, Bocquet, Lusenti - Eggimann, Quinche - Bickel (c),
+SUI: Stuber - Neury, Bocquet, Lusenti - Eggimann, Quinche - Bickel (c),
 Friedländer, Tamini, Bader, Fatton
 
 1:0 Alfredo 3, 1:1 Patton 17, 2:1 Baltazar 43 h, 2:2 Patton 88
 
-<IMG SRC="xshadow.gif.pagespeed.ic.AbdeNVcmzw.png" ALT="-----">
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 29.06.50  (18.15) Porto Alegre, Estádio dos Eucaliptos
 
@@ -95,16 +86,16 @@ Friedländer, Tamini, Bader, Fatton
 
 JUG - MEX 4:1 (2:0)
 
-**JUG**: Mrkuąić - I.Horvat (c), B.Stanković, Zl.Čajkovski - M.Jovanović, Djajić -
+JUG: Mrkuąić - I.Horvat (c), B.Stanković, Zl.Čajkovski - M.Jovanović, Djajić -
 P.Mihajlović, Mitić, K.Tomaąević, Bobek, ®.Čajkovski
-**MEX**: Carbajal - Gutierrez, Gomez, Ruiz - Ochoa, Flores - Naranjo, Ortiz,
+MEX: Carbajal - Gutierrez, Gomez, Ruiz - Ochoa, Flores - Naranjo, Ortiz,
 Casarin (c), Peréz, Velasquez
 
 1:0 Bobek 20, 2:0 ®.Čajkovski 23. 3:0 ®.Čajkovski 51. 4:0 Tomaąsević 80, 4:1
 Ortiz
  89 p
 
-<IMG SRC="xshadow.gif.pagespeed.ic.AbdeNVcmzw.png" ALT="-----">
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 01.07.50  (15.00) Rio de Janeiro, Estadio Maracaná
 
@@ -112,14 +103,14 @@ BRA - JUG 2:0 (1:0)
 
 (+142000) Griffiths WAL, Beranek AUT, Costa POR
 
-**BRA**: Barbosa - Augusto (c), Juvenal - Bauer, Danilo, Bigode - Maneca, Ademir,
+BRA: Barbosa - Augusto (c), Juvenal - Bauer, Danilo, Bigode - Maneca, Ademir,
 Jair, Zizinho, Chico
-**JUG**: Mrkuąić - I.Horvat, B.Stanković, Zl.Čajkovski (c) - M.Jovanović, Djajić -
+JUG: Mrkuąić - I.Horvat, B.Stanković, Zl.Čajkovski (c) - M.Jovanović, Djajić -
 Vukas, Mitić, K.Tomaąević, Bobek, ®.Čajkovski
 
 1:0 Ademir 4 h, 2:0 Zizinho 89
 
-<IMG SRC="xshadow.gif.pagespeed.ic.AbdeNVcmzw.png" ALT="-----">
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 02.07.50  (15.40) Porto Alegre, Estádio dos Eucaliptos
 
@@ -127,15 +118,15 @@ SUI - MEX 2:1 (2:0)
 
 (+3500) Eklind SWE, Bustamante CHI, Dahlner SWE
 
-**SUI**: Hug - Neury, Bocquet (c), Lusenti - Eggimann, Quinche - Antenen,
+SUI: Hug - Neury, Bocquet (c), Lusenti - Eggimann, Quinche - Antenen,
 Friedländer, Tamini, Bader, Fatton
-**MEX**: Carbajal - Gutiérrez, Gomez, Ochoa - Ortiz, Roca - Flores,
+MEX: Carbajal - Gutiérrez, Gomez, Ochoa - Ortiz, Roca - Flores,
  Naranjo
 Casarin (c), Borbolla, Velázquez
 
 1:0 Bader 10, 2:0 Antenen 44, 2:1 Casarin 89
 
-**NOTE**: Match delayed by 25 mins due to similar team colors and
+NOTE: Match delayed by 25 mins due to similar team colors and
 their subsequent replacements
 
 1. BRA^         3  2 1 0  5  8-2
@@ -143,10 +134,7 @@ their subsequent replacements
 3. SUI          3  1 1 1  3  4-6
 4. MEX          3  0 0 3  0  2-10
 
-
-‹§grb›
-
-## Group B - CHI ENG ESP USA
+== Group B - CHI ENG ESP USA  ‹§grb›
 
 25.06.50  (15.00) Rio de Janeiro, Estadio Maracaná
 
@@ -154,14 +142,14 @@ ENG - CHI 2:0 (1:0)
 
 (+30000) van der Meer HOL, Gardelli BRA, Dahlner SWE
 
-**ENG**: Williams - Ramsey, Aston, Wright (c) - Hughes, Dickinson - Finney,
+ENG: Williams - Ramsey, Aston, Wright (c) - Hughes, Dickinson - Finney,
 Mortensen, Bentley, Mannion, Mullen
-**CHI**: Livingstone (c) - Farias, Roldán, Alvarez - Busquets, Carvallo -
+CHI: Livingstone (c) - Farias, Roldán, Alvarez - Busquets, Carvallo -
 Mayanes, Cremaschi, Robledo, Muñoz, Diaz
 
 1:0 Mortensen 27 h, 2:0 Mannion 51
 
-<IMG SRC="xshadow.gif.pagespeed.ic.AbdeNVcmzw.png" ALT="-----">
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 25.06.50  (15.30) Curitiba, Estadio Brito
 
@@ -169,14 +157,14 @@ ESP - USA 3:1 (0:1)
 
 (+9000) Vianna BRA, Costa POR, Delasalle FRA
 
-**ESP**: Eizaguirre (c) - Alonzo, Antunez, J.Gonzalvo - M.Gonzalvo, Puchades -
+ESP: Eizaguirre (c) - Alonzo, Antunez, J.Gonzalvo - M.Gonzalvo, Puchades -
 Basora, Hernandez, Zarra, Igoa, Gainza
-**USA**: Borghi - Keough (c), Maca, McIlvenny - Colombo, Bahr - Craddock, J.Souza,
+USA: Borghi - Keough (c), Maca, McIlvenny - Colombo, Bahr - Craddock, J.Souza,
 Gaetjens, Pariani, Valentini
 
 0:1 J.Souza 17, 1:1 Igoa 54, 2:1 Basora 56, 3:1 Zarra 63
 
-<IMG SRC="xshadow.gif.pagespeed.ic.AbdeNVcmzw.png" ALT="-----">
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 29.06.50  (15.00) Rio de Janeiro, Estadio Maracaná
 
@@ -184,14 +172,14 @@ ESP - CHI 2:0 (2:0)
 
 (-20000) Malcher BRA, Marino URU, Alvarez BOL
 
-**ESP**: Ramallets - Alonzo, Parra, J.Gonzalvo - M.Gonzalvo, Puchades -
+ESP: Ramallets - Alonzo, Parra, J.Gonzalvo - M.Gonzalvo, Puchades -
 Basora, Panizo, Zarra, Igoa, Gainza (c)
-**CHI**: Livingstone (c) - Farias, Roldan, Alvarez - Busquets, Carvallo - Prieto,
+CHI: Livingstone (c) - Farias, Roldan, Alvarez - Busquets, Carvallo - Prieto,
 Cremaschi, Robledo, Muñoz, Diaz
 
 1:0 Basora 17, 2:0 Zarra 30
 
-<IMG SRC="xshadow.gif.pagespeed.ic.AbdeNVcmzw.png" ALT="-----">
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 29.06.50  (18.00) Belo Horizonte, Estadio Mineiro
 
@@ -199,14 +187,14 @@ USA - ENG 1:0 (1:0)
 
 (+10000) Datillo ITA, Galeati ITA, Delasalle FRA
 
-**USA**: Borghi - Keough, Maca, McIlvenny (c) - Colombo, Bahr - Wallace,
+USA: Borghi - Keough, Maca, McIlvenny (c) - Colombo, Bahr - Wallace,
 J.Souza, Gaetjens, Pariani, E.Souza
-**ENG**: Williams - Ramsey, Aston, Wright (c) - Hughes, Dickinson - Finney,
+ENG: Williams - Ramsey, Aston, Wright (c) - Hughes, Dickinson - Finney,
 Mortensen, Bentley, Mannion, Mullen
 
 1:0 Gaetjens 38 h
 
-<IMG SRC="xshadow.gif.pagespeed.ic.AbdeNVcmzw.png" ALT="-----">
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 02.07.50  (15.00) Rio de Janeiro, Estadio Maracaná
 
@@ -214,14 +202,14 @@ ESP - ENG 1:0 (0:0)
 
 (+74000) Galeati ITA, Lutz SUI, Datillo ITA
 
-**ESP**: Ramallets - Alonzo, Parra, J.Gonzalvo - M.Gonzalvo, Puchades -
+ESP: Ramallets - Alonzo, Parra, J.Gonzalvo - M.Gonzalvo, Puchades -
 Basora, Panizo, Zarra, Igoa, Gainza (c)
-**ENG**: Williams - Ramsey, Eckersley, Wright (c) - Hughes, Dickinson - Finney,
+ENG: Williams - Ramsey, Eckersley, Wright (c) - Hughes, Dickinson - Finney,
 Mortensen, Matthews, Baily, Milburn
 
 1:0 Zarra 49
 
-<IMG SRC="xshadow.gif.pagespeed.ic.AbdeNVcmzw.png" ALT="-----">
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 02.07.50  (18.00) Recife, Estadio Ilha do Retiro
 
@@ -229,25 +217,22 @@ CHI - USA 5:2 (2:0)
 
 (+8000) Gardelli BRA, Alvarez PAR, Heyen MEX
 
-**CHI**: Livingstone (c) - Farias, Machuca, Alvarez - Busquets, Rojas - Prieto,
+CHI: Livingstone (c) - Farias, Machuca, Alvarez - Busquets, Rojas - Prieto,
 Cremaschi, Robledo, Riera, Ibánez
-**USA**: Borghi - Keough, Maca, McIlvenny - Colombo, Bahr (c) - Wallace,
+USA: Borghi - Keough, Maca, McIlvenny - Colombo, Bahr (c) - Wallace,
 J.Souza, Gaetjens, Pariani, E.Souza
 
 1:0 Robledo 16, 2:0 Cremaschi 33, 2:1 Pariani 46, 2:2 J.Sousa 49 p, 3:2
 Prieto 54, 4:2 Cremaschi 60, 5:2 Riera 63
 
-**NOTE**: Some sources award the last goal to Cremaschi
+NOTE: Some sources award the last goal to Cremaschi
 
 1. ESP^         3  3 0 0  6  6-1
 2. ENG          3  1 0 2  2  2-2
 3. CHI          3  1 0 2  2  5-6
 4. USA          3  1 0 2  2  4-8
 
-
-‹§grc›
-
-## Group C - ITA PAR SWE (IND withdrew)
+== Group C - ITA PAR SWE (IND withdrew)  ‹§grc›
 
 25.06.50  (15.00) São Paulo, Estadio Pacaembu
 
@@ -255,15 +240,15 @@ SWE - ITA 3:2 (2:1)
 
 (+50000) Lutz SUI, Beranek AUT, Esteves MEX
 
-**SWE**: Svensson - Samuelsson, E.Nilsson (c), Andersson - Nordahl, Gärd -
+SWE: Svensson - Samuelsson, E.Nilsson (c), Andersson - Nordahl, Gärd -
 Sundqvist, Palmer, Jeppson, Skoglund, S.Nilsson
-**ITA**: Sentimenti - Giovannini, Furiassi, Annovazzi - Parola, Magli - Muccinelli,
+ITA: Sentimenti - Giovannini, Furiassi, Annovazzi - Parola, Magli - Muccinelli,
 Boniperti, Cappello, Campatelli, Carapellese (c)
 
 0:1 Carapallese 7, 1:1 Jeppson 25, 2:1 Andersson 34, 3:1 Jeppson 69, 3:2
 Muccinelli 78
 
-<IMG SRC="xshadow.gif.pagespeed.ic.AbdeNVcmzw.png" ALT="-----">
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 29.06.50  (15.30) Curitiba, Estadio Brito
 
@@ -271,14 +256,14 @@ SWE - PAR 2:2 (2:1)
 
 (-8000) Mitchell SCO, Lameąić JUG, Garcia USA
 
-**SWE**: Svensson - Samuelsson, E.Nilsson (c), Andersson - Nordahl, Gärd -
+SWE: Svensson - Samuelsson, E.Nilsson (c), Andersson - Nordahl, Gärd -
 Sundqvist, Palmer, Jeppson, Skoglund, Jönsson
-**PAR**: Vargas - Gonzalito, Cespedes, Gavilan - Lequizamon, Cantero -
+PAR: Vargas - Gonzalito, Cespedes, Gavilan - Lequizamon, Cantero -
 Avalos, A.López, Jara, López Fretes (c), Unzain.
 
 1:0 Sundqvist 17, 2:0 Palmer 25, 2:1 López Fretes 34, 2:2 López 74
 
-<IMG SRC="xshadow.gif.pagespeed.ic.AbdeNVcmzw.png" ALT="-----">
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 02.07.50  (15.00) São Paulo, Estadio Pacaembu
 
@@ -286,9 +271,9 @@ ITA - PAR 2:0 (1:0)
 
 (-26000) Ellis ENG, Delasalle FRA, Garcia USA
 
-**ITA**: Moro - Blason, Fattori, Furiassi - Remondini, Mari - Pandolfini,
+ITA: Moro - Blason, Fattori, Furiassi - Remondini, Mari - Pandolfini,
 Muccinelli, Cappello, Amadei, Carapellese (c)
-**PAR**: Vargas - Gonzalito, Cespedes, Gavilan - Lequizamon, Cantero - Avalos,
+PAR: Vargas - Gonzalito, Cespedes, Gavilan - Lequizamon, Cantero - Avalos,
 Lopez, Jara, López Fretes (c), Unzain
 
 1:0 Carapallese 13, 2:0 Pandolfini 63
@@ -297,10 +282,7 @@ Lopez, Jara, López Fretes (c), Unzain
 2. ITA          2  1 0 1  2  4-3
 3. PAR          2  0 1 1  1  2-4
 
-
-‹§grd›
-
-## Group D - BOL URU (SCO, TUR withdrew)
+== Group D - BOL URU (SCO, TUR withdrew)  ‹§grd›
 
 02.07.50  (15.00) Belo Horizonte, Estadio Mineiro
 
@@ -308,9 +290,9 @@ URU - BOL 8:0 (4:0)
 
 (+5000) Reader ENG, Viana BRA, Lameąić JUG
 
-**URU**: Máspoli - M.Gonzáles, Tejera, J.C.Gonzáles - Varela (c), Andrade -
+URU: Máspoli - M.Gonzáles, Tejera, J.C.Gonzáles - Varela (c), Andrade -
 Ghiggia, Peréz, Miguez, Schiaffino, Vidal
-**BOL**: B.Gutierrez - Achá, Bustamente (c), Greco - Valencia, Ferrel - Algaranaz,
+BOL: B.Gutierrez - Achá, Bustamente (c), Greco - Valencia, Ferrel - Algaranaz,
 Ugarte, Caparelli, E.Gutierrez, Maldonado
 
 1:0 Miguez 12, 2:0 Vidal 18, 3:0 Schiaffino 20, 4:0 Miguez 37, 5:0 Miguez 51,
@@ -319,10 +301,7 @@ Ugarte, Caparelli, E.Gutierrez, Maldonado
 1. URU^         1  1 0 0  2  8-0
 2. BOL          1  0 0 1  0  0-8
 
-
-‹§final›
-
-## Final Pool - BRA ESP SWE URU
+== Final Pool - BRA ESP SWE URU  ‹§final›
 
 03.07.50  (15.00) Rio de Janeiro, Estadio Maracaná
 
@@ -330,16 +309,16 @@ BRA - SWE 7:1 (3:0)
 
 (+138000) Ellis ENG, Delasalle FRA, Garcia USA
 
-**BRA**: Barbosa - Augusto (c), Juvenal, Bauer - Danilo, Bigode - Maneca
+BRA: Barbosa - Augusto (c), Juvenal, Bauer - Danilo, Bigode - Maneca
 Zizinho, Ademir, Jair, Chico
-**SWE**: Svensson - Samuelsson, E.Nilsson (c), Andersson - Nordahl, Gärd -
+SWE: Svensson - Samuelsson, E.Nilsson (c), Andersson - Nordahl, Gärd -
 Sundqvist, Palmer, Jeppson, Skoglund, S.Nilsson
 
 1:0 Ademir 17, 2:0 Ademir 37, 3:0 Chico 39, 4:0 Ademir 51, 5:0 Ademir 59, 5:1
 Andersson 57 p,
  6:1 Maneca 65, 7:1 Chico 87
 
-<IMG SRC="xshadow.gif.pagespeed.ic.AbdeNVcmzw.png" ALT="-----">
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 09.07.50  (15.00) São Paulo, Estadio Pacaembu
 
@@ -347,14 +326,14 @@ ESP - URU 2:2 (2:1)
 
 (+44000) Griffiths WAL, Alvares BOL, Danilo ITA
 
-**ESP**: Ramallets - Alonzo, Parra, J.Gonzalvo - M.Gonzalvo, Puchades -
+ESP: Ramallets - Alonzo, Parra, J.Gonzalvo - M.Gonzalvo, Puchades -
 Basora, Igoa, Zarra, Molowny, Gainza (c)
-**URU**: Máspoli - M.Gonzáles, Tejera, J.C. Gonzáles - Varela (c), Andrade -
+URU: Máspoli - M.Gonzáles, Tejera, J.C. Gonzáles - Varela (c), Andrade -
 Ghiggia, Peréz, Miguez, Schiaffino, Vidal
 
 0:1 Ghiggia 29, 1:1 Basora 39, 2:1 Basora 41, 2:2 Varela 72
 
-<IMG SRC="xshadow.gif.pagespeed.ic.AbdeNVcmzw.png" ALT="-----">
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 13.07.50  (15.00) Rio de Janeiro, Estadio Maracaná
 
@@ -362,9 +341,9 @@ BRA - ESP 6:1 (3:0)
 
 (+152000) Leafe ENG, Costa POR, Mitchell SCO
 
-**BRA**: Barbosa - Augusto (c), Juvenal, Bauer - Danilo, Bigode - Friaça,
+BRA: Barbosa - Augusto (c), Juvenal, Bauer - Danilo, Bigode - Friaça,
 Zizinho, Ademir, Jair, Chico
-**ESP**: Ramallets - Alonzo, Parra, J.Gonzalvo - M.Gonzalvo, Puchades -
+ESP: Ramallets - Alonzo, Parra, J.Gonzalvo - M.Gonzalvo, Puchades -
 Basora, Igoa, Zarra, Panizo, Gainza (c)
 
 1:0 Ademir 15, 2:0 Jair 21, 3:0 Chico 29, 4:0 Chico 55, 5:0 Ademir 57,
@@ -373,7 +352,7 @@ Basora, Igoa, Zarra, Panizo, Gainza (c)
 NB: the 1st goal was long listed as own goal by Parra, the 5th as goal by
     Jair; recently FIFA established Ademir as scorer of both goals.
 
-<IMG SRC="xshadow.gif.pagespeed.ic.AbdeNVcmzw.png" ALT="-----">
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 13.07.50  (15.00) São Paulo, Estadio Pacaembu
 
@@ -381,14 +360,14 @@ URU - SWE 3:2 (1:2)
 
 (-8000) Galeati ITA, Beranek AUT, de Nicola PAR
 
-**URU**: Paz - M.Gonzáles, Tejera, Gambetta - Varela (c), Andrade - Ghiggia,
+URU: Paz - M.Gonzáles, Tejera, Gambetta - Varela (c), Andrade - Ghiggia,
 Peréz, Miguez, Schiaffino, Vidal
-**SWE**: Svensson - Samuelsson, E.Nilsson (c), Andersson - Johansson, Gärd -
+SWE: Svensson - Samuelsson, E.Nilsson (c), Andersson - Johansson, Gärd -
 Sundqvist, Palmer, Jeppson, Mellberg, Jönsson
 
 0:1 Palmer 4, 1:1 Ghiggia 39, 1:2 Sandqvist 40, 2:2 Miguez 77, 3:2 Miguez 84
 
-<IMG SRC="xshadow.gif.pagespeed.ic.AbdeNVcmzw.png" ALT="-----">
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 16.07.50  (15.00) São Paulo, Estadio Pacaembu
 
@@ -396,16 +375,16 @@ SWE - ESP 3:1 (2:0)
 
 (+11000) van der Meer HOL, Garcia USA, Lutz SUI
 
-**SWE**: Svensson - Samuelsson, E.Nilsson (c), Andersson - Johansson, Gärd -
+SWE: Svensson - Samuelsson, E.Nilsson (c), Andersson - Johansson, Gärd -
 Sundqvist, Palmer, Mellberg, Rydell, Jönsson
-**ESP**: Eizaguirre - Asensi, Parra, Alonzo - Silva, Puchades - Basora,
+ESP: Eizaguirre - Asensi, Parra, Alonzo - Silva, Puchades - Basora,
 Hernandez, Zarra (c), Panizo, Juncosa
 
 1:0 Sundqvist 15, 2:0 Mellberg 34, 3:0 Palmer 79, 3:1 Zarra 82
 
-**NOTE**: Some sources award Sundqvist's goal to Jonsson
+NOTE: Some sources award Sundqvist's goal to Jonsson
 
-<IMG SRC="xshadow.gif.pagespeed.ic.AbdeNVcmzw.png" ALT="-----">
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 16.07.50  (15.00) Rio de Janeiro, Estadio Maracaná
 
@@ -413,9 +392,9 @@ URU - BRA 2:1 (0:0)
 
 (-200000) Reader ENG, Ellis ENG, Mitchell SCO
 
-**URU**: Máspoli - M.Gonzáles, Tejera, Gambetta - Varela (c), Andrade - Ghiggia,
+URU: Máspoli - M.Gonzáles, Tejera, Gambetta - Varela (c), Andrade - Ghiggia,
 Peréz, Miguez, Schiaffino, Morán
-**BRA**: Barbosa - Augusto (c), Juvenal, Bauer - Danilo, Bigode - Friaça, Zizinho,
+BRA: Barbosa - Augusto (c), Juvenal, Bauer - Danilo, Bigode - Friaça, Zizinho,
 Ademir. Jair, Chico
 
 0:1 Friaça 46, 1:1 Schiaffino 58, 2:1 Ghiggia 61
@@ -425,10 +404,7 @@ Ademir. Jair, Chico
 3. SWE          3  1 0 2  2  6-11
 4. ESP          3  0 1 2  1  4-11
 
-
-‹§scorers›
-
-## Scorers' list
+== Scorers' list  ‹§scorers›
 
 9 - Ademir BRA
 5 - Miguez URU
@@ -444,42 +420,36 @@ Ademir. Jair, Chico
 In total 88 goals (3 p, 6 h, 1 f, 1 o), 4.00 per match. Most goals BRA (22),
 BOL without goals. 46 players scored.
 
+== Coaches, assistants, reserve players  ‹§coaches›
 
-‹§coaches›
-
-## Coaches, assistants, reserve players
-
-**BOL**: M. Pretto, F. Deheza | Aparicio, Aráoz, Arraya, Brown, Carrera,
+BOL: M. Pretto, F. Deheza | Aparicio, Aráoz, Arraya, Brown, Carrera,
 Godoy-Veizaga, Guerra, Mena, Saavedra-Araujo
-**BRA**: F. Costa, V. Feola | Nena, Castilho, Adãosinho, Rodriguez,
+BRA: F. Costa, V. Feola | Nena, Castilho, Adãosinho, Rodriguez,
 N.dos Santos
-**CHI**: A. Buccicardi, F. Reyes | Campos Quiros, Flores, Infante-Bencolet,
+CHI: A. Buccicardi, F. Reyes | Campos Quiros, Flores, Infante-Bencolet,
 Quitral-Encina, Saez-Alvárez, Urres-Martinez
-**ENG**: W. Witterbottom (J. Trotter, W. Bidding) | Cockburn, Ditchburn,
+ENG: W. Witterbottom (J. Trotter, W. Bidding) | Cockburn, Ditchburn,
 Nicholson, Scott, Taylor, Watson
-**ESP**: G. Eisaguirre, R. Diaz | Acuña Noya, Nando, Lesmes-Bobed,
+ESP: G. Eisaguirre, R. Diaz | Acuña Noya, Nando, Lesmes-Bobed,
 Alvarez
-**ITA**: F. Novo, A. Baredlli, R. Copernico, W. Stancome | Caprile, Cesari,
+ITA: F. Novo, A. Baredlli, R. Copernico, W. Stancome | Caprile, Cesari,
 Lorensi, Tognon
-**JUG**: M. Arsenijević, L. Bročić | Atanacković, Beara, Broketa, Cojić,
+JUG: M. Arsenijević, L. Bročić | Atanacković, Beara, Broketa, Cojić,
 Firm, Katnić, Palfi, Radovniković, Zlatković
-**MEX**:  O. Vial | Córdoba-Alcala, Panchito, Navarro-Galindez, Prieto-
+MEX:  O. Vial | Córdoba-Alcala, Panchito, Navarro-Galindez, Prieto-
 Sánchez
-**PAR**: M. Fleitas-Solich | Avalez, Báez, Berni, Cabrena, Calonga, Cañete,
+PAR: M. Fleitas-Solich | Avalez, Báez, Berni, Cabrena, Calonga, Cañete,
 Centurión, A.González, Osorio, Peredez, Soza
-**SUI**: F. Andreolli, C. Tachiron, S. Minelli | Beerli, Corrodi, Gyger,
+SUI: F. Andreolli, C. Tachiron, S. Minelli | Beerli, Corrodi, Gyger,
 Hasler, Kernen, Rey, Schneiter, Siegenthaler, Sreffen
-**SWE**:  R. Kock, G. Baynor | Ahlund, Bodin, Lindberg, S.Svensson,
+SWE:  R. Kock, G. Baynor | Ahlund, Bodin, Lindberg, S.Svensson,
 T.Svensson, Taper
-**URU**: J. López, R. Vásquez, E. Lastre, C. Abate, I. Kirschberg, E. Frigoli |
+URU: J. López, R. Vásquez, E. Lastre, C. Abate, I. Kirschberg, E. Frigoli |
 Britos, Burgueño, Martinez, Ortaño, Pini, Rijo, Romero, VIlchez
-**USA**: W. Giesler, W. Jeffrey | Annis, Coombes, di Orio, Gardassanich,
+USA: W. Giesler, W. Jeffrey | Annis, Coombes, di Orio, Gardassanich,
 McLaughlin
 
-
-‹§records›
-
-## Oldest and youngest
+== Oldest and youngest  ‹§records›
 
 Youngest                  Oldest
 player      Ibánez CHI     18y224d   Matthews ENG       35y151d
@@ -492,4 +462,4 @@ captain     Keough USA     22y222d   Nilsson SWE        33y344d
 coach       Vial MEX       31y210d   Jeffrey USA        58y 48d
 referee     Leafe ENG      35y210d   Reader ENG         53y236d
 
-
+<!-- end pre -->

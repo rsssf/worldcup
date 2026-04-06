@@ -4,12 +4,13 @@
   
 
 
-## World Cup 2010 - Match Details
+== World Cup 2010 - Match Details
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
+<!-- start pre -->
 
-## World Cup 2010, Final Tournament
+== World Cup 2010, Final Tournament
 
 Round 1
 
@@ -1310,15 +1311,13 @@ Official Awards
 Note: Diego Forlán (Uruguay) was ranked fourth; he also had 5 goals and 1 'assist', but in 654 minutes (according to FIFA's own count).
 
 
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹§stats›
+== Statistics  ‹§stats›
 
-## Statistics
-
-</a>
-GOALS:
+<!-- start pre -->GOALS:
 145 in 64 matches, for an average of 2.26 per match (2006: 147 for
 average of 2.30)
 Total goals in tournament history: 2,208
@@ -1339,14 +1338,13 @@ Felipe Melo (BRA), Suarez (URU), Yahia (ALG)
 Spectators: 3.178 million (average 49,670)
 
 
-
+<!-- end pre -->
 
 ‹overview 2010 final tournament, see page 2010f›
+
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-##
-‹§about›
-About this document</A>
+== About this document  ‹§about›
 
 Statistic overview thanks to Roberto Di Maggio;
 thanks to Eren Kocyigit for a correction
@@ -1360,6 +1358,6 @@ Author: Neil Morrison
 Last updated: 21 Jun 2024
 
 
-**(C) Copyright Neil Morrison and RSSSF 2010/24**
+(C) Copyright Neil Morrison and RSSSF 2010/24
 You are free to copy this document in whole or part provided that proper
 acknowledgement is given to the author. All rights reserved.
