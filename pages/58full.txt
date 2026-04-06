@@ -465,7 +465,7 @@ Kevan, Haynes, A'Court
 
 1:0 Ilyin 68
 
-<H1>Quarterfinals</H2>  ‹§4fin›
+== Quarterfinals  ‹§4fin›
 
 19.06.58  (14.00) Solna, Raasunda Stadion
 
@@ -618,7 +618,7 @@ AUT: J. Argauer, J. Molzer | Berschandt, Dienst, Engelmeier, Hammerl,
 Ninaus, Puschnik
 BRA: V. I. Feola, P. L. Amaral | de Castilho, Calazana, Mauro, de
 Oliveira, Oreco, Pepé, Claudio Pinto
-<N>CZE</B>: K. Kolský | Gajdas, Moravčik, ©afránek, Scherer, Schrojf, Staco
+CZE: K. Kolský | Gajdas, Moravčik, ©afránek, Scherer, Schrojf, Staco
 ENG: W. Winterbottom, H. Shepherdson, J. Mears | R. Charlton, Hodgkinson,
 Hopkinson, Norman, Setters, Siller, Smith
 FRA: F. Nicolas, A. Batteux, J. Snella, A. Thépot | Bellot, Bruey,

@@ -523,7 +523,7 @@ JUG: A. Tirnanić (F. Wölf, B. Peąić, L. Lemeąić, M. Ćrić) | Belin,
 Kralj, Mantula, Milovanov, Ognjanov, Pepec, Petaković, Spajić, Veselinović,
 Zeković
 KOR: Kim Young-sik | Han Neung-chul, Lee Sang-yi
-<M>MEX</B>: G. Vial ***, A. Lópes-Herranz | Blaco, Bravo-Martinez, Carús,
+MEX: G. Vial ***, A. Lópes-Herranz | Blaco, Bravo-Martinez, Carús,
 Cortés, Jinish, Nájera, Ochoa Gil, Roca Garcia, Septien
 SCO: A. Beattle | Anderson, Combe, copland, Evans, A.Hamilton, G.Hamilton,
 Henderson, Mathers, McMillan, Wilson
