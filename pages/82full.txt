@@ -675,7 +675,7 @@ NZL: van Hattum - Dods, Almond, Elrick, Herbert - Sumner (c), McKay, Cresswell
 3. SCO          3  1 1 1  3  8-8
 4. NZL          3  0 0 3  0  2-12
 
-= Second  phase
+= Second phase
 
 == Group 1 - BEL POL ZSR  ‹§gr1›
 
