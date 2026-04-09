@@ -1,5 +1,5 @@
   <!--
-     source: https://www.rsssf.org/tables/2018q.html
+     source: https://rsssf.org/tables/2018q.html
     -->
   
 
