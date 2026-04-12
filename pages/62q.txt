@@ -6,7 +6,6 @@
 
 == World Cup 1962 Qualifying
 
-<!-- start pre -->
 Qualified as hosts: Chile
 Qualified as holders: Brazil
 
@@ -17,7 +16,7 @@ Europe Group 1 [Switzerland]
 28.05.61  Stockholm     Sweden           4-0 Switzerland
 04.10.61  Brussel       Belgium          0-2 Sweden
 29.10.61  Bern          Switzerland      3-2 Sweden
-Playoff:
+▪ Playoff ▪
 12.11.61  Berlin        Switzerland      2-1 Sweden
 
 Europe Group 2 [Bulgaria]
@@ -27,7 +26,7 @@ Europe Group 2 [Bulgaria]
 28.09.61  Paris         France           5-1 Finland
 29.10.61  Sofia         Bulgaria         3-1 Finland
 12.11.61  Sofia         Bulgaria         1-0 France
-Playoff:
+▪ Playoff ▪
 16.12.61  Milano        Bulgaria         1-0 France
 
 Europe Group 3 [West Germany]
@@ -70,14 +69,14 @@ Bulgaria in the ‹1960 Olympic qualifying tournament, see page ../tableso/ol196
 in the ‹1960 European Championship, see page 60e›), Italy had a walkover.
 
 Subgroup B
-1st round
+▪ 1st round ▪
 13.11.60  Nicosia       Cyprus           1-1 Israel
 27.11.60  Ramat Gan     Israel           6-1 Cyprus
-2nd round
+▪ 2nd round ▪
 14.03.61  Ramat Gan     Israel           1-0 Ethiopia
 19.03.61  Ramat Gan     Ethiopia         2-3 Israel
 
-Playoff:
+▪ Playoff ▪
 15.10.61  Ramat Gan     Israel           2-4 Italy
 04.11.61  Torino        Italy            6-0 Israel
 
@@ -88,14 +87,14 @@ Europe Group 8 [Czechoslovakia]
 26.09.61  Glasgow       Scotland         3-2 Czechoslovakia
 08.10.61  Dublin        Ireland          1-3 Czechoslovakia
 29.10.61  Praha         Czechoslovakia   7-1 Ireland
-Playoff:
-29.11.61  Brussel       Czechoslovakia   4-2 Scotland        [aet]
+▪ Playoff ▪
+29.11.61  Brussel       Czechoslovakia   4-2 Scotland        (aet)
 
 Europe Group 9 [Spain]
 19.04.61  Cardiff       Wales            1-2 Spain
 18.05.61  Madrid        Spain            1-1 Wales
 This entitled Spain to a playoff with the winner of Africa.
-Playoff:
+▪ Playoff ▪
 12.11.61  Casablanca    Morocco          0-1 Spain
 23.11.61  Madrid        Spain            3-2 Morocco
 
@@ -103,7 +102,7 @@ Europe Group 10 [Yugoslavia]
 04.06.61  Beograd       Yugoslavia       2-1 Poland
 25.06.61  Chorzów       Poland           1-1 Yugoslavia
 This entitled Yugoslavia to a playoff with the winner of Asia.
-Playoff:
+▪ Playoff ▪
 08.10.61  Beograd       Yugoslavia       5-1 South Korea
 26.11.61  Seoul         South Korea      1-3 Yugoslavia
 
@@ -121,7 +120,7 @@ South America Group 13 [Colombia]
 
 North and Central America and Paraguay Group 14 [Mexico]
 
-1st round
+▪ 1st round ▪
 
 Subgroup A
 06.11.60  Los Angeles   USA              3-3 Mexico
@@ -134,14 +133,14 @@ Subgroup B
 11.09.60  San José      Costa Rica       5-0 Honduras
 25.09.60  Tegucigalpa   Honduras         1-1 Guatemala
 02.10.60  Guatemala     Guatemala        n/p Honduras        [match not played and awarded 0-3 to Honduras]
-Playoff:
+▪ Playoff ▪
 14.01.61  Guatemala     Costa Rica       1-0 Honduras
 
 Subgroup C
 02.10.60  Paramaribo    Surinam          1-2 Dutch Antilles
 27.11.60  Willemstad    Dutch Antilles   0-0 Surinam
 
-2nd round
+▪ 2nd round ▪
 
 22.03.61  San José      Costa Rica       1-0 Mexico             1.Mexico           4  2  1  1  11- 2  5
 29.03.61  San José      Costa Rica       6-0 Dutch Antilles     2.Costa Rica       4  2  0  2   8- 6  4
@@ -151,7 +150,7 @@ Subgroup C
 21.05.61  Willemstad    Dutch Antilles   0-0 Mexico
 
 Mexico required to play off against Paraguay.
-Playoff:
+▪ Playoff ▪
 29.10.61  Cd. de Mexico Mexico           1-0 Paraguay
 05.11.61  Asunción      Paraguay         0-0 Mexico
 
@@ -159,7 +158,7 @@ Africa Group 15 [none]
 
 ‹African Qualifying Match Details, see page 62quafr›
 
-1st round
+▪ 1st round ▪
 
 Subgroup A
 Sudan and Egypt withdrew.
@@ -167,15 +166,15 @@ Sudan and Egypt withdrew.
 Subgroup B
 30.10.60  Casablanca    Morocco          2-1 Tunisia
 13.11.60  Tunis         Tunisia          2-1 Morocco
-Playoff:
-22.01.61  Palermo       Morocco          1-1 Tunisia         [aet]
+▪ Playoff ▪
+22.01.61  Palermo       Morocco          1-1 Tunisia         (aet)
 Morocco progress by toss of coin.
 
 Subgroup C
 28.08.60  Accra         Ghana            4-1 Nigeria
 10.09.60  Lagos         Nigeria          2-2 Ghana
 
-2nd round
+▪ 2nd round ▪
 02.04.61  Accra         Ghana            0-0 Morocco
 28.05.61  Casablanca    Morocco          1-0 Ghana
 Morocco required to play off with the winner of Europe Group 9 (see above).
@@ -186,7 +185,6 @@ Indonesia withdrew
 11.06.61  Tokyo         Japan            0-2 South Korea
 South Korea required to play off with the winner of Europe Group 10 (see above).
 
-<!-- end pre -->
 
 ‹Detailed Infos, see page 62qual›
 
@@ -198,20 +196,9 @@ South Korea required to play off with the winner of Europe Group 10 (see above).
 
 ‹Overview File, see page ../tablesw/worldcup›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
-
-== About this document  ‹§about›
-
-Prepared and maintained by Karel Stokkermans and Sergio
-Henrique Jarreta for the
-‹Rec.Sport.Soccer Statistics Foundation›
 
 
-Authors: Karel Stokkermans and Sergio Henrique Jarreta
-Last updated: 28 May 2020
 
 
-(C) Copyright Karel Stokkermans, Sergio Henrique Jarreta
-and RSSSF 1995/2020
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the authors. All rights reserved.
+<!-- $about$ -->
+

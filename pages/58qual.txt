@@ -26,7 +26,6 @@
 
 == Europe
 
-<!-- start pre -->
 
 31 teams entered, including GER (champions) and SWE (host). CYP and TUR
 alloted to a mixed Euro-Afro-Asian zone, both withdrew after seeding.
@@ -244,7 +243,7 @@ Group 12 (1957)  ‹§gr12›
 
 Group 13 (1957)  ‹§gr13›
 
-First Round
+▪ First Round ▪
 
 Subgroup A
 
@@ -287,7 +286,7 @@ Subgroup B
 - AHO-GUA match not played due to COS qualifying anyway; COS-GUA match
 interrupted in 66 min by GUA abandoning the pitch; result affirmed.
 
-Second Round
+▪ Second Round ▪
 
 20,10. Mexico Ct. MEX-COS 2:0 (0:0) Calderón, Sesma (Husband ENG)
 27.10. San José   COS-MEX 1:1 (1:1) Soto 32 - L.Lizorio 27 (Husband ENG)
@@ -311,14 +310,14 @@ Preliminaries
 
 - TAI withdrew, INA had a walkover
 
-First Round
+▪ First Round ▪
 
 (1)
 12.05. Djakarta   INA-CHN 2:0 (0:0) Ramang (2) (Ionni ITA)
 02.06. Peking     CHN-INA 4:3 (2:1) Ha Ching Kuang, Nien We Se, Tjiang Fung Ken,
                                     Fuk Chen - Siang Liong, Ramang, Witarsa
                                     (Chakravarti IND)
-23.06. Rangoon    INA-CHN 0:0 [aet] (U Ba Thaung BIR)
+23.06. Rangoon    INA-CHN 0:0 (aet) (U Ba Thaung BIR)
 
 - INA progressed on better goal average (1.25 vs. 0.80)
 
@@ -330,12 +329,12 @@ First Round
 08.03. Khartoum   SUD-SYR 1:0 (0:0) M.Osman (Pieri ITA)
 24.05. Damascus   SYR-SUD 1:1 (1:0) Ciabra - M.Osman (loannidis GRE)
 
-Second Round
+▪ Second Round ▪
 
 (l) - INA withdrew, ISR had a walkover
 (2) - EGY withdrew, SUD had a walkover
 
-Third Round
+▪ Third Round ▪
 
 - SUD withdrew, ISR had a walkover
 
@@ -344,5 +343,4 @@ Play-off game for ISR (1958)
 15.01. Tel-Aviv     ISR-WAL 0:2 (0:1) Allchurch, Bowen (Guigue FRA)
 05.02. Cardiff      WAL-ISR 2:0 (0:0) Allchurch, C.Jones (Schipper HOL)
 
-<!-- end pre -->
 

@@ -29,7 +29,6 @@
 progressing into the finals. Teams finishing on level points had a play-off
 game.
 
-<!-- start pre -->
 
 Group 1 (1968-69)  ‹§gr1›
 
@@ -292,7 +291,7 @@ zonal groups and subsequent cup pairings progressing into the finals.
 
 Group 12 (1968-69)  ‹§gr12›
 
-First Round
+▪ First Round ▪
 
 Subgroup A
 
@@ -363,7 +362,7 @@ Subgroup D
 2.SUR   4   4  2  0  2  10- 9
 3.AHO   4   2  1  0  3   3- 9
 
-Second Round
+▪ Second Round ▪
 
 (1)
 20.04. Port-au-Pr.HAI-USA  2:0 (1:0) G.St.Vil, Obas (Segura MEX)
@@ -376,7 +375,7 @@ Second Round
 26.06. Mexico Ct. SAL-HON  3:2 (2:2,2:2,2:1) Acevedo, Martinez (2) -
                                      R.Gómez (2) (Elizalde MEX)
 
-Third Round
+▪ Third Round ▪
 
 21.09. Port-au-Pr.HAI-SAL  1:2 (0:1) François - Acevedo, Rodriguez (Yamasaki
                                      MEX)
@@ -390,7 +389,7 @@ final group members. Winners progressing into the finals.
 
 Group 13 (1968-69)  ‹§gr13›
 
-First Round
+▪ First Round ▪
 
 (1)
 17.11. Algiers    ALG-TUN 1:2 (1:0) Amirouche 29 p - Chakroun 73,75 (Barde
@@ -423,7 +422,7 @@ First Round
 (6)
 GHA - bye
 
-Second Round
+▪ Second Round ▪
 
 (1)
 27.04. Tunis      TUN-MAR 0:0       (Kitabdjian FRA)
@@ -443,7 +442,7 @@ Second Round
                                     SEN)
 18.05. Accra      GHA-NGA 1:1 (1:1) Ola - Okoye (Nahounou IVC)
 
-Third Round
+▪ Third Round ▪
 
 13.09. Ibadan     NGA-SUD 2:2 (2:2) Okoye, Lawal - El-Dim, El-Sid (Mohandi
                                     ALG)
@@ -486,7 +485,7 @@ First Round (tournament in South Korea)
 2.KOR   4   4  1  2  1   6- 5
 3.JAP   4   2  0  2  2   4- 8
 
-Second Round
+▪ Second Round ▪
 
 (1) - all matches in Mozambique (boycott of Rhodesia)
 
@@ -501,7 +500,7 @@ Second Round
                                     (Nassiri IRN)
 01.10. Tel-Aviv   ISR-NZE 2:0 (2:0) Spiegler 24, Spiegel 33 (Nassiri IRN)
 
-Third Round
+▪ Third Round ▪
 
 04.12. Tel-Aviv   ISR-AUS 1:0 (1:0) Spiegel 18 (Marschall AUT)
 14.12. Sydney     AUS-ISR 1:1 (0:0) Watkiss 87 - Spiegler 8 (Marschall AUT)
@@ -510,4 +509,3 @@ Third Round
 
 2 teams entered, allotted to the Asian zone (see ‹Group 14, see §gr14›)
 
-<!-- end pre -->

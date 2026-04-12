@@ -16,12 +16,13 @@
     <LI>‹Oceania, see §oce›
 </LI></UL></MENU>
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Europe  ‹§eur›
 
-<!-- start pre -->
-Group A
+▪ Group A ▪
 
  1.SERBIA        8  6  2  0 18- 9 20
  2.Portugal      8  5  2  1 17- 6 17  Playoff
@@ -50,7 +51,7 @@ Group A
 14-11-21 Luxembourg      Luxembourg    0-3 Ireland
 14-11-21 Lisboa          Portugal      1-2 Serbia
 
-Group B
+▪ Group B ▪
 
  1.SPAIN         8  6  1  1 15- 5 19
  2.Sweden        8  5  0  3 12- 6 15  Playoff
@@ -79,7 +80,7 @@ Group B
 14-11-21 Athens          Greece        1-1 Kosovo
 14-11-21 Sevilla         Spain         1-0 Sweden
 
-Group C
+▪ Group C ▪
 
  1.SWITZERLAND   8  5  3  0 15- 2 18
  2.Italy         8  4  4  0 13- 2 16  Playoff
@@ -108,7 +109,7 @@ Group C
 15-11-21 Belfast         N. Ireland    0-0 Italy
 15-11-21 Luzern          Switzerland   4-0 Bulgaria
 
-Group D
+▪ Group D ▪
 
  1.FRANCE        8  5  3  0 18- 3 18
  2.Ukraine       8  2  6  0 11- 8 12  Playoff
@@ -137,7 +138,7 @@ Group D
 16-11-21 Zenica          Bosnia Herz.  0-2 Ukraine
 16-11-21 Helsinki        Finland       0-2 France
 
-Group E
+▪ Group E ▪
 
  1.BELGIUM       8  6  2  0 25- 6 20
  2.Wales         8  4  3  1 14- 9 15  Playoff
@@ -166,7 +167,7 @@ Group E
 16-11-21 Praha           Czech Rep.    2-0 Estonia
 16-11-21 Cardiff         Wales         1-1 Belgium
 
-Group F
+▪ Group F ▪
 
  1.DENMARK      10  9  0  1 30- 3 27
  2.Scotland     10  7  2  1 17- 7 23  Playoff
@@ -206,7 +207,7 @@ Group F
 15-11-21 Netanya         Israel        3-2 Faroe Islands
 15-11-21 Glasgow         Scotland      2-0 Denmark
 
-Group G
+▪ Group G ▪
 
  1.NETHERLANDS  10  7  2  1 33- 8 23
  2.Turkey       10  6  3  1 27-16 21  Playoff
@@ -246,7 +247,7 @@ Group G
 16-11-21 Podgorica       Montenegro    1-2 Turkey
 16-11-21 Rotterdam       Netherlands   2-0 Norway
 
-Group H
+▪ Group H ▪
 
  1.CROATIA      10  7  2  1 21- 4 23
  2.Russia       10  7  1  2 19- 6 22  Playoff
@@ -286,7 +287,7 @@ Group H
 14-11-21 Valletta        Malta         0-6 Slovakia
 14-11-21 Ljubljana       Slovenia      2-1 Cyprus
 
-Group I
+▪ Group I ▪
 
  1.ENGLAND      10  8  2  0 39- 3 26
  2.Poland       10  6  2  2 30-11 20  Playoff
@@ -326,7 +327,7 @@ Group I
 15-11-21 Warszawa        Poland        1-2 Hungary
 15-11-21 Serravalle      San Marino   0-10 England
 
-Group J
+▪ Group J ▪
 
  1.GERMANY      10  9  0  1 36- 4 27
  2.N. Macedonia 10  5  3  2 23-11 18  Playoff
@@ -367,43 +368,43 @@ Group J
 14-11-21 Skopje          N. Macedonia  3-1 Icelan
 
 
-Playoff Stage
+▪ Playoff Stage ▪
 
 Path A
 
-Semifinals
+▪ Semifinals ▪
 24- 3-22 Cardiff         Wales         2-1 Austria
  1- 6-22 Glasgow         Scotland      1-3 Ukrain
 
-Final
+▪ Final ▪
  5- 6-22 Cardiff         Wales         1-0 Ukraine
 
 Path B
 
-Semifinals
+▪ Semifinals ▪
 24- 3-22 Moskva          Russia        awd Poland        [awarded 0-3 because of suspension Russia]
-24- 3-22 Solna           Sweden        1-0 Czech Rep.    [aet]
+24- 3-22 Solna           Sweden        1-0 Czech Rep.    (aet)
 
-Final
+▪ Final ▪
 29- 3-22 Chorzów         Poland        2-0 Sweden
 
 Path C
 
-Semifinals
+▪ Semifinals ▪
 24-  3-22 Palermo        Italy         0-1 North Macedonia
 24-  3-22 Oporto         Portugal      3-1 Turkey
 
-Final
+▪ Final ▪
 29-  3-22 Oporto         Portugal      2-0 North Macedonia
 
 NB: Wales, Poland and Portugal qualified
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== South America  ‹§sam›
 
-<!-- start pre -->
 NB: 5th placed team qualify for playoff against AFC 5th placed team (Australia)
 
  1.BRAZIL       17 14  3  0 40- 5 45
@@ -514,16 +515,16 @@ AFC/CONMEBOL Playoff
 13- 6-22 Al-Rayyan       Australia     0-0 Peru          [aet, 5-4 pen.]
 
 NB: Australia qualified
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Africa  ‹§afr›
 
-<!-- start pre -->
-First Round
+▪ First Round ▪
 
-First Legs
+▪ First Legs ▪
  4- 9-19 Bahir Dar       Ethiopia      0-0 Lesotho
  4- 9-19 Asmara          Eritrea       1-2 Namibia
  4- 9-19 Bujumbura       Burundi       1-1 Tanzania
@@ -539,7 +540,7 @@ First Legs
  6- 9-19 Moroni          Comoros       1-1 Togo
  7- 9-19 Francistown     Botswana      0-0 Malawi
 
-Second Legs
+▪ Second Legs ▪
  8- 9-19 Maseru          Lesotho       1-1 Ethiopia
  8- 9-19 Dar es Salaam   Tanzania      1-1 Burundi       [aet, 3-0 pen.]
  8- 9-19 Freetown        Sierra Leone  1-0 Liberia
@@ -555,9 +556,9 @@ Second Legs
 10- 9-19 Omrurman        Sudan         0-0 Chad
 10- 9-19 Kigali          Rwanda        7-0 Seychelles
 
-Second Round
+▪ Second Round ▪
 
-Group A
+▪ Group A ▪
 
  1.ALGERIA       6  4  2  0 25- 4 14
  2.Burkina Faso  6  3  3  0 12- 4 12
@@ -577,7 +578,7 @@ Group A
 15-11-21 Niamey          Niger         7-2 Djibouti
 16-11-21 Blida           Algeria       2-2 Burkina Faso
 
-Group B
+▪ Group B ▪
 
  1.TUNISIA       6  4  1  1 11- 2 13
  2.Equatorial G. 6  3  2  1  6- 5 11
@@ -597,7 +598,7 @@ Group B
 16-11-21 Tunis           Tunisia       3-1 Zambia
 16-11-21 Nouakchott      Mauritania    1-1 Equatorial Guinea
 
-Group C
+▪ Group C ▪
 
  1.NIGERIA       6  4  1  1  9- 3 13
  2.Cape Verde    6  3  2  1  8- 6 11
@@ -617,7 +618,7 @@ Group C
 16-11-21 Lagos           Nigeria       1-1 Cape Verde
 16-11-21 Tanger          Liberia       3-1 Central African Republic
 
-Group D
+▪ Group D ▪
 
  1.CAMEROON      6  5  0  1 12- 3 15
  2.Ivory Coast   6  4  1  1 10- 3 13
@@ -637,7 +638,7 @@ Group D
 16-11-21 Cotonou         Mozambique    1-0 Malawi
 16-11-21 Douala          Cameroon      1-0 Ivory Coast
 
-Group E
+▪ Group E ▪
 
  1.MALI          6  5  1  0 11- 0 16
  2.Uganda        6  2  3  1  3- 2  9
@@ -657,7 +658,7 @@ Group E
 14-11-21 Agadir          Mali          1-0 Uganda
 15-11-21 Nairobi         Kenya         2-1 Rwanda
 
-Group F
+▪ Group F ▪
 
  1.EGYPT         6  4  2  0 10- 4 14
  2.Gabon         6  2  1  3  7- 8  7
@@ -677,7 +678,7 @@ Group F
 16-11-21 Alexandria      Egypt         2-1 Gabon
 16-11-21 Benghazi        Libya         1-1 Angola
 
-Group G
+▪ Group G ▪
 
  1.GHANA         6  4  1  1  7- 3 13
  2.South Africa  6  4  1  1  6- 2 13
@@ -697,7 +698,7 @@ Group G
 14-11-21 Harare          Zimbabwe      1-1 Ethiopia
 14-11-21 Cape Coast      Ghana         1-0 South Africa
 
-Group H
+▪ Group H ▪
 
  1.SENEGAL       6  5  1  0 15- 4 16
  2.Togo          6  2  2  2  5- 6  8
@@ -717,7 +718,7 @@ Group H
 14-11-21 Thiès           Senegal       2-0 Congo
 15-11-21 Joahhnesburg    Namibia       0-1 Togo
 
-Group I
+▪ Group I ▪
 
  1.MOROCCO       6  6  0  0 20- 1 18
  2.Guinea-Bis.   6  1  3  2  5-11  6
@@ -737,7 +738,7 @@ Group I
 15-11-21 Marrakech       Guinea-Bissau 0-0 Sudan
 16-11-21 Casablanca      Morocco       3-0 Guinea
 
-Group J
+▪ Group J ▪
  
  1.CONGO-KINSH.  6  3  2  1  9- 3 11
  2.Benin         6  3  1  2  5- 4 10
@@ -757,37 +758,37 @@ Group J
 14-11-21 Kinshasa        Congo-Kinsh.  2-0 Benin
 14-11-21 Antananarivo    Madagascar    1-1 Tanzania
  
-Third Round
+▪ Third Round ▪
  
-First Legs
+▪ First Legs ▪
 25- 3-22 Cairo           Egypt         1-0 Senegal
 25- 3-22 Douala          Cameroon      0-1 Algeria
 25- 3-22 Kumasi          Ghana         0-0 Nigeria
 25- 3-22 Kinshasa        Congo-Kinsh.  1-1 Morocco
 25- 3-22 Bamako          Mali          0-1 Tunisia
  
-Second Legs
+▪ Second Legs ▪
 29- 3-22 Dakar           Senegal       1-0 Egypt         [aet, 3-1 pen.]
-29- 3-22 Blida           Algeria       1-2 Cameroon      [aet]
+29- 3-22 Blida           Algeria       1-2 Cameroon      (aet)
 29- 3-22 Abuja           Nigeria       1-1 Ghana
 29- 3-22 Casablanca      Morocco       4-1 Congo-Kinshasa
 29- 3-22 Tunis           Tunisia       0-0 Mali
 
 NB: Senegal, Cameroon, Ghana, Morocco and Tunisia qualified
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Asia  ‹§asi›
 
-<!-- start pre -->
-First Round
+▪ First Round ▪
 
 NB: the first stage also served as qualifying stage for the ‹2023 Asian Cup, see page 2023asch›
     (with the losers being eliminated)
 
-First Legs
+▪ First Legs ▪
  6- 6-19 Ulaanbaatar     Mongolia      2-0 Brunei
  6- 6-19 Zhuhai          Macao         1-0 Sri Lanka
  6- 6-19 Vientiane       Laos          0-1 Bangladesh
@@ -795,7 +796,7 @@ First Legs
  6- 6-19 Thimphu         Bhutan        1-0 Guam
  7- 6-19 Kuala Lumpur    Malaysia      7-1 East Timor
 
-Second Legs
+▪ Second Legs ▪
 11- 6-19 Bandar Seri B.  Brunei        2-1 Mongolia
 11- 6-19 Colombo         Sri Lanka     awd Macao         [awarded 3-0]
 11- 6-19 Dhaka           Bangladesh    0-0 Laos
@@ -803,7 +804,7 @@ Second Legs
 11- 6-19 Doha            Pakistan      1-2 Cambodia
 11- 6-19 Dededo          Guam          5-0 Bhutan
 
-Second Round
+▪ Second Round ▪
 
 NB: the second stage also served as qualifying stage for the ‹2023 Asian Cup, see page 2023asch›
     (with the group winners and five best runners-up qualifying for the final tournament and the
@@ -811,7 +812,7 @@ NB: the second stage also served as qualifying stage for the ‹2023 Asian Cup, 
     placed teams, fourth placed teams and three best fifth placed teams at group stage,
     the others entering a playoff round)
 
-Group A
+▪ Group A ▪
 
  1.SYRIA         8  7  0  1 22- 7 21
  2.CHINA         8  6  1  1 30- 3 19
@@ -840,7 +841,7 @@ Group A
 15- 6-20 Sharjah         Philippines   1-1 Maldives
 15- 6-20 Sharjah         China         3-1 Syria
 
-Group B
+▪ Group B ▪
 
  1.AUSTRALIA     8  8  0  0 28- 2 24
  2.Kuwait        8  4  2  2 19- 7 14
@@ -869,7 +870,7 @@ Group B
 15- 6-20 Kuwait City     Australia     1-0 Jordan
 15- 6-20 Kuwait City     Taiwan        1-2 Kuwait
 
-Group C
+▪ Group C ▪
 
  1.IRAN          8  6  0  2 34- 4 18
  2.IRAQ          8  5  2  1 14- 4 17
@@ -898,7 +899,7 @@ Group C
 15- 6-20 Arad            Iran          1-0 Iraq
 15- 6-20 Riffa           Bahrain       4-0 Hong Kong
 
-Group D
+▪ Group D ▪
 
  1.SAUDI ARABIA  8  6  2  0 22- 4 20
  2.Uzbekistan    8  5  0  3 18- 9 15
@@ -927,7 +928,7 @@ Group D
 15- 6-20 Riyadh          Saudi Arabia  3-0 Uzbekistan
 15- 6-20 Riyadh          Palestine     3-0 Yemen
 
-Group E
+▪ Group E ▪
 
  1.Qatar         8  7  1  0 18- 1 22  [played hors concours]
  2.OMAN          8  6  0  2 16- 6 18
@@ -956,7 +957,7 @@ Group E
 15- 6-20 Doha            India         1-1 Afghanistan
 15- 6-20 Doha            Bangladesh    0-3 Oman
 
-Group F
+▪ Group F ▪
 
  1.JAPAN         8  8  0  0 46- 2 24
  2.Tajikistan    8  4  1  3 14-12 13
@@ -985,7 +986,7 @@ Group F
 15- 6-20 Suita           Japan         5-1 Kyrgyzstan
 15- 6-20 Osaka           Tajikistan    4-0 Myanmar
 
-Group G
+▪ Group G ▪
 
  1.UA EMIRATES   8  6  0  2 23- 7 18
  2.VIETNAM       8  5  2  1 13- 5 17
@@ -1014,7 +1015,7 @@ Group G
 15- 6-20 Dubai           UA Emirates   3-2 Vietnam
 15- 6-20 Dubai           Thailand      0-1 Malaysia
 
-Group H
+▪ Group H ▪
 
  1.SOUTH KOREA   6  5  1  0 22- 1 16  [0-0]
  2.LEBANON       6  3  1  2 11- 8 10  [0-2, 0-0]
@@ -1046,9 +1047,9 @@ NB: Group winners and the five best runners-up teams qualified for third round.
     Qatar (first placed team) did not participate to third round.
     The same teams (including Qatar) qualified to ‹2023 Asian Cup, see page 2023asch›.
 
-Third Round
+▪ Third Round ▪
 
-Group A
+▪ Group A ▪
 
  1.IRAN         10  8  1  1 15- 4 25
  2.SOUTH KOREA  10  7  2  1 13- 3 23
@@ -1088,7 +1089,7 @@ Group A
 29- 3-22 Dubai           UA Emirates   1-0 South Korea
 29- 3-22 Dubai           Syria         1-1 Iraq
 
-Group B
+▪ Group B ▪
 
  1.SAUDI ARABIA 10  7  2  1 12- 6 23
  2.JAPAN        10  7  1  2 12- 4 22
@@ -1139,19 +1140,19 @@ AFC/CONMEBOL Playoff
 13- 6-22 Al-Rayyan       Australia     0-0 Peru          [aet, 5-4 pen.]
 
 NB: Australia qualified
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== North and Central America  ‹§nca›
 
-<!-- start pre -->
 
 Mexico, United States, Costa Rica, Jamaica and Honduras byes to third round.
 
-First Round
+▪ First Round ▪
 
-Group A
+▪ Group A ▪
 
  1.EL SALVADOR   4  3  1  0 13- 1 10
  2.Montserrat    4  2  2  0  9- 4  8
@@ -1170,7 +1171,7 @@ Group A
  8- 6-21 St. George's    Grenada       1-2 Montserrat
  8- 6-21 San Salvador    El Salvador   3-0 Antigua and Barbuda
 
-Group B
+▪ Group B ▪
 
  1.CANADA        4  4  0  0 27- 1 12
  2.Suriname      4  3  0  1 15- 4  9
@@ -1189,7 +1190,7 @@ Group B
  8- 6-21 Bradenton       Bermuda       1-1 Cayman Islands
  8- 6-21 Bridgeview      Canada        4-0 Suriname
 
-Group C
+▪ Group C ▪
 
  1.CURAÇAO       4  3  1  0 15- 1 10
  2.Guatemala     4  3  1  0 14- 0 10
@@ -1208,7 +1209,7 @@ Group C
  8- 6-21 St. George's    St.Vincent/G. 0-1 Cuba
  8- 6-21 Willemstad      Curaçao       0-0 Guatemala
 
-Group D
+▪ Group D ▪
 
  1.PANAMA        4  4  0  0 19- 1 12
  2.Dominican R.  4  2  1  1  8- 4  7
@@ -1227,7 +1228,7 @@ Group D
  8- 6-21 Santo Domingo   Barbados      1-1 Dominica
  8- 6-21 Panama City     Panama        3-0 Dominican Republic
 
-Group E
+▪ Group E ▪
 
  1.HAITI         3  3  0  0 13- 0  9
  2.Nicaragua     3  2  0  1 10- 1  6
@@ -1242,7 +1243,7 @@ Group E
  5- 6-21 Providenciales  Turks/Caicos 0-10 Haiti
  8- 6-21 Port-au-Prince  Haiti         1-0 Nicaragua
 
-Group F
+▪ Group F ▪
 
  1.ST. KITTS/N.  4  3  0  1  8- 2  9
  2.Trinidad/T.   4  2  2  0  6- 1  8
@@ -1261,19 +1262,19 @@ Group F
  8- 6-21 Basseterre      Guyana        0-2 Puerto Rico
  8- 6-21 Santo Domingo   Trinidad/T.   2-0 Saint Kitts and Nevis
 
-Second Round
+▪ Second Round ▪
 
-First Legs
+▪ First Legs ▪
 12- 6-21 Basseterre      St. Kitts/N.  0-4 El Salvador
 12- 6-21 Port-au-Prince  Haiti         0-1 Canada
 12- 6-21 Panama City     Panama        2-1 Curaçao
 
-Second Legs
+▪ Second Legs ▪
 15- 6-21 San Salvador    El Salvador   2-0 Saint Kitts and Nevis
 15- 6-21 Bridgeview      Canada        3-0 Haiti
 15- 6-21 Willemstad      Curaçao       0-0 Panama
 
-Third Round
+▪ Third Round ▪
 
  1.CANADA       14  8  4  2 23- 7 28
  2.MEXICO       14  8  4  2 17- 8 28
@@ -1347,21 +1348,21 @@ OFC/CONCACAF Playoff
 
 NB: Costa Rica qualified
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Oceania  ‹§oce›
 
-<!-- start pre -->
 
-Preliminary Round
+▪ Preliminary Round ▪
 
 13- 3-22 Doha            Tonga         n/p Cook Islands  [Tonga withdrew due to aftermath volcanic eruption]
 
-First Round
+▪ First Round ▪
 
-Group A
+▪ Group A ▪
 
  1.SOLOMON I.    1  1  0  0  3- 1  3
  2.TAHITI        1  0  0  1  1- 3  0
@@ -1375,7 +1376,7 @@ Group A
 24- 3-22 Doha            Vanuatu       n/p Cook Islands
 24- 3-22 Doha            Solomon I.    3-1 Tahiti
 
-Group B
+▪ Group B ▪
 
  1.NEW ZEALAND   3  3  0  0 12- 1  9
  2.PAPUA NEW G.  3  2  0  1  3- 2  6
@@ -1389,11 +1390,11 @@ Group B
 24- 3-22 Doha            New Zealand   7-1 New Caledonia
 24- 3-22 Doha            Fiji          1-2 Papua New Guinea
 
-Semifinals
+▪ Semifinals ▪
 27- 3-22 Doha            Solomon I.    3-2 Papua New Guinea
 27- 3-22 Doha            New Zealand   1-0 Tahiti
 
-Final
+▪ Final ▪
 30- 3-22 Doha            New Zealand   5-0 Solomon Islands
 
 NB: New Zealand qualify for playoff against 4th placed team in CONCACAF (Costa Rica)
@@ -1404,24 +1405,14 @@ OFC/CONCACAF Playoff
 
 NB: Costa Rica qualified
 
-<!-- end pre -->
 
 ‹Overview File, see page ../tablesw/worldcup›
 
 ‹2022 Final Tournament, see page 2022f›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
-
-== About this document  ‹§about›
-
-Prepared and maintained by Roberto Di Maggio for the
-‹Rec.Sport.Soccer Statistics Foundation›
 
 
-Author: Roberto Di Maggio
 
-Last updated: 19 Feb 2024
 
-(c) CopyrighRoberto Di Maggio and RSSSF 2022/24
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the author. All rights reserved.
+<!-- $about$ -->
+

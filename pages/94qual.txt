@@ -23,7 +23,6 @@
 
 == Europe
 
-<!-- start pre -->
 
 39 teams entered, including GER (champions) and ISR. LIE withdrew before
 seeding. JUG expulsed due to UN sanctions after seeding. Winners and
@@ -536,7 +535,7 @@ Carribean Zone (see preliminaries above)
 30.08. Kingstown  SVG-SUR 2:1 (1:1) Joseph 31, Dupont 81 - Francis 17
                                     (Black LUC)
 
-Second Round
+▪ Second Round ▪
 
 Group A - MEX and winners of pairs (1), (3), (6)
 
@@ -644,7 +643,7 @@ SAF, BFA by NAM and MWI by BEN.
 
 Group 10 (1992-93)  ‹§gr10›
 
-First Round
+▪ First Round ▪
 
 Zone A - ALG BUR GHA UGA
 
@@ -839,7 +838,7 @@ Zone I - GAM GUI KEN MLI
 
 Final Groups (1993)
 
-Group A
+▪ Group A ▪
 16.04. Tlemcen    ALG-IVC 1:1 (1:1) Tasfaout 28 - Ben Salah 4 (Yengo CON)
 02.05. Abidjan    IVC-NGA 2:1 (0:1) A.Traoré 70p, Quattara 75 - Yekini 5
                                     (Lim Kee Chong MRS)
@@ -855,7 +854,7 @@ Group A
 2.IVC   4   5  2  1  1   5- 6
 3.ALG   4   2  0  2  2   3- 7
 
-Group B
+▪ Group B ▪
 
 18.04. Casablanca MAR-SEN 1:0 (0:0) Chaouch 85 (Faye GAM)
 04.07. Lusaka     ZAM-MAR 2:1 (0:1) K.Bwalya 60, J.Bwalya 67 - Daoudi 16
@@ -874,7 +873,7 @@ SEN was postponed from 02.05 to 07.08
 2.ZAM   4   5  2  1  1   6- 2
 3.SEN   4   1  0  1  3   1- 8
 
-Group C
+▪ Group C ▪
 
 18.04. Yaounde    CAM-GUI 3:1 (1:0) Tchami 8,53, Ewane 89 - Sylla 62 (Medjiba
                                     ALG)
@@ -898,7 +897,7 @@ play in the final pool, two best progress.
 
 Group 11 (1993)  ‹§gr11›
 
-First Round
+▪ First Round ▪
 
 Group A - CHN IRK JOR JEM PAK - tournaments in Jordania and China
 
@@ -1180,7 +1179,7 @@ from group B to A, so that both groups had three teams. Winners of the
 groups played for the place to play-off against CONCACAF runners-up (group
 9) and, if succesful, against South American group 7 runners-up.
 
-Group 12  ‹§gr12›
+▪ Group 12 ▪
 
 First Round (1992)
 
@@ -1221,4 +1220,3 @@ Second Round - winner plays against group 9 runners-up
 06.06. Melbourne  AUS-NZE 3:0 (2:0) Veart 1, A.Vidmar 3, Zelic 49 (Uilenberg
                                     HOL)
 
-<!-- end pre -->

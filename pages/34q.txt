@@ -6,7 +6,6 @@
 
 == World Cup 1934 Qualifying
 
-<!-- start pre -->
 Hosts: Italy (not automatically qualified)
 Holders: Uruguay (did not enter)
 
@@ -55,15 +54,15 @@ Group 10 [Argentina]
 Chile withdrew, Argentina had a walkover.
 
 Group 11 [USA]
-1st round
+▪ 1st round ▪
 28.01.34  Port-au-Prince  Haiti            1-3 Cuba
 01.02.34  Port-au-Prince  Haiti            1-1 Cuba
 04.02.34  Port-au-Prince  Haiti            0-6 Cuba
-2nd round
+▪ 2nd round ▪
 04.03.34  Cd. de México   Mexico           3-2 Cuba
 11.03.34  Cd. de México   Mexico           5-0 Cuba
 18.03.34  Cd. de México   Mexico           4-1 Cuba
-3rd round
+▪ 3rd round ▪
 24.05.34  Roma            USA              4-2 Mexico
 
 NB: see also ‹Cuba in the 1934 World Cup versus Haiti and Mexico, see page 34cubacampaign›
@@ -73,7 +72,6 @@ Turkey withdrew
 16.03.34  Cairo           Egypt            7-1 Palestina
 06.04.34  Tel-Aviv        Palestina        1-4 Egypt
 
-<!-- end pre -->
 
 ‹Detailed Infos, see page 34qual›
 
@@ -83,22 +81,9 @@ Turkey withdrew
 
 ‹Overview File, see page ../tablesw/worldcup›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
-
-== About this document  ‹§about›
-
-Thanks to Davide Rota for corrections
-
-Prepared and maintained by Karel Stokkermans and Sergio
-Henrique Jarreta for the
-‹Rec.Sport.Soccer Statistics Foundation›
 
 
-Authors: Karel Stokkermans and Sergio Henrique Jarreta
-Last updated: 4 Nov 2021
 
 
-(C) Copyright Karel Stokkermans, Sergio Henrique Jarreta
-and RSSSF 1995/2021
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the authors. All rights reserved.
+<!-- $about$ -->
+

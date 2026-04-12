@@ -6,7 +6,6 @@
 
 == World Cup 1958 Qualifying
 
-<!-- start pre -->
 Qualified as hosts: Sweden
 Qualified as holders: West Germany
 
@@ -57,7 +56,7 @@ Europe Group 6 [Soviet Union]
 15.08.57  Helsinki        Finland         0-10 Soviet Union
 20.10.57  Chorzów         Poland           2-1 Soviet Union
 03.11.57  Warszawa        Poland           4-0 Finland
-Playoff:
+▪ Playoff ▪
 24.11.57  Leipzig         Soviet Union     2-0 Poland
 
 Europe Group 7 [Yugoslavia]
@@ -109,7 +108,7 @@ Central and North America Group 13 [Mexico]
 
 ‹Match Details Group 13, see page ../tablesw/worldcup-concacafqual.html#58q›
 
-1st round
+▪ 1st round ▪
 
 Subgroup A
 07.04.57  Cd. de México   Mexico           6-0 USA                1.Mexico           4  4  0  0  18- 2  8
@@ -127,20 +126,20 @@ Subgroup B
 04.08.57  Willemstad      Curaçao          1-2 Costa Rica
                           Curaçao          n/p Guatemala       [Guatemala did not show up]
 
-2nd round
+▪ 2nd round ▪
 
 20.10.57  Cd. de México   Mexico           2-0 Costa Rica
 27.10.57  San José        Costa Rica       1-1 Mexico
 
 Asia and Africa Group 14 [Wales]
 
-1st round
+▪ 1st round ▪
 
 Subgroup 1
 Taiwan withdrew, Indonesia had a walkover.
-12.05.57  Jakarta         Indonesia        2-0 China           [aet]
+12.05.57  Jakarta         Indonesia        2-0 China           (aet)
 02.06.57  Beijing         China            4-3 Indonesia
-Playoff:
+▪ Playoff ▪
 23.06.57  Rangoon         Indonesia        0-0 China
 Indonesia progress thanks to better goal average.
 
@@ -155,16 +154,16 @@ Subgroup 4
 08.03.57  Khartoum        Sudan            1-0 Syria
 24.05.57  Damascus        Syria            1-1 Sudan
 
-2nd round
+▪ 2nd round ▪
 
 Indonesia withdrew, Israel had a walkover.
 Egypt withdrew, Sudan had a walkover.
 
-3rd round
+▪ 3rd round ▪
 
 Sudan withdrew, Israel had a walkover.
 
-Playoff:
+▪ Playoff ▪
 Egypt and Sudan refused to play against Israel, while Indonesia insisted
 to meet Israel on neutral ground. Israel proclaimed winner of the zone,
 but required to play off against one of the teams having finished second
@@ -173,7 +172,6 @@ by the drawing of lots.
 15.01.58  Ramat Gan       Israel           0-2 Wales
 05.02.58  Cardiff         Wales            2-0 Israel
 
-<!-- end pre -->
 
 ‹Detailed Infos, see page 58qual›
 
@@ -185,20 +183,9 @@ by the drawing of lots.
 
 ‹Overview File, see page ../tablesw/worldcup›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
-
-== About this document  ‹§about›
-
-Prepared and maintained by Karel Stokkermans and Sergio
-Henrique Jarreta for the
-‹Rec.Sport.Soccer Statistics Foundation›
 
 
-Authors: Karel Stokkermans and Sergio Henrique Jarreta
-Last updated: 9 Aug 2023
 
 
-(C) Copyright Karel Stokkermans, Sergio Henrique Jarreta
-and RSSSF 1995/2023
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the authors. All rights reserved.
+<!-- $about$ -->
+

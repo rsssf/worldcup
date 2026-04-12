@@ -6,7 +6,6 @@
 
 == World Cup 1966 Qualifying
 
-<!-- start pre -->
 Qualified as hosts: England
 Qualified as holders: Brazil
 
@@ -17,7 +16,7 @@ Europe Group 1 [Bulgaria]
 27.10.65  Brussel         Belgium          5-0 Bulgaria
 10.11.65  Ramat Gan       Israel           0-5 Belgium
 21.11.65  Ramat Gan       Israel           1-2 Bulgaria
-Playoff:
+▪ Playoff ▪
 29.12.65  Firenze         Bulgaria         2-1 Belgium
 
 Europe Group 2 [West Germany]
@@ -110,7 +109,7 @@ Europe Group 9 [Spain]
 Syria withdrew.
 05.05.65  Dublin          Ireland          1-0 Spain
 27.10.65  Sevilla         Spain            4-1 Ireland
-Playoff:
+▪ Playoff ▪
 10.11.65  Paris           Spain            1-0 Ireland
 
 South America Group 10 [Uruguay]
@@ -128,7 +127,7 @@ South America Group 11 [Chile]
 07.08.65  Barranquilla    Colombia         2-0 Chile
 15.08.65  Guayaquil       Ecuador          2-2 Chile
 22.08.65  Santiago        Chile            3-1 Ecuador
-Playoff:
+▪ Playoff ▪
 12.10.65  Lima            Chile            2-1 Ecuador
 
 South America Group 12 [Argentina]
@@ -141,7 +140,7 @@ South America Group 12 [Argentina]
 
 North and Central America Group 13 [Mexico]
 
-1st round
+▪ 1st round ▪
 
 Subgroup A
 28.02.65  San Pedro Sula  Honduras         0-1 Mexico             1.Mexico           4  3  1  0   8- 2  7
@@ -167,7 +166,7 @@ Subgroup C
 07.03.65  Port of Spain   Trinidad/Tobago  0-1 Costa Rica
 14.03.65  Paramaribo      Surinam          6-1 Trinidad/Tobago
 
-2nd round
+▪ 2nd round ▪
 
 25.04.65  San José        Costa Rica       0-0 Mexico             1.MEXICO           4  3  1  0  12- 2  7
 03.05.65  Kingston        Jamaica          2-3 Mexico             2.Costa Rica       4  1  2  1   8- 2  4
@@ -182,36 +181,36 @@ Original Draw
 
 Africa
 
-First Round
+▪ First Round ▪
 
-Group 1
+▪ Group 1 ▪
 Ghana
 Guinea
 
-Group 2
+▪ Group 2 ▪
 Sudan
 Cameroon
 
-Group 3
+▪ Group 3 ▪
 Tunisia
 Algeria
 Liberia
 
-Group 4
+▪ Group 4 ▪
 Morocco
 Senegal
 Mali
 
-Group 5
+▪ Group 5 ▪
 Ethiopia
 Gabon
 
-Group 6
+▪ Group 6 ▪
 Egypt (United Arab Republic)
 Libya
 Nigeria
 
-Second Round
+▪ Second Round ▪
 winners 1 vs winners 5
 winners 2 vs winners 4
 winners 3 vs winners 6
@@ -223,7 +222,7 @@ North Korea
 South Korea
 South Africa
 
-Semifinals
+▪ Semifinals ▪
 
 winners Asia and 3 second round winners Africa
 
@@ -239,7 +238,6 @@ winners Asia and 3 second round winners Africa
 21.11.65  Phnom Penh      North Korea      6-1 Australia
 24.11.65  Phnom Penh      Australia        1-3 North Korea
 
-<!-- end pre -->
 
 ‹Detailed Infos, see page 66qual›
 
@@ -249,20 +247,9 @@ winners Asia and 3 second round winners Africa
 
 ‹Overview File, see page ../tablesw/worldcup›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
-
-== About this document  ‹§about›
-
-Prepared and maintained by Karel Stokkermans and Sergio
-Henrique Jarreta for the
-‹Rec.Sport.Soccer Statistics Foundation›
 
 
-Authors: Karel Stokkermans and Sergio Henrique Jarreta
-Last updated: 31 Dec 2005
 
 
-(C) Copyright Karel Stokkermans, Sergio Henrique Jarreta
-and RSSSF 1995/2005
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the authors. All rights reserved.
+<!-- $about$ -->
+

@@ -26,7 +26,6 @@
 
 == Europe
 
-<!-- start pre -->
 
 33 teams entered, including ITA (champions). Winners and runners up of
 four groups of five teams and wiiners three groups of four teams progress
@@ -351,7 +350,7 @@ Group 10 (1985)  ‹§gr10›
 
 - play-offs
 
-semifinals
+▪ semifinals ▪
 
 (1)
 27.10. Asunción   PAR-COL 3:0 (1:0) Hicks, Romero, Cabanas (Esposito ARG)
@@ -363,7 +362,7 @@ semifinals
                                     Navarro 45,77 (Martinez Bazan URU)
 03.11. Lima       PER-CHI 0:1 (0:0) Aravena 64 (Coelho BRA)
 
-final
+▪ final ▪
 
 10.11. Asunción   PAR-CHI 3:0 (1:0) Cabanas 9, Delgado 46, Garrido 84o
                                     (Coelho BRA)
@@ -379,7 +378,7 @@ progresses.
 
 Group 11 (1984-85)  ‹§gr11›
 
-First round
+▪ First round ▪
 
 (1)
 29.07. S.Salvador SAL-PUE 5:0 (4:0) Hernandez (2), Rivas, Alfaro, Medrano
@@ -421,7 +420,7 @@ First round
 15.08. Paramaribo   SUR-GUY 1:0(1:0)   Edwards                                             Lee AHO
 29.08. Georgetown   GUY-SUR 1:1(1:0)   Archer - Klinker                               Sirjuesingh TRI
 
-Second Round
+▪ Second Round ▪
 
 Subgroup A
 
@@ -472,7 +471,7 @@ Subgroup C
 2.USA   4   5  2  1  1   4- 3
 3.TRI   4   1  0  1  3   2- 7
 
-Third Round
+▪ Third Round ▪
 
 11.08. San José   COS-HON 2:2 (1:2) Solano 19, Williams 81 - Figueroa 8p,
                                     Betancourt 24 (Bellion USA)
@@ -497,7 +496,7 @@ but the following ones were not.
 
 Group 12 (1984-85)  ‹§gr12›
 
-First Round
+▪ First Round ▪
 
 (1)
 28.08. Cairo      EGY-ZIM 1:0 (1:0) A.Mayoub (Tesfaye ETH)
@@ -557,7 +556,7 @@ First Round
 
 - ANG won 4:3 on penalties
 
-Second round
+▪ Second round ▪
 
 (1)
 07.04. Lusaka     ZAM-CAM 4:1 (4:0) Chabala 24,38,40, Njovu 28 - Aoudou 70
@@ -597,7 +596,7 @@ Second round
 07.04. Abidjan    IVC-GHA 0:0       (Laouissi MAR)
 21.04. Acra       GHA-IVC 2:0 (0:0) N'ti. Al-Hassan (Bantsimba CON)
 
-Third Round
+▪ Third Round ▪
 
 (1)
 13.07. Algier     ALG-ZAM 2:0 (1:0) Bensaoula 15, Madjer 84 (Hussam El-Din
@@ -616,7 +615,7 @@ Third Round
 12.07. Cairo      EGY-MAR 0:0       (Valdemarca ZIM)
 28.07. Casablanca MAR-EGY 2:0 (1:0) Timoumi 37, Bouderbala 82 (Sene SEN)
 
-Fourth Round
+▪ Fourth Round ▪
 
 (1)
 06.10. Tunis      TUN-ALG 1:4 (1:2) Rakbaoui 16 - Menad 43,87, Madjer 24,
@@ -636,7 +635,7 @@ rounds.
 
 Group 13 (1985)  ‹§gr13›
 
-First Round
+▪ First Round ▪
 Subgroup A
 
 12.04. Rijad      ARS-EMI 0:0       (Sakran JOR)
@@ -695,7 +694,7 @@ Subgroup D
 
 - IRN withdrew after seeding
 
-Second Round
+▪ Second Round ▪
 
 (1)
 06.09. Bahrain    BHR-SYR 1:1 (1:0) Issa - Mahrous (Bash JOR)
@@ -708,7 +707,7 @@ Second Round
 
 - second leg in Saudi Arabia
 
-Third Round
+▪ Third Round ▪
 15.11. Damaszek   SYR-IRK 0:0       (Vautrot FRA)
 29.11. TaTf       IRK-SYR 3:1 (1:0) H.Saed, Shakir, Alawi - Al-Sel
                                     (Fredriksson SWE)
@@ -803,7 +802,7 @@ Subgroup D
 2.KLD   4   4  1  2  1   3- 2
 3.SIN   4   1  0  1  3   2-11
 
-Second Round
+▪ Second Round ▪
 
 (1)
 21.07. Seoul      KOR-INA 2:0 (0:0) Byun Byung-joo 74, Kim Joo-sung 83
@@ -816,7 +815,7 @@ Second Round
 22.09. Hongkong   HKG-JAP 1:2 (0:1) Wang Chi-Keung 80 - Kimura 45, Hara 89
                                     (Lee Kok Leong SIN)
 
-Third Round
+▪ Third Round ▪
 
 26.10. Tokio      JAP-KOR 1:2 (1:2) Kimura - Jung Jong-kwon, Lee Tae-ho
                                     (Singah SIN)
@@ -857,4 +856,3 @@ Group 15 (1985)  ‹§gr15›
 3.NZE   6   7  3  1  2  13- 7
 4.TAI   6   0  0  0  6   1-36
 
-<!-- end pre -->

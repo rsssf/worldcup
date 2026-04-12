@@ -6,7 +6,6 @@
 
 == World Cup 1974 Qualifying
 
-<!-- start pre -->
 Qualified as hosts: West Germany
 Qualified as holders: Brazil
 
@@ -23,7 +22,7 @@ Europe Group 1 [Sweden]
 23.05.73  Göteborg        Sweden           3-2 Austria
 13.06.73  Budapest        Hungary          3-3 Sweden
 11.11.73  La Valletta     Malta            1-2 Sweden
-Playoff:
+▪ Playoff ▪
 27.11.73  Gelsenkirchen   Sweden           2-1 Austria
 
 Europe Group 2 [Italy]
@@ -97,7 +96,7 @@ Europe Group 7 [Yugoslavia]
 21.02.73  Málaga          Spain            3-1 Greece
 21.10.73  Zagreb          Yugoslavia       0-0 Spain
 19.12.73  Athinai         Greece           2-4 Yugoslavia
-Playoff:
+▪ Playoff ▪
 13.02.74  Frankfurt       Yugoslavia       1-0 Spain
 
 Europe Group 8 [Scotland]
@@ -139,13 +138,13 @@ South America Group 12 [Chile]
 Venezuela withdrew
 29.04.73  Lima            Peru             2-0 Chile
 13.05.73  Santiago        Chile            2-0 Peru
-Playoff:
+▪ Playoff ▪
 05.08.73  Montevideo      Chile            2-1 Peru
 Chile required to play off with winner of Europe Group 9 (see above).
 
 North and Central America Group 13 [Haiti]
 
-1st round
+▪ 1st round ▪
 
 Subgroup A
 20.08.72  St. John's      Canada           3-2 USA                1.Mexico           4  4  0  0   8- 3  8
@@ -179,7 +178,7 @@ Subgroup F
 03.12.72  Saint John's    Antigua          0-6 Surinam
 05.12.72  Saint John's    Surinam          3-1 Antigua
 
-2nd round
+▪ 2nd round ▪
 
 29.11.73  Port-au-Prince  Honduras         2-1 Trinidad/Tobago    1.HAITI            5  4  0  1   8- 3  8
 30.11.73  Port-au-Prince  Mexico           0-0 Guatemala          2.Trinidad/Tobago  5  3  0  2  11- 4  6
@@ -199,7 +198,7 @@ Subgroup F
 
 Africa Group 14 [Zaire]
 
-1st round
+▪ 1st round ▪
 
 19.11.72  Agadir          Morocco          0-0 Senegal
 03.12.72  Dakar           Senegal          1-2 Morocco
@@ -238,7 +237,7 @@ Mauritius had a walkover.
 Gabon withdrew.
 Cameroon had a walkover.
 
-2nd round
+▪ 2nd round ▪
 
 11.02.73  Conakry         Guinea           1-1 Morocco
 25.02.73  Tetouan         Morocco          2-0 Guinea
@@ -259,7 +258,7 @@ Cameroon had a walkover.
 25.02.73  Kinshasa        Zaire            0-1 Cameroon
 27.02.73  Kinshasa        Zaire            2-0 Cameroon
 
-3rd round
+▪ 3rd round ▪
 
 20.05.73  Abidjan         Ivory Coast      1-1 Morocco
 03.06.73  Tetouan         Morocco          4-1 Ivory Coast
@@ -270,7 +269,7 @@ Cameroon had a walkover.
 05.08.73  Accra           Ghana            1-0 Zaire
 19.08.73  Kinshasa        Zaire            4-1 Ghana
 
-4th round
+▪ 4th round ▪
 
 21.10.73  Lusaka          Zambia           4-0 Morocco            1.ZAIRE            4  4  0  0   9- 1  8
 04.11.73  Lusaka          Zambia           0-2 Zaire              2.Zambia           4  1  0  3   5- 6  2
@@ -301,10 +300,10 @@ Subgroup B
 
 Semifinals subgroups A/B
 26.05.73  Seoul           South Korea      3-1 Hongkong
-26.05.73  Seoul           Israel           1-0 Japan           [aet]
+26.05.73  Seoul           Israel           1-0 Japan           (aet)
 
 Final subgroups A/B
-28.05.73  Seoul           South Korea      1-0 Israel          [aet]
+28.05.73  Seoul           South Korea      1-0 Israel          (aet)
 
 Subgroup C
 04.05.73  Tehran          Iran             0-0 North Korea         1.Iran            6  4  1  1   7- 3  9
@@ -338,13 +337,12 @@ Final subgroups C/D
 18.08.73  Sydney          Australia        3-0 Iran
 24.08.73  Tehran          Iran             2-0 Australia
 
-Final
+▪ Final ▪
 28.10.73  Sydney          Australia        0-0 South Korea
 10.11.73  Seoul           South Korea      2-2 Australia
-Playoff:
+▪ Playoff ▪
 13.11.73  Hong Kong       Australia        1-0 South Korea
 
-<!-- end pre -->
 
 ‹Detailed Infos, see page 74qual›
 
@@ -354,20 +352,9 @@ Playoff:
 
 ‹Overview File, see page ../tablesw/worldcup›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
-
-== About this document  ‹§about›
-
-Prepared and maintained by Karel Stokkermans and Sergio
-Henrique Jarreta for the
-‹Rec.Sport.Soccer Statistics Foundation›
 
 
-Authors: Karel Stokkermans and Sergio Henrique Jarreta
-Last updated: 17 Mar 2016
 
 
-(C) Copyright Karel Stokkermans, Sergio Henrique Jarreta
-and RSSSF 1995/2016
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the authors. All rights reserved.
+<!-- $about$ -->
+

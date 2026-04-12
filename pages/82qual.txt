@@ -24,7 +24,6 @@
 
 == Europe
 
-<!-- start pre -->
 
 33 teams entered, including ESP (hosts). ISR alloted to European zone due
 to political tensions with Middle Eastern countries. Winners and runners
@@ -354,7 +353,7 @@ the winner of which progresses into the finals.
 
 Group 11 (1980)  ‹§gr11›
 
-First Round
+▪ First Round ▪
 
 Northern Zone
 
@@ -484,7 +483,7 @@ geographically, but the following ones were not.
 
 Group 12 (1980)  ‹§gr12›
 
-First Round
+▪ First Round ▪
 
 (1)
 22.06. Dakar      SEN-MAR 0:1 (0:1) (Boudabbous TUN)
@@ -542,7 +541,7 @@ First Round
 
 SUD, LBR, TOG, ZIM - byes
 
-Second Round
+▪ Second Round ▪
 
 (1)
 
@@ -600,7 +599,7 @@ Third Round (1981)
 26.04. Yaounde    CAM-ZAI 6:1 (3:0) Milla (4), Mbida, Kunde - Mukendi
                                     (Boudabbous TUN)
 
-Fourth Round
+▪ Fourth Round ▪
 
 (1)
 10.10. Lagos      NGA-ALG 0:2 (0:2) Zidane 44. Belloumi 34 (Agnolin ITA)
@@ -617,9 +616,9 @@ Fourth Round
 Oceanian teams. IRN withdrew before seeding. Winners of four zonal groups
 play in the final group whose two best teams progresses into the finals.
 
-Group 13  ‹§gr13›
+▪ Group 13 ▪
 
-First Round
+▪ First Round ▪
 
 Zone A (1981)
 
@@ -738,7 +737,7 @@ Zonal semifinals
 (1)
 30.12.            KLD-JAP 1:0 (0:0) Kim Yong-nam (Ali Albannai KUW)
 (2)
-31.12.            HKG-CHN 0:0 [aet] (Getkaew THA)
+31.12.            HKG-CHN 0:0 (aet) (Getkaew THA)
 
 - in match (2), CHN won 5:4 on penalties
 
@@ -785,4 +784,3 @@ n runda - finał grupowy (1981)                                                 
 
 3 teams entered, allotted to the Asian zone (see ‹Group 13, see §gr13› for results).
 
-<!-- end pre -->

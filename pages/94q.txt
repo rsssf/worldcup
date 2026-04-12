@@ -6,7 +6,6 @@
 
 == World Cup 1994 Qualifying
 
-<!-- start pre -->
 Qualified as hosts: USA
 Qualified as holders: Germany
 
@@ -275,7 +274,7 @@ Saint Vincent had a walkover.
 19.04.92  Bridgetown      Barbados         1-2 Trinidad-Tobago
 31.05.92  Port of Spain   Trinidad-Tobago  3-0 Barbados
 
-1st round
+▪ 1st round ▪
 
 Central American Zone
 
@@ -302,9 +301,9 @@ Caribbean Zone
 Mexico bye.
 Canada bye.
 
-2nd round
+▪ 2nd round ▪
 
-Group A
+▪ Group A ▪
 08.11.92  Kingstown       Saint Vincent    0-4 Mexico             1.Mexico           6  4  1  1  22- 3  9
 08.11.92  San José        Costa Rica       2-3 Honduras           2.Honduras         6  4  1  1  14- 6  9
 15.11.92  Cd. de Mexico   Mexico           2-0 Honduras           3.Costa Rica       6  3  0  3  11- 9  6
@@ -318,7 +317,7 @@ Group A
 13.12.92  Tegucigalpa     Honduras         1-1 Mexico
 13.12.92  San José        Costa Rica       5-0 Saint Vincent
 
-Group B
+▪ Group B ▪
 18.10.92  Kingston        Jamaica          1-1 Canada             1.El Salvador      6  4  1  1  12- 6  9
 18.10.92  Hamilton        Bermuda          1-0 El Salvador        2.Canada           6  2  3  1   9- 7  7
 25.10.92  San Salvador    El Salvador      1-1 Canada             3.Jamaica          6  1  2  3   6- 9  4
@@ -350,7 +349,7 @@ Canada required to play off with winner Oceania (see below).
 
 Africa Group 10 [Nigeria, Morocco, Cameroon]
 
-1st round
+▪ 1st round ▪
 
 Subgroup A
 Uganda withdrew.                                                  1.Algeria          4  2  1  1   5- 4  5
@@ -456,7 +455,7 @@ Gambia withdrew.
 
 Final round
 
-Group A
+▪ Group A ▪
 16.04.93  Tlemcen         Algeria          1-1 Ivory Coast        1.NIGERIA          4  2  1  1  10- 5  5
 02.05.93  Abidjan         Ivory Coast      2-1 Nigeria            2.Ivory Coast      4  2  1  1   5- 6  5
 03.07.93  Lagos           Nigeria          4-1 Algeria            3.Algeria          4  0  2  2   3- 7  2
@@ -464,7 +463,7 @@ Group A
 25.09.93  Lagos           Nigeria          4-1 Ivory Coast
 08.10.93  Alger           Algeria          1-1 Nigeria
 
-Group B
+▪ Group B ▪
 18.04.93  Casablanca      Morocco          1-0 Senegal            1.MOROCCO          4  3  0  1   6- 3  6
 04.07.93  Lusaka          Zambia           2-1 Morocco            2.Zambia           4  2  1  1   6- 2  5
 17.07.93  Dakar           Senegal          1-3 Morocco            3.Senegal          4  0  1  3   1- 8  1
@@ -472,7 +471,7 @@ Group B
 26.09.93  Lusaka          Zambia           4-0 Senegal
 10.10.93  Casablanca      Morocco          1-0 Zambia
 
-Group C
+▪ Group C ▪
 18.04.93  Yaoundé         Cameroon         3-1 Guinea             1.CAMEROON         4  3  0  1   7- 3  6
 02.05.93  Conakry         Guinea           3-0 Zimbabwe           2.Zimbabwe         4  2  0  2   3- 6  4
 04.07.93  Harare          Zimbabwe         1-0 Cameroon           3.Guinea           4  1  0  3   4- 5  2
@@ -482,9 +481,9 @@ Group C
 
 Asia Group 11 [Saudi Arabia, South Korea]
 
-1st round
+▪ 1st round ▪
 
-Group A
+▪ Group A ▪
 22.05.93  Amman           Jordan           1-1 Yemen              1.Iraq             8  6  1  1  28- 4 13
 22.05.93  Amman           Pakistan         0-5 China              2.China            8  6  0  2  18- 4 12
 24.05.93  Amman           Jordan           1-1 Iraq               3.Yemen            8  3  2  3  12-13  8
@@ -506,7 +505,7 @@ Group A
 20.06.93  Chengdu         Pakistan         0-5 Jordan
 20.06.93  Chengdu         China            2-1 Iraq
 
-Group B
+▪ Group B ▪
 Myanmar withdrew.                                                 1.Iran             6  3  3  0  15- 2  9
 23.06.93  Tehran          Iran             0-0 Oman               2.Syria            6  3  3  0  14- 4  9
 23.06.93  Tehran          Taiwan           0-2 Syria              3.Oman             6  2  2  2  10- 5  6
@@ -521,7 +520,7 @@ Myanmar withdrew.                                                 1.Iran        
 06.07.93  Damascus        Taiwan           1-7 Oman
 06.07.93  Damascus        Syria            1-1 Iran
 
-Group C
+▪ Group C ▪
 09.04.93  Doha            Qatar            3-1 Indonesia          1.North Korea      8  7  1  0  19- 6 15
 09.04.93  Doha            North Korea      3-0 Vietnam            2.Qatar            8  5  1  2  22- 8 11
 11.04.93  Doha            North Korea      2-1 Singapore          3.Singapore        8  5  0  3  12-12 10
@@ -543,7 +542,7 @@ Group C
 02.05.93  Singapore       Singapore        2-1 Indonesia
 02.05.93  Singapore       North Korea      2-2 Qatar
 
-Group D
+▪ Group D ▪
 07.05.93  Beirut          Lebanon          2-2 India              1.South Korea      8  7  1  0  23- 1 15
 07.05.93  Beirut          Hongkong         2-1 Bahrain            2.Bahrain          8  3  3  2   9- 6  9
 09.05.93  Beirut          Bahrain          0-0 South Korea        3.Lebanon          8  2  4  2   8- 9  8
@@ -565,7 +564,7 @@ Group D
 13.06.93  Seoul           South Korea      3-0 Bahrain
 13.06.93  Seoul           India            3-1 Hongkong
 
-Group E
+▪ Group E ▪
 01.05.93  Kuala Lumpur    Macao            0-6 Saudi Arabia        1.Saudi Arabia     6  4  2  0  20- 1 10
 01.05.93  Kuala Lumpur    Malaysia         1-1 Kuwait              2.Kuwait           6  3  2  1  21- 4  8
 03.05.93  Kuala Lumpur    Macao           1-10 Kuwait              3.Malaysia         6  2  2  2  16- 7  6
@@ -579,7 +578,7 @@ Group E
 18.05.93  Riyadh          Macao            0-5 Malaysia
 18.05.93  Riyadh          Saudi Arabia     2-0 Kuwait
 
-Group F
+▪ Group F ▪
 08.04.93  Tokyo           Japan            1-0 Thailand           1.Japan            8  7  1  0  28- 2 15
 08.04.93  Tokyo           Sri Lanka        0-4 UAE                2.UAE              8  6  1  1  19- 4 13
 11.04.93  Tokyo           Japan            8-0 Bangladesh         3.Thailand         8  4  0  4  13- 7  8
@@ -601,7 +600,7 @@ Group F
 07.05.93  Dubai           Bangladesh       3-0 Sri Lanka
 07.05.93  Dubai           UAE              1-1 Japan
 
-2nd round
+▪ 2nd round ▪
 15.10.93  Doha            North Korea      3-2 Iraq               1.SAUDI ARABIA     5  2  3  0   8- 6  7
 15.10.93  Doha            Saudi Arabia     0-0 Japan              2.SOUTH KOREA      5  2  2  1   9- 4  6
 16.10.93  Doha            Iran             0-3 South Korea        3.Japan            5  2  2  1   7- 4  6
@@ -620,7 +619,7 @@ Group F
 
 Oceania Group 12 [none]
 
-1st round
+▪ 1st round ▪
 
 Subgroup A
 11.07.92  Honiara         Solomon Islands  1-1 Tahiti             1.Australia        4  4  0  0  13- 2  8
@@ -638,7 +637,7 @@ Subgroup B
 19.09.92  Suva            Fiji             0-0 New Zealand
 26.09.92  Port Vila       Vanuatu          0-3 Fiji
 
-2nd round
+▪ 2nd round ▪
 
 30.05.93  Auckland        New Zealand      0-1 Australia
 06.06.93  Melbourne       Australia        3-0 New Zealand
@@ -647,7 +646,6 @@ Australia required to play off with runner up of North and Central America.
 31.07.93  Edmonton        Canada           2-1 Australia
 15.08.93  Sydney          Australia        2-1 Canada          (aet; Australia wins 4-1 on penalties)
 Australia required to play off with second of South America Group 1 (see above).
-<!-- end pre -->
 
 ‹Detailed Infos, see page 94qual›
 
@@ -657,22 +655,9 @@ Australia required to play off with second of South America Group 1 (see above).
 
 ‹Overview File, see page ../tablesw/worldcup›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
-
-== About this document  ‹§about›
-
-With thanks to Stephen Halchuk and Neil Morrison
-
-Prepared and maintained by Karel Stokkermans and Sergio
-Henrique Jarreta for the
-‹Rec.Sport.Soccer Statistics Foundation›
 
 
-Authors: Karel Stokkermans and Sergio Henrique Jarreta
-Last updated: 30 Dec 2019
 
 
-(C) Copyright Karel Stokkermans, Sergio Henrique Jarreta
-and RSSSF 1995/2019
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the authors. All rights reserved.
+<!-- $about$ -->
+

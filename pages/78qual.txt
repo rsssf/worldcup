@@ -24,7 +24,6 @@
 
 == Europe
 
-<!-- start pre -->
 
 32 teams entered, including GER (champions). Winners of nine groups
 (four groups of four teams and five groups of three teams) progress into
@@ -231,7 +230,7 @@ the third team battles European Group 9 winner.
 
 Group 10 (1977)                                                                                               J  ‹§gr10›
 
-First Round
+▪ First Round ▪
 
 Subgroup A
 
@@ -301,7 +300,7 @@ into the finals.
 
 Group 11 (1976)  ‹§gr11›
 
-First Round
+▪ First Round ▪
 
 North Zone
 
@@ -348,7 +347,7 @@ Carribean Zone
 - note: most goal info missing
 
 Subgroup A
-First Round
+▪ First Round ▪
 
 (1)
 04.07. Georgetown GUY-SUR 2:0 (1:0) (Gay TRI)
@@ -359,7 +358,7 @@ First Round
 31.08. P.of Spain TRI-BAR 1:0 (1:0) (Koetsier AHO)
 14.09. Bridgetown TRI-BAR 3:1 (1:1) (Calderón Castro CUB)
 
-Second Round
+▪ Second Round ▪
 
 14.11. Paramaribo SUR-TRI 1:1 (1:1) (Chandler BAR)
 28.11. P.Spain    TRI-SUR 2:2 (1:1) (Llobregat Vicedo VEN)
@@ -372,7 +371,7 @@ Preliminary
 02.04. S.Domingo  DOM-HAl 0:3 (0:3) Auguste, Berthelemy, Marie (Wuertz USA)
 17.04. Port-au-Pr.HAI-DOM 3:0 (2:0) (Villarejo Ramírez PUE)
 
-First Round
+▪ First Round ▪
 
 (1)
 31.07. Aruba      AHO-HAI 1:2 (0:2) (Chaplin JAM)
@@ -383,7 +382,7 @@ First Round
                                     DOM)
 29.08. Havana     CUB-JAM 2:0 (1:0) (Pastor DOM)
 
-Second Round
+▪ Second Round ▪
 
 28.11. Havana     CUB-HAI 1:1 (1:0) Nunez - Sanon (Stewart JAM)
 11.12. Port-au-Pr.HAI-CUB 1:1 (0:0) Sanon - Perreira (Montane Bosch PUE)
@@ -443,7 +442,7 @@ Preliminaries for Zone 2
 13.03. Oouadoug.  VOL-MTN 1:1 (1:0) (Amadou NGR)
 28.03. Nouakchott MTN-VOL 0:2 (0:1) (Ba MLI)
 
-First Round
+▪ First Round ▪
 
 (1)
 01.04. Algers     ALG-LBA 1:0 (0:0) Betrouni 83 (Dubach SUI)
@@ -494,7 +493,7 @@ First Round
 09.05. Lusaka     ZAM-MWI 4:0 (2:0) (Muamba-Kabwe ZAI)
 30.05. Blantyre   MWI-ZAM 0:1 (0:0) (Randrianaly MAD)
 
-Second Round
+▪ Second Round ▪
 
 (1)
 06.02. Tunis      TUN-ALG 2:0 (0:0) Akid 56, Kaabi 73 (Queudeville LUX)
@@ -519,7 +518,7 @@ Second Round
 13.02. Kampala    UGA-ZAM 1:0 (0:0) (Kemale ETH)
 27.02. Ndola      ZAM-UGA 4:2 (2:1,2:1,?) (Matovu TAN)
 
-Third Round
+▪ Third Round ▪
 
 05.06. Conakci    GUI-TUN 1:0 (0:0) Ismail Eusebio (Larache MAR)
 19.06. Tunis      TUN-GUI 3:1 (1:1) Liman, B.Abdullah, Khouini - L.Sylla
@@ -531,7 +530,7 @@ Third Round
 15.07. Cairo      EGY-ZAM 2:0 (1:0) Gaafar 29, Hamam 49 (Michelotti ITA)
 31.07. Lusaka     ZAM-EGY 0:0       (Gordon SCO)
 
-Fourth Round
+▪ Fourth Round ▪
 
 25.09. Tunis      TUN-NGA 0:0       (Carpenter IRL)
 08.10. Lagos      NGA-EGY 4:0 (1:0) (Correia POR)
@@ -555,7 +554,7 @@ final group; winner progresses into the finals.
 
 Group 13 (1977)  ‹§gr13›
 
-First Round
+▪ First Round ▪
 
 Group 1 - tournament in Singapour
 
@@ -585,7 +584,7 @@ podgrupa I - turniej w Singapurze (po losowaniu wycofał się zespół SRÍ)
 
 12.03. Singapur   SIN-HKG 0:1 (0:1) (Boskovic AUS)
 
-Group 2
+▪ Group 2 ▪
 
 27.02. Tel-Aviv   ISR-KOR 0:0       (McGinlay SCO)
 06.03. Tel-Aviv   ISR-JAP 2:0 (1:0) (Kitabdjian FRA)
@@ -602,7 +601,7 @@ Group 2
 
 - KLD withdrew after seeding
 
-Group 3
+▪ Group 3 ▪
 
 12.11. Jeddah     ARS-SYR 2:0 (1:0) (Dörflinger SUI)
 26.11. Damascus   SYR-ARS 2:1 (1:1) (Babaçan TUR)
@@ -632,7 +631,7 @@ Group 4 - tournament in Doha, Qatar
 2.BHR   4   2  1  0  3   4- 6
 3.QAT   4   2  1  0  3   3- 9
 
-Group 5
+▪ Group 5 ▪
 
 13.03. Suva       AUS-TAI 3:0 (2:0) Rooney (2), Abonyi (Promakash THA)
 16.03. Suva       AUS-TAI 2:1 (1:1) Kosmina, Abonyi - Fung (Getkaew THA)
@@ -650,7 +649,7 @@ Group 5
 2.NZE   4   5  2  1  1  14- 4
 3.TAI   4   0  0  0  4   1-17
 
-Second Round
+▪ Second Round ▪
 
 19.06. Hongkong   HKG-IRN 0:2 (0:1) Kazerani 22, Jahani 77 (Gussoni ITA)
 26.06. Hongkong   HKG-KOR 0:1 (0:0) (o) (Biwersi GER)
@@ -692,4 +691,3 @@ Second Round
 
 2 teams entered, alloted to the Asian zone (see ‹§gr13›Group 13)
 
-<!-- end pre -->

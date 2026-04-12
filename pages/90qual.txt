@@ -25,7 +25,6 @@
 
 == Europe
 
-<!-- start pre -->
 
 33 teams entered, including ITA (hosts). Winners and runners-up of four
 groups of five teams and winners of three groups of four teams progress
@@ -345,7 +344,7 @@ banned from the next World Cup
 forging their U-21 players birth certificates. The two first cup-like
 rounds produced five participants of the final pool, two best progress.
 
-Group 11  ‹§gr11›
+▪ Group 11 ▪
 
 First Round (1988)
 
@@ -444,7 +443,7 @@ playing one match in the second round, protesting after awarding a walkover
 to ALG. Winners of four groups of four teams fight out for two promotion
 places.
 
-Group 12  ‹§gr12›
+▪ Group 12 ▪
 
 First Round (1988)
 
@@ -488,7 +487,7 @@ First Round (1988)
 
 Second Round (1989)
 
-Group A
+▪ Group A ▪
 
 06.01. Annaba     ALG-ZIM 3:0 (2:0) Menad 10,26, Madjer 65 (Hafez EGY)
 08.01. Abidjan    IVC-LBA 1:0 (0:0) (Bantsimba CON)
@@ -527,7 +526,7 @@ grupa B
 3.MWI   6   6  1  3  2   3- 4
 4.KEN   6   5  1  3  2   2- 4
 
-Group C
+▪ Group C ▪
 
 07.01. Enugu      NGA-GAB 1:0 (1:0) Odegbami 5 (Jasseh GAM)
 08.01. Yaounde    CAM-ANG 1:1 (0:1) Djonkep 75 - Saavedra 11 (Hounnake-Kouassi
@@ -551,7 +550,7 @@ Group C
 3.ANG   6   4  1  2  3   6- 7
 4.GAB   6   4  2  0  4   5- 9
 
-Group D
+▪ Group D ▪
 
 08.01. Rabat      MAR-ZAM 1:0 (1:0) Fettah 39 (Bashir LBA)
 08.01. Kinshasa   ZAI-TUN 3:1 (2:1) Mapuata (2), Kabongo - Bousnina (Degefa
@@ -591,7 +590,7 @@ NEP moved from zone E do D. Winners of first round play in final group,
 two best progress.
 
 
-Group 13  ‹§gr13›
+▪ Group 13 ▪
 
 First Round (1989)
 
@@ -777,7 +776,7 @@ requirements)
 3 teams entered, plus alloted TAI (formally in Asia) and ISR. Winner
 played the best team of group 9.
 
-Group 14  ‹§gr14›
+▪ Group 14 ▪
 
 First Round (1988)
 
@@ -813,4 +812,3 @@ Second Round (1989)
 15.10. Bogota     COL-ISR 1:0 (0:0) Uzuriaga 73 (Vautrot FRA)
 30.10. Tel-Aviv   ISR-COL 0:0       (Codesal Mendez MEX)
 
-<!-- end pre -->

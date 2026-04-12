@@ -6,7 +6,6 @@
 
 == World Cup 1938 Qualifying
 
-<!-- start pre -->
 Qualified as hosts: France
 Qualified as holders: Italy
 
@@ -37,10 +36,10 @@ Group 4 [Switzerland]
 01.05.38  Milano      Switzerland      2-1 Portugal
 
 Group 5 [Hungary]
-1st round
+▪ 1st round ▪
 22.01.38  Tel-Aviv    Palestina        1-3 Greece
 20.02.38  Athinai     Greece           1-0 Palestina
-2nd round
+▪ 2nd round ▪
 25.03.38  Budapest    Hungary         11-1 Greece
 
 Group 6 [Czechoslovakia]
@@ -48,10 +47,10 @@ Group 6 [Czechoslovakia]
 24.04.38  Praha       Czechoslovakia   6-0 Bulgaria
 
 Group 7 [Austria]
-1st round
+▪ 1st round ▪
 29.07.37  Riga        Latvia           4-2 Lithuania
 03.09.37  Kaunas      Lithuania        1-5 Latvia
-2nd round
+▪ 2nd round ▪
 05.10.37  Wien        Austria          2-1 Latvia
 
 Group 8 [Netherlands, Belgium]
@@ -94,7 +93,7 @@ NB: Argentina were later allowed to re-enter and following a FIFA meeting in
 
 NORTH AMERICA
 
-Group 11
+▪ Group 11 ▪
 Mexico were included in Central America; a Mexican objection against this
 was rejected, leaving only the USA in this group.
 The USA were scheduled to play Dutch East Indies on 26 May 1938 in Rotterdam (see
@@ -141,7 +140,6 @@ withdrawal of Argentina (see group 10).
 
 29.05.38  Bordeaux    Cuba             w/o Argentina
 
-<!-- end pre -->
 
 ‹Detailed Infos, see page 38qual›
 
@@ -151,21 +149,9 @@ withdrawal of Argentina (see group 10).
 
 ‹Overview File, see page ../tablesw/worldcup›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
-
-== About this document  ‹§about›
-
-Thanks to Jérôme Perani
-
-Prepared and maintained by Karel Stokkermans and Sergio Henrique Jarreta for the
-‹Rec.Sport.Soccer Statistics Foundation›
 
 
-Authors: Karel Stokkermans and Sergio Henrique Jarreta
-Last updated: 6 Mar 2026
 
 
-(C) Copyright Karel Stokkermans, Sergio Henrique Jarreta
-and RSSSF 1995/2026
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the authors. All rights reserved.
+<!-- $about$ -->
+

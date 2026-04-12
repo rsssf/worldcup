@@ -6,7 +6,6 @@
 
 == World Cup 1986 Qualifying
 
-<!-- start pre -->
 Qualified as hosts: Mexico
 Qualified as holders: Italy
 
@@ -183,7 +182,7 @@ Paraguay entered South America playoff (see below).
 
 South America playoff [Paraguay]
 
-1st round
+▪ 1st round ▪
 
 27.10.85  Asunción                 Paraguay         3-0 Colombia
 03.11.85  Cali                     Colombia         2-1 Paraguay
@@ -191,14 +190,14 @@ South America playoff [Paraguay]
 27.10.85  Santiago                 Chile            4-2 Peru
 03.11.85  Lima                     Peru             0-1 Chile
 
-2nd round
+▪ 2nd round ▪
 
 10.11.85  Asunción                 Paraguay         3-0 Chile
 17.11.85  Santiago                 Chile            2-2 Paraguay
 
 North and Central America Group 11 [Canada]
 
-1st round
+▪ 1st round ▪
 
 29.07.84  San Salvador             El Salvador      5-0 Puerto Rico
 05.08.84  San Juan                 Puerto Rico      0-3 El Salvador
@@ -226,7 +225,7 @@ Costa Rica had a walkover.
 
 Guatemala bye.
 
-2nd round
+▪ 2nd round ▪
 
 Subgroup 1
 24.02.85  San Salvador             Surinam          0-3 El Salvador        1.Honduras         4  2  2  0   5- 3  6
@@ -252,7 +251,7 @@ Subgroup 3
 26.05.85  Alajuela                 Costa Rica       1-1 USA
 31.05.85  Los Angeles              USA              0-1 Costa Rica
 
-3rd round
+▪ 3rd round ▪
 
 11.08.85  San José                 Costa Rica       2-2 Honduras           1.CANADA           4  2  2  0   4- 2  6
 17.08.85  Toronto                  Canada           1-1 Costa Rica         2.Honduras         4  1  1  2   6- 6  3
@@ -263,7 +262,7 @@ Subgroup 3
 
 Africa Group 12 [Morocco, Algeria]
 
-1st round
+▪ 1st round ▪
 
 28.08.84  Cairo                    Egypt            1-0 Zimbabwe
 30.09.84  Harare                   Zimbabwe         1-1 Egypt
@@ -303,7 +302,7 @@ Guinea had a walkover.
 04.11.84  Monrovia                 Liberia          0-1 Nigeria
 
 01.07.84  Luanda                   Angola           1-0 Senegal
-15.07.84  Dakar                    Senegal          1-0 Angola          [aet]
+15.07.84  Dakar                    Senegal          1-0 Angola          (aet)
 Angola 4-3 on penalties.
 
 Algeria (World Cup participant 1982) bye.
@@ -312,7 +311,7 @@ Cameroon (World Cup participant 1982) bye.
 
 Ghana (reigning champion of Africa) bye.
 
-2nd round
+▪ 2nd round ▪
 
 07.04.85  Lusaka                   Zambia           4-1 Cameroon
 21.04.85  Yaoundé                  Cameroon         1-1 Zambia
@@ -327,7 +326,7 @@ Ghana (reigning champion of Africa) bye.
 20.04.85  Lagos                    Nigeria          3-1 Kenya
 
 05.04.85  Cairo                    Egypt            1-0 Madagascar
-21.04.85  Tananarive               Madagascar       1-0 Egypt           [aet]
+21.04.85  Tananarive               Madagascar       1-0 Egypt           (aet)
 Egypt 4-2 on penalties.
 
 10.02.85  Conakry                  Guinea           1-0 Tunisia
@@ -339,7 +338,7 @@ Egypt 4-2 on penalties.
 07.04.85  Abidjan                  Ivory Coast      0-0 Ghana
 21.04.85  Accra                    Ghana            2-0 Ivory Coast
 
-3rd round
+▪ 3rd round ▪
 
 13.07.85  Alger                    Algeria          2-0 Zambia
 28.07.85  Lusaka                   Zambia           0-1 Algeria
@@ -353,7 +352,7 @@ Egypt 4-2 on penalties.
 12.07.85  Cairo                    Egypt            0-0 Morocco
 28.07.85  Casablanca               Morocco          2-0 Egypt
 
-4th round
+▪ 4th round ▪
 
 06.10.85  Tunis                    Tunisia          1-4 Algeria
 18.10.85  Alger                    Algeria          3-0 Tunisia
@@ -363,7 +362,7 @@ Egypt 4-2 on penalties.
 
 Asia Group 13 [Iraq]
 
-1st round
+▪ 1st round ▪
 
 Subgroup A
 Oman withdrew.
@@ -396,7 +395,7 @@ Iran disqualified for refusing to play home matches on neutral ground.
 29.03.85  Aden                     South Yemen      1-4 Bahrain
 12.04.85  Manama                   Bahrain          3-3 South Yemen
 
-2nd round
+▪ 2nd round ▪
 
 20.09.85  Dubai                    UAE              2-3 Iraq
 27.09.85  Taif                     Iraq             1-2 UAE
@@ -405,7 +404,7 @@ Iraq progressed on away goals rule.
 06.09.85  Manama                   Bahrain          1-1 Syria
 20.09.85  Damascus                 Syria            1-0 Bahrain
 
-3rd round
+▪ 3rd round ▪
 
 15.11.85  Damascus                 Syria            0-0 Iraq
 29.11.85  Taif                     Iraq             3-1 Syria
@@ -413,7 +412,7 @@ Note: Iraq played all home matches on neutral ground.
 
 Asia Group 14 [South Korea]
 
-1st round
+▪ 1st round ▪
 
 Subgroup A
 02.03.85  Katmandu                 Nepal            0-2 South Korea        1.South Korea      4  3  0  1   8- 1  6
@@ -459,7 +458,7 @@ Subgroup D
 18.05.85  Tokyo                    Japan            5-0 Singapore
 25.05.85  Pyongyang                North Korea      2-0 Singapore
 
-2nd round
+▪ 2nd round ▪
 
 21.07.85  Seoul                    South Korea      2-0 Indonesia
 30.07.85  Jakarta                  Indonesia        1-4 South Korea
@@ -467,7 +466,7 @@ Subgroup D
 11.08.85  Kobe                     Japan            3-0 Hongkong
 22.09.85  Hongkong                 Hongkong         1-2 Japan
 
-3rd round
+▪ 3rd round ▪
 
 26.10.85  Tokyo                    Japan            1-2 South Korea
 03.11.85  Seoul                    South Korea      1-0 Japan
@@ -489,7 +488,6 @@ Oceania Group 15 [none]
 Note: Taiwan yielded home advantage and played twice at opponents home ground.
 Australia required to play off with second of Europe Group 7 (see above).
 
-<!-- end pre -->
 
 ‹Detailed Infos, see page 86qual›
 
@@ -499,20 +497,9 @@ Australia required to play off with second of Europe Group 7 (see above).
 
 ‹Overview File, see page ../tablesw/worldcup›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
-
-== About this document  ‹§about›
-
-Prepared and maintained by Karel Stokkermans and Sergio
-Henrique Jarreta for the
-‹Rec.Sport.Soccer Statistics Foundation›
 
 
-Authors: Karel Stokkermans and Sergio Henrique Jarreta
-Last updated: 3 Jan 2000
 
 
-(C) Copyright Karel Stokkermans, Sergio Henrique Jarreta
-and RSSSF 1995/2000
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the authors. All rights reserved.
+<!-- $about$ -->
+

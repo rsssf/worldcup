@@ -6,7 +6,6 @@
 
 == World Cup 1950 Qualifying
 
-<!-- start pre -->
 Qualified as hosts: Brazil
 Qualified as holders: Italy
 
@@ -22,28 +21,28 @@ France (eliminated in Group 3) invited, accepted, but withdrew after a protest
 against their fixture list during the World Cup was rejected.
 
 Group 2 [none]
-1st round
+▪ 1st round ▪
 20.11.49  Ankara        Turkey           7-0 Syria
-2nd round
+▪ 2nd round ▪
 Austria withdrew, Turkey had a walkover, but withdrew.
 Portugal (eliminated in Group 6) invited, but declined.
 
 Group 3 [Yugoslavia]
-1st round
+▪ 1st round ▪
 21.08.49  Beograd       Yugoslavia       6-0 Israel
 18.09.49  Tel Aviv      Israel           2-5 Yugoslavia
-2nd round
+▪ 2nd round ▪
 09.10.49  Beograd       France           1-1 Yugoslavia
 30.10.49  Paris         Yugoslavia       1-1 France
-11.12.49  Firenze       Yugoslavia       3-2 France          [aet]
+11.12.49  Firenze       Yugoslavia       3-2 France          (aet)
 France invited to replace Scotland (runners-up Group 1) and accepted but withdrew
 after a protest against their fixture list during the World Cup was rejected.
 
 Group 4 [Switzerland]
-1st round
+▪ 1st round ▪
 26.06.49  Zürich        Switzerland      5-2 Luxembourg
 18.09.49  Luxembourg    Luxembourg       2-3 Switzerland
-2nd round
+▪ 2nd round ▪
 Belgium withdrew, Switzerland had a walkover.
 
 Group 5 [Sweden]
@@ -74,13 +73,12 @@ Group 9 [Mexico, USA]
 25.09.49  Cd. de Mexico Cuba             0-3 Mexico
 
 Group 10 [none]
-1st round
+▪ 1st round ▪
 Burma withdrew, India had a walkover.
 Philippines and Indonesia withdrew.
-2nd round
+▪ 2nd round ▪
 India had a walkover, qualified, but withdrew.
 
-<!-- end pre -->
 
 ‹Additional Infos, see page 50qual›
 
@@ -92,20 +90,9 @@ India had a walkover, qualified, but withdrew.
 
 ‹Overview File, see page ../tablesw/worldcup›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
-
-== About this document  ‹§about›
-
-Prepared and maintained by Karel Stokkermans and Sergio
-Henrique Jarreta for the
-‹Rec.Sport.Soccer Statistics Foundation›
 
 
-Authors: Karel Stokkermans and Sergio Henrique Jarreta
-Last updated: 5 Jul 2017
 
 
-(C) Copyright Karel Stokkermans, Sergio Henrique Jarreta
-and RSSSF 1995/2017
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the authors. All rights reserved.
+<!-- $about$ -->
+

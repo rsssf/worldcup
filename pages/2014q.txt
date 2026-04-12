@@ -16,12 +16,13 @@
     <LI>‹Oceania, see §oce›
 </LI></UL></MENU>
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Europe  ‹§eur›
 
-<!-- start pre -->
-Group A
+▪ Group A ▪
 
  1.BELGIUM      10  8  2  0 18- 4 26
  2.Croatia      10  5  2  3 12- 9 17
@@ -61,7 +62,7 @@ Group A
 15-10-13 Brussel         Belgium       1-1 Wales
 15-10-13 Glasgow         Scotland      2-0 Croatia
 
-Group B
+▪ Group B ▪
 
  1.ITALY        10  6  4  0 19- 9 24
  2.Denmark      10  4  4  2 17-12 16
@@ -101,7 +102,7 @@ Group B
 15-10-13 Sofia           Bulgaria      0-1 Czech Republic
 15-10-13 Napoli          Italy         2-2 Armenia
 
-Group C
+▪ Group C ▪
 
  1.GERMANY      10  9  1  0 36-10 28
  2.Sweden       10  6  2  2 19-14 20
@@ -141,7 +142,7 @@ Group C
 15-10-13 Dublin          Ireland       3-1 Kazakhstan
 15-10-13 Solna           Sweden        3-5 Germany
 
-Group D
+▪ Group D ▪
 
  1.NETHERLANDS  10  9  1  0 34- 5 28
  2.Romania      10  6  1  3 19-12 19
@@ -181,7 +182,7 @@ Group D
 15-10-13 Bucuresti       Romania       2-0 Estonia
 15-10-13 Istanbul        Turkey        0-2 Netherlands
 
-Group E
+▪ Group E ▪
 
  1.SWITZERLAND  10  7  3  0 17- 6 24
  2.Iceland      10  5  2  3 17-15 17
@@ -221,7 +222,7 @@ Group E
 15-10-13 Bern            Switzerland   1-0 Slovenia
 15-10-13 Oslo            Norway        1-1 Iceland
 
-Group F
+▪ Group F ▪
 
  1.RUSSIA       10  7  1  2 20- 5 22
  2.Portugal     10  6  3  1 20- 9 21
@@ -261,7 +262,7 @@ Group F
 15-10-13 Coimbra         Portugal      3-0 Luxembourg
 15-10-13 Ramat-Gan       Israel        1-1 Northern Ireland
 
-Group G
+▪ Group G ▪
 
  1.BOSNIA-HERZ. 10  8  1  1 30- 6 25
  2.Greece       10  8  1  1 12- 4 25
@@ -301,7 +302,7 @@ Group G
 15-10-13 Kaunas          Lithuania     0-1 Bosnia-Herzegovina
 15-10-13 Riga            Latvia        2-2 Slovakia
 
-Group H
+▪ Group H ▪
 
  1.ENGLAND      10  6  4  0 31- 4 22
  2.Ukraine      10  6  3  1 28- 4 21
@@ -341,7 +342,7 @@ Group H
 15-10-13 Podgorica       Montenegro    2-5 Moldova
 15-10-13 Serravalle      San Marino    0-8 Ukraine
 
-Group I
+▪ Group I ▪
 
  1.SPAIN         8  6  2  0 14- 3 20
  2.France        8  5  2  1 15- 6 17
@@ -389,28 +390,28 @@ NB: matches against 6th placed team in groups A-H not counted
 NB: all bar Denmark enter the playoff stage for four places at the
     final tournament
 
-Playoff Stage
+▪ Playoff Stage ▪
 
-First Legs
+▪ First Legs ▪
 15-11-13 Reykjavík       Iceland       0-0 Croatia
 15-11-13 Lisboa          Portugal      1-0 Sweden
 15-11-13 Kyiv            Ukraine       2-0 France
 15-11-13 Piraeus         Greece        3-1 Romania
 
-Second Legs
+▪ Second Legs ▪
 19-11-13 Zagreb          Croatia       2-0 Iceland
 19-11-13 Solna           Sweden        2-3 Portugal
 19-11-13 Paris St.-Denis France        3-0 Ukraine
 19-11-13 Bucuresti       Romania       1-1 Greece
 
 NB: Croatia, France, Greece and Portugal qualified.
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== South America  ‹§sam›
 
-<!-- start pre -->
 
 NB: 5th placed team qualify for playoff against 5th placed team Asia (Jordan)
 
@@ -503,17 +504,17 @@ AFC/CONMEBOL Playoff
 20-11-13 Montevideo      Uruguay       0-0 Jordan
 
 NB: Uruguay qualified.
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Africa  ‹§afr›
 
-<!-- start pre -->
 
 First Stage
 
-First Legs
+▪ First Legs ▪
 11-11-11 Maseru          Lesotho       1-0 Burundi
 11-11-11 Malabo          Equat. Guinea 2-0 Madagascar
 11-11-11 N'Djaména       Chad          1-2 Tanzania
@@ -527,7 +528,7 @@ First Legs
 11-11-11                 Mauritius     o/w Liberia
 12-11-11 Djibouti        Somalia       0-0 Ethiopia
 
-Second Legs
+▪ Second Legs ▪
 15-11-11 Bujumbura       Burundi       2-2 Lesotho
 15-11-11 Antananarivo    Madagascar    2-1 Equatorial Guinea
 15-11-11 Dar es Salaam   Tanzania      0-1 Chad
@@ -547,7 +548,7 @@ Second Stage
 
 NB: group winners qualify for Third Stage
 
-Group 1
+▪ Group 1 ▪
 
  1.Ethiopia      6  4  1  1  8- 6 13
  2.South Africa  6  3  2  1 12- 5 11
@@ -567,7 +568,7 @@ Group 1
  7- 9-13 Brazzaville     C. Afr. Rep.  1-2 Ethiopia
  7- 9-13 Durban          South Africa  4-1 Botswana
 
-Group 2
+▪ Group 2 ▪
 
  1.Tunisia       6  4  2  0 13- 6 14
  2.Cape Verde    6  3  0  3  9- 7  9
@@ -587,7 +588,7 @@ Group 2
  7- 9-13 Freetown        Sierra Leone  3-2 Equatorial Guinea
  7- 9-13 Radès           Tunisia       awd Cape Verde    [awarded 3-0, originally 0-2]
 
-Group 3
+▪ Group 3 ▪
 
  1.Ivory Coast   6  4  2  0 15- 5 14
  2.Morocco       6  2  3  1  9- 8  9
@@ -607,7 +608,7 @@ Group 3
  7- 9-13 Bakau           Gambia        2-0 Tanzania
  7- 9-13 Abidjan         Ivory Coast   1-1 Morocco
 
-Group 4
+▪ Group 4 ▪
 
  1.Ghana         6  5  0  1 18- 3 15
  2.Zambia        6  3  2  1 11- 4 11
@@ -627,7 +628,7 @@ Group 4
  6- 9-13 Kumasi          Ghana         2-1 Zambia
  8- 9-13 Omdurman        Sudan         2-3 Lesotho
 
-Group 5
+▪ Group 5 ▪
 
  1.Burkina Faso  6  4  0  2  7- 4 12
  2.Congo-Brazz.  6  3  2  1  7- 3 11
@@ -647,7 +648,7 @@ Group 5
  7- 9-13 Ouagadougou     Burkina Faso  1-0 Gabon
  7- 9-13 Niamey          Niger         2-2 Congo-Brazzaville
 
-Group 6
+▪ Group 6 ▪
 
  1.Nigeria       6  3  3  0  7- 3 12
  2.Malawi        6  1  4  1  4- 5  7
@@ -667,7 +668,7 @@ Group 6
  7- 9-13 Calabar         Nigeria       2-0 Malawi
  8- 9-13 Nairobi         Kenya         1-0 Namibia
 
-Group 7
+▪ Group 7 ▪
 
  1.Egypt         6  6  0  0 16- 7 18
  2.Guinea        6  3  1  2 12- 8 10
@@ -687,7 +688,7 @@ Group 7
  8- 9-13 Harare          Zimbabwe      1-1 Mozambique
 10- 9-13 El-Gouna        Egypt         4-2 Guinea
 
-Group 8
+▪ Group 8 ▪
 
  1.Algeria       6  5  0  1 13- 4 15
  2.Mali          6  2  2  2  7- 7  8
@@ -707,7 +708,7 @@ Group 8
  8- 9-13 Porto-Novo      Benin         2-0 Rwanda
 10- 9-13 Blida           Algeria       1-0 Mali
 
-Group 9
+▪ Group 9 ▪
 
  1.Cameroon      6  4  1  1  8- 3 13
  2.Libya         6  2  3  1  5- 3  9
@@ -727,7 +728,7 @@ Group 9
  8- 9-13 Yaoundé         Cameroon      1-0 Libya
  8- 9-13 Lomé            Togo          2-1 Congo-Kinshasa
 
-Group 10
+▪ Group 10 ▪
 
  1.Senegal       6  3  3  0  9- 4 12
  2.Uganda        6  2  2  2  5- 6  8
@@ -749,14 +750,14 @@ Group 10
 
 Third Stage
 
-First Legs
+▪ First Legs ▪
 12-10-13 Abidjan         Ivory Coast   3-1 Senegal
 12-10-13 Ouagadougou     Burkina Faso  3-2 Algeria
 13-10-13 Addis Abeba     Ethiopia      1-2 Nigeria
 13-10-13 Radès           Tunisia       0-0 Cameroon
 15-10-13 Kumasi          Ghana         6-1 Egypt
 
-Second Legs
+▪ Second Legs ▪
 16-11-13 Casablanca      Senegal       1-1 Ivory Coast
 16-11-13 Calabar         Nigeria       2-0 Ethiopia
 17-11-13 Yaoundé         Cameroon      4-1 Tunisia
@@ -764,17 +765,17 @@ Second Legs
 19-11-13 Cairo           Egypt         2-1 Ghana
 
 NB: Algeria, Cameroon, Ghana, Ivory Coast and Nigeria qualified.
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Asia  ‹§asi›
 
-<!-- start pre -->
 
 First Stage
 
-First Legs
+▪ First Legs ▪
 29- 6-11 Kathmandu       Nepal         2-1 East Timor
 29- 6-11 Colombo         Sri Lanka     1-1 Philippines
 29- 6-11 Ulaanbaatar     Mongolia      1-0 Myanmar
@@ -784,12 +785,12 @@ First Legs
 29- 6-11 Tursunzade      Afghanistan   0-2 Palestine
 29- 6-11 Dhaka           Bangladesh    3-0 Pakistan
 
-Second Legs
+▪ Second Legs ▪
  2- 7-11 Kathmandu       East Timor    0-5 Nepal
  3- 7-11 Manila          Philippines   4-0 Sri Lanka
  3- 7-11 Yangon          Myanmar       2-0 Mongolia
  3- 7-11 Taipei          Taiwan        3-2 Malaysia
- 3- 7-11 Vientiane       Laos          6-2 Cambodia      [aet]
+ 3- 7-11 Vientiane       Laos          6-2 Cambodia      (aet)
  3- 7-11 Macao           Macao         1-7 Vietnam
  3- 7-11 Al-Ram          Palestine     1-1 Afghanistan
  3- 7-11 Lahore          Pakistan      0-0 Bangladesh
@@ -797,7 +798,7 @@ Second Legs
 
 Second Stage
 
-First Legs
+▪ First Legs ▪
 23- 7-11 Seeb            Oman          2-0 Myanmar
 23- 7-11 Amman           Jordan        9-0 Nepal
 23- 7-11 Kunming         China         7-2 Laos
@@ -814,7 +815,7 @@ First Legs
 23- 7-11 Tehran          Iran          4-0 Maldives
 23- 7-11 Irbil           Iraq          2-0 Yemen
 
-Second Legs
+▪ Second Legs ▪
 28- 7-11 Yangon          Myanmar       awd Oman          [awarded 0-3; abandoned at 0-2 in 45+2'
 28- 7-11 Kathmandu       Nepal         1-1 Jordan         due to crowd trouble]
 28- 7-11 Vientiane       Laos          1-6 China
@@ -836,7 +837,7 @@ Third Stage
 
 NB: top-2 of each group qualify for Fourth Stage
 
-Group 1
+▪ Group 1 ▪
 
  1.Iraq          6  5  0  1 14- 4 15
  2.Jordan        6  4  0  2 11- 7 12
@@ -856,7 +857,7 @@ Group 1
 29- 2-12 Guangzhou       China         3-1 Jordan
 29- 2-12 Doha            Iraq          7-1 Singapore
 
-Group 2
+▪ Group 2 ▪
 
  1.South Korea   6  4  1  1 14- 4 13
  2.Lebanon       6  3  1  2 10-14 10
@@ -876,7 +877,7 @@ Group 2
 29- 2-12 Seoul           South Korea   2-0 Kuwait
 29- 2-12 Abu Dhabi       UA Emirates   4-2 Lebanon
 
-Group 3
+▪ Group 3 ▪
 
  1.Uzbekistan    6  5  1  0  8- 1 16
  2.Japan         6  3  1  2 14- 3 10
@@ -896,7 +897,7 @@ Group 3
 29- 2-12 Hujand          Tajikistan    1-1 North Korea
 29- 2-12 Toyota          Japan         0-1 Uzbekistan
 
-Group 4
+▪ Group 4 ▪
 
  1.Australia     6  5  0  1 13- 5 15
  2.Oman          6  2  2  2  3- 6  8
@@ -916,7 +917,7 @@ Group 4
 29- 2-12 Melbourne       Australia     4-2 Saudi Arabia
 29- 2-12 Muscat          Oman          2-0 Thailand
 
-Group 5
+▪ Group 5 ▪
 
  1.Iran          6  3  3  0 17- 5 12
  2.Qatar         6  2  4  0 10- 5 10
@@ -939,7 +940,7 @@ Group 5
 
 Fourth Stage
 
-Group A
+▪ Group A ▪
 
  1.IRAN          8  5  1  2  8- 2 16
  2.SOUTH KOREA   8  4  2  2 13- 7 14
@@ -968,7 +969,7 @@ Group A
 18- 6-13 Ulsan           South Korea   0-1 Iran
 18- 6-13 Toshkent        Uzbekistan    5-1 Qatar
 
-Group B
+▪ Group B ▪
 
  1.JAPAN         8  5  2  1 16- 5 17
  2.AUSTRALIA     8  3  4  1 12- 7 13
@@ -1000,11 +1001,11 @@ Group B
 
 Fifth Place Playoff
 
-First Leg
+▪ First Leg ▪
  6- 9-13 Amman           Jordan        1-1 Uzbekistan
 
 Secong Leg
-10- 9-13 Toshkent        Uzbekistan    1-1 Jordan        [aet, 8-9 pen]
+10- 9-13 Toshkent        Uzbekistan    1-1 Jordan        (aet, 8-9 pen)
 
 NB: Jordan qualify for playoff against 5th placed team South America (Uruguay)
 
@@ -1014,39 +1015,39 @@ AFC/CONMEBOL Playoff
 20-11-13 Montevideo      Uruguay       0-0 Jordan
 
 NB: Uruguay qualified.
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== North and Central America  ‹§nca›
 
-<!-- start pre -->
 
 First Stage
 
-First Legs
+▪ First Legs ▪
 15- 6-11 Couva           Montserrat    2-5 Belize
-  [Jay Lee Hodgson 44, 86; Deon McCauley 24, 75, 83, Harrison Roches 50,
-   Elroy Kuylen 53]
+  (Jay Lee Hodgson 44, 86; Deon McCauley 24, 75, 83, Harrison Roches 50,
+   Elroy Kuylen 53)
  2- 7-11 Providenciales  Turks/Caicos  0-4 Bahamas
-  [Jean Nesly 32, 60, Cameron Hepple 34pen, Jackner Louis 90+2]
+  (Jean Nesly 32, 60, Cameron Hepple 34pen, Jackner Louis 90+2)
  3- 7-11 Charl. Amalie   US Virgin I.  2-0 British Virgin Islands
-  [Alderman Lesmond 6, Reid Klopp 52]
+  (Alderman Lesmond 6, Reid Klopp 52)
  8- 7-11 San Cristóbal   Anguilla      0-2 Dominican Republic
  8- 7-11 Oranjestad      Aruba         4-2 Saint Lucia
 
-Second Legs
+▪ Second Legs ▪
  9- 7-11 Nassau          Bahamas       6-0 Turks and Caicos Islands
 10- 7-11 Road Town       Br. Virgin I. 1-2 US Virgin Islands
 10- 7-11 San Cristóbal   Dominican R.  4-0 Anguilla
-12- 7-11 Castries        Saint Lucia   4-2 Aruba         [aet, 5-4 pen]
+12- 7-11 Castries        Saint Lucia   4-2 Aruba         (aet, 5-4 pen)
 17- 7-11 San Pedro Sula  Belize        3-1 Montserrat
 
 Second Stage
 
 NB: group winners qualify for Third stage
 
-Group A
+▪ Group A ▪
 
  1.El Salvador   6  6  0  0 20- 5 18
  2.Dominican R.  6  2  2  2 12- 8  8
@@ -1066,7 +1067,7 @@ Group A
 14-11-11 George Town     Cayman Isl.   1-1 Dominican Republic
 15-11-11 San Salvador    El Salvador   4-0 Suriname
 
-Group B
+▪ Group B ▪
 
  1.Guyana        6  4  1  1  9- 5 13
  2.Trinidad/Tob. 6  4  0  2 11- 4 12
@@ -1086,7 +1087,7 @@ Group B
 14-11-11 Hamilton        Barbados      1-2 Bermuda
 15-11-11 Port of Spain   Trinidad/Tob. 2-0 Guyana
 
-Group C
+▪ Group C ▪
 
  1.Panama        4  4  0  0 15- 2 12
  2.Nicaragua     4  2  0  2  5- 7  6
@@ -1100,7 +1101,7 @@ Group C
 11-11-11 Managua         Nicaragua     1-0 Dominica
 15-11-11 Cd. de Panamá   Panama        3-0 Dominica
 
-Group D
+▪ Group D ▪
 
  1.Canada        6  4  2  0 18- 1 14
  2.Puerto Rico   6  2  3  1  8- 4  9
@@ -1120,7 +1121,7 @@ Group D
 14-11-11 Mayagüez        Puerto Rico   3-0 Saint Lucia
 15-11-11 Toronto         Canada        4-0 Saint Kitts and Nevis
 
-Group E
+▪ Group E ▪
 
  1.Guatemala     6  6  0  0 19- 3 18
  2.Belize        6  2  1  3  9-10  7
@@ -1140,7 +1141,7 @@ Group E
 15-11-11 St. George's    Grenada       1-4 Guatemala
 15-11-11 Kingstown       St.Vincent/G. 0-2 Belize
 
-Group F
+▪ Group F ▪
 
  1.Antigua/Barb. 6  5  0  1 26- 5 15
  2.Haiti         6  4  1  1 21- 6 13
@@ -1165,7 +1166,7 @@ Third Stage
 
 NB: top-2 of each group qualify for Fourth Stage
 
-Group A
+▪ Group A ▪
 
  1.USA           6  4  1  1 11- 6 13
  2.Jamaica       6  3  1  2  9- 6 10
@@ -1185,7 +1186,7 @@ Group A
 16-10-12 Kingston        Jamaica       4-1 Antigua and Barbuda
 16-10-12 Kansas City     USA           3-1 Guatemala
 
-Group B
+▪ Group B ▪
 
  1.Mexico        6  6  0  0 15- 2 18
  2.Costa Rica    6  3  1  2 14- 5 10
@@ -1205,7 +1206,7 @@ Group B
 16-10-12 San José        Costa Rica    7-0 Guyana
 16-10-12 Torreón         Mexico        2-0 El Salvador
 
-Group C
+▪ Group C ▪
 
  1.Honduras      6  3  2  1 12- 3 11
  2.Panama        6  3  2  1  6- 2 11
@@ -1274,13 +1275,13 @@ CONCACAF/OFC Playoff
 20-11-13 Wellington      New Zealand   2-4 Mexico
 
 NB: Mexico qualified.
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Oceania  ‹§oce›
 
-<!-- start pre -->
 
 Qualifying Stage
 
@@ -1305,7 +1306,7 @@ First Stage
 NB: top-2 of each group qualify for Final Stage and for the semifinals of the
     ‹2012 OFC Nations Cup, see page 2012oc›
 
-Group A
+▪ Group A ▪
 
  1.Tahiti        3  3  0  0 18- 5  9
  2.New Caledonia 3  2  0  1 17- 6  6
@@ -1319,7 +1320,7 @@ Group A
  5- 6-12 Honiara         New Caledonia 9-0 Samoa
  5- 6-12 Honiara         Tahiti        4-1 Vanuatu
 
-Group B
+▪ Group B ▪
 
  1.New Zealand   3  2  1  0  4- 2  7
  2.Solomon Isl.  3  1  2  0  2- 1  5
@@ -1372,26 +1373,14 @@ CONCACAF/OFC Playoff
 20-11-13 Wellington      New Zealand   2-4 Mexico
 
 NB: Mexico qualified.
-<!-- end pre -->
 
 ‹Overview File, see page ../tablesw/worldcup›
 
 ‹2014 Final Tournament, see page 2014f›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
-
-== About this document  ‹§about›
-
-Prepared and maintained by Karel Stokkermans, Juan Pablo Andrés
-and Erik Francisco Lugo for the
-‹Rec.Sport.Soccer Statistics Foundation›
 
 
-Authors: Karel Stokkermans, Juan Pablo Andrés and Erik Francisco Lugo
 
-Last updated: 1 Feb 2023
 
-(c) Copyright Karel Stokkermans,
-Juan Pablo Andrés, Erik Francisco Lugo and RSSSF 2011/23
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the authors. All rights reserved.
+<!-- $about$ -->
+

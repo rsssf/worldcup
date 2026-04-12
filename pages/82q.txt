@@ -6,7 +6,6 @@
 
 == World Cup 1982 Qualifying
 
-<!-- start pre -->
 Qualified as hosts: Spain
 Qualified as holders: Argentina
 
@@ -176,7 +175,7 @@ South America Group 10 [Chile]
 
 North and Central America Group 11 [Honduras, El Salvador]
 
-1st round
+▪ 1st round ▪
 
 North American Zone
 18.10.80  Toronto         Canada           1-1 Mexico             1.Canada           4  1  3  0   4- 3  5
@@ -210,7 +209,7 @@ Central American Zone
 
 Caribbean Zone
 
-Preliminary round
+▪ Preliminary round ▪
 30.03.80  Georgetown      Guyana           5-2 Grenada
 13.04.80  Saint George's  Grenada          2-3 Guyana
 
@@ -230,7 +229,7 @@ Subgroup B
 29.11.80  Willemstad      Dutch Antilles   0-0 Trinidad/Tobago
 12.12.80  Willemstad      Dutch Antilles   1-1 Haiti
 
-2nd round
+▪ 2nd round ▪
 
 01.11.81  Tegucigalpa     Mexico           4-0 Cuba               1.HONDURAS         5  3  2  0   8- 1  8
 02.11.81  Tegucigalpa     Canada           1-0 El Salvador        2.EL SALVADOR      5  2  2  1   2- 1  6
@@ -250,7 +249,7 @@ Subgroup B
 
 Africa Group 12 [Algeria, Cameroon]
 
-1st round
+▪ 1st round ▪
 
 08.05.80  Tripoli         Libya            2-1 Gambia
 06.07.80  Banjul          Gambia           0-0 Libya
@@ -271,7 +270,7 @@ Africa Group 12 [Algeria, Cameroon]
 20.07.80  Blantyre        Malawi           1-1 Cameroon
 
 29.06.80  Tunis           Tunisia          2-0 Nigeria
-12.07.80  Lagos           Nigeria          2-0 Tunisia         [aet]
+12.07.80  Lagos           Nigeria          2-0 Tunisia         (aet)
 Nigeria 4-3 on penalties.
 
 05.07.80  Nairobi         Kenya            3-1 Tanzania
@@ -294,7 +293,7 @@ Liberia bye.
 Togo bye.
 Zimbabwe bye.
 
-2nd round
+▪ 2nd round ▪
 
 12.10.80  Douala          Cameroon         2-0 Zimbabwe
 16.11.80  Harare          Zimbabwe         1-0 Cameroon
@@ -321,7 +320,7 @@ Morocco 5-4 on penalties.
 Libya withdrew.
 Egypt had a walkover.
 
-3rd round
+▪ 3rd round ▪
 
 01.05.81  Constantine     Algeria          4-0 Niger
 31.05.81  Niamey          Niger            1-0 Algeria
@@ -335,7 +334,7 @@ Egypt had a walkover.
 12.04.81  Kinshasa        Zaire            1-0 Cameroon
 26.04.81  Yaoundé         Cameroon         6-1 Zaire
 
-4th round
+▪ 4th round ▪
 
 10.10.81  Lagos           Nigeria          0-2 Algeria
 30.10.81  Constantine     Algeria          2-1 Nigeria
@@ -345,7 +344,7 @@ Egypt had a walkover.
 
 Asia and Oceania Group 13 [Kuwait, New Zealand]
 
-1st round
+▪ 1st round ▪
 
 Subgroup A
 25.04.81  Auckland        New Zealand      3-3 Australia          1.New Zealand      8  6  2  0  31- 3 14
@@ -396,25 +395,25 @@ Group allocation matches
 22.12.80  Hongkong        North Korea      3-0 Macao
 22.12.80  Hongkong        Singapore        0-1 Japan
 
-Group 1
+▪ Group 1 ▪
 24.12.80  Hongkong        China            3-0 Macao              1.China            2  2  0  0   4- 0  4
 26.12.80  Hongkong        China            1-0 Japan              2.Japan            2  1  0  1   3- 1  2
 28.12.80  Hongkong        Japan            3-0 Macao              3.Macao            2  0  0  2   0- 6  0
 
-Group 2
+▪ Group 2 ▪
 24.12.80  Hongkong        Hongkong         1-1 Singapore          1.North Korea      2  1  1  0   3- 2  3
 26.12.80  Hongkong        North Korea      1-0 Singapore          2.Hongkong         2  0  2  0   3- 3  2
 28.12.80  Hongkong        Hongkong         2-2 North Korea        3.Singapore        2  0  1  1   1- 2  1
 
-Semifinals
-31.12.80  Hongkong        China            0-0 Hongkong        [aet]
+▪ Semifinals ▪
+31.12.80  Hongkong        China            0-0 Hongkong        (aet)
 China 5-4 on penalties
-30.12.80  Hongkong        North Korea      1-0 Japan           [aet]
+30.12.80  Hongkong        North Korea      1-0 Japan           (aet)
 
-Final
-04.01.81  Hongkong        China            4-2 North Korea     [aet]
+▪ Final ▪
+04.01.81  Hongkong        China            4-2 North Korea     (aet)
 
-2nd round
+▪ 2nd round ▪
 
 24.09.81  Beijing         China            0-0 New Zealand        1.KUWAIT           6  4  1  1   8- 6  9
 03.10.81  Auckland        New Zealand      1-0 China              2.NEW ZEALAND      6  2  3  1  11- 6  7
@@ -431,7 +430,6 @@ Final
 Playoff for second place:
 10.01.82  Singapore       New Zealand      2-1 China
 
-<!-- end pre -->
 
 ‹Detailed Infos, see page 82qual›
 
@@ -441,20 +439,9 @@ Playoff for second place:
 
 ‹Overview File, see page ../tablesw/worldcup›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
-
-== About this document  ‹§about›
-
-Prepared and maintained by Karel Stokkermans and Sergio
-Henrique Jarreta for the
-‹Rec.Sport.Soccer Statistics Foundation›
 
 
-Authors: Karel Stokkermans and Sergio Henrique Jarreta
-Last updated: 3 Jan 2000
 
 
-(C) Copyright Karel Stokkermans, Sergio Henrique Jarreta
-and RSSSF 1995/2000
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the authors. All rights reserved.
+<!-- $about$ -->
+

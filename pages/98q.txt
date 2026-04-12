@@ -6,7 +6,6 @@
 
 == World Cup 1998 Qualifying
 
-<!-- start pre -->
 Qualified as hosts: France
 Qualified as holders: Brazil
 
@@ -374,7 +373,7 @@ round where they play off against each other (home and away), producing
 
 Caribbean Zone
 
-1st round
+▪ 1st round ▪
 
 24.03.96  Santo Domingo   Dominican Republic 3-2 Aruba
 31.03.96  Oranjestad      Aruba              1-3 Dominican Republic
@@ -388,7 +387,7 @@ Saint Kitts-Nevis had a walkover
 10.03.96  Roseau          Dominica           3-3 Antigua
 31.03.96  St. Johns       Antigua            1-3 Dominica
 
-2nd round
+▪ 2nd round ▪
 
 Bermuda withdrew
 Trinidad-Tobago had a walkover
@@ -414,7 +413,7 @@ Trinidad-Tobago had a walkover
 04.05.96  Santo Domingo   Dominican Republic 2-1 Dutch Antilles
 11.05.96  Willemstad      Dutch Antilles     0-0 Dominican Republic
 
-3rd round
+▪ 3rd round ▪
 
 15.06.96  Santo Domingo   Dominican Republic 1-4 Trinidad-Tobago
 23.06.96  Port of Spain   Trinidad-Tobago    8-0 Dominican Republic
@@ -518,9 +517,9 @@ Group winners split into 2 groups of 5 for Round 2. Final group winners
 qualify to France, two runners-up play for third place; the loser play
 off against the Oceania winner.
 
-1st round
+▪ 1st round ▪
 
-Group 1
+▪ Group 1 ▪
 16.03.97  Kuala Lumpur    Taiwan             0-2 Saudi Arabia        1.Saudi Arabia         6  5  1  0 18- 1 16
 16.03.97  Kuala Lumpur    Malaysia           2-0 Bangladesh          2.Malaysia             6  3  2  1  5- 3 11
 18.03.97  Kuala Lumpur    Bangladesh         1-3 Taiwan              3.Taiwan               6  1  1  4  4-13  4
@@ -534,7 +533,7 @@ Group 1
 31.03.97  Jeddah          Bangladesh         0-1 Malaysia
 31.03.97  Jeddah          Saudi Arabia       6-0 Taiwan
 
-Group 2
+▪ Group 2 ▪
 02.06.97  Damascus        Syria              n/p Kyrgyzstan          1.Iran                 6  5  1  0 39- 3 16
 02.06.97  Damascus        Maldives          0-17 Iran                2.Kyrgyzstan           5  3  0  2 12-11  9
 04.06.97  Damascus        Syria             12-0 Maldives            3.Syria                5  2  1  2 27- 5  7
@@ -548,7 +547,7 @@ Group 2
 13.06.97  Tehran          Iran               2-2 Syria
 13.06.97  Tehran          Maldives           0-6 Kyrgyzstan
 
-Group 3
+▪ Group 3 ▪
 08.04.97  Manama          Jordan             0-0 UAE                 1.UAE                  4  3  1  0  7- 1 10
 11.04.97  Manama          Bahrain            1-2 UAE                 2.Jordan               4  1  1  2  4- 4  4
 14.04.97  Manama          Bahrain            1-0 Jordan              3.Bahrain              4  1  0  3  3- 9  3
@@ -556,7 +555,7 @@ Group 3
 22.04.97  Sharjah         UAE                3-0 Bahrain
 26.04.97  Sharjah         UAE                2-0 Jordan
 
-Group 4
+▪ Group 4 ▪
 23.03.97  Muscat          Nepal              1-1 Macao               1.Japan                6  5  1  0 31- 1 16
 23.03.97  Muscat          Oman               0-1 Japan               2.Oman                 6  4  1  1 14- 2 13
 25.03.97  Muscat          Macao             0-10 Japan               3.Macao                6  1  1  4  3-28  4
@@ -570,7 +569,7 @@ Group 4
 28.06.97  Tokyo           Japan              1-1 Oman
 28.06.97  Tokyo           Macao              2-1 Nepal
 
-Group 5
+▪ Group 5 ▪
 06.04.97  Jakarta         Indonesia          8-0 Cambodia            1.Uzbekistan           6  5  1  0 20- 3 16
 13.04.97  Manado          Indonesia          0-0 Yemen               2.Yemen                6  2  2  2 10- 7  8
 20.04.97  Phnom Penh      Cambodia           0-1 Yemen               3.Indonesia            6  1  4  1 11- 6  7
@@ -584,7 +583,7 @@ Group 5
 29.06.97  Phnom Penh      Cambodia           1-4 Uzbekistan
 24.08.97  Tashkent        Uzbekistan         5-1 Yemen
 
-Group 6
+▪ Group 6 ▪
 23.02.97  Hongkong        Hongkong           0-2 South Korea         1.South Korea          4  3  1  0  9- 1 10
 02.03.97  Bangkok         Thailand           1-3 South Korea         2.Thailand             4  1  1  2  5- 6  4
 09.03.97  Bangkok         Thailand           2-0 Hongkong            3.Hongkong             4  1  0  3  3-10  3
@@ -592,7 +591,7 @@ Group 6
 28.05.97  Taejon          South Korea        4-0 Hongkong
 01.06.97  Seoul           South Korea        0-0 Thailand
 
-Group 7
+▪ Group 7 ▪
 13.04.97  Beirut          Lebanon            1-1 Singapore           1.Kuwait               4  4  0  0 10- 1 12
 26.04.97  Singapore       Singapore          0-1 Kuwait              2.Lebanon              4  1  1  2  4- 7  4
 08.05.97  Kuwait          Kuwait             2-0 Lebanon             3.Singapore            4  0  1  3  2- 8  1
@@ -600,7 +599,7 @@ Group 7
 05.06.97  Kuwait          Kuwait             4-0 Singapore
 22.06.97  Beirut          Lebanon            1-3 Kuwait
 
-Group 8
+▪ Group 8 ▪
 04.05.97  Ashgabat        Turkmenistan       1-4 China               1.China                6  5  1  0 13- 2 16
 04.05.97  Dushanbe        Tajikistan         4-0 Vietnam             2.Tajikistan           6  4  1  1 15- 2 13
 11.05.97  Ashgabat        Turkmenistan       2-1 Vietnam             3.Turkmenistan         6  2  0  4  8-13  6
@@ -614,7 +613,7 @@ Group 8
 22.06.97  Beijing         China              4-0 Vietnam
 22.06.97  Dushanbe        Tajikistan         5-0 Turkmenistan
 
-Group 9
+▪ Group 9 ▪
 11.05.97  Almaty          Kazakhstan         3-0 Pakistan            1.Kazakhstan           4  4  0  0 15- 2 12
 23.05.97  Lahore          Pakistan           2-6 Iraq                2.Iraq                 4  2  0  2 14- 8  6
 06.06.97  Baghdad         Iraq               1-2 Kazakhstan          3.Pakistan             4  0  0  4  3-22  0
@@ -622,7 +621,7 @@ Group 9
 20.06.97  Baghdad         Iraq               6-1 Pakistan
 29.06.97  Almaty          Kazakhstan         3-1 Iraq
 
-Group 10
+▪ Group 10 ▪
 20.09.96  Doha            Qatar              3-0 Sri Lanka           1.Qatar                3  3  0  0 14- 0  9
 21.09.96  Doha            India              2-0 Philippines         2.Sri Lanka            3  1  1  1  4- 4  4
 23.09.96  Doha            Qatar              5-0 Philippines         3.India                3  1  1  1  3- 7  4
@@ -630,7 +629,7 @@ Group 10
 26.09.96  Doha            Philippines        0-3 Sri Lanka
 27.09.96  Doha            Qatar              6-0 India
 
-2nd round
+▪ 2nd round ▪
 
 Group A [Saudi Arabia]
 13.09.97  Dalian          China              2-4 Iran                1.SAUDI ARABIA         8  4  2  2  8- 6 14
@@ -678,7 +677,7 @@ Group B [South Korea]
 
 Asia Playoff [Japan]
 
-16.11.97  Johor Bahru     Iran               2-3 Japan           [asdet]
+16.11.97  Johor Bahru     Iran               2-3 Japan           (asdet)
 Japan qualify, Iran to play off with Australia.
 
 Oceania
@@ -691,7 +690,7 @@ second round was played in two groups of 3 teams, the winners of which go
 to the final.  Winners of the final are to play off against the fourth
 team from Asia for qualification to France.
 
-1st round
+▪ 1st round ▪
 
 Melanesian Group
 16.09.96  Lae             Papua New Guinea   1-1 Solomon Islands     1.Papua New Guinea     2  1  1  0  3- 2  4
@@ -708,9 +707,9 @@ Playoff (1st Polynesia vs. 2nd Melanesia)
 15.02.97  Nuku'alofa      Tonga              0-4 Solomon Islands
 01.03.97  Honiara         Solomon Islands    9-0 Tonga
 
-2nd round
+▪ 2nd round ▪
 
-Group 1
+▪ Group 1 ▪
 11.06.97  Sydney          Australia         13-0 Solomon Islands     1.Australia            4  4  0  0 26- 2 12
 13.06.97  Sydney          Australia          5-0 Tahiti              2.Solomon Islands      4  1  1  2  7-21  4
 15.06.97  Sydney          Solomon Islands    4-1 Tahiti              3.Tahiti               4  0  1  3  2-12  1
@@ -718,7 +717,7 @@ Group 1
 19.06.97  Sydney          Tahiti             0-2 Australia
 21.06.97  Sydney          Tahiti             1-1 Solomon Islands
 
-Group 2
+▪ Group 2 ▪
 31.05.97  Port Moresby    Papua New Guinea   1-0 New Zealand         1.New Zealand          4  3  0  1 13- 1  9
 07.06.97  Ba              Fiji               0-1 New Zealand         2.Fiji                 4  2  0  2  4- 7  6
 11.06.97  Auckland        New Zealand        7-0 Papua New Guinea    3.Papua New Guinea     4  1  0  3  2-11  3
@@ -726,7 +725,7 @@ Group 2
 18.06.97  Auckland        New Zealand        5-0 Fiji
 21.06.97  Port Moresby    Papua New Guinea   0-1 Fiji
 
-3rd round
+▪ 3rd round ▪
 
 28.06.97  Auckland        New Zealand        0-3 Australia
 05.07.97  Sydney          Australia          2-0 New Zealand
@@ -744,7 +743,7 @@ Four seeded teams and 16 winners of first round knock out matches play in
 five groups of four teams each for five qualifying places; only the group
 winners qualify.
 
-1st round
+▪ 1st round ▪
 
 02.06.96  Khartoum        Sudan              2-0 Zambia
 16.06.96  Lusaka          Zambia             3-0 Sudan
@@ -801,7 +800,7 @@ Egypt              bye
 Morocco            bye
 Nigeria            bye
 
-2nd round
+▪ 2nd round ▪
 
 Group 1 [Nigeria]
 09.11.96  Lagos           Nigeria            2-0 Burkina Faso        1.NIGERIA              6  4  1  1 10- 4 13
@@ -880,7 +879,6 @@ Group 5 [Morocco]
 26.10.97  Libreville      Gabon              n/p Sierra Leone    [declared void after repeated travel
                                                                   problems of Sierra Leone]
 
-<!-- end pre -->
 
 ‹Detailed Infos, see page 98qual›
 
@@ -893,20 +891,9 @@ Group 5 [Morocco]
 
 ‹Overview File, see page ../tablesw/worldcup›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
-
-== About this document  ‹§about›
-
-Prepared and maintained by Karel Stokkermans and Sergio
-Henrique Jarreta for the
-‹Rec.Sport.Soccer Statistics Foundation›
 
 
-Authors: Karel Stokkermans and Sergio Henrique Jarreta
-Last updated: 12 Dec 2002
 
 
-(C) Copyright Karel Stokkermans, Sergio Henrique Jarreta
-and RSSSF 1995/2002
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the authors. All rights reserved.
+<!-- $about$ -->
+

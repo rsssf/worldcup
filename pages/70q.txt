@@ -6,7 +6,6 @@
 
 == World Cup 1970 Qualifying
 
-<!-- start pre -->
 Qualified as hosts: Mexico
 Qualified as holders: England
 
@@ -37,7 +36,7 @@ Europe Group 2 [Czechoslovakia]
 15.10.69  Dublin            Ireland          1-1 Denmark
 22.10.69  Budapest          Hungary          3-0 Denmark
 05.11.69  Budapest          Hungary          4-0 Ireland
-Playoff:
+▪ Playoff ▪
 03.12.69  Marseille         Czechoslovakia   4-1 Hungary
 
 Europe Group 3 [Italy]
@@ -138,7 +137,7 @@ South America Group 11 [Uruguay]
 
 North and Central America Group 12 [El Salvador]
 
-1st round
+▪ 1st round ▪
 
 Subgroup 1
 06.10.68  Toronto           Canada           4-0 Bermuda            1.USA              4  3  0  1  11- 6  6
@@ -172,7 +171,7 @@ Subgroup 4
 15.12.68  San Salvador      Dutch Antilles   1-2 El Salvador
 22.12.68  Paramaribo        Surinam          4-1 El Salvador
 
-2nd round
+▪ 2nd round ▪
 
 20.04.69  Port-au-Prince    Haiti            2-0 USA
 11.05.69  San Diego         USA              0-1 Haiti
@@ -180,19 +179,19 @@ NB: matches doubled as qualified for ‹1969 CONCACAF Nations Cup, see page ../t
 
 08.06.69  Tegucigalpa       Honduras         1-0 El Salvador
 15.06.69  San Salvador      El Salvador      3-0 Honduras
-Playoff:
-26.06.69  Cd. de Mexico     El Salvador      3-2 Honduras        [aet]
+▪ Playoff ▪
+26.06.69  Cd. de Mexico     El Salvador      3-2 Honduras        (aet)
 
-3rd round
+▪ 3rd round ▪
 
 21.09.69  Port-au-Prince    Haiti            1-2 El Salvador
 28.09.69  San Salvador      El Salvador      0-3 Haiti
-Playoff:
-08.10.69  Kingston          El Salvador      1-0 Haiti           [aet]
+▪ Playoff ▪
+08.10.69  Kingston          El Salvador      1-0 Haiti           (aet)
 
 Africa Group 13 [Morocco]
 
-1st round
+▪ 1st round ▪
 
 17.11.68  Alger             Algeria          1-2 Tunisia
 29.12.68  Tunis             Tunisia          0-0 Algeria
@@ -206,7 +205,7 @@ Playoff (because referee had not added extra time in second match):
 09.02.69  Adis Abeba        Ethiopia         5-1 Libya
 
 27.10.68  Ndola             Zambia           4-2 Sudan
-08.11.68  Khartoum          Sudan            4-2 Zambia          [aet]
+08.11.68  Khartoum          Sudan            4-2 Zambia          (aet)
 Sudan progresses by virtue of scoring more goals in the second match.
 
 07.12.68  Lagos             Nigeria          1-1 Cameroon
@@ -214,12 +213,12 @@ Sudan progresses by virtue of scoring more goals in the second match.
 
 Ghana bye.
 
-2nd round
+▪ 2nd round ▪
 
 27.04.69  Tunis             Tunisia          0-0 Morocco
-18.05.69  Casablanca        Morocco          0-0 Tunisia         [aet]
-Playoff:
-13.06.69  Marseille         Morocco          2-2 Tunisia         [aet]
+18.05.69  Casablanca        Morocco          0-0 Tunisia         (aet)
+▪ Playoff ▪
+13.06.69  Marseille         Morocco          2-2 Tunisia         (aet)
 Morocco progresses on coin toss.
 
 04.05.69  Adis Abeba        Ethiopia         1-1 Sudan
@@ -228,7 +227,7 @@ Morocco progresses on coin toss.
 10.05.69  Ibadan            Nigeria          2-1 Ghana
 18.05.69  Accra             Ghana            1-1 Nigeria
 
-3rd round
+▪ 3rd round ▪
 
 13.09.69  Ibadan            Nigeria          2-2 Sudan              1.MOROCCO          4  2  1  1   5- 3  5
 21.09.69  Casablanca        Morocco          2-1 Nigeria            2.Nigeria          4  1  2  1   8- 7  4
@@ -239,7 +238,7 @@ Morocco progresses on coin toss.
 
 Asia and Oceania Group 14 [Israel]
 
-1st round
+▪ 1st round ▪
 
 10.10.69  Seoul             Australia        3-1 Japan              1.Australia        4  2  2  0   7- 4  6
 12.10.69  Seoul             Japan            2-2 South Korea        2.South Korea      4  1  2  1   6- 5  4
@@ -248,12 +247,12 @@ Asia and Oceania Group 14 [Israel]
 18.10.69  Seoul             South Korea      2-0 Japan
 20.10.69  Seoul             South Korea      1-1 Australia
 
-2nd round
+▪ 2nd round ▪
 
 Subgroup A
 23.11.69  Lourenço Marques  Australia        1-1 Rhodesia
-27.11.69  Lourenço Marques  Rhodesia         0-0 Australia       [aet]
-Playoff:
+27.11.69  Lourenço Marques  Rhodesia         0-0 Australia       (aet)
+▪ Playoff ▪
 29.11.69  Lourenço Marques  Australia        3-1 Rhodesia
 
 Subgroup B
@@ -261,11 +260,10 @@ North Korea withdrew.
 28.09.69  Ramat Gan         Israel           4-0 New Zealand
 01.10.69  Ramat Gan         New Zealand      0-2 Israel
 
-3rd round
+▪ 3rd round ▪
 04.12.69  Ramat Gan         Israel           1-0 Australia
 14.12.69  Sydney            Australia        1-1 Israel
 
-<!-- end pre -->
 
 ‹Detailed Infos, see page 70qual›
 
@@ -275,20 +273,9 @@ North Korea withdrew.
 
 ‹Overview File, see page ../tablesw/worldcup›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
-
-== About this document  ‹§about›
-
-Prepared and maintained by Karel Stokkermans and Sergio
-Henrique Jarreta for the
-‹Rec.Sport.Soccer Statistics Foundation›
 
 
-Authors: Karel Stokkermans and Sergio Henrique Jarreta
-Last updated: 13 Nov 2006
 
 
-(C) Copyright Karel Stokkermans, Sergio Henrique Jarreta
-and RSSSF 1995/2006
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the authors. All rights reserved.
+<!-- $about$ -->
+

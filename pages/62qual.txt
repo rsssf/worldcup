@@ -29,7 +29,6 @@
 
 == Europe
 
-<!-- start pre -->
 
 28 teams entered, including ISR and ETH. ROM withdrew after seeding
 Winners of seven groups progress into the finals. Winners of groups 8 and
@@ -156,7 +155,7 @@ First Round - both matches in Israel
 19.03. Haifa      ISR-ETH 3:2 (1:1) Glazer 27,77, Stelmach 59 - Mengistou,
                                     Tesfaye (Pósa HUN)
 
-Second Round
+▪ Second Round ▪
 
 15.10. Tel-Aviv   ISR-ITA 2:4 (2:0) Stelmach 15, Young 38 - Lojacono 53p,
                                     Altafini 79, Corso 87,90 Takow BUL)
@@ -232,7 +231,7 @@ groups and the final group to meet PAR for the South American zone.
 
 Group 14 (1960-61)  ‹§gr14›
 
-First Round
+▪ First Round ▪
 
 Subgroup A
 
@@ -263,7 +262,7 @@ Subgroup C
 02.10. Paramaribo SUR-AHO 1:2 (0:1) (Orrego COL)
 27.11. Willemstad AHO-SUR 0:0       (Yamasaki PER)
 
-Second Round
+▪ Second Round ▪
 
 22.03. San José   COS-MEX 1:0 (1:0) Goban 51 (Queiroz BRA)
 29.03. San José   COS-AHO 6:0 (4:0) Rodriguez, Goban, Monge, Feo, Ulloa (2)
@@ -280,7 +279,7 @@ Second Round
 2.COS   4   4  2  0  2   8- 6
 3.AHO   4   3  1  1  2   2-13
 
-Third Round
+▪ Third Round ▪
 
 29.10. Mexico Ct. MEX-PAR 1:0 (1:0) Reyes 20 (van Rosberg AHO)
 05.11. Asunción   PAR-MEX 0:0       (Vaga Albergati URU)
@@ -294,7 +293,7 @@ Group 15 (1960-61)  ‹§gr15›
 
 - note: some goal info missing
 
-First Round
+▪ First Round ▪
 
 (1) - EGY and SUD both withdrew
 
@@ -312,7 +311,7 @@ First Round
 28.08. Accra      GHA-NGA 4:1 (2:0) ? - Fayemi 50 (Holland ENG)
 10.09. Lagos      NGA-GHA 2:2 (1:1) Enamako 28, Fayemi 75p - ? (Tschenscher GER)
 
-Second Round
+▪ Second Round ▪
 
 02.04. Accra      GHA-MAR 0:0        (Helmy EGY)
 28.05. Casablanca MAR-GHA 1:0 (1:0)  Khalli (Blanco Perez ESP)
@@ -344,4 +343,3 @@ Playoff of groups 10 and 16  ‹§play2›
 26.11. Seoul      KOR-JUG 1:3 (0:2) Ju Pang-sun - Galić (2), Jerkovic (Mak
                                     Xeun Fei HKG)
 
-<!-- end pre -->

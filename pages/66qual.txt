@@ -25,7 +25,6 @@
 
 == Europe
 
-<!-- start pre -->
 
 31 teams entered, icluding ENG (hosts) and two Asian teams - ISR
 and SYR (later withdrew solidarising with African teams). Nine groups with
@@ -284,9 +283,9 @@ CONCACAF - 10 teams entered, including GUA after the deadline.
 Winners of two rounds (zonal and general) progressing into the
 finals.
 
-Group 13  ‹§gr13›
+▪ Group 13 ▪
 
-First Round
+▪ First Round ▪
 
 Subgroup A
 
@@ -338,7 +337,7 @@ Subgroup C
 2.SUR   4   2  1  0  3   8- 9
 3.TRI   4   2  1  0  3   5-12
 
-Second Round
+▪ Second Round ▪
 
 25.04. San José   COS-MEX 0:0       (Morgan CAN)
 03.05. Kingston   JAM-MEX 2:3 (2:1) Welsh (2) - Jauregui, Cisneros, Padilla
@@ -383,4 +382,3 @@ Group 14 (1965) - withdrawn African teams: ALG, CAM, EGY, ETH, GĄB, GHA, GUI,  
 
 - both matches in CAM
 
-<!-- end pre -->

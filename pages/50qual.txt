@@ -21,7 +21,6 @@
 
 == Europe
 
-<!-- start pre -->
 
 17 teams entered (including ISR and SYR), ITA exempted as defending champion.
 AUT and BEL were withdrew after seeding. TUR withdrew after playing one
@@ -49,26 +48,26 @@ This group was also the Home (aka British) Championship for the year 1949.
 
 Group 2 (1949)  ‹§gr2›
 
-1st round
+▪ 1st round ▪
 
 20.11. Ankara      TUR-SYR 7:0 (3:0) Fahrettin 12,16,87, Billem 44, Lefter
                                      66, Erol 67, Gündüz 72 (Gamba ITA)
 - the second leg wasn't played
 
-2nd round
+▪ 2nd round ▪
 
 AUT withdrew, TUR had a walkover.
 
 Group 3 (1949)  ‹§gr3›
 
-1st round
+▪ 1st round ▪
 
 21.08. Beograd     JUG-ISR 6:0 (4:0) Pajević (3), Sencić, Ž.Čajkovski, Bobek
                                      (Galeati ITA)
 18.09. Tel Aviv    ISR-JUG 2:5 (0:3) Glazer 65,76 - Valok (2), Bobek,
                                      Zl.Čajkovski, Ž.Čajkovski (Künstler CYP)
 
-2nd round
+▪ 2nd round ▪
 
 09.10. Beograd     JUG-FRA 1:1 (1:0) Ž.Čajkovski 36 - Baillot 55 (van der
                                      Meer HOL)
@@ -79,7 +78,7 @@ Group 3 (1949)  ‹§gr3›
 
 Group 4 (1949)  ‹§gr4›
 
-1st round
+▪ 1st round ▪
 
 26.06. Zürich      SUI-LUX 5:2 (3:1) Fatton (2), Maillard, Ballaman,
                                      Antenen - C. Wagner, Reuter (Delasalle
@@ -87,7 +86,7 @@ Group 4 (1949)  ‹§gr4›
 18.09. Luxembourg  LUX-SUI 2:3 (2:1) Müller, Kremer - Maillard, Oberer,
                                      Fatton (Theusen BEL)
 
-2nd round
+▪ 2nd round ▪
 
 BEL withdrew, SUI had a walkover
 
@@ -155,17 +154,16 @@ Group 9 (1949) - a tournament in Mexico  ‹§gr9›
 
 == Asia
 
-Group 10  ‹§gr10›
+▪ Group 10 ▪
 
 4 teams for one place, BUR, INA and FIL withdrew.
 
-1st round
+▪ 1st round ▪
 
 (1) BUR withdrew, IND had a walkover.
 (2) FIL and INA withdrew.
 
-2nd round
+▪ 2nd round ▪
 
 IND had a walkover.
 
-<!-- end pre -->

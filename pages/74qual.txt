@@ -27,7 +27,6 @@
 
 == Europe
 
-<!-- start pre -->
 
 33 teams entered, including GER (hosts). Winners of nine groups (five
 groups of four teams and four groups of three teams) progressing to finals,
@@ -303,7 +302,7 @@ finals. JAM withdrew after seeding.
 
 Group 13 (1972)  ‹§gr13›
 
-First Round
+▪ First Round ▪
 
 Subgroup A
 
@@ -395,7 +394,7 @@ winner progresses into the finals
 
 Group 14 (1972-73)  ‹§gr14›
 
-First Round
+▪ First Round ▪
 
 (1)
 19.11. Agadir     MAR-SEN 0:0       (Jimenez ESP)
@@ -446,7 +445,7 @@ First Round
 (12)
 - GAB withdrew, CAM had a walkover
 
-Second Round
+▪ Second Round ▪
 
 (1)
 11.02. Conacra    GUI-MAR 1:1 (1:1) S. Cherif 38 - Tazi (Mutombo ZAI)
@@ -478,7 +477,7 @@ Second Round
 25.02. Kinshasa   ZAI-CAM 0:1 (0:1) Onguene (Wolbert CON)
 27.02. Kinshasa   ZAI-CAM 2:0 (1:0) Maruba, Kakoko (Wolbert CON)
 
-Third Round
+▪ Third Round ▪
 
 20.05. Abidżan    IVC-MAR 1:1 (0:1) Pokou - Acila (N'Diaye SEN)
 03.06. Tetuan     MAR-IVC 4:1 (2:1) Faras (2), Fetoui, Chukry - Pokou
@@ -490,7 +489,7 @@ Third Round
 05.08. Acra       GHA-ZAI 1:0 (1:0) (Camara GUI)
 19.08. Kinshasa   ZAI-GHA 4:1 (2:0) Ntumba (3), Bwanga - Owusu (N'Difo CAM)
 
-Fourth Round
+▪ Fourth Round ▪
 
 21.10. Lusaka     ZAM-MAR 4:0 (2:0) Simulambo 17, Chanda 39, Sinyangwe 52,
                                     Simwala 74 (Tesfaye ETH)
@@ -529,9 +528,9 @@ and (3) and the loser in pair (1) alloted to group A, the rest to group B.
 (3)
 17.05.            HKG-MAL 1:0 (0:0) Lo Hung Hoi (Azam IND)
 
-First Round
+▪ First Round ▪
 
-Group A
+▪ Group A ▪
 
 20.05.            JAP-VIE 4:0 (2:0)   Kamamoto 5,86, Mori 19 + 1 o 54
                                       (Coffman NZE)
@@ -542,7 +541,7 @@ Group A
 2.JAP   2   2  1  0  1   4- 1
 3.VIE   2   2  0  0  2   0- 5
 
-Group B
+▪ Group B ▪
 
 19.05.            ISR-MAL 3:0 (0:0) Farkas 50, Shum 62, Onana 82 (Aing Kim
                                     Ean KAM)
@@ -564,7 +563,7 @@ Secound Round
 26.05.            KOR-HKG 3:1 (1:1) (Hatta INA)
 26.05.            ISR-JAP 1:0 (0:0,0:0,0:0) Onana 110 (DhiUon SIN)
 
-Third Round
+▪ Third Round ▪
 
 28.05.            KOR-ISR 1:0 (0:0,0:0,0:0) Hon Joo-wook 109 (U Tin Thut BIR)
 
@@ -636,4 +635,3 @@ Fourth Round - Continental final
 
 2 teams entered, allotted to the Asian zone (see ‹Group 15, see §gr15›)
 
-<!-- end pre -->
