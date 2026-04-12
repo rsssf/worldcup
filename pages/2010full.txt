@@ -6,15 +6,16 @@
 
 == World Cup 2010 - Match Details
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-<!-- start pre -->
+
+
+
 
 == World Cup 2010, Final Tournament
 
-Round 1
+▪ Round 1 ▪
 
-Group A
+▪ Group A ▪
 
 11/06/2010, Johannesburg, FNB Stadium 'Soccer City', 84490
 World Cup
@@ -134,7 +135,7 @@ Cards:              Uruguay: 4 Jorge Fucile [Y 68'].
  4.France            3  0  1  2   1- 4  1
 
 
-Group B
+▪ Group B ▪
 
 12/06/2010, Port Elizabeth, Nelson Mandela Bay Stadium, 31513
 World Cup
@@ -255,7 +256,7 @@ Cards:              Nigeria: 1 Vincent Enyeama [Y 31'], 19 Chinedu Obasi [Y 37']
  4.Nigeria           3  0  1  2   3- 5  1
 
 
-Group C
+▪ Group C ▪
 
 12/06/2010, Phokeng, Royal Bafokeng Stadium, 38646
 World Cup
@@ -370,7 +371,7 @@ Cards:              USA: 17 Jozy Altidore [Y 62'], 7 DaMarcus Beasley [Y 90'].
  4.Algeria           3  0  1  2   0- 2  1
 
 
-Group D
+▪ Group D ▪
 
 13/06/2010, Pretoria, Loftus Versfeld Stadium, 38833
 World Cup
@@ -492,7 +493,7 @@ Cards:              Australia: 6 Michael Beauchamp [Y 49'], 8 Luke Wilkshire [Y 
  4.Serbia            3  1  0  2   2- 3  3
 
 
-Group E
+▪ Group E ▪
 
 14/06/2010, Johannesburg, FNB Stadium 'Soccer City', 83465
 World Cup
@@ -612,7 +613,7 @@ Cards:              Netherlands: 7 Dirk Kuĳt [Y 17'], 23 Rafael van der Vaart [
  4.Cameroon          3  0  0  3   2- 5  0
 
 
-Group F
+▪ Group F ▪
 
 14/06/2010, Cape Town, Cape Town Stadium (Green Point), 62869
 World Cup
@@ -726,7 +727,7 @@ Cards:              New Zealand: 6 Ryan Nelsen [Y 56'].
  4.Italy             3  0  2  1   4- 5  2
 
 
-Group G
+▪ Group G ▪
 
 15/06/2010, Port Elizabeth, Nelson Mandela Bay Stadium, 37034
 World Cup
@@ -842,7 +843,7 @@ Cards:              None.
  4.North Korea       3  0  0  3   1-12  0
 
 
-Group H
+▪ Group H ▪
 
 16/06/2010, Mbombela, Mbombela Stadium, 32664
 World Cup
@@ -965,7 +966,7 @@ Cards:              Honduras: 6 Hendry Thomas [Y 4'], 11 David Suazo [Y 58'], 2 
  4.Honduras          3  0  1  2   0- 3  1
 
 
-Round 2
+▪ Round 2 ▪
 
 26/06/2010, Port Elizabeth, Nelson Mandela Bay Stadium, 30597
 World Cup
@@ -1118,7 +1119,7 @@ Cards:              Spain: 14 Xabi Alonso [Y 74'].
                     Portugal: 19 Tiago Mendes [Y 80'], 21 Ricardo Costa [R 89'].
 
 
-Quarter-finals
+▪ Quarter-finals ▪
 
 02/07/2010, Port Elizabeth, Nelson Mandela Bay Stadium, 40186
 World Cup
@@ -1201,7 +1202,7 @@ Notes:              Íker Casillas saved a penalty from Óscar Cardozo at 59', a
                     saved a penalty from Xabi Alonso at 61'.
 
 
-Semi-finals
+▪ Semi-finals ▪
 
 06/07/2010, Cape Town, Cape Town Stadium (Green Point), 62479
 World Cup
@@ -1240,7 +1241,7 @@ Coaches:            Spain: Vicente Del Bosque.
 Cards:              None.
 
 
-Third place match
+▪ Third place match ▪
 
 10/07/2010, Port Elizabeth, Nelson Mandela Bay Stadium, 36254
 World Cup
@@ -1262,7 +1263,7 @@ Cards:              Germany: 4 Dennis Aogo [Y 5'], 19 Claudemir Barreto 'Cacau' 
                     Uruguay: 15 Diego Pérez [Y 61'].
 
 
-Final
+▪ Final ▪
 
 11/07/2010, Johannesburg, FNB Stadium 'Soccer City', 84490
 World Cup
@@ -1311,9 +1312,10 @@ Official Awards
 Note: Diego Forlán (Uruguay) was ranked fourth; he also had 5 goals and 1 'assist', but in 654 minutes (according to FIFA's own count).
 
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 == Statistics  ‹§stats›
 
@@ -1338,26 +1340,12 @@ Felipe Melo (BRA), Suarez (URU), Yahia (ALG)
 Spectators: 3.178 million (average 49,670)
 
 
-<!-- end pre -->
 
 ‹overview 2010 final tournament, see page 2010f›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
-
-== About this document  ‹§about›
-
-Statistic overview thanks to Roberto Di Maggio;
-thanks to Eren Kocyigit for a correction
-
-Prepared and maintained by Neil Morrison
-for the ‹Rec.Sport.Soccer Statistics Foundation›
 
 
-Author: Neil Morrison
-
-Last updated: 21 Jun 2024
 
 
-(C) Copyright Neil Morrison and RSSSF 2010/24
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the author. All rights reserved.
+<!-- $about$ -->
+
