@@ -1,31 +1,32 @@
   <!--
-     source: https://rsssf.org/tables/86full.html
+     title:   World Cup 1986 finals
+     source:  https://rsssf.org/tables/86full.html
+
     -->
-  
 
 
-= World Cup 1986
+== World Cup 1986
 
-<UL>
-<LI>‹Results, see §results›
-<UL>
-<LI>‹Group A, see §gra›
-<LI>‹Group B, see §grb›
-<LI>‹Group C, see §grc›
-<LI>‹Group D, see §grd›
-<LI>‹Group E, see §gre›
-<LI>‹Group F, see §grf›
-<LI>‹Eightfinals, see §8fin›
-<LI>‹Quarterfinals, see §4fin›
-<LI>‹Semifinals, see §2fin›
-<LI>‹Finals, see §final›
-</UL></UL>
-<UL>
-<LI>‹Scorers' list, see §scorers›
-<LI>‹Coaches, assistants, reserve players, see §coaches›
-<LI>‹Oldest and youngest, see §records›
-</UL>
-</UL>
+
+‹Results, see §results›
+
+‹Group A, see §gra›
+‹Group B, see §grb›
+‹Group C, see §grc›
+‹Group D, see §grd›
+‹Group E, see §gre›
+‹Group F, see §grf›
+‹Eightfinals, see §8fin›
+‹Quarterfinals, see §4fin›
+‹Semifinals, see §2fin›
+‹Finals, see §final›
+
+
+‹Scorers' list, see §scorers›
+‹Coaches, assistants, reserve players, see §coaches›
+‹Oldest and youngest, see §records›
+
+
 
 Mexico, 31 May - 29 June 1986 (Guadalajara, Irapuato, Leon, Mexico City,
 Monterrey, Nezahualcoyotl, Puebla, Querretaro, Toluca). Decided at FIFA
@@ -35,7 +36,7 @@ played (9 for the first time). Qualifications drawn 7 Dec 1983 in Zürich.
 Finals drawn 15 Dec 1985 in Mexico City.
 
 
-== Group A - ARG BUL ITA KOR  ‹§gra›
+=== Group A - ARG BUL ITA KOR  ‹§gra›
 
 31.05.86  (12.00) Mexico City, Estadio Azteca
 
@@ -155,7 +156,7 @@ Jung-moo - Cho Kwang-rae, Choi Soon-ho, Park Chang-sun (c), Byun Byung-joo
 3. BUL^         3  0 2 1  2  2-4
 4. KOR          3  0 1 2  1  4-7
 
-== Group B - BEL IRK MEX PAR  ‹§grb›
+=== Group B - BEL IRK MEX PAR  ‹§grb›
 
 03.06.86  (12.00) Mexico City, Estadio Azteca
 
@@ -274,7 +275,7 @@ booked: Allawe, Minahid
 3. BEL^         3  1 1 1  3  5-5
 4. IRK          3  0 0 3  0  1-4
 
-== Group C - CAN FRA HUN ZSR  ‹§grc›
+=== Group C - CAN FRA HUN ZSR  ‹§grc›
 
 01.06.86  (16.00) León, Estadio León
 
@@ -389,7 +390,7 @@ CAN: Lettieri - Lenarduzzi, Samuel, Bridge, Wilson (c) - Ragan, James
 3. HUN          3  1 0 2  2  2-9
 4. CAN          3  0 0 3  0  0-5
 
-== Group D - ALG BRA ESP NIR  ‹§grd›
+=== Group D - ALG BRA ESP NIR  ‹§grd›
 
 01.06.86  (12.00) Guadalajara, Estadio Jalisco
 
@@ -509,7 +510,7 @@ Spanish federation was obliged to pay a 25000 SFR worth of fine.
 3. NIR          3  0 1 2  1  2-6
 4. ALG          3  0 1 2  1  1-5
 
-== Group E - DAN GER SCO URU  ‹§gre›
+=== Group E - DAN GER SCO URU  ‹§gre›
 
 04.06.86  (12.00) Queretaro, Estadio La Corregidora
 
@@ -631,7 +632,7 @@ one match
 3. URU^         3  0 2 1  2  2-7
 4. SCO          3  0 1 2  1  1-3
 
-== Group F - ENG MAR POL POR  ‹§grf›
+=== Group F - ENG MAR POL POR  ‹§grf›
 
 02.06.86  (16.00) Monterrey, Estadio Universitario
 
@@ -755,7 +756,7 @@ Additional table to determine third places order:
 5. HUN      2  2-9
 6. NIR      1  2-6
 
-== Second Round  ‹§8fin›
+=== Second Round  ‹§8fin›
 
 15.06.86  (12.00) Mexico City, Estadio Azteca
 
@@ -912,7 +913,7 @@ J.Olsen (71 Mølby), Bertelsen, Lerby - Laudrup, Elkjær-Larsen
 
 booked: Goichoecea, Camacho / Andersen
 
-== Quarterfinals  ‹§4fin›
+=== Quarterfinals  ‹§4fin›
 
 21.06.86  (12.00) Guadalajara, Estadio Jalisco
 
@@ -997,7 +998,7 @@ der Elst
 
 booked: Demol, Grun - Tomás, Calderé
 
-== Semifinals  ‹§2fin›
+=== Semifinals  ‹§2fin›
 
 25.06.86  (12.00) Guadalajara, Estadio Jalisco
 
@@ -1031,7 +1032,7 @@ Vercauteren, Ceulemans (c) - Claesen, Veyt
 
 booked: Valdano / Veyt
 
-== Third place match  ‹§3place›
+=== Third place match  ‹§3place›
 
 28.06.86  (12.00) Puebla, Estadio Cuauhtemoc
 
@@ -1049,7 +1050,7 @@ Genghini 103, 4:2 Amoros 109 p
 
 booked: Pfaff
 
-== Final  ‹§final›
+=== Final  ‹§final›
 
 29.06.86  (12.00) Mexico City, Estadio Azteca
 
@@ -1067,7 +1068,7 @@ Burruchaga 88
 
 booked: Maradona, Enrique, Pumpido, Olarticoechea / Matthäus, Briegel
 
-== Scorers' list  ‹§scorers›
+=== Scorers' list  ‹§scorers›
 
 6 - Lineker ENG
 5 - Maradona ARG, Careca BRA, Butragueño ESP
@@ -1091,7 +1092,7 @@ In total 132 goals (12 p, 2 f, 19 h, 1 o), 2,54 per match. Most goals ARG (15),
 CAN without goals. 80 players scored (including 10 scorers from earlier
 torunaments - Platini, Rocheteau and Rummenige scored in their third finals).
 
-== Coaches, assistants, reserve players  ‹§coaches›
+=== Coaches, assistants, reserve players  ‹§coaches›
 
 ALG: R. Saadane, B. Mokhadi, M. Abdelwahab | Amara, Chebel, Sadmi, Chaib,
 Benkhalid
@@ -1138,7 +1139,7 @@ URU: G. Borrás, W. Guarino, L. Ayala | Aguilera, Otero, Rodriguez, Vega
 ZSR: V. Lobanovski, J. Morozov, S. Mosiagin, N. Simonian | Chivadze,
 Krakovski
 
-== Oldest and youngest  ‹§records›
+=== Oldest and youngest  ‹§records›
 
 Youngest                  Oldest
 player      F.J.Cruz MEX   20y 10d   Jennings NIR       41y  0d

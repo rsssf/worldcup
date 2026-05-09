@@ -1,20 +1,22 @@
   <!--
-     source: https://rsssf.org/tables/2006q-det.html
+     title:   World Cup 2006 Qualifying - Match Details
+     source:  https://rsssf.org/tables/2006q-det.html
+     authors: Hamdan Saaid and Andre Zlotkowski
+     updated: 5 Apr 2005
     -->
-  
-
-
-== World Cup 2006 Qualifying - Match Details
 
 
 
 
 
-==== Europe  ‹§eur›
 
-▪ GROUP 1 ▪
 
-_ Aug 18, 2004 _
+
+== Europe  ‹§eur›
+
+GROUP 1
+
+_ Aug 18 2004 _
 
 In Skopje (City Stadium)
 Macedonia 3 (Goran Pandev 5, Artim Sakiri 37, Velice Sumolikoski 89)
@@ -46,7 +48,7 @@ FIN: 1-Antti Niemi; 2-Petri Pasanen (13-MIka Koppinen 61), 3-Janne
      11-Joonas Kolkka, 14-Toni Kuivasto, 16-Aki Riihilahti, 21-Jonatan
      Johansson.
 
-_ Sep 4, 2004 _
+_ Sep 4 2004 _
 
 In Tampere (Ratina Stadium)
 Finland 3 (Alexei Eremenko 42, 64, Aki Riihilahti 58)
@@ -77,7 +79,7 @@ MKD: 1-Petar Milosevski; 3-Mile Krstev (14-Vasko Bozinovski 46),
      Jancevski (7-Vanco Trajanov 89).
 Sent off: Velice Sumolokovski 89.
 
-_ Sep 8, 2004 _
+_ Sep 8 2004 _
 
 In Andorra la Vella (Comunal Stadium)
 Andorra 1 (Marc Pujol 28pen)
@@ -121,7 +123,7 @@ CZE: 1-Petr Cech; 13-Martin Jiranek (2-Zdenek Grygera 58), 5-Rene Bolf,
      Rosicky, 17-Tomas Hubschman (14-Stepan Vachousek 62), 19-Roman
      Tyce (12-Vratislav Lokvenc 76); 15-Milan Baros, 9-Jan Koller.
 
-_ Oct 9, 2004 _
+_ Oct 9 2004 _
 
 In Prague (Toyota Arena)
 Czech Republic 1 (Jan Koller 36pen)
@@ -165,7 +167,7 @@ NED: 1-Edwin van der Sar; 2-Khalid Boulahrouz, 3-Nigel de Jong,
      8-Edgar Davids; 7-Romeo Castelen, 9-Pierre van Hooijdonk (17-Roy
      Makaay 61), 11-Dirk Kuyt.
 
-_ Oct 13, 2004 _
+_ Oct 13 2004 _
 
 In Andorra La Vella (Comunal Stadium)
 Andorra 1 (Marc Bernaus 60)
@@ -208,7 +210,7 @@ FIN: 1-Antti Niemi; 2-Petri Pasanen, 4-Sami Hyypia, 14-Toni Kuivasto,
      Tainio, 16-Aki Riihilahti (21-Jonatan Johansson 60), 11-Joonas
      Kolkka; 18-Shefki Kuqi, 20-Alexei Eremenko (3-Janne Saarinen 73).
 
-_ Nov 17, 2004 _
+_ Nov 17 2004 _
 
 In Barcelona (Mini-Estadi)
 Andorra 0
@@ -253,7 +255,7 @@ CZE: 1-Petr Cech; 2-Zdenek Grygera (12-Vratislav Lokvenc 76), 4-Tomas
      Koller, 10-Tomas Rosicky, 14-Stepan Vachousek (19-Tomas Jun 59),
      15-Milan Baros (18-Marek Heinz 14), 21-Tomas Ujfalusi.
 
-_ Feb 9, 2005 _
+_ Feb 9 2005 _
 
 In Skopje (City Stadium)
 Macedonia 0
@@ -269,7 +271,7 @@ AND: 1-Luiz Alvarez; 2-Luena Garcia, 3-Jordi Escura, 4-Oscar Sonejee,
      Roberto 90+2), 8-Antoni Sivera, 9-Fernando Silva (16-Juli Sanchez
      61), 10-Marc Bernaus, 11-Justo Ruiz (18-Genis Garcia 85).
 
-_ Mar 26, 2005 _
+_ Mar 26 2005 _
 
 In Yerevan (Republican Stadium)
 Armenia 2 (Ara Hakobyan 30, Romik Khachatryan 73)
@@ -313,7 +315,7 @@ NED: 1-Edwin van der Sar; 2-Jan Kromkamp, 3-Khalid Boulahrouz, 4-Joris
      Maduro 73), 9-Ruud van Nistelrooy, 10-Philip Cocu, 11-Arjen Robben
      (18-Ryan Babel 25).
 
-_ Mar 30, 2005 _
+_ Mar 30 2005 _
 
 In Andorra la Vella (Comunal Stadium)
 Andorra 0
@@ -369,9 +371,9 @@ ARM: 1-Roman Berezovski; 2-Eghishe Melikyan, 3-Karen Dokhoyan, 4-Sarkis
      7.Andorra            7   1   1   5   3  17   4
 
 
-▪ GROUP 2 ▪
+GROUP 2
 
-_ Sep 4, 2004 _
+_ Sep 4 2004 _
 
 In Tirana (Qemal Stafa Stadium)
 Albania 2 (Edvin Murati 2, Adriaj Aliaj 10)
@@ -418,7 +420,7 @@ GEO: 1-Akaki Devadze; 2-Kakhaber Mzhavanadze, 3-Zurab Khizanishvili,
      9-Georgi Demetradze (Lasha Jakobia 75), 10-Gocha Jamarauli,
      11-Shota Arveladze.
 
-_ Sep 8, 2004 _
+_ Sep 8 2004 _
 
 In Almaty (Central Stadium)
 Kazakhstan 1 (Andrei Karpovich 35)
@@ -464,7 +466,7 @@ TUR: 1-Rustu Recber; 2-Ibrahim Toraman, 3-Deniz Baris, 4-Servet Cetin,
      Karadeniz, 9-Nihat Kahveci (18-Akin Serhat 90+), 5-Emre Belozoglu,
      10-Fatih Tekke (16-Hamit Altintop 90), 11-Serkan Balci.
 
-(Oct 9,2004)
+[Oct 9,2004]
 
 In Tirana (Qemal Stafa Stadium)
 Albania 0
@@ -509,7 +511,7 @@ GRE: 1-Antonios Nikopolidis; 5-Traianos Dellas, 2-Giourkas Seitaridis,
      Georgiadis 80), 7-Theodoros Zagorakis, 8-Stylianos Giannakopoulos
      (9-Angelos Charisteas 61), 20-Georgios Karagounis; 15-Zisis Vryzas.
 
-_ Oct 13, 2004 _
+_ Oct 13 2004 _
 
 In Copenhagen (Parken Stadium)
 Denmark 1 (Jon Dahl Tomasson 27pen)
@@ -554,7 +556,7 @@ GEO: 1-Akaki Devadze; 13-Zurab Khizanishvili, 3-Otar Khizaneishvili,
      Jamarauli (18-George Demetradze 85), 16-Malkhaz Asatiani; 11-Shota
      Arveladze, 9-Alexander Iashvili.
 
-_ Nov 17, 2004 _
+_ Nov 17 2004 _
 
 In Tbilisi (Lokomotivi Stadium)
 Georgia 2 (Giorgi Demetradze 35, Malkhaz Asatiani 76)
@@ -601,7 +603,7 @@ UKR: 1-Olexander Shovkovsky; 2-Andriy Nesmachny, 3-Serhiy Fyodorov,
      Voronin (15-Olexander Rykun 61), 14-Andriy Husin, 16-Andriy
      Vorobei (18-Yuri Dmitrulin 75).
 
-_ Feb 9, 2005 _
+_ Feb 9 2005 _
 
 In Tirana (Qemal Stafa Stadium)
 Albania 0
@@ -631,7 +633,7 @@ DEN: 1-Thomas Sorensen; 2-Christian Poulsen, 5-Niclas Jensen (17-Peter
      Perez (14-Martin Jorgensen 46), 8-Dennis Rommedahl, 9-Jon Dahl
      Tomasson.
 
-_ Mar 26, 2005 _
+_ Mar 26 2005 _
 
 In Copenhagen (Parken Stadium)
 Denmark 3 (Peter Moller 10, 48, Christian Poulsen 33)
@@ -676,7 +678,7 @@ ALB: 1-Ilion Lika; 2-Elvin Beqiri, 3-Armend Dallku, 5-Lorik Cana,
      Haxhi, 14-Altin Lala, 13-Ervin Skela; 22-Erion Bogdani, 17-Igli
      Tare.
 
-_ Mar 30, 2005 _
+_ Mar 30 2005 _
 
 In Tbilisi (Lokomotivi Stadium)
 Georgia 2 (Alexander Amisulashvili 15, Alexander Iashvili 41)
@@ -734,9 +736,9 @@ DEN: 1-Thomas Sorensen; 3-Brian Priske, 4-Per Kroldrup, 6-Thomas Helveg,
      7.Kazakhstan         5   0   0   5   2  13    0
 
 
-▪ GROUP 3 ▪
+GROUP 3
 
-_ Aug 18, 2004 _
+_ Aug 18 2004 _
 
 In Vaduz (Rheinpark Stadium)
 Liechtenstein 1 (Fabio D'Elia 48)
@@ -766,7 +768,7 @@ LUX: 1-Alija Besic; 2-Rene Peters, 3-Claude Reiter, 4-Eric Hoffman,
      Leweck (15-Paul Mannon 61), 9-Gordon Braun (16-Greg Molitor 61),
      10-Manuel Cardoni, 11-Daniel Huss (13-Charles Leweck 74).
 
-_ Sep 4, 2004 _
+_ Sep 4 2004 _
 
 In Tallinn (A. Le Coq Arena)
 Estonia 4 (Ingemar Teever 7, Manou Schauls og 41, Andres Oper 61,
@@ -813,7 +815,7 @@ SVK: 1-Kamil Contofalsky; 2-Vratislav Gresko, 3-Michal Hanek
      Breska 76), 9-Rastislav Michalik (16-Marek Cech 76), 10-Radoslav
      Zabavnik, 11-Robert Vittek.
 
-_ Sep 8, 2004 _
+_ Sep 8 2004 _
 
 In Luxembourg (Josy-Barthel Stadium)
 Luxembourg 3 (Gordon Braun 10, Alphonse Leweck 55, Manuel Cardoni 62)
@@ -860,7 +862,7 @@ EST: 1-Mart Poom; 2-Teet Allas, 3-Enar Jaager, 4-Raio Piiroja, 5-Urmas
      (16-Kristen Viikmae 64), 8-Martin Reim, 9-Andres Oper, 10-Joel
      Lindpere, 11-Sergei Terehhov (14-Vyatsheslav Zahovaiko 70).
 
-_ Oct 9, 2004 _
+_ Oct 9 2004 _
 
 In Vaduz (Rheinpark Stadium)
 Leichtenstein 2 (Franz Burgmeier 48, Thomas Beck 76)
@@ -906,7 +908,7 @@ LVA: 1-Alexandrs Kolinko; 3-Vitalijs Astafjevs (10-Vladimirs
      Semjonovs 86), 9-Maris Verpakovskis, 11-Vits Rimkus (16-Mihails
      Miholaps 76), 14-Valentins Lobanovs, 18-Maris Smirnovs.
 
-_ Oct 13, 2004 _
+_ Oct 13 2004 _
 
 In Riga (Skonto Stadium)
 Latvia 2 (Vitalijs Astafjevs 65, Jurijs Laizans 82)
@@ -951,7 +953,7 @@ RUS: 1-Vyacheslav Malafeev; 7-Dmitri Sennikov (17-Rolan Gusev 46),
      Boyarintsev 71), 10-Andrei Arshavin, 9-Dmitri Bulykin, 11-Dmitri
      Sychev (18-Dmitri Kirichenko 46).
 
-_ Nov 17, 2004 _
+_ Nov 17 2004 _
 
 In Vaduz (Rheinpark Stadium)
 Liechtenstein 1 (Mario Frick 31)
@@ -997,7 +999,7 @@ EST: 1-Martin Kaalma; 2-Teet Allas, 3-Enar Jaager, 4-Raio Piiroja,
      90), 8-Joel Lindpere, 9-Kristen Viikmae, 10-Andres Oper, 11-Sergei
      Terehhov (14-Ragnar Klavan 81).
 
-_ Mar 26, 2004 _
+_ Mar 26 2004 _
 
 In Tallinn (A. Le Coq Arena)
 Estonia 1 (Andres Oper 57)
@@ -1028,7 +1030,7 @@ RUS: 1-Vyacheslav Malafeyev; 2-Vadim Yevseyev, 3-Vasily Berezutsky,
      (15-Yevgeny Aldonin 78), 9-Andrei Arshavin (17-Dmitry Sychev 55),
      10-Dmitry Loskov, 11-Alexander Kerzhakov.
 
-_ Mar 30, 2004 _
+_ Mar 30 2004 _
 
 In Tallinn (A. Le Coq Arena)
 Estonia 1 (Sergei Terehhov 62)
@@ -1084,9 +1086,9 @@ POR: 1-Ricardo Pereira; 2-Paulo Ferreira (13-Miguel Monteiro 64),
      7.Luxembourg         7   0   0   7   4  28   0
 
 
-▪ GROUP 4 ▪
+GROUP 4
 
-_ Sep 4, 2004 _
+_ Sep 4 2004 _
 
 In Saint-Denis (Stade de France)
 France 0
@@ -1130,7 +1132,7 @@ FRO: 1-Jens Martin Knudsen; 2-Suni Olsen, 3-Oli Johannesen, 4-Pol
      Bech Jorgensen (13-Johan Byrial Hansen 70); 10-John Petersen
      (12-Rogvi Jacobsen 57), 11-Jonhard Frederiksberg.
 
-_ Sep 8, 2004 _
+_ Sep 8 2004 _
 
 In Torshavn (Torsvollur Stadium)
 Faroe Islands 0
@@ -1174,7 +1176,7 @@ IRL: 1-Shay Given; 2-Stephen Carr, 4-Kenny Cunningham, 5-Andy O'Brien,
      8-Kevin Kilbane, 11-Damien Duff; 10-Robbie Keane, 9-Clinton
      Morrison (17-Gary Doherty 84).
 
-_ Oct 9, 2004 _
+_ Oct 9 2004 _
 
 In Nicosia (G.S.P. Stadium)
 Cyprus 2 (Michael Konstantinou 14, Ioannis Okkas 81)
@@ -1218,7 +1220,7 @@ SUI: 1-Pascal Zuberbuhler; 2-Bernt Haas, 3-Ludovic Magnin, 4-Patrick
      9-Alexander Frei, 10-Hakan Yakin (15-Johann Lonfat 79), 11-Johann
      Vonlanthen.
 
-_ Oct 13, 2004 _
+_ Oct 13 2004 _
 
 In Nicosia (G.S.P. Stadium)
 Cyprus O
@@ -1250,7 +1252,7 @@ FRO: 1-Jakup Mikkelsen; 2-Suni Olsen, 4-Pol Thorsteinsson, 5-Jon Roi
      85), 10-John Petersen, 11-Jonhard Frederiksberg (14-Andrew Flotum
      82), 13-Oli Johannesen (C).
 
-_ Nov 17, 2004 _
+_ Nov 17 2004 _
 
 In Nicosia (G.S.P. Stadium)
 Cyprus 1 (Ioannis Okkas 45)
@@ -1267,7 +1269,7 @@ ISR: 1-Nir Davidovich; 4-Arik Benado, 3-Tal Ben-Haim, 6-Adoram Keisi,
      15-Yossi Benayoun, 18-Omri Afek, 20-Yaniv Katan (11-Abbas Souan 65),
      21-Klemi Saban.
 
-_ Mar 26, 2005 _
+_ Mar 26 2005 _
 
 In Tel Aviv (Ramat Gan Stadium)
 Israel 1 (Abbas Souan 90)
@@ -1296,7 +1298,7 @@ SUI: 1-Pascal Zuberbuhler; 26-Philipp Degen, 24-Philippe Senderos,
      (4-Stephane Henchoz 90+2), 7-Ricardo Cabanas, 25-Reto Ziegler,
      9-Alexander Frei.
 
-_ Mar 30, 2005 _
+_ Mar 30 2005 _
 
 In Tel Aviv (Ramat Gan Stadium)
 Israel 1 (Walid Badir 83)
@@ -1337,9 +1339,9 @@ Sent off: Nikos Panayiotou 90.
      6.Faroe Islands      4   0   1   3   2  12   1
 
 
-▪ GROUP 5 ▪
+GROUP 5
 
-_ Sep 4, 2004 _
+_ Sep 4 2004 _
 
 In Palermo, Sicily (Renzo Barbera Stadium)
 Italy 2 (Daniele De Rossi 4, Luca Toni 80)
@@ -1370,7 +1372,7 @@ MOL: 1-Evgheni Hmaruc; 2-Alexandru Covalenco (15-Stanislav Ivanov 71),
      (16-Vladislav Lungu 46), 9-Serghei Rogaciov (18-Serghei Dadu 82),
      10-Boris Cebotari, 11-Jurie Miterev.
 
-_ Sep 8, 2004 _
+_ Sep 8 2004 _
 
 In Chisinau (Republican Stadium)
 Moldova 0
@@ -1415,7 +1417,7 @@ SVN: 1-Borut Mavric; 3-Amir Karic, 4-Matej Mavric, 6-Aleksander Knavs,
      Komac, 15-Jalen Pokorn, 19-Simon Seslar; 18-Milenko Acimovic,
      20-Zlatko Dedic (7-Goran Sukalo 79).
 
-_ Oct 9, 2004 _
+_ Oct 9 2004 _
 
 In Minsk (Dynamo Stadium)
 Belarus 4 (Sergei Omelyanchuk 45, Vitaly Kutuzov 65, Vitaly Bulyga 75,
@@ -1462,7 +1464,7 @@ ITA: 1-Gianluigi Buffon; 2-Daniele Bonera, 3-Gianluca Zambrotta,
      Gilardino (16-Stefano Fiore 68), 10-Francesco Totti, 11-Mauro
      Esposito (18-Luca Toni 68).
 
-_ Oct 13, 2004 _
+_ Oct 13 2004 _
 
 In Parma (Ennio Tardini Stadium)
 Italy 4 (Francesco Totti 27pen, 74, Daniele De Rossi 33, Alberto
@@ -1510,7 +1512,7 @@ SVN: 1-Borut Mavric; 4-Matej Mavric, 5-Bostjan Cesar, 6-Zeljko
      15-Jalen Pokorn, 17-Klemen Lavric (20-Zlatko Dedic 78), 18-Milenko
      Acimovic, 19-Simon Seslar (11-Andrei Komac 66).
 
-_ Mar 26, 2005 _
+_ Mar 26 2005 _
 
 In Milan (Giuseppe Meazza Stadium)
 Italy 2 (Andrea Pirlo 35, 85)
@@ -1525,7 +1527,7 @@ SCO: 1-Rab Douglas (12-Craig Gordon 39); 2-Jackie McNamara, 4-Steven
      Hartley (16-Stephen Crawford 75), 8-Gary Caldwell, 10-Nigel
      Quashie, 11-Lee McCulloch; 9-Kenny Miller (17-Garry O'Connor 86).
 
-_ Mar 30, 2005 _
+_ Mar 30 2005 _
 
 In Chisinau (Republican Stadium)
 Moldova 0
@@ -1565,9 +1567,9 @@ BLR: 1-Yury Zhaunou; 2-Aleksandr Kulchy, 3-Denis Kovba, 4-Sergei
      6.Moldova            5   0   2   3   1   9   2
 
 
-▪ GROUP 6 ▪
+GROUP 6
 
-_ Sep 4, 2004 _
+_ Sep 4 2004 _
 
 In Vienna (Ernst Happel Stadion)
 Austria 2 (Roland Kollmann 71, Andreas Ivanschitz 73)
@@ -1612,7 +1614,7 @@ POL: 1-Jerzy Dudek; 2-Sebastian Mila (16-Arkadiusz Radomski 75),
      Lewandowski, 11-Piotr Wlodarczyk.
 Sent off: Piotr Wlodarczyk 79.
 
-_ Sep 8, 2004 _
+_ Sep 8 2004 _
 
 In Vienna (Ernst Happel Stadion)
 Austria 2 (Martin Stranzl 23, Roland Kollmann 44)
@@ -1658,7 +1660,7 @@ NIR: 1-Maik Taylor; 18-Aaron Hughes, 4-Colin Murdock, 5-Mark Williams,
      10-James Quinn (14-Andrew Smith 56; 15-Paul McVeigh 87).
 Sent-offs: Michael Hughes 9, David Healy 21.
 
-_ Oct 9, 2004 _
+_ Oct 9 2004 _
 
 In Vienna (Ernst Happel Stadion)
 Austria 1 (Markus Schopp 30)
@@ -1703,7 +1705,7 @@ WAL: 1-Paul Jones; 2-Mark Delaney, 5-Danny Gabbidon, 3-Ben Thatcher;
      Davies, 6-Mark Pembridge (15-Carl Robinson 59), 10-Gary Speed (C),
      11-Ryan Giggs; 9-John Hartson.
 
-_ Oct 13, 2004 _
+_ Oct 13 2004 _
 
 In Baku (Tofik Bakhramov Stadium)
 Azerbaijan 0
@@ -1747,7 +1749,7 @@ POL: 1-Jerzy Dudek; 2-Tomasz Rzasa, 4-Marcin Baszczynski, 6-Jacek Bak
      3-Kamil Kosowski; 9-Maciej Zurawski, 11-Piotr Wlodarczyk
      (17-Tomasz Frankowski 60).
 
-_ Mar 26, 2005 _
+_ Mar 26 2005 _
 
 In Manchester (Old Trafford Stadium)
 England 4 (Joe Cole 47, Michael Owen 52, Chris Baird og 54, Frank
@@ -1793,7 +1795,7 @@ AUT: 1-Helge Paye; 2-Markus Katzer, 4-Emanuel Pogatetz, 5-Anton Ehmann,
      9-Christian Mayrleb (17-Wolfgang Mair 87), 11-Mario Haas (18-Ivica
      Vastic 78).
 
-_ Mar 30, 2005 _
+_ Mar 30 2005 _
 
 In Vienna (Ernst Happel Stadion)
 Austria 1 (Rene Aufhauser 87)
@@ -1846,9 +1848,9 @@ NIR: 1-Maik Taylor; 3-Tony Capaldi, 4-Colin Murdock, 18-Aaron Hughes,
      6.Azerbaijan         6   0   2   4   1  14   2
 
 
-▪ GROUP 7 ▪
+GROUP 7
 
-_ Sep 4, 2004 _
+_ Sep 4 2004 _
 
 In Serravalle (Stadio Olimpico)
 San Marino 0
@@ -1880,7 +1882,7 @@ LTU: 1-Zydrunas Karcemarkas; 2-Marius Stankevicus, 3-Rolandas Dziauktas,
      8-Edgaras Cesnauskis; 9-Tomas Danilevicius (13-Saulius Mikoliunas
      67), 10-Robertas Poskus, 11-Edgaras Jankauskas.
 
-_ Sep 8, 2004 _
+_ Sep 8 2004 _
 
 In Kaunas (S Darius & S Girenas Stadium)
 Lithuania 4 (Edgaras Jankauskas 18, 49, Tomas Danilevicius 63, Tomas
@@ -1912,7 +1914,7 @@ ESP: 1-Iker Casillas; 2-Michel Salgado, 5-Carles Puyol, 6-Ivan Helguera,
      Albelda (18-Xabi Alonso 71), 8-Ruben Baraja (12-Juan Carlos
      Valeron 58), 11-Vicente; 9-Jose Antonio Reyes, 7-Raul.
 
-_ Oct 9, 2004 _
+_ Oct 9 2004 _
 
 In Santander (Campo de el Sardinero Stadium)
 Spain 2 (Albert Luque 60, Raul 65)
@@ -1943,7 +1945,7 @@ SCG: 1-Dragoslav Jevric; 6-Goran Gavrancic, 20-Mladen Krstajic,
      Brnovic 90+2), 8-Zvonimir Vukic; 9-Savo Milosevic (11-Marko
      Pantelic 77), 18-Danijel Ljuboja.
 
-_ Oct 13, 2004 _
+_ Oct 13 2004 _
 
 In Vilnius (Zalgiris Stadium)
 Lithuania 0
@@ -1976,7 +1978,7 @@ SMR: 1-Federico Gasperoni; 2-Carlo Valentini, 3-Michele Marani,
      9-Nicola Ciacci (15-Marco De Luigi 77); 10-Alex Gasperoni,
      11-Michele Moretti (16-Bryan Gasperoni 64).
 
-_ Nov 17, 2004 _
+_ Nov 17 2004 _
 
 In Serravalle (Stadio Olimpico)
 San Marino 0
@@ -2009,7 +2011,7 @@ SCG: 1-Dragoslav Jevric; 20-Marjan Markovic, 5-Nemanja Vidic, 6-Goran
      Stankovic, 11-Predrag Djordjevic; 18-Zvonimir Vukic, 9-Savo
      Milosevic (8-Mateja Kezman 28).
 
-_ Feb 9, 2005 _
+_ Feb 9 2005 _
 
 In Almeria (Estadio Mediterraneo)
 Spain 5 (Joaquin 15, Fernando Torres 33, Raul 43, Guti 65, Asier del
@@ -2026,7 +2028,7 @@ SMR: 1-Federico Gasperoni; 2-Carlo Valentini, 3-Matteo Andreini
      8-Damiano Vanucci, 9-Alex Gasperoni (13-Nicola Ciacci 88), 10-Andy
      Selva, 11-Michele Marani.
 
-_ Mar 26, 2005 _
+_ Mar 26 2005 _
 
 In Brussels (King Baudouin Stadium)
 Belgium 4 (Emile Mpenza 15 54, Koen Daerden 44, Thomas Buffel 76)
@@ -2043,7 +2045,7 @@ BIH: 1-Kenan Hasagic; 2-Branimir Bajic, 3-Sasa Papac (10-Zvjezdan
      9-Sergej Barbarez; 11-Elvir Baljic (17-Nedim Halilovic 68),
      14-Mirsad Beslija.
 
-_ Mar 30, 2005 _
+_ Mar 30 2005 _
 
 In Belgrade (FK Crvena Zvezda Stadium)
 Serbia & Montenegro 0
@@ -2099,9 +2101,9 @@ BEL: 1-Silvio Proto; 2-Olivier Doll (14-Kevin Vandenbergh 58),
      6.San Marino         6   0   0   6   1  20   0
 
 
-▪ GROUP 8 ▪
+GROUP 8
 
-_ Sep 4, 2004 _
+_ Sep 4 2004 _
 
 In Zagreb (Maksimir Stadium)
 Croatia 3 (Dado Prso 32, Ivan Klasnic 57, Gabor Gypes og 80)
@@ -2148,7 +2150,7 @@ SWE: 1-Andreas Isaksson; 2-Teddy Lucic, 3-Olof Mellberg (15-Mikael
      Jonson 76), 8-Anders Svensson, 9-Fredrik Ljungberg, 10-Zlatan
      Ibrahimovic, 11-Henrik Larsson.
 
-_ Sep 8, 2004 _
+_ Sep 8 2004 _
 
 In Gothenburg (Nya Ullevi Stadium)
 Sweden 0
@@ -2177,7 +2179,7 @@ ISL: 1-Arni Arason; 2-Olafur Bjarnason, 3-Kristjan Sigurdsson, 4-Arnar
      10-Thordur Gudjonsson (16-Gylfi Einarsson 76), 9-Eidur Gudjohnsen
      (18-Veigar Gunnarsson 88), 11-Heidar Helguson.
 
-_ Oct 9, 2004 _
+_ Oct 9 2004 _
 
 In Zagreb (Maksimir Stadium)
 Croatia 2 (Darijo Srna 25, 31pen)
@@ -2221,7 +2223,7 @@ HUN: 1-Gabor Kiraly; 2-Laszlo Bodnar (14-Csaba Feher 80), 3-Boldizsar
      Hajnal 55), 7-Balasz Molnar, 8-Pal Dardai, 9-Sandor Torghelle
      (18-Peter Kovacs 68), 10-Zoltan Gera, 11-Imre Szabics.
 
-_ Oct 13, 2004 _
+_ Oct 13 2004 _
 
 In Sofia (Vasilij Levski Stadium)
 Bulgaria 4 (Dimitar Berbatov 43, 56, Hristo Yanev 47, Chavdar Yankov 87)
@@ -2253,7 +2255,7 @@ SWE: 1-Andreas Isaksson (12-Magnus Hedman 31); 2-Alexander Ostlund,
      Ljungberg (15-Niclas Alexandersson 57), 10-Marcus Allback,
      11-Henrik Larsson (17-Zlatan Ibrahimovic 53).
 
-_ Nov 17, 2004 _
+_ Nov 17 2004 _
 
 In Valletta (Ta'qali National Stadium)
 Malta 0
@@ -2268,7 +2270,7 @@ HUN: 1-Gabor Kiraly; 2-Denis Rosa (17-Gabor Gyepes 90), 3-Szaboics
      Feher, 8-Pal Dardai, 9-Sandor Torghelle (18-Peter Kovacs 66),
      10-Zoltan Gera, 11-Robert Waltner (16-Peter Lipcsei 79).
 
-_ Mar 26, 2005 _
+_ Mar 26 2005 _
 
 In Sofia (Vasilij Levski Stadium)
 Bulgaria 0
@@ -2300,7 +2302,7 @@ ISL: 1-Arni Gautur Arason; 2-Kristjan Sigurdsson, 3-Indridi Sigurdsson,
      8-Brynjar Gunnarson, 9-Heidar Helguson, 10-Johannes Gudjonsson
      (17-Bjarni Gudjonsson 60), 11-Gylfi Einarsson.
 
-_ Mar 30, 2005 _
+_ Mar 30 2005 _
 
 In Zagreb (Maksimir Stadium)
 Croatia 3 (Dado Prso 24, 36, Igor Tudor 80)
@@ -2356,7 +2358,7 @@ LEADING GOALSCORERS:
 
 
 
-==== South America  ‹§sam›
+== South America  ‹§sam›
 
      Standings            P   W   D   L   F   A   Pts
      1.Argentina         13   8   4   1  24  12   28
@@ -2370,7 +2372,7 @@ LEADING GOALSCORERS:
      9.Venezuela         13   4   2   7  14  20   14
     10.Bolivia           13   4   1   8  15  23   13
 
-_ Sept 6, 2003 _
+_ Sep 6 2003 _
 
 In Buenos Aires (Antonio V.Liberti Stadium)
 Argentina 2 (Cristian Gonzalez 32, Pablo Aimar 36)
@@ -2418,7 +2420,7 @@ PAR: 22-Ricardo Tavarelli; 3-Julio Cesar Caceres, 14-Paulo Da Silva,
      Alvarenga 60), 16-Julio Enciso, 13-Carlos Paredes, 6-Carlos Bonet
      (23-Nelson Cuevas 81); 9-Roque Santa Cruz, 20-Jose Cardozo.
 
-_ Sept 7, 2003 _
+_ Sep 7 2003 _
 
 In Montevideo (Centenario Stadium)
 Uruguay 5 (Diego Forlan 17, Javier Chevanton 40, 60, Nelson Abeijon 82,
@@ -2450,7 +2452,7 @@ BRA: 1-Dida; 2-Cafu, 4-Roque Junior, 3-Lucio, 6-Roberto Carlos;
      5-Gilberto Silva, 11-Ze Roberto, 7-Emerson (15-Renato 60), 8-Alex
      (16-Kaka 60); 10-Rivaldo (17-Diego 88), 9-Ronaldo.
 
-_ Sept 9, 2003 _
+_ Sep 9 2003 _
 
 In Caracas (Olimpico Stadium)
 Venezuela 0
@@ -2481,7 +2483,7 @@ PER: 1-Erick Delgado; 4-Jorge Soto, 22-Miguel Rebosio, 3-John Galliquio,
      Solano (6-Jose Soto 81), 10-Roberto Palacios (17-Jefferson Farfan
      75); 16-Andres Mendoza, 14-Claudio Pizarro.
 
-_ Sept 10, 2003 _
+_ Sep 10 2003 _
 
 In La Paz (Hernando Siles Stadium)
 Bolivia 4 (Julio Baldivieso 12, Joaquin Botero 28, 49, 58)
@@ -2525,7 +2527,7 @@ ECU: 1-Jose Cevallos; 4-Ulises de la Cruz, 3-Ivan Hurtado, 17-Giovanni
      15-Marlon Ayovi, 19-Edison Mendez, 16-Kleber Chala; 9-Carlos
      Tenorio (14-Otilino Tenorio 83).
 
-_ Nov 15, 2003 _
+_ Nov 15 2003 _
 
 In Montevideo (Estadio Centenario)
 Uruguay 2 (Javier Chevanton 31, Adrián Romero 49)
@@ -2585,7 +2587,7 @@ BOL: 1-Leonel Fernandez; 16-Ronald Raldes, 5-Oscar Sanchez, 2-Juan
      Etcheverry 70); 20-Joaquin Botero (18-Jose Castillo 46),
      19-Miguel Mercado (9-Limberg Mendez 46).
 
-_ Nov 16, 2003 _
+_ Nov 16 2003 _
 
 In Lima
 Peru 1 (Nolberto Solano 59)
@@ -2599,7 +2601,7 @@ BRA: 1-Dida; 2-Cafu, 3-Lucio, 4-Roque Junior, 6-Junior; 5-Gilberto
      Silva, 8-Emerson (15-Renato 62), 11-Ze Roberto, 7-Kaka (17-Alex
      75); 10-Rivaldo (18-Luis Fabiano 82), 9-Ronaldo.
 
-_ Nov 18, 2003 _
+_ Nov 18 2003 _
 
 In Maracaibo
 Venezuela 2 (Jose Manuel Rey 90, Juan Arango 90+2)
@@ -2631,7 +2633,7 @@ PAR: 12-Justo Villar; 2-Francisco Arce, 3-Julio Cesar Caceres,
      (14-Paulo da Silva 90); 24-Roque Santa Cruz, 20-Jose Cardozo
      (10-Guido Alvarenga 90).
 
-_ Nov 19, 2003 _
+_ Nov 19 2003 _
 
 In Quito (Olimpico Atahualpa)
 Ecuador 0
@@ -2675,7 +2677,7 @@ URU: 1-Gustavo Munua; 15-Marcelo Romero (20-Alvaro Recoba 46), 3-Joe
      22-German Hornos (19-Javier Chevanton 55), 16-Marcelo Zalayeta,
      21-Diego Forlan.
 
-_ Mar 30, 2004 _
+_ Mar 30 2004 _
 
 In La Paz (Hernando Siles Stadium)
 Bolivia 0
@@ -2707,7 +2709,7 @@ ECU: 1-Jose Francisco Cevallos; 4-Ulises de la Cruz, 3-Ivan Hurtado,
      Delgado 64), 15-Marlon Ayovi, 19-Edison Mendez; 14-Carlos Tenorio
      (8-Franklin Salas 74).
 
-_ Mar 31, 2004 _
+_ Mar 31 2004 _
 
 In Montevideo (Centenario Stadium)
 Uruguay 0
@@ -2752,7 +2754,7 @@ COL: 1-Miguel Calero; 14-Luis Amaranto Perea, 2-Ivan Cordoba, 3-Mario
      8-Frankie Oviedo; 11-Elkin Murillo (4-Alex Viveros 73), 9-Juan
      Pablo Angel.
 
-_ Jun 1, 2004 _
+_ Jun 1 2004 _
 
 In La Paz (Hernando Silas Stadium)
 Bolivia 2 (Luis Cristaldo 9, Roger Suarez 72)
@@ -2801,7 +2803,7 @@ PER: 1-Oscar Ibanez; 22-John Galliquio, 2-Santiago Acasiete, 3-Miguel
      59); 14-Claudio Pizarro (16-Andres Mendoza 46), 17-Jefferson
      Farfan.
 
-_ Jun 2, 2004 _
+_ Jun 2 2004 _
 
 In Quito (Estadio Olimpico Atahualpa)
 Ecuador 2 (Agustin Delgado 3, Franklin Salas 66)
@@ -2832,7 +2834,7 @@ ARG: 12-Pablo Cavallero; 4-Facundo Quiroga, 6-Walter Samuel, 2-Gabriel
      (21-Mauro Rosales 36; 7-Javier Saviola 61), 9-Hernan Crespo,
      18-Cristian Gonzalez.
 
-_ Jun 5, 2004 _
+_ Jun 5 2004 _
 
 In Quito (Estadio Olimpico Atahualpa)
 Ecuador 3 (Herman Soliz og 29, Agustin Delgado 33, Ulises de la Cruz 40)
@@ -2849,7 +2851,7 @@ BOL: 21-Leo Fernandez; 3-Herman Soliz (17-Luis Gatty Ribeiro 46),
      Suarez (18-Jose Castillo 67), 10-Julio Cesar Baldivieso;
      24-Joaquin Botero, 20-Limberg Gutierrez.
 
-_ Jun 6, 2004 _
+_ Jun 6 2004 _
 
 In Santiago (National Stadium)
 Chile 1 (Reinaldo Navia 89pen)
@@ -2910,7 +2912,7 @@ VEN: 1-Gilberto Angelucci; 2-Luis Valenillia, 6-Alejandro Cichero,
      79), 11-Ricardo Paez (20-Hector Gonzalez 66); 18-Juan Arango,
      24-Alexander Rondon (16-Ruberth Moran 61).
 
-_ Sept 4, 2004 _
+_ Sep 4 2004 _
 
 In Lima (Monumental Stadium)
 Peru 1 (Jorge Soto 62)
@@ -2929,7 +2931,7 @@ ARG: 1-Roberto Abbondanzieri; 4-Fabricio Coloccini, 6-Gabriel Heinze,
      Medina 83), 7-Mauro Rosales.
 Sent off: Cristian Gonzalez 45+1.
 
-_ Sept 5, 2004 _
+_ Sep 5 2004 _
 
 In Asuncion (De los Defensores del Chaco Stadium)
 Paraguay 1 (Carlos Gamarra 52)
@@ -2991,7 +2993,7 @@ BOL: 21-Leo Fernandez; 5-Oscar Sanchez, 2-Juan Manuel Pena, 16-Ronald
      (8-Ruben Tufino 46), 10-Limberg Gutierrez (9-Milton Coimbra 76);
      20-Joaquin Botero.
 
-_ Oct 9, 2004 _
+_ Oct 9 2004 _
 
 In Barranquilla (Metropolitano Roberto Melendez Stadium)
 Colombia 1 (Freddy Grisales 17)
@@ -3051,7 +3053,7 @@ URU: 1-Sebastion Viera; 2-Joe Bizera (6-Alejandro Lago 57), 4-Alejandro
      Rodriguez; 9-Dario Silva (21-Diego Forlan 55), 19-Ernesto
      Chevanton.
 
-_ Oct 10, 2004 _
+_ Oct 10 2004 _
 
 In Quito (Estadio Olimpico Atahualpa)
 Ecuador 2 (Ivan Kaviedes 59, Edison Mendez 64)
@@ -3068,7 +3070,7 @@ CHI: 1-Nelson Tapia; 16-Ricardo Rojas, 22-Luis Fuentes, 19-Rafael
      Valenzuela (17-Milovan Mirosevic 58); 11-Marcelo Salas,
      25-Patricio Galaz (20-Luis Quinteros 76).
 
-_ Oct 12, 2004 _
+_ Oct 12 2004 _
 
 In La Paz (Hernando Silas Stadium)
 Bolivia 0
@@ -3086,7 +3088,7 @@ URU: 1-Sebastian Viera; 17-Carlos Diogo, 3-Alejandro Lago, 6-Dario
      (5-Marcelo Sosa 76).
 Sent off: Omar Pouso 73.
 
-_ Oct 13, 2004 _
+_ Oct 13 2004 _
 
 In Asuncion (De los Defensores del Chaco Stadium)
 Paraguay 1 (Carlos Paredes 13)
@@ -3131,7 +3133,7 @@ ARG: 1-Roberto Abbondanzieri; 22-Fabricio Coloccini, 2-Walter Samuel,
      Pablo Sorin; 19-Luciano Figueroa (9-Carlos Tevez 62), 7-Javier
      Saviola (15-Andres D'Alessandro 76).
 
-_ Oct 14, 2004 _
+_ Oct 14 2004 _
 
 In San Cristobal (Pueblo Nuevo Stadium)
 Venezuela 3 (Gabriel Urdaneta 21pen, Ruberth Moran 73, 81)
@@ -3147,7 +3149,7 @@ ECU: 1-Edwin Villafuerte; 18-Neicer Reasco, 3-Ivan Hurtado, 17-Giovanny
      4-Vicente Ambrosi (9-Ebelio Ordonez 75), 8-Edison Mendez; 10-Ivan
      Kaviedes, 7-Franklin Salas (14-Johnny Baldeon 70).
 
-_ Nov 17, 2004 _
+_ Nov 17 2004 _
 
 In Quito (Estadio Olimpico Atahualpa)
 Ecuador 1 (Edison Mendez 77)
@@ -3225,7 +3227,7 @@ BOL: 21-Leonardo Fernandez; 3-Sergio Jauregui, 4-Lorgio Alvarez,
      Cristaldo, 10-Limberg Gutierrez; 20-Joaquin Botero, 9-Milton
      Coimbra (19-Gonzalo Galindo 46).
 
-_ Mar 26, 2005 _
+_ Mar 26 2005 _
 
 In La Paz (Hernando Siles Stadium)
 Bolivia 1 (Jose Castillo 50)
@@ -3271,7 +3273,7 @@ URU: 1-Sebastian Viera; 6-Diego Lopez, 2-Diego Lugano, 4-Paolo Montero,
      Regueiro, 10-Ruben Olivera (8-Marcelo Sosa 59); 21-Diego Forlan,
      9-Marcelo Zalayeta (18-Richard Morales 70).
 
-_ Mar 27, 2005 _
+_ Mar 27 2005 _
 
 In Quito (Estadio Olimpico Atahualpa)
 Ecuador 5 (Antonio Valencia 32, 50, Edison Mendez 45+3, 48, Marlon
@@ -3403,9 +3405,9 @@ LEADING GOALSCORERS:
 
 
 
-==== Africa  ‹§afr›
+== Africa  ‹§afr›
 
-▪ GROUP 1 ▪
+GROUP 1
 
 _ Jun 5 _
 
@@ -3463,7 +3465,7 @@ MLI: 1-Mahamadou Sidibe; 2-Souleymane Diamoutene, 4-Adama Coulibaly,
      6.Congo              1   0   0   1   0   2    0
 
 
-▪ GROUP 2 ▪
+GROUP 2
 
 _ Jun 5 _
 
@@ -3520,7 +3522,7 @@ COD: 12-Nkela Nkatu; 18-Nsumbu Pituapasna (Makikbi 85), 16-Nkulukuta
      5.Ghana              1   0   0   1   0   1    0
 
 
-▪ GROUP 3 ▪
+GROUP 3
 
 _ Jun 6 _
 
@@ -3567,7 +3569,7 @@ EGY: 1-Essam El-Hadry; 6-Islam El-Shater, 15-Besheer El-Tabei, 5-Abdel
      6.Sudan              1   0   0   1   0   3    0
 
 
-▪ GROUP 4 ▪
+GROUP 4
 
 _ Jun 5 _
 
@@ -3615,7 +3617,7 @@ ANG: 1-Joao Ferreira; 15-Jacinto Pereira, 5-Kali, 3-Jamba, 7-Figueredo
      6.Rwanda             1   0   0   1   0   2    0
 
 
-▪ GROUP 5 ▪
+GROUP 5
 
 _ Jun 5 _
 
@@ -3665,9 +3667,9 @@ BOT: 16-Modiri Marumo; 2-Ndiapo Letsholathebe, 3-Khumo Motlhabane
 
 
 
-==== Asia  ‹§asi›
+== Asia  ‹§asi›
 
-▪ GROUP 1 ▪
+GROUP 1
 
 _ Feb 18 _
 
@@ -3778,7 +3780,7 @@ JOR: 1-Amer Shafi Sabbah; 3-Khaled Almaltaah, 4-Rateb Al-Awadat,
      4.Laos               3   0   0   3   0  17    0
 
 
-▪ GROUP 2 ▪
+GROUP 2
 
 _ Feb 18 _
 
@@ -3881,7 +3883,7 @@ PAL: 22-Ramzi Saleh; 5-Saeb Jendeya, 9-Roberto Beshe (26-Shaker Asad
      4.Taiwan             3   0   0   3   1  15    0
 
 
-▪ GROUP 3 ▪
+GROUP 3
 
 _ Feb 18 _
 
@@ -3986,7 +3988,7 @@ IND: 1-Sangram Mukherjee; 2-Habibur Rahaman, 5-Climax Lawrence
      4.Singapore          3   0   0   3   1  10    0
 
 
-▪ GROUP 4 ▪
+GROUP 4
 
 _ Feb 18 _
 
@@ -4087,7 +4089,7 @@ MAS: 22-Syamsuri Mustafa; 20-Rosdi Talib, 3-Aziz Ismail, 18-Kaironnisam
      4.Malaysia           3   0   0   3   1   9    0
 
 
-▪ GROUP 5 ▪
+GROUP 5
 
 _ Feb 18 _
 
@@ -4190,7 +4192,7 @@ Sent off: Kim Yong-su 77.
      4.Yemen              3   0   1   2   1   7    1
 
 
-▪ GROUP 6 ▪
+GROUP 6
 
 _ Feb 18 _
 
@@ -4296,7 +4298,7 @@ TJK: 1-Aslidin Khabibulloev; 2-Rustam Tabarov, 4-Abdullo Umarbaev
      4.Kyrgyzstan         3   0   1   2   2   8    1
 
 
-▪ GROUP 7 ▪
+GROUP 7
 
 _ Feb 18 _
 
@@ -4399,7 +4401,7 @@ VIE: 25-Tran Minh Quang; 23-Le Anh Dung, 5-Pham Hung Dung, 26-Le Quang
      4.Maldives           3   0   1   2   0   7    1
 
 
-▪ GROUP 8 ▪
+GROUP 8
 
 _ Feb 18 _
 
@@ -4517,9 +4519,9 @@ LEADING GOALSCORERS:
 
 
 
-==== North and Central America  ‹§nca›
+== North and Central America  ‹§nca›
 
-▪ GROUP 1 ▪
+GROUP 1
 
 _ Aug 18 _
 
@@ -4683,7 +4685,7 @@ SLV: 1-Misael Alfaro (25-Noel Rivera 46); 2-Rafael Tobar, 5-Victor
      4.El Salvador        5   1   1   3   2   8   4
 
 
-▪ GROUP 2 ▪
+GROUP 2
 
 _ Aug 18 _
 
@@ -4847,7 +4849,7 @@ HON: 22-Noel Valladares; 16-Sergio Mendoza, 14-Rony Morales, 23-Ivan
      4.Canada             5   0   2   3   3   8   2
 
 
-▪ GROUP 3 ▪
+GROUP 3
 
 _ Aug 18 _
 
@@ -5011,7 +5013,7 @@ LEADING GOALSCORERS:
 
 FINAL STAGE
 
-_ Feb 9, 2005 _
+_ Feb 9 2005 _
 
 In Port of Spain (Queen's Park Oval)
 Trinidad & Tobago 1 (Angus Eve 89)
@@ -5054,7 +5056,7 @@ MEX: 1-Oscar Perez; 18-Salvador Carmona, 6-Carlos Salcido, 4-Rafael
      10-Cuauhtemoc Blanco (16-Alberto Medina 78), 9-Jared Borgetti
      (22-Hector Altamirano 62).
 
-_ Mar 26, 2005 _
+_ Mar 26 2005 _
 
 In San Jose (Ricardo Saprissa Stadium)
 Costa Rica 2 (Wayne Wilson 40pen, Roy Myrie 90)
@@ -5086,7 +5088,7 @@ TRI: 1-Shaka Hislop; 5-Brent Sancho, 3-Nigel Henry, 7-Leslie
      11-Carlos Edwards, 13-Dennis Lawrence, 15-Kenwyne Jones (12-David
      Nakhid 65), 19-Dwight Yorke, 14-Stern John.
 
-_ Mar 27, 2005 _
+_ Mar 27 2005 _
 
 In Mexico City (Azteca Stadium)
 Mexico 2 (Jared Borgetti 30, Antonio Naelson 33)
@@ -5104,7 +5106,7 @@ USA: 18-Kasey Keller; 4-Carlos Bocanegra (13-Pat Noonan 75), 3-Gregg
      (C), 7-Eddie Lewis, 17-DaMarcus Beasley, 21-Landon Donovan;
      9-Eddie Johnson.
 
-_ Mar 30, 2005 _
+_ Mar 30 2005 _
 
 In Port of Spain (Hasely Crawford Stadium)
 Trinidad & Tobago 0
@@ -5173,11 +5175,11 @@ LEADING GOALSCORERS:
 
 
 
-==== Oceania  ‹§oce›
+== Oceania  ‹§oce›
 
 ▪ First Round ▪
 
-▪ Group 1 ▪
+Group 1
 
 10/05/2004, Honiara, Lawson Tama Stadium, 12385
 14:00
@@ -5359,11 +5361,16 @@ Cards:              Solomon Islands: Alick Maemae [Y 17'].
 Note:               Some sources state that the attendance was 23000.
 
 
-<!-- $table1$ -->
+Final Table:
+
+1.SOLOMON ISLANDS  4  3  1  0 14- 1 10
+2.TAHITI           4  2  2  0  5- 1  8
+3.New Caledonia    4  2  1  1 16- 2  7
+4.Tonga            4  1  0  3  2-17  3
+5.Cook Islands     4  0  0  4  1-17  0
 
 
-
-▪ Group 2 ▪
+Group 2
 
 10/05/2004, Apia, Toleafoa J.S. Blatter Complex, 500
 14:00
@@ -5544,8 +5551,13 @@ Cards:              Samoa: None.
                     Papua New Guinea: Reginald Davani [Y 25'].
 Notes:              Some sources list Tofi Tumua instead of Penitito Tumua and spell Moyap as Moiyap.
 
-<!-- $table2$ -->
+Final Table:
 
+1.VANUATU          4  3  1  0 16- 2 10
+2.FIJI             4  3  0  1 19- 5  9
+3.Papua New Guinea 4  2  1  1 17- 6  7
+4.Samoa            4  1  0  3  5-11  3
+5.American Samoa   4  0  0  4  1-34  0
 
 
 ▪ Second Round ▪
@@ -5814,18 +5826,16 @@ Notes:              Attendance also reported as 1500. Some sources list the foll
                     Alex Brosque - Simon Colosimo and David Tarka - Ahmad Elrich in addition to the
                     Max Vieri  - Mile Sterjovski substitution.
 
-<!-- $table3$ -->
+Final Table:
+
+1.AUSTRALIA        5  4  1  0 21- 3 13
+2.SOLOMON ISLANDS  5  3  1  1  9- 6 10
+3.New Zealand      5  3  0  2 17- 5  9
+4.Fiji             5  1  1  3  3-10  4
+5.Tahiti           5  1  1  3  2-24  4
+6.Vanuatu          5  1  0  4  5- 9  3
 
 
 
 
-‹2006 Qualifying - Overview, see page 2006q›
-
-‹Overview File, see page ../tablesw/worldcup›
-
-
-
-
-
-<!-- $about$ -->
 

@@ -1,32 +1,33 @@
   <!--
-     source: https://rsssf.org/tables/90full.html
+     title:   World Cup 1990 finals
+     source:  https://rsssf.org/tables/90full.html
+
     -->
-  
 
 
-= World Cup 1990
+== World Cup 1990
 
-<UL>
-<LI>‹Results, see §results›
-<UL>
-<LI>‹Group A, see §gra›
-<LI>‹Group B, see §grb›
-<LI>‹Group C, see §grc›
-<LI>‹Group D, see §grd›
-<LI>‹Group E, see §gre›
-<LI>‹Group F, see §grf›
-<LI>‹Eightfinals, see §8fin›
-<LI>‹Quarterfinals, see §4fin›
-<LI>‹Semifinals, see §2fin›
-<LI>‹Finals, see §final›
-</UL></UL>
-<UL>
-<LI>‹Squads, see §squads›
-<LI>‹Scorers' list, see §scorers›
-<LI>‹Coaches, assistants, reserve players, see §coaches›
-<LI>‹Oldest and youngest, see §records›
-</UL>
-</UL>
+
+‹Results, see §results›
+
+‹Group A, see §gra›
+‹Group B, see §grb›
+‹Group C, see §grc›
+‹Group D, see §grd›
+‹Group E, see §gre›
+‹Group F, see §grf›
+‹Eightfinals, see §8fin›
+‹Quarterfinals, see §4fin›
+‹Semifinals, see §2fin›
+‹Finals, see §final›
+
+
+‹Squads, see §squads›
+‹Scorers' list, see §scorers›
+‹Coaches, assistants, reserve players, see §coaches›
+‹Oldest and youngest, see §records›
+
+
 
 Italy, 8 June - 8 July 1990 (Bari, Bologna, Cagliari, Florentia, Genoa,
 Milano, Napoli, Palermo, Roma, Torino, Udine, Verona). Decided by FIFA
@@ -36,7 +37,7 @@ including LBA withdrawn during group stage). Qualifications draw 12 Dec
 1987 in Zürich. Finals drawn 9 Dec 1989 in Roma.
 
 
-== Group A - AUT CZE ITA USA  ‹§gra›
+=== Group A - AUT CZE ITA USA  ‹§gra›
 
 09.06.90  (21.00) Roma, Stadio Olimpico
 
@@ -157,7 +158,7 @@ sent off: Artner (34)
 3. AUT          3  1 0 2  2  2-3
 4. USA          3  0 0 3  0  2-8
 
-== Group B - ARG CAM ROM ZSR  ‹§grb›
+=== Group B - ARG CAM ROM ZSR  ‹§grb›
 
 08.06.90  (18.00) Milano, Stadio Giuseppe Meazza (San Siro)
 
@@ -283,7 +284,7 @@ booked: Serrizuela, Batista / Lăcătuş, Hagi, Lupescu
 3. ARG^         3  1 1 1  3  3-2
 4. ZSR          3  1 0 2  2  4-4
 
-== Group C - BRA COS SCO SWE  ‹§grc›
+=== Group C - BRA COS SCO SWE  ‹§grc›
 
 10.06.90  (21.00) Turin, Stadio Delle Alpi
 
@@ -399,7 +400,7 @@ booked: Johnston, McLeod
 3. SCO          3  1 0 2  2  2-3
 4. SWE          3  0 0 3  0  3-6
 
-== Group D  ‹§grd›
+=== Group D  ‹§grd›
 
 09.06.90  (17.00) Bologna, Stadio Renato Dall'Ara
 
@@ -526,7 +527,7 @@ sent off: K.G.Mubarak (76)
 3. COL^         3  1 1 1  3  3-2
 4. EMI          3  0 0 3  0  2-11
 
-== Group E - BEL ESP KOR URU  ‹§gre›
+=== Group E - BEL ESP KOR URU  ‹§gre›
 
 12.06.90  (17.00) Verona, Stadio Marc Antonio Bentegodi
 
@@ -652,7 +653,7 @@ sent off: Yoon Deuk-yeo (70)
 3. URU^         3  1 1 1  3  2-3
 4. KOR          3  0 0 3  0  1-6
 
-== Group F  ‹§grf›
+=== Group F  ‹§grf›
 
 11.06.90  (21.00) Cagliari, Stadio Sant' Elia
 
@@ -767,7 +768,7 @@ booked: Rijkaard
 
 NOTE: IRL awarded second place by lot
 
-== Second Round  ‹§8fin›
+=== Second Round  ‹§8fin›
 
 23.06.90  (17.00) Napoli, Stadio San Paolo
 
@@ -927,7 +928,7 @@ booked: Gascoigne
 
 
 
-== Quarterfinals  ‹§4fin›
+=== Quarterfinals  ‹§4fin›
 
 30.06.90  (17.00) Florence, Stadio Communale
 
@@ -1007,7 +1008,7 @@ CAM: N'Kono - Ebwelle, Massing, Kunde, Tataw (c) - Pagal, Libiih, M'Fede
 
 booked: Pearce / Massing, Milla, N'Kono
 
-== Semifinals  ‹§2fin›
+=== Semifinals  ‹§2fin›
 
 03.07.90  (20.00) Napoli, Stadio San Paolo
 
@@ -1052,7 +1053,7 @@ Riedle, (3:3) Pearce (save Illgner), 4:3 Thon, (4:3) Waddle (missed)
 
 booked: Brehme / Parker, Gascoigne
 
-== Third place match  ‹§3place›
+=== Third place match  ‹§3place›
 
 07.06.90  (20.00) Bari, Stadio San Nicola
 
@@ -1067,7 +1068,7 @@ McMahon (73 Webb), Platt, Dorigo - Lineker, Beardsley
 
 1:0 R.Baggio 70, 1:1 Platt 80, 2:1 Schillaci 85 p
 
-== Final  ‹§final›
+=== Final  ‹§final›
 
 08.07.90  (20.00) Roma, Stadio Olimpico
 
@@ -1085,7 +1086,7 @@ Sensini, Burruchaga (54 Calderón), Basualdo, Lorenzo - Dezotti, Maradona (c)
 booked: Völler / Troglio, Maradona
 sent off: Monzón (65), Dezotti (87)
 
-== Squads  ‹§squads›
+=== Squads  ‹§squads›
 
 Thanks to Neil Morrison
 
@@ -1716,7 +1717,7 @@ Dragoje Leković
 Andrej Panadić
 Coach: Ivan Osim (Yugoslavia).
 
-== Scorers' list  ‹§scorers›
+=== Scorers' list  ‹§scorers›
 
 6 - Schillaci ITA
 5 - Skuhravý CZE
@@ -1739,7 +1740,7 @@ total 113 goals (13 p, 4 f, 28 h, 0 o), 2,31 per match. Most goals GER (15),
 no team without goals. 75 players scored (including 11 earlier scorers from
 1986).
 
-== Coaches, assistants, reserve players  ‹§coaches›
+=== Coaches, assistants, reserve players  ‹§coaches›
 
 ARG: C. Bilardo | Bausa, Cancelarich
 AUT: J. Hickersberger | Baur, Keglevits, Konrad, Konsel, Pfeiffenberger
@@ -1771,7 +1772,7 @@ URU: O. W. Tabarez | Castro, E.Pereira, Ravelez, Zeoli
 USA: R. Gansler | Covone, Henderson, Eichmann, Keller, Krumpe, Vanois
 ZSR: V. Lobanovski | Broshin, Viktor Chanov, Fokin, Tzveiba
 
-== Oldest and youngest  ‹§records›
+=== Oldest and youngest  ‹§records›
 
 Youngest                  Oldest
 player      González COS   19y307d   Shilton ENG        40y292d

@@ -1,28 +1,24 @@
   <!--
-     source: https://rsssf.org/tables/2018q.html
+     title:   World Cup 2018 Qualifying
+     source:  https://rsssf.org/tables/2018q.html
+     authors: Ian King and Karel Stokkermans
+     updated: 5 Jul 2018
     -->
+
+
+
+
+
   
 
 
-== World Cup 2018 Qualifying
-
-<MENU>
-  <UL>
-    <LI>‹Europe, see §eur›
-    <LI>‹South America, see §sam›
-    <LI>‹Africa, see §afr›
-    <LI>‹Asia, see §asi›
-    <LI>‹North and Central America, see §nca›
-    <LI>‹Oceania, see §oce›
-</LI></UL></MENU>
 
 
 
 
+== Europe  ‹§eur›
 
-==== Europe  ‹§eur›
-
-▪ Group A ▪
+Group A
 
  1.FRANCE       10  7  2  1 18- 6 23
  2.Sweden       10  6  1  3 26- 9 19
@@ -62,7 +58,7 @@
 10-10-17 Luxembourg      Luxembourg    1-1 Bulgaria
 10-10-17 Amsterdam       Netherlands   2-0 Sweden
 
-▪ Group B ▪
+Group B
 
  1.PORTUGAL     10  9  0  1 32- 4 27
  2.Switzerland  10  9  0  1 23- 7 27
@@ -102,7 +98,7 @@
 10-10-17 Riga            Latvia        4-0 Andorra
 10-10-17 Lisboa          Portugal      2-0 Switzerland
 
-▪ Group C ▪
+Group C
 
  1.GERMANY      10 10  0  0 43- 4 30
  2.N. Ireland   10  6  1  3 17- 6 19
@@ -142,7 +138,7 @@
  8-10-17 Kaiserslautern  Germany       5-1 Azerbaijan
  8-10-17 Oslo            Norway        1-0 Northern Ireland
 
-▪ Group D ▪
+Group D
 
  1.SERBIA       10  6  3  1 20-10 21
  2.Ireland      10  5  4  1 12- 6 19
@@ -182,7 +178,7 @@
  9-10-17 Beograd         Serbia        1-0 Georgia
  9-10-17 Cardiff         Wales         0-1 Ireland
 
-▪ Group E ▪
+Group E
 
  1.POLAND       10  8  1  1 28-14 25
  2.Denmark      10  6  2  2 20- 8 20
@@ -222,7 +218,7 @@
  8-10-17 Astana          Kazakhstan    1-1 Armenia
  8-10-17 Warszawa        Poland        4-2 Montenegro
 
-▪ Group F ▪
+Group F
 
  1.ENGLAND      10  8  2  0 18- 3 26
  2.Slovakia     10  6  0  4 17- 7 18
@@ -262,7 +258,7 @@
  8-10-17 Trnava          Slovakia      3-0 Malta
  8-10-17 Ljubljana       Slovenia      2-2 Scotland
 
-▪ Group G ▪
+Group G
 
  1.SPAIN        10  9  1  0 36- 3 28
  2.Italy        10  7  2  1 21- 8 23
@@ -302,7 +298,7 @@
  9-10-17 Strumica        Macedonia     4-0 Liechtenstein
  9-10-17 Jerusalem       Israel        0-1 Spain
 
-▪ Group H ▪
+Group H
 
  1.BELGIUM      10  9  1  0 43- 6 28
  2.Greece       10  5  4  1 17- 6 19
@@ -342,7 +338,7 @@
 10-10-17 Tallinn         Estonia       1-2 Bosnia-Herzegovina
 10-10-17 Piraeus         Greece        4-0 Gibraltar
 
-▪ Group I ▪
+Group I
 
  1.ICELAND      10  7  1  2 16- 7 22
  2.Croatia      10  6  2  2 15- 4 20
@@ -420,7 +416,7 @@ NB: Switzerland, Croatia, Sweden and Denmark qualified.
 
 
 
-==== South America  ‹§sam›
+== South America  ‹§sam›
 
 NB: 5th placed team qualify for playoff against Oceania winners (New Zealand)
 
@@ -537,10 +533,10 @@ NB: Peru qualified.
 
 
 
-==== Africa  ‹§afr›
+== Africa  ‹§afr›
 
 
-First Stage
+▪ First Stage ▪
 
 ▪ First Legs ▪
  7-10-15 Dar es Salaam   Tanzania      2-0 Malawi
@@ -572,7 +568,7 @@ First Stage
 13-10-15 Port Harcourt   Sierra Leone  2-1 Chad          [played in Nigeria]
 17-10-15 Lobamba         Swaziland     2-1 Djibouti
 
-Second Stage
+▪ Second Stage ▪
 
 ▪ First Legs ▪
 11-11-15 Maputo          Mozambique    1-0 Gabon
@@ -618,9 +614,9 @@ Second Stage
 17-11-15 Bamako          Mali          2-0 Botswana
 17-11-15 Dakar           Senegal       3-0 Madagascar
 
-Third Stage
+▪ Third Stage ▪
 
-▪ Group A ▪
+Group A
 
  1.TUNISIA       6  4  2  0 11- 4 14
  2.Congo-Kinsh.  6  4  1  1 14- 7 13
@@ -640,7 +636,7 @@ Third Stage
 11-11-17 Kinshasa        Congo-Kinsh.  3-1 Guinea
 11-11-17 Radès           Tunisia       0-0 Libya
 
-▪ Group B ▪
+Group B
 
  1.NIGERIA       6  4  1  1 11- 6 13
  2.Zambia        6  2  2  2  8- 7  8
@@ -657,10 +653,10 @@ Third Stage
  5- 9-17 Constantine     Algeria       0-1 Zambia
  7-10-17 Yaoundé         Cameroon      2-0 Algeria
  7-10-17 Uyo             Nigeria       1-0 Zambia
-10-11-17 Constantine     Algeria       awd Nigeria   [awarded 3-0; originally 1-1, Nigeria fielded
-11-11-17 Ndola           Zambia        2-2 Cameroon    a suspended player (Abdullahi Shehu)]
+10-11-17 Constantine     Algeria       awd Nigeria    [awarded 3-0; originally 1-1, Nigeria fielded
+11-11-17 Ndola           Zambia        2-2 Cameroon     a suspended player (Abdullahi Shehu)]
 
-▪ Group C ▪
+Group C
 
  1.MOROCCO       6  3  3  0 11- 0 12
  2.Ivory Coast   6  2  2  2  7- 5  8
@@ -680,7 +676,7 @@ Third Stage
 11-11-17 Franceville     Gabon         0-0 Mali
 11-11-17 Abidjan         Ivory Coast   0-2 Morocco
 
-▪ Group D ▪
+Group D
 
  1.SENEGAL       6  4  2  0 10- 3 14
  2.Burkina Faso  6  2  3  1 10- 6  9
@@ -701,7 +697,7 @@ Third Stage
 14-11-17 Ouagadougou     Burkina Faso  4-0 Cape Verde Islands
 14-11-17 Dakar           Senegal       2-1 South Africa
 
-▪ Group E ▪
+Group E
 
  1.EGYPT         6  4  1  1  8- 4 13
  2.Uganda        6  2  3  1  3- 2  9
@@ -726,10 +722,10 @@ Third Stage
 
 
 
-==== Asia  ‹§asi›
+== Asia  ‹§asi›
 
 
-First Stage
+▪ First Stage ▪
 
 NB: the first stage also served also qualifying stage for the ‹2019 Asian Cup, see page 2019asch›
     (with the losers being eliminated)
@@ -754,7 +750,7 @@ NB: the first stage also served also qualifying stage for the ‹2019 Asian Cup,
     (and five in the second stage for which they qualified thanks to the above two wins) for
     using 6 ineligible players (Brazilians naturalised through falsified documentation) in both
 
-Second Stage
+▪ Second Stage ▪
 
 NB: the second stage also serves also qualifying stage for the ‹2019 Asian Cup, see page 2019asch›
     (with the group winners and four best runners-up qualifying for the final tournament and the
@@ -762,7 +758,7 @@ NB: the second stage also serves also qualifying stage for the ‹2019 Asian Cup
     placed teams and four best fourth placed teams at group stage, the others entering a playoff
     round)
 
-▪ Group A ▪
+Group A
 
  1.Saudi Arabia  8  6  2  0 28- 4 20
  2.UA Emirates   8  5  2  1 25- 4 17
@@ -797,7 +793,7 @@ NB: the second stage also serves also qualifying stage for the ‹2019 Asian Cup
     Malaysia, and 7 in the other three matches; the final standings apparently were not
     readjusted by FIFA
 
-▪ Group B ▪
+Group B
 
  1.Australia     8  7  0  1 29- 4 21
  2.Jordan        8  5  1  2 21- 7 16
@@ -827,7 +823,7 @@ NB: Jordan eliminated as one of the four worst second-placed teams
 29- 3-16 Sydney          Australia     5-1 Jordan
 29- 3-16 Dushanbe        Tajikistan    0-1 Kyrgyzstan
 
-▪ Group C ▪
+Group C
 
  1.Qatar         8  7  0  1 29- 4 21
  2.China         8  5  2  1 27- 1 17
@@ -856,7 +852,7 @@ NB: Jordan eliminated as one of the four worst second-placed teams
 29- 3-16 Xi'an           China         2-0 Qatar
 29- 3-16 Malé            Maldives      4-2 Bhutan
 
-▪ Group D ▪
+Group D
 
  1.Iran          8  6  2  0 26- 3 20
  2.Oman          8  4  2  2 11- 7 14
@@ -886,7 +882,7 @@ NB: Oman eliminated as one of the four worst second-placed teams
 29- 3-16 Kochi           India         1-2 Turkmenistan
 29- 3-16 Tehran          Iran          2-0 Oman
 
-▪ Group E ▪
+Group E
 
  1.Japan         8  7  1  0 27- 0 22
  2.Syria         8  6  0  2 26-11 18
@@ -915,7 +911,7 @@ NB: Oman eliminated as one of the four worst second-placed teams
 29- 3-16 Tehran (Iran)   Afghanistan   2-1 Singapore
 29- 3-16 Saitama         Japan         5-0 Syria
 
-▪ Group F ▪
+Group F
 
  1.Thailand      6  4  2  0 14- 6 14
  2.Iraq          6  3  3  0 13- 6 12
@@ -936,7 +932,7 @@ NB: Oman eliminated as one of the four worst second-placed teams
 24- 3-16 Tehran          Iraq          2-2 Thailand
 29- 3-16 Tehran          Iraq          1-0 Vietnam
 
-▪ Group G ▪
+Group G
 
  1.South Korea   8  8  0  0 27- 0 24
  2.Lebanon       8  3  2  3 12- 6 11
@@ -966,7 +962,7 @@ NB: Lebanon eliminated as one of the four worst second-placed teams
 29- 3-16 Daegu           South Korea   awd Kuwait        [awarded 3-0; Kuwait suspended]
 29- 3-16 Saida           Lebanon       1-1 Myanmar
 
-▪ Group H ▪
+Group H
 
  1.Uzbekistan    8  7  0  1 20- 7 21
  2.North Korea   8  5  1  2 14- 8 16
@@ -1011,12 +1007,12 @@ Ranking Second Placed Teams
 NB: matches against team finishing 5th in the group not included;
     North Korea, Jordan, Oman and Lebanon eliminated
 
-Third Stage
+▪ Third Stage ▪
 
 NB: all countries which reached this stage are also qualified automatically for the final
     tournament of the ‹2019 Asian Cup, see page 2019asch›
 
-▪ Group A ▪
+Group A
 
  1.IRAN         10  6  4  0 10- 2 22
  2.SOUTH KOREA  10  4  3  3 11-10 15
@@ -1056,7 +1052,7 @@ NB: all countries which reached this stage are also qualified automatically for 
  5- 9-17 Doha            Qatar         1-2 China
  5- 9-17 Tashkent        Uzbekistan    0-0 South Korea
 
-▪ Group B ▪
+Group B
 
  1.JAPAN        10  6  2  2 17- 7 20
  2.SAUDI ARABIA 10  6  1  3 17-10 19
@@ -1097,7 +1093,7 @@ NB: all countries which reached this stage are also qualified automatically for 
  5- 9-17 Jeddah          Saudi Arabia  1-0 Japan
 
 
-Fifth Place Playoff
+▪ Fifth Place Playoff ▪
 
 ▪ First Leg ▪
  5-10-17 Krubong (Ms.)   Syria         1-1 Australia
@@ -1118,10 +1114,10 @@ NB: Australia qualified.
 
 
 
-==== North and Central America  ‹§nca›
+== North and Central America  ‹§nca›
 
 
-First Stage
+▪ First Stage ▪
 
 ▪ First Legs ▪
 22- 3-15 Waterford       Barbados      0-1 US Virgin Islands
@@ -1141,7 +1137,7 @@ First Stage
 29- 3-15 Roseau          Dominica      0-0 British Virgin Islands
 31- 3-15 St. John's      Montserrat    2-2 Curaçao
 
-Second Stage
+▪ Second Stage ▪
 
 ▪ First Legs ▪
  7- 6-15 Managua         Nicaragua     1-0 Surinam
@@ -1167,7 +1163,7 @@ Second Stage
 16- 6-15 San Salvador    El Salvador   4-1 Saint Kitts and Nevis
 16- 6-15 Saint George's  Grenada       2-0 Puerto Rico
 
-Third Stage
+▪ Third Stage ▪
 
 ▪ First Legs ▪
  4- 9-15 Arnos Vale      St.Vincent/G. 2-0 Aruba
@@ -1185,9 +1181,9 @@ Third Stage
  8- 9-15 San Salvador    El Salvador   1-0 Curaçao
  8- 9-15 Cd. Guatemala   Guatemala     2-0 Antigua and Barbuda
 
-Fourth Stage
+▪ Fourth Stage ▪
 
-▪ Group A ▪
+Group A
 
  1.Mexico        6  5  1  0 13- 1 16
  2.Honduras      6  2  2  2  6- 6  8
@@ -1207,7 +1203,7 @@ Fourth Stage
  6- 9-16 Vancouver       Canada        3-1 El Salvador
  6- 9-16 Cd. de México   Mexico        0-0 Honduras
 
-▪ Group B ▪
+Group B
 
  1.Costa Rica    6  5  1  0 11- 3 16
  2.Panama        6  3  1  2  7- 5 10
@@ -1227,7 +1223,7 @@ Fourth Stage
  6- 9-16 San José        Costa Rica    3-1 Panama
  6- 9-16 Kingston        Jamaica       0-2 Haiti
 
-▪ Group C ▪
+Group C
 
  1.USA           6  4  1  1 20- 3 13
  2.Trinidad/T.   6  3  2  1 13- 9 11
@@ -1247,7 +1243,7 @@ Fourth Stage
  6- 9-16 Cd. Guatemala   Guatemala     9-3 Saint Vincent and the Grenadines
  6- 9-16 Jacksonville    USA           4-0 Trinidad and Tobago
 
-Fifth Stage
+▪ Fifth Stage ▪
 
 NB: 4th placed team qualify for playoff against 5th placed team Asia (Australia)
 
@@ -1300,7 +1296,7 @@ NB: Australia qualified.
 
 
 
-==== Oceania  ‹§oce›
+== Oceania  ‹§oce›
 
 ▪ First Round ▪
 
@@ -1321,7 +1317,7 @@ NB: Australia qualified.
 NB: top-3 of each group qualify for Final Stage;
     top-2 of each group qualify for the semifinals of the ‹2016 OFC Nations Cup, see page 2016oc›
 
-▪ Group A ▪
+Group A
 29- 5-16 Port Moresby    P.N. Guinea   1-1 New Caledonia
 29- 5-16 Port Moresby    Tahiti        4-0 Samoa
  1- 6-16 Port Moresby    P.N. Guinea   2-2 Tahiti
@@ -1334,7 +1330,7 @@ NB: top-3 of each group qualify for Final Stage;
  3.Tahiti        3  1  2  0  7- 3  5
  4.Samoa         3  0  0  3  0-19  0
 
-▪ Group B ▪
+Group B
 28- 5-16 Port Moresby    New Zealand   3-1 Fiji
 28- 5-16 Port Moresby    Vanuatu       0-1 Solomon Islands
 31- 5-16 Port Moresby    Vanuatu       0-5 New Zealand
@@ -1360,7 +1356,7 @@ Final Stage
 NB: participants (top-3 second round groups):
     New Zealand, Papua New Guinea, New Caledonia, Solomon Islands, Fiji and Tahiti
 
-▪ Group A ▪
+Group A
 
  1.New Zealand   4  3  1  0  6- 0 10
  2.New Caledonia 4  1  2  1  4- 5  5
@@ -1373,7 +1369,7 @@ NB: participants (top-3 second round groups):
  7- 6-17 Lautoka         Fiji          2-2 New Caledonia
 11- 6-17 Nouméa          New Caledonia 2-1 Fiji
 
-▪ Group B ▪
+Group B
 
  1.Solomon Isl.  4  3  0  1  6- 6  9
  2.Tahiti        4  2  0  2  7- 4  6
@@ -1401,13 +1397,5 @@ CONMEBOL/OFC Playoff
 NB: Peru qualified.
 
 
-‹Overview File, see page ../tablesw/worldcup›
 
-‹2018 Final Tournament, see page 2018f›
-
-
-
-
-
-<!-- $about$ -->
 

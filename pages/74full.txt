@@ -1,29 +1,30 @@
   <!--
-     source: https://rsssf.org/tables/74full.html
+     title:   World Cup 1974 finals
+     source:  https://rsssf.org/tables/74full.html
+
     -->
-  
 
 
-= World Cup 1974 finals
+== World Cup 1974 finals
 
-<UL>
-<LI>‹Results, see §results›
-<UL>
-<LI>‹Group A, see §gra›
-<LI>‹Group B, see §grb›
-<LI>‹Group C, see §grc›
-<LI>‹Group D, see §grd›
-<LI>‹Group 1, see §gr1›
-<LI>‹Group 2, see §gr2›
-<LI>‹Third place match, see §3place›
-<LI>‹Final, see §final›
-</UL></UL>
-<UL>
-<LI>‹Scorers' list, see §scorers›
-<LI>‹Coaches, assistants, reserve players, see §coaches›
-<LI>‹Oldest and youngest, see §records›
-</UL>
-</UL>
+
+‹Results, see §results›
+
+‹Group A, see §gra›
+‹Group B, see §grb›
+‹Group C, see §grc›
+‹Group D, see §grd›
+‹Group 1, see §gr1›
+‹Group 2, see §gr2›
+‹Third place match, see §3place›
+‹Final, see §final›
+
+
+‹Scorers' list, see §scorers›
+‹Coaches, assistants, reserve players, see §coaches›
+‹Oldest and youngest, see §records›
+
+
 
 Germany, 13 Jun to 7 Jul 1974 (West Berlin, Düsseldorf, Dortmund, Frankfurt,
 Gelsenkirchen, Hamburg, Hannover, München, Stuttgart). Decided at FIFA
@@ -32,7 +33,7 @@ entered, 92 actually played. Qualifications drawn 17 Jul 1971 at Düsseldorf.
 Finals drawn 5 Jan 1974 at Frankfurt.
 
 
-== Group A - AUS CHI DDR GER  ‹§gra›
+=== Group A - AUS CHI DDR GER  ‹§gra›
 
 14.06.74  (16.30) Berlin, Olympiastadion
 
@@ -149,7 +150,7 @@ booked: Croy, Kreische, Sparwasser
 3. CHI          3  0 2 1  2  1-2
 4. AUS          3  0 1 2  1  0-5
 
-== Group B - BRA JUG SCO ZAI  ‹§grb›
+=== Group B - BRA JUG SCO ZAI  ‹§grb›
 
 13.06.74  (17.00) Frankfurt, Waldstadion
 
@@ -266,7 +267,7 @@ booked: Mirandinha / Mwepu
 3. SCO          3  1 2 0  3  3-1
 4. ZAI          3  0 0 3  0  0-14
 
-== Group C - BUL HOL SWE URU  ‹§grc›
+=== Group C - BUL HOL SWE URU  ‹§grc›
 
 15.06.74  (18.00) Hannover, Niedersachsenstadion
 
@@ -378,7 +379,7 @@ booked: Jauregui
 3. BUL          3  0 2 1  2   2-5
 4. URU          3  0 1 2  1   1-6
 
-== Group D - ARG HAI ITA POL  ‹§grd›
+=== Group D - ARG HAI ITA POL  ‹§grd›
 
 15.06.74  (18.00) München, Olympiastadion
 
@@ -499,9 +500,9 @@ booked: Musiał, Kasperczak / Boninsegna
 3. ITA          3  1 1 1  3   5-4
 4. HAI          3  0 0 3  0   2-14
 
-= Second Phase
+== Second Phase
 
-== Group 1 - ARG BRA DDR HOL  ‹§gr1›
+=== Group 1 - ARG BRA DDR HOL  ‹§gr1›
 
 26.06.74  (19.30) Hannover, Niedersachsenstadion
 
@@ -616,7 +617,7 @@ Streich (81 Ducke), Sparwasser, Löwe (68 Vogel) - Kische, Hoffmann
 3. DDR          3  0 1 2  1  1-4
 4. ARG          3  0 1 2  1  2-7
 
-== Group 2 - GER JUG POL SWE  ‹§gr2›
+=== Group 2 - GER JUG POL SWE  ‹§gr2›
 
 26.06.74  (19.30) Stuttgart, Neckarstadion
 
@@ -733,7 +734,7 @@ NOTE: Match postponed half an hour due to extremely wet pitch
 3. SWE          3  1 0 2  2  4-6
 4. JUG          3  0 0 3  0  2-6
 
-== THIRD PLACE MATCH  ‹§3place›
+=== THIRD PLACE MATCH  ‹§3place›
 
 6.07.74  (18.00) München, Olympiastadion
 
@@ -750,7 +751,7 @@ Rivelino, Dirceu - Ademir (56 Mirandinha), Valdomiro, Jairzinho
 
 booked: Kasperczak / Jairzinho
 
-== FINAL  ‹§final›
+=== FINAL  ‹§final›
 
 07.07.74  (16.00) Müchen, Olympiastadion
 
@@ -767,7 +768,7 @@ Neeskens, Van Hanegem, Rep - Cruijff (c), Rensenbrink (46 R.van de Kerkhof)
 
 booked: Vogts / Neeskens, Van Hanegem, Cruijff (during half-time)
 
-== Scorers' list  ‹§scorers›
+=== Scorers' list  ‹§scorers›
 
 7 - Lato POL
 5 - Neeskens HOL, Szarmach POL
@@ -788,7 +789,7 @@ In total 97 goals (6 p, 3 f, 15 h, 4 o), 2.55 per match. Most goals POL
 (15), AUS and ZAI without goals. 49 players scored (including 6 earlier
 scorers from 1970).
 
-== Coaches, assistants, reserve players  ‹§coaches›
+=== Coaches, assistants, reserve players  ‹§coaches›
 
 ARG: V. Cap, J. Vacka, V. Rodriguez | Poy, Santoro, Tongeri
 AUS: Z. Rasic, L. Scheinflug, E. Worthington | Harding, Maher, Manuel,
@@ -819,7 +820,7 @@ Gimenes, Gómez, González, Santos, Silva
 ZAI: B. Vidinić, K.K. Bayungasa | Kabasu, Kalambay, Mavuha, Mbungu,
 Mwape Mialo, Ngote
 
-== Oldest and youngest  ‹§records›
+=== Oldest and youngest  ‹§records›
 
 Youngest                  Oldest
 player      V.Petrović JUG 18y364d   Burgnich ITA       35y 59d

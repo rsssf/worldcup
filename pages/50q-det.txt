@@ -1,10 +1,12 @@
   <!--
-     source: https://rsssf.org/tables/50q-det.html
+     title:   World Cup 1950 - Qualifying
+     source:  https://rsssf.org/tables/50q-det.html
+     author:  Barrie Courtney
+     updated: 12 Jun 2009
     -->
-  
 
 
-== World Cup 1950 - Qualifying
+
 
 
 EUROPE
@@ -669,11 +671,4 @@ Referee: GARCÍA, Pridencio [UNITED STATES]
 
 
 
-‹World Cup 1950 qualifying overview file, see page 50q›
-
-
-
-
-
-<!-- $about$ -->
 

@@ -1,7 +1,9 @@
   <!--
-     source: https://rsssf.org/tables/2010full.html
+     title:   World Cup 2010 - Match Details
+     source:  https://rsssf.org/tables/2010full.html
+     author:  Neil Morrison
+     updated: 21 Jun 2024
     -->
-  
 
 
 == World Cup 2010 - Match Details
@@ -15,7 +17,7 @@
 
 ▪ Round 1 ▪
 
-▪ Group A ▪
+Group A
 
 11/06/2010, Johannesburg, FNB Stadium 'Soccer City', 84490
 World Cup
@@ -135,7 +137,7 @@ Cards:              Uruguay: 4 Jorge Fucile [Y 68'].
  4.France            3  0  1  2   1- 4  1
 
 
-▪ Group B ▪
+Group B
 
 12/06/2010, Port Elizabeth, Nelson Mandela Bay Stadium, 31513
 World Cup
@@ -256,7 +258,7 @@ Cards:              Nigeria: 1 Vincent Enyeama [Y 31'], 19 Chinedu Obasi [Y 37']
  4.Nigeria           3  0  1  2   3- 5  1
 
 
-▪ Group C ▪
+Group C
 
 12/06/2010, Phokeng, Royal Bafokeng Stadium, 38646
 World Cup
@@ -371,7 +373,7 @@ Cards:              USA: 17 Jozy Altidore [Y 62'], 7 DaMarcus Beasley [Y 90'].
  4.Algeria           3  0  1  2   0- 2  1
 
 
-▪ Group D ▪
+Group D
 
 13/06/2010, Pretoria, Loftus Versfeld Stadium, 38833
 World Cup
@@ -493,7 +495,7 @@ Cards:              Australia: 6 Michael Beauchamp [Y 49'], 8 Luke Wilkshire [Y 
  4.Serbia            3  1  0  2   2- 3  3
 
 
-▪ Group E ▪
+Group E
 
 14/06/2010, Johannesburg, FNB Stadium 'Soccer City', 83465
 World Cup
@@ -613,7 +615,7 @@ Cards:              Netherlands: 7 Dirk Kuĳt [Y 17'], 23 Rafael van der Vaart [
  4.Cameroon          3  0  0  3   2- 5  0
 
 
-▪ Group F ▪
+Group F
 
 14/06/2010, Cape Town, Cape Town Stadium (Green Point), 62869
 World Cup
@@ -727,7 +729,7 @@ Cards:              New Zealand: 6 Ryan Nelsen [Y 56'].
  4.Italy             3  0  2  1   4- 5  2
 
 
-▪ Group G ▪
+Group G
 
 15/06/2010, Port Elizabeth, Nelson Mandela Bay Stadium, 37034
 World Cup
@@ -843,7 +845,7 @@ Cards:              None.
  4.North Korea       3  0  0  3   1-12  0
 
 
-▪ Group H ▪
+Group H
 
 16/06/2010, Mbombela, Mbombela Stadium, 32664
 World Cup
@@ -1341,11 +1343,4 @@ Spectators: 3.178 million (average 49,670)
 
 
 
-‹overview 2010 final tournament, see page 2010f›
-
-
-
-
-
-<!-- $about$ -->
 

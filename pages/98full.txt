@@ -1,33 +1,34 @@
   <!--
-     source: https://rsssf.org/tables/98full.html
+     title:   World Cup 1998 finals
+     source:  https://rsssf.org/tables/98full.html
+
     -->
-  
 
 
-= World Cup 1998
+== World Cup 1998
 
-<UL>
-<LI>‹Results, see §results›
-<UL>
-<LI>‹Group A, see §gra›
-<LI>‹Group B, see §grb›
-<LI>‹Group C, see §grc›
-<LI>‹Group D, see §grd›
-<LI>‹Group E, see §gre›
-<LI>‹Group F, see §grf›
-<LI>‹Group G, see §grg›
-<LI>‹Group H, see §grh›
-<LI>‹Eightfinals, see §8fin›
-<LI>‹Quarterfinals, see §4fin›
-<LI>‹Semifinals, see §2fin›
-<LI>‹Finals, see §final›
-</UL></UL>
-<UL>
-<LI>‹Squads, see §squads›
-<LI>‹Scorers' list, see §scorers›
-<LI>‹Coaches, assistants, reserve players, see §coaches›
-<LI>‹Oldest and youngest, see §records›
-</UL>
+
+‹Results, see §results›
+
+‹Group A, see §gra›
+‹Group B, see §grb›
+‹Group C, see §grc›
+‹Group D, see §grd›
+‹Group E, see §gre›
+‹Group F, see §grf›
+‹Group G, see §grg›
+‹Group H, see §grh›
+‹Eightfinals, see §8fin›
+‹Quarterfinals, see §4fin›
+‹Semifinals, see §2fin›
+‹Finals, see §final›
+
+
+‹Squads, see §squads›
+‹Scorers' list, see §scorers›
+‹Coaches, assistants, reserve players, see §coaches›
+‹Oldest and youngest, see §records›
+
 
 France, 10 June - 12 July 1998 (Bordeaux, Lens, Lyon, Marseilles, Montpellier,
 Nantes, Paris, St.Denis, St.Etienne, Toulouse). Decided by FIFA Executive
@@ -36,10 +37,10 @@ actually played (32 for the first time). Qualifications drawn 12 Dec 1995
 in Paris. European play-offs drawn 13 Oct 1997 in Zürich. Finals drawn
 4 Dec 1997 in Marseilles.
 
-== Group Stage
+=== Group Stage
 
 
-== Group A - BRA MAR NOR SCO  ‹§gra›
+=== Group A - BRA MAR NOR SCO  ‹§gra›
 
 10.06.98  (16.30) St.Denis, Stade de France
 
@@ -158,7 +159,7 @@ sent off: Burley (54)
 3. MAR          3  1 1 1  4  5-5
 4. SCO          3  0 1 2  1  2-6
 
-== Group B - AUT CAM CHI ITA  ‹§grb›
+=== Group B - AUT CAM CHI ITA  ‹§grb›
 
 11.06.98  (16.30) Bordeaux, Stade Lescure
 
@@ -283,7 +284,7 @@ sent off: Song (52), Etame (89)
 3. AUT          3  0 2 1  2  3-4
 4. CAM          3  0 2 1  2  2-5
 
-== Group C - ARS DAN FRA SAF  ‹§grc›
+=== Group C - ARS DAN FRA SAF  ‹§grc›
 
 12.06.98  (16.30) Lens, Stade Felix Bollaert
 
@@ -405,7 +406,7 @@ booked: Dossari / Fortune, Radebe
 3. RPA          3  0 2 1  2  3-6
 4. ARS          3  0 1 2  1  2-7
 
-== Group D - BUL ESP NGA PAR  ‹§grd›
+=== Group D - BUL ESP NGA PAR  ‹§grd›
 
 12.06.98  (13.00) Montpellier, Stade de la Mosson
 
@@ -529,7 +530,7 @@ booked: Iroha, Eguavoen
 3. ESP          3  1 1 1  4  8-4
 4. BUL          3  0 1 2  1  1-7
 
-== Group E - BEL KOR HOL MEX  ‹§gre›
+=== Group E - BEL KOR HOL MEX  ‹§gre›
 
 13.06.98  (16.30) Lens, Stade Felix Bollaert
 
@@ -656,7 +657,7 @@ booked: Borkelmans / Kim Tae-young, Lee Lim-saeng, Lee Min-sung, Kim Byung-ji
 3. BEL          3  0 3 0  3  3-3
 4. KOR          3  0 1 2  1  2-9
 
-== Group F - GER IRN JUG USA  ‹§grf›
+=== Group F - GER IRN JUG USA  ‹§grf›
 
 14.06.98  (13.30) St.Etienne, Stade G.Guichard
 
@@ -781,7 +782,7 @@ booked; Stanković, Ognjenović / Reyna
 3. IRN          3  1 0 2  3  2-4
 4. USA          3  0 0 3  0  1-5
 
-== Group G - COL ENG ROM TUN  ‹§grg›
+=== Group G - COL ENG ROM TUN  ‹§grg›
 
 15.06.98  (13.30) Marseilles, Stade Vélodrome
 
@@ -902,7 +903,7 @@ booked: Scholes, Shearer / Serna, Aristizabál, Bermudez
 3. COL          3  1 0 2  3  1-3
 4. TUN          3  0 1 2  1  1-4
 
-== Group H - ARG CRO JAM JAP  ‹§grh›
+=== Group H - ARG CRO JAM JAP  ‹§grh›
 
 14.06.98  (13.30) Toulouse, Stade Municipal
 
@@ -1022,7 +1023,7 @@ booked: Malcolm, Dawes / Yamaguchi
 3. JAM          3  1 0 2  3  3-9
 4. JAP          3  0 0 3  0  1-4
 
-== Eightfinals  ‹§8fin›
+=== Eightfinals  ‹§8fin›
 
 27.06.98  (15.30) Marseilles, Stade Vélodrome
 
@@ -1184,7 +1185,7 @@ Penalties: 1:0 Berti, 1:1 Shearer, (1:1) Crespo (save Seaman), (1:1) Ince
 booked: Pineda, Veron, Almeyda, Roa (during penalties) / Seaman, Ince
 sent off: Beckham (47)
 
-== Quarterfinals  ‹§4fin›
+=== Quarterfinals  ‹§4fin›
 
 03.07.98  (15.30) St.Denis, Stade de France
 
@@ -1266,7 +1267,7 @@ GER: Köpke - Wörns, Matthäus, Kohler - Heinrich, Jeremies, Häßler
 booked: Šimić, Stanić, Šuker / Heinrich, Tarnat
 sent off: Wörns (40)
 
-== Semifinals  ‹§2fin›
+=== Semifinals  ‹§2fin›
 
 07.07.98  (20.00) Marseilles, Stade Vélodrome
 
@@ -1309,7 +1310,7 @@ CRO: Ladić - Štimac, Bilić, Soldo, Jarni - Stanić (89 Prosinečki),
 booked: Asanović, Stanić, Šimić
 sent off: Blanc (73)
 
-== Third place match  ‹§3place›
+=== Third place match  ‹§3place›
 
 11.07.98  (20.00) Paris, Parc des Princes
 
@@ -1326,7 +1327,7 @@ Overmars), Seedorf - Kluivert, Bergkamp (57 van Hooijdonk), Zenden
 
 booked: Štimac, Stanić, Jurčić, Asanović / Davids, Bergkamp
 
-== Final  ‹§fin›
+=== Final  ‹§fin›
 
 12.07.98  (20.00) St.Denis, Stade de France
 
@@ -1345,7 +1346,7 @@ Edmundo), Leonardo (46 Denilson), Dunga (c), Rivaldo - Ronaldo, Bebeto
 booked: Desailly (2). Deschamps, Karembeu / Baiano
 sent off: Desailly (68)
 
-== Squads  ‹§squads›
+=== Squads  ‹§squads›
 
 Thanks to Neil Morrison
 
@@ -2217,7 +2218,7 @@ Perica Ognjenović
 Darko Kovačević
 Coach: Slobodan Santrač (Yugoslavia).
 
-== Scorers' list  ‹§scorers›
+=== Scorers' list  ‹§scorers›
 
 6 - Šuker CRO
 5 - Batistuta ARG, Vieri iTA
@@ -2246,7 +2247,7 @@ In total 171 goals (17 p, 5 f, 31 h, 4 o), 2,67 per match. Most goals FRA
 (15), no team without goals. 108 players scored (including 14 earlier scorers
 from 1994, 1990 and 1986 (M.Laudrup)).
 
-== Coaches and reserve players  ‹§coaches›
+=== Coaches and reserve players  ‹§coaches›
 
 ARG: D. Passarella | Astrada, Burgos, Cavallero, Delgado
 ARS: C. A. Parreira (replaced 19 Jun by M. Al-Kharasi) | Al-Janoubi,
@@ -2287,7 +2288,7 @@ TUN: H. Kasperczak (replaced 23 Jun by A. Selmi) | Boumnijel, Jaballah,
 Melki, Salhi
 USA: S. Sampson | Agoos, Lalas, Sommer
 
-== Oldest and youngest  ‹§records›
+=== Oldest and youngest  ‹§records›
 
 Youngest                  Oldest
 player      Eto'o CAM      17y 99d   Leighton SCO       39y300d

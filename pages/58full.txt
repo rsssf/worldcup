@@ -1,29 +1,30 @@
   <!--
-     source: https://rsssf.org/tables/58full.html
+     title:   World Cup 1958 finals
+     source:  https://rsssf.org/tables/58full.html
+
     -->
-  
 
 
-= World Cup 1958
+== World Cup 1958
 
-<UL>
-<LI>‹Results, see §results›
-<UL>
-<LI>‹Group A, see §gra›
-<LI>‹Group B, see §grb›
-<LI>‹Group C, see §grc›
-<LI>‹Group D, see §grd›
-<LI>‹Quarterfinals, see §4fin›
-<LI>‹Semifinals, see §2fin›
-<LI>‹Third place match, see §3place›
-<LI>‹Final, see §final›
-</UL></UL>
-<UL>
-<LI>‹Scorers' list, see §scorers›
-<LI>‹Coaches, assistants, reserve players, see §coaches›
-<LI>‹Oldest and youngest, see §records›
-</UL>
-</UL>
+
+‹Results, see §results›
+
+‹Group A, see §gra›
+‹Group B, see §grb›
+‹Group C, see §grc›
+‹Group D, see §grd›
+‹Quarterfinals, see §4fin›
+‹Semifinals, see §2fin›
+‹Third place match, see §3place›
+‹Final, see §final›
+
+
+‹Scorers' list, see §scorers›
+‹Coaches, assistants, reserve players, see §coaches›
+‹Oldest and youngest, see §records›
+
+
 
 Sweden, 6 - 29 June 1958 (Boraas, Eskilstuna, Gothenburg, Halmstad,
 Hälsingborg, Malmö, Nörrkoping, Orebro, Sandviken, Solna, Uddevalla, Västeräs).
@@ -38,7 +39,7 @@ matches in three groups (curiosly, teams with worse g/d won, in one case
 it was equal).
 
 
-== Group A - ARG CZE GER NIR  ‹§gra›
+=== Group A - ARG CZE GER NIR  ‹§gra›
 
 08.06.58  (19.00) Halmstad, Örjans Vall
 
@@ -155,7 +156,7 @@ Borovička, Feureisl, Molnár
 
 sent off: Bubernik (102)
 
-== Group B - FRA JUG PAR SCO  ‹§grb›
+=== Group B - FRA JUG PAR SCO  ‹§grb›
 
 08.06.58  (19.00) Västeraas, Arosvallen
 
@@ -264,7 +265,7 @@ Veselinović, Ognjanović, Šekularac, Rajkov
 3. PAR          3  1 1 1  3  9-12
 4. SCO          3  0 1 2  1  4-6
 
-== Group C - HUN MEX SWE WAL  ‹§grc›
+=== Group C - HUN MEX SWE WAL  ‹§grc›
 
 08.06.58  (14.00) Solna, Raasunda Stadion
 
@@ -384,7 +385,7 @@ Tichy, Bundzsák, Fenyvesi
 
 sent off: Sipos (79)
 
-== Group D - AUT BRA ENG ZSR  ‹§grd›
+=== Group D - AUT BRA ENG ZSR  ‹§grd›
 
 08.06.58  (19.00) Uddevalla, Rimnersvallen
 
@@ -502,7 +503,7 @@ Kevan, Haynes, A'Court
 
 1:0 Ilyin 68
 
-== Quarterfinals  ‹§4fin›
+=== Quarterfinals  ‹§4fin›
 
 19.06.58  (14.00) Solna, Raasunda Stadion
 
@@ -568,7 +569,7 @@ Hewitt, Webster, Allchurch, Jones
 
 1:0 Pelé 73
 
-== Semifinals  ‹§2fin›
+=== Semifinals  ‹§2fin›
 
 24.06.58  (19.00) Solna, Raasunda Stadium
 
@@ -603,7 +604,7 @@ Rahn, F.Walter, Seeler, Cieslarczyk, Schäfer (c)
 
 sent off: Juskowiak (89)
 
-== Third place match  ‹§3place›
+=== Third place match  ‹§3place›
 
 26.06.58  (17.00) Gothenburg, Nya Ullevi
 
@@ -619,7 +620,7 @@ Rahn, Strum, Schäfer (c), Kelbassa, Cieslarczyk
 1:0 Fontaine 16, 1:1 Cieslarczyk 18, 2:1 Kopa 27 p, 3:1 Fontaine 36, 4:1 Douis
 50, 4:2 Rahn 52, 5:2 Fontaine 78, 5:3 Schäfer 84, 6:3 Fontaine 89
 
-== Final  ‹§final›
+=== Final  ‹§final›
 
 29.06.58  (15.00) Solna, Raasunda Stadium
 
@@ -635,7 +636,7 @@ Gren, Simonsson, Liedholm (c), Skoglund
 0:1 Liedholm 4, 1:1 Vavá 9, 2:1 Vavá 32, 3:1 Pelé 55, 4:1 Zagalo 68, 4:2
 Simonsson 80, 5:2 Pelé 90 h
 
-== Scorers' list  ‹§scorers›
+=== Scorers' list  ‹§scorers›
 
 13 - Fontaine FRA
  6 - Pelé BRA, Rahn GER
@@ -655,7 +656,7 @@ In total 126 goals (7 p, 2 f, 6 h, 0 o), 3,60 per match. Most goals FRA (23),
 no team without goals. 59 players scored (including 7 earlier scorers from
 1954).
 
-== Coaches, assistants, reserve players  ‹§coaches›
+=== Coaches, assistants, reserve players  ‹§coaches›
 
 ARG: G. Stábile, J. Borau | Acevedo, Edwards, Infante, Mauriño,
 Musinessi, Pérez, Ramos-Delgado, Sanfilippo
@@ -693,7 +694,7 @@ Yerochin, Maslachenko, Maslenkin, Ostrovski
 
 * playing coach
 
-== Oldest and youngest  ‹§records›
+=== Oldest and youngest  ‹§records›
 
 Youngest                  Oldest
 player      Pelé BRA       17y235d   Labruna ARG        39y260d

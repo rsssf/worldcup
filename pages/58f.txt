@@ -1,7 +1,9 @@
   <!--
-     source: https://rsssf.org/tables/58f.html
+     title:   World Cup 1958
+     source:  https://rsssf.org/tables/58f.html
+     authors: Karel Stokkermans and Sergio Henrique Jarreta
+     updated: 22 Oct 1999
     -->
-  
 
 
 == World Cup 1958 (Sweden, June 8-29)
@@ -9,7 +11,7 @@
 
 ▪ FIRST PHASE ▪
 
-▪ Group A ▪
+Group A
 08.06.58  Halmstad     Northern Ireland 1-0 Czechoslovakia     1.WEST GERMANY     3  1  2  0   7- 5  4
 08.06.58  Malmö        West Germany     3-1 Argentina          2.NORTHERN IRELAND 3  1  1  1   4- 5  3
 11.06.58  Halmstad     Argentina        3-1 Northern Ireland   3.Czechoslovakia   3  1  1  1   8- 4  3
@@ -19,7 +21,7 @@
 ▪ Playoff ▪
 17.06.58  Malmö        Northern Ireland 2-1 Czechoslovakia   (aet)
 
-▪ Group B ▪
+Group B
 08.06.58  Västeras     Yugoslavia       1-1 Scotland           1.FRANCE           3  2  0  1  11- 7  4
 08.06.58  Norrköping   France           7-3 Paraguay           2.YUGOSLAVIA       3  1  2  0   7- 6  4
 11.06.58  Norrköping   Paraguay         3-2 Scotland           3.Paraguay         3  1  1  1   9-12  3
@@ -27,7 +29,7 @@
 15.06.58  Örebro       France           2-1 Scotland
 15.06.58  Eskilstuna   Yugoslavia       3-3 Paraguay
 
-▪ Group C ▪
+Group C
 08.06.58  Stockholm    Sweden           3-0 Mexico             1.SWEDEN           3  2  1  0   5- 1  5
 08.06.58  Sandviken    Wales            1-1 Hungary            2.WALES            3  0  3  0   2- 2  3
 11.06.58  Stockholm    Wales            1-1 Mexico               Hungary          3  1  1  1   6- 3  3
@@ -37,7 +39,7 @@
 ▪ Playoff ▪
 17.06.58  Stockholm    Wales            2-1 Hungary
 
-▪ Group D ▪
+Group D
 08.06.58  Uddevalla    Brazil           3-0 Austria            1.BRAZIL           3  2  1  0   5- 0  5
 08.06.58  Göteborg     Soviet Union     2-2 England            2.SOVIET UNION     3  1  1  1   4- 4  3
 11.06.58  Borås        Soviet Union     2-0 Austria              England          3  0  3  0   4- 4  3
@@ -85,21 +87,10 @@ Scorers: 4' Liedholm 0-1; 9' Vavá 1-1; 32' Vavá 2-1; 55' Pelé 3-1;
 Topscorer: Fontaine (France) 13 goals.
 
 
-‹Detailed Infos, see page 58full›
-
-
-
-‹1954 Final Tournament, see page 54f›
-
-‹1958 Qualifying Tournament, see page 58q›
-
-‹1962 Final Tournament, see page 62f›
-
-‹Overview File, see page ../tablesw/worldcup›
 
 
 
 
 
-<!-- $about$ -->
+
 

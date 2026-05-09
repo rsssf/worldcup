@@ -1,10 +1,12 @@
   <!--
-     source: https://rsssf.org/tables/90q.html
+     title:   World Cup 1990 Qualifying
+     source:  https://rsssf.org/tables/90q.html
+     authors: Karel Stokkermans and Sergio Henrique Jarreta
+     updated: 14 Mar 2024
     -->
-  
 
 
-== World Cup 1990 Qualifying
+
 
 Qualified as hosts: Italy
 Qualified as holders: Argentina
@@ -277,7 +279,7 @@ Algeria, Cameroon, Egypt, Kenya, Morocco, Ivory Coast, Nigeria and Zaire byes.
 
 ▪ 2nd round ▪
 
-▪ Group A ▪
+Group A
 06.01.89  Annaba            Algeria          3-0 Zimbabwe
 08.01.89  Abidjan           Ivory Coast      1-0 Libya
 20.01.89  Tripoli           Libya            n/p Algeria         (awarded 0-2, Libya dns)
@@ -288,7 +290,7 @@ Libya withdrew on 14.05.89. Their matches annulled.
 13.08.89  Abidjan           Ivory Coast      5-0 Zimbabwe
 25.08.89  Annaba            Algeria          1-0 Ivory Coast
 
-▪ Group B ▪
+Group B
 06.01.89  Cairo             Egypt            2-0 Liberia            1.Egypt            6  3  2  1   6- 2  8
 07.01.89  Nairobi           Kenya            1-1 Malawi             2.Liberia          6  2  2  2   2- 3  6
 21.01.89  Lilongwe          Malawi           1-1 Egypt              3.Malawi           6  1  3  2   3- 4  5
@@ -302,7 +304,7 @@ Libya withdrew on 14.05.89. Their matches annulled.
 26.08.89  Cairo             Egypt            2-0 Kenya
 26.08.89  Lilongwe          Malawi           0-0 Liberia
 
-▪ Group C ▪
+Group C
 07.01.89  Enugu             Nigeria          1-0 Gabon              1.Cameroon         6  4  1  1   9- 6  9
 08.01.89  Yaoundé           Cameroon         1-1 Angola             2.Nigeria          6  3  1  2   7- 5  7
 22.01.89  Libreville        Gabon            1-3 Cameroon           3.Angola           6  1  2  3   6- 7  4
@@ -316,7 +318,7 @@ Libya withdrew on 14.05.89. Their matches annulled.
 27.08.88  Yaoundé           Cameroon         1-0 Nigeria
 27.08.89  Libreville        Gabon            1-0 Angola
 
-▪ Group D ▪
+Group D
 08.01.89  Rabat             Morocco          1-0 Zambia             1.Tunisia          6  3  1  2   5- 5  7
 08.01.89  Kinshasa          Zaire            3-1 Tunisia            2.Zambia           6  3  0  3   7- 6  6
 22.01.89  Tunis             Tunisia          2-1 Morocco            3.Zaire            6  2  2  2   7- 7  6
@@ -457,17 +459,8 @@ Israel bye.
 Israel required to play off with winner South America Group 2 (see above).
 
 
-‹Detailed Infos, see page 90qual›
-
-
-
-‹1990 Final Tournament, see page 90f›
-
-‹Overview File, see page ../tablesw/worldcup›
 
 
 
 
-
-<!-- $about$ -->
 

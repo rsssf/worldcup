@@ -1,29 +1,30 @@
   <!--
-     source: https://rsssf.org/tables/66full.html
+     title:   World Cup 1966 finals
+     source:  https://rsssf.org/tables/66full.html
+
     -->
-  
 
 
-= World Cup 1966
+== World Cup 1966
 
-<UL>
-<LI>‹Results, see §results›
-<UL>
-<LI>‹Group A, see §gra›
-<LI>‹Group B, see §grb›
-<LI>‹Group C, see §grc›
-<LI>‹Group D, see §grd›
-<LI>‹Quarterfinals, see §4fin›
-<LI>‹Semifinals, see §2fin›
-<LI>‹Third place match, see §3place›
-<LI>‹Final, see §final›
-</UL></UL>
-<UL>
-<LI>‹Scorers' list, see §scorers›
-<LI>‹Coaches, assistants, reserve players, see §coaches›
-<LI>‹Oldest and youngest, see §records›
-</UL>
-</UL>
+
+‹Results, see §results›
+
+‹Group A, see §gra›
+‹Group B, see §grb›
+‹Group C, see §grc›
+‹Group D, see §grd›
+‹Quarterfinals, see §4fin›
+‹Semifinals, see §2fin›
+‹Third place match, see §3place›
+‹Final, see §final›
+
+
+‹Scorers' list, see §scorers›
+‹Coaches, assistants, reserve players, see §coaches›
+‹Oldest and youngest, see §records›
+
+
 
 England, 11-30 July 1966 (Birmingham, Liverpool, London, Manchester,
 Middlesborough, Sheffield, Sunderland). Decided at FIFA Congress in Rome,
@@ -33,7 +34,7 @@ Qualifications drawn 31 Jan 1964 in Zürich. Finals drawn 6 Jan 1966 in
 London.
 
 
-== Group A - ENG FRA MEX URU  ‹§gra›
+=== Group A - ENG FRA MEX URU  ‹§gra›
 
 11.07.66  (19.30) London, Wembley Stadium
 
@@ -134,7 +135,7 @@ Bonnel - Herbet, Gondet, Hausser
 3. MEX          3  0 2 1  2  1-3
 4. FRA          3  0 1 2  1  2-5
 
-== Group B - ARG ESP GER SUI  ‹§grb›
+=== Group B - ARG ESP GER SUI  ‹§grb›
 
 12.07.66  (19.30) Sheffield, Hillsborough
 
@@ -240,7 +241,7 @@ Marcelino, Fuste, Lapetra
 3. ESP          3  1 0 2  2  4-5
 4. SUI          3  0 0 3  0  1-9
 
-== Group C - BRA BUL HUN POR  ‹§grc›
+=== Group C - BRA BUL HUN POR  ‹§grc›
 
 12.07.66  Liverpool, Goodison Park
 
@@ -345,7 +346,7 @@ Yakimov - Kotkov, Asparoukhov, Kolev
 3. BRA          3  1 0 2  2  4-6
 4. BUL          3  0 0 3  0  1-8
 
-== Group D - CHI ITA KLD ZSR  ‹§grd›
+=== Group D - CHI ITA KLD ZSR  ‹§grd›
 
 12.07.66  (19.30) Middlesbrough, Ayresome Park
 
@@ -453,7 +454,7 @@ Marcos, Araya - Landa, Yavar, L.Sánchez
 3. ITA          3  1 0 2  2  2-2
 4. CHI          3  0 1 2  1  2-5
 
-== Quarterfinals  ‹§4fin›
+=== Quarterfinals  ‹§4fin›
 
 23.07.66  (19.30) London, Wembley Stadium
 
@@ -528,7 +529,7 @@ Rakosi, Bene, Farkas
 
 1:0 Chislenko 5, 2:0 Porkuyan 49, 2:1 Bene 58
 
-== Semifinals  ‹§2fin›
+=== Semifinals  ‹§2fin›
 
 25.07.66  (19.30) Liverpool, Goodison Park
 
@@ -562,7 +563,7 @@ Eusebio, Torres, Simóes
 
 1:0 R.Charlton 30, 2:0 R.Charlton 79, 2:1 Eusebio 82 p
 
-== Third place match  ‹§3place›
+=== Third place match  ‹§3place›
 
 28.07.70  (19.30) London, Wembley Stadium
 
@@ -577,7 +578,7 @@ Sichinava, Metreveli, Banichevski - Malafeev, Serebrianikov
 
 1:0 Eusebio 12 p, 1:1 Malafeev 43, 2:1 Torres 88
 
-== Final  ‹§final›
+=== Final  ‹§final›
 
 30.07.66  (15.00) London, July 30, 1966.
 
@@ -595,7 +596,7 @@ Overath, Haller - Seeler (c), Held, Emmerich
 
 NOTE: 200th game of the World Cup
 
-== Scorers' List  ‹§scorers›
+=== Scorers' List  ‹§scorers›
 
 9 - Eusebio POR
 6 - Haller GER
@@ -613,7 +614,7 @@ In total 89 goals (8 p, 2 f, 13 h, 2 o), 2,78 per match. Most goals POR (17),
 no team without goals. 45 players scored (including 6 earlier scorers from
 1962 and 2 from 1958 and 1962).
 
-== Coaches, assistants, reserve players  ‹§coaches›
+=== Coaches, assistants, reserve players  ‹§coaches›
 
 ARG: J. C. Lorenzo, R. V. Torecillas | Chaldu, Gatti, Irusta, López,
 Pastorisa, Rojas, Sarnari, Simeone, Tarabini, Varacka
@@ -645,7 +646,7 @@ URU: G. Viera (G. Borrés, E. Lastra, J. López) | E.Alvarez, E.W.Alvarez,
 Diaz, Espárrago, Forlan, Ramos, Sosa, Tarbo, Ursamendi
 ZSR: N. Morozov, R. Nabokov, J. V. Zolotov | Bannikov
 
-== Oldest and youngest  ‹§records›
+=== Oldest and youngest  ‹§records›
 
 Youngest                  Oldest
 player      Tostao BRA     19y171d   D.Santos BRA       37y166d

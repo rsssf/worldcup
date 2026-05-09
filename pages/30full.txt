@@ -1,37 +1,37 @@
   <!--
-     source: https://rsssf.org/tables/30full.html
+     title:   World Cup 1930 finals
+     source:  https://rsssf.org/tables/30full.html
+
     -->
-  
 
 
-= World Cup 1930
+== World Cup 1930
 
-<UL>
-<LI>‹Results, see §results›
-<UL>
-<LI>‹Group A, see §gra›
-<LI>‹Group B, see §grb›
-<LI>‹Group C, see §grc›
-<LI>‹Group D, see §grd›
-<LI>‹Semifinals, see §semi›
-<LI>‹Final, see §final›
-</UL></UL>
-<UL>
-<LI>‹Scorers' list, see §scorers›
-<LI>‹Coaches, assistants, reserve players, see §coaches›
-<LI>‹Oldest and youngest, see §records›
-</UL>
+
+‹Results, see §results›
+
+‹Group A, see §gra›
+‹Group B, see §grb›
+‹Group C, see §grc›
+‹Group D, see §grd›
+‹Semifinals, see §semi›
+‹Final, see §final›
+
+
+‹Scorers' list, see §scorers›
+‹Coaches, assistants, reserve players, see §coaches›
+‹Oldest and youngest, see §records›
+
 
 Uruguay, July 13-30. All games played in Montevideo. Decided in Amsterdam 28 May
 1928. Entries deadline 19 Jan 1930, moved to late May (all 13 teams that entered
 were qualified). Groups drawn 7 Jul 1930. Semifinals drawn 22 Jul 1930.
 
-== First Phase
+=== First Phase
 
 
-‹§results›
 
-== Group A - ARG CHI FRA MEX  ‹§gra›
+=== Group A - ARG CHI FRA MEX  ‹§gra›
 
 13.07.30 (15.00) Montevideo, Estadio Pocitos
 
@@ -143,7 +143,7 @@ Arellano, Subiabre, Villalobos, Vidal, Aguilera
 3. FRA          3  2  1 0 2     4-3
 4. MEX          3  0  0 0 3     4-13
 
-== Group B - BOL BRA JUG  ‹§grb›
+=== Group B - BOL BRA JUG  ‹§grb›
 
 14.07.30  (12.45) Montevideo, Parque Central
 
@@ -196,7 +196,7 @@ Balderrama - Fernández, Ortiz, Bustamante, Mendéz (c), Alborta
 2. BRA          2  2  1 0 1       5-2
 3. BOL          2  0  0 0 2       0-8
 
-== Group C - PER ROM URU  ‹§grc›
+=== Group C - PER ROM URU  ‹§grc›
 
 14.07.30  (14.50) Montevideo, Estadio Pocitas
 
@@ -253,7 +253,7 @@ Wetzer (c), Raffinsky, Barbu
 2. ROM          2  2  1 0 1       3-5
 3. PER          2  0  0 0 2       1-4
 
-== Group D - BEL PAR USA  ‹§grd›
+=== Group D - BEL PAR USA  ‹§grd›
 
 13.07.30  (15.00) Montevideo, Parque Central
 
@@ -310,7 +310,7 @@ BEL: Badjou - De Deken, Hoydonckx - Moeschal, Hellemans, F. Braine
 2. PAR          2  2  1 0 1       1-3
 3. BEL          2  0  0 0 2       0-4
 
-== Semifinals  ‹§semi›
+=== Semifinals  ‹§semi›
 
 26.07.30 (14.45) Montevideo, Centenario
 
@@ -344,7 +344,7 @@ Djokić - Tirnanić, Marjanović, Bek, Vujadinović, Sekulić
 0:1 Vujadinović 4, 1:1 Cea 19, 2:1 Anselmo 21 h, 3:1 Anselmo 23, 4:1 Iriarte
 63, 5:1 Cea 66, 6:1 Cea 72
 
-== Final  ‹§final›
+=== Final  ‹§final›
 
 30.07.30  (15.30) Montevideo, Centenario
 
@@ -373,7 +373,7 @@ played before the ‹1956 Olympic Games, see page ../tableso/ol1956f›); accord
 Cup tournaments (comparing the overall records of teams eliminated at the same stage),
 the USA would be third (for having conceded one goal less in their three matches).
 
-== Scorers' list  ‹§scorers›
+=== Scorers' list  ‹§scorers›
 
 8 - Stábile ARG
 5 - Cea URU
@@ -391,7 +391,7 @@ Total 70 goals (2 o, 1 f, 1 p, 6 h), 3.89 per match. Most goals ARG (18),
 BEL and BOL without goals. 35 players scored (no one repeated it four
 years later)
 
-== Coaches, assistants, reserve players  ‹§coaches›
+=== Coaches, assistants, reserve players  ‹§coaches›
 
 ARG: J. Tramutola - F. Piaggio | E. Piaggio (‹full squad info, see §argsquad›)
 ‹BEL, see page ../tablesb/belg-wktrip30›: H. Goetinck, E. Hanse | Chantraine, De Bie, Saeys
@@ -414,7 +414,7 @@ Calvo, Capuccini, Melogno, Piriz, Recoba, Riolfo Secco, Saldombide
 * replaced the national coach G. Barreau
 ** playing coach
 
-== Oldest and youngest  ‹§records›
+=== Oldest and youngest  ‹§records›
 
 Youngest                   Oldest
 player      C.Leite BRA    18y 65d   R.Guitiérez MEX    around 34

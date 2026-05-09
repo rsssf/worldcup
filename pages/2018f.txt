@@ -1,7 +1,9 @@
   <!--
-     source: https://rsssf.org/tables/2018f.html
+     title:   World Cup 2018
+     source:  https://rsssf.org/tables/2018f.html
+     author:  Karel Stokkermans
+     updated: 20 Dec 2022
     -->
-  
 
 
 == World Cup 2018 (Russia, June 14 - July 15, 2018)
@@ -11,7 +13,7 @@ Automatically qualified: Russia (hosts)
 
 ▪ FIRST PHASE ▪
 
-▪ Group A ▪
+Group A
 14- 6-18 Moskva         Russia            5-0 Saudi Arabia
 15- 6-18 Yekaterinburg  Egypt             0-1 Uruguay
 19- 6-18 Skt. Peterburg Russia            3-1 Egypt
@@ -24,7 +26,7 @@ Automatically qualified: Russia (hosts)
  3.Saudi Arabia      3  1  0  2   2- 7  3
  4.Egypt             3  0  0  3   2- 6  0
 
-▪ Group B ▪
+Group B
 15- 6-18 Skt. Peterburg Morocco           0-1 Iran
 15- 6-18 Sochi          Portugal          3-3 Spain
 20- 6-18 Moskva         Portugal          1-0 Morocco
@@ -37,7 +39,7 @@ Automatically qualified: Russia (hosts)
  3.Iran              3  1  1  1   2- 2  4
  4.Morocco           3  0  1  2   2- 4  1
 
-▪ Group C ▪
+Group C
 16- 6-18 Kazan          France            2-1 Australia
 16- 6-18 Saransk        Peru              0-1 Denmark
 21- 6-18 Samara         Denmark           1-1 Australia
@@ -50,7 +52,7 @@ Automatically qualified: Russia (hosts)
  3.Peru              3  1  0  2   2- 2  3
  4.Australia         3  0  1  2   2- 5  1
 
-▪ Group D ▪
+Group D
 16- 6-18 Moskva         Argentina         1-1 Iceland
 16- 6-18 Kaliningrad    Croatia           2-0 Nigeria
 21- 6-18 Nz. Novgorod   Argentina         0-3 Croatia
@@ -63,7 +65,7 @@ Automatically qualified: Russia (hosts)
  3.Nigeria           3  1  0  2   3- 4  3
  4.Iceland           3  0  1  2   2- 5  1
 
-▪ Group E ▪
+Group E
 17- 6-18 Samara         Costa Rica        0-1 Serbia
 17- 6-18 Rostov-na-Donu Brazil            1-1 Switzerland
 22- 6-18 Skt. Peterburg Brazil            2-0 Costa Rica
@@ -76,7 +78,7 @@ Automatically qualified: Russia (hosts)
  3.Serbia            3  1  0  2   2- 4  3
  4.Costa Rica        3  0  1  2   2- 5  1
 
-▪ Group F ▪
+Group F
 17- 6-18 Moskva         Germany           0-1 Mexico
 18- 6-18 Nz. Novgorod   Sweden            1-0 South Korea
 23- 6-18 Rostov-na-Donu South Korea       1-2 Mexico
@@ -89,7 +91,7 @@ Automatically qualified: Russia (hosts)
  3.South Korea       3  1  0  2   3- 3  3
  4.Germany           3  1  0  2   2- 4  3
 
-▪ Group G ▪
+Group G
 18- 6-18 Sochi          Belgium           3-0 Panama
 18- 6-18 Volgograd      Tunisia           1-2 England
 23- 6-18 Moskva         Belgium           5-2 Tunisia
@@ -102,7 +104,7 @@ Automatically qualified: Russia (hosts)
  3.Tunisia           3  1  0  2   5- 8  3
  4.Panama            3  0  0  3   2-11  0
 
-▪ Group H ▪
+Group H
 19- 6-18 Saransk        Colombia          1-2 Japan
 19- 6-18 Moskva         Poland            1-2 Senegal
 24- 6-18 Yekaterinburg  Japan             2-2 Senegal
@@ -181,21 +183,10 @@ Scorers: 18' Mandzukic (og) 1-0; 28' Perisic 1-1; 38' Griezmann (pen) 2-1;
 Topscorer: Kane (England) 6 goals.
 
 
-‹Detailed Infos, see page 2018full›
-
-
-
-‹2014 Final Tournament, see page 2014f›
-
-‹2018 Qualifying Tournament, see page 2018q›
-
-‹2022 Final Tournament, see page 2022f›
-
-‹Overview File, see page ../tablesw/worldcup›
 
 
 
 
 
-<!-- $about$ -->
+
 

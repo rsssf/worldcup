@@ -1,7 +1,9 @@
   <!--
-     source: https://rsssf.org/tables/98f.html
+     title:   World Cup 1998
+     source:  https://rsssf.org/tables/98f.html
+     author:  Karel Stokkermans
+     updated: 5 Jul 2018
     -->
-  
 
 
 == World Cup 1998 (France, June 10-July 12)
@@ -9,7 +11,7 @@
 
 ▪ FIRST PHASE ▪
 
-▪ Group A ▪
+Group A
 10.06.98  St. Denis    Brazil           2-1 Scotland                 1.BRAZIL           3  2  0  1   6- 3  6
 10.06.98  Montpellier  Morocco          2-2 Norway                   2.NORWAY           3  1  2  0   5- 4  5
 16.06.98  Bordeaux     Scotland         1-1 Norway                   3.Morocco          3  1  1  1   5- 5  4
@@ -17,7 +19,7 @@
 23.06.98  Marseille    Brazil           1-2 Norway
 23.06.98  St. Etienne  Scotland         0-3 Morocco
 
-▪ Group B ▪
+Group B
 11.06.98  Bordeaux     Italy            2-2 Chile                    1.ITALY            3  2  1  0   7- 3  7
 11.06.98  Toulouse     Cameroon         1-1 Austria                  2.CHILE            3  0  3  0   4- 4  3
 17.06.98  St. Etienne  Chile            1-1 Austria                  3.Austria          3  0  2  1   3- 4  2
@@ -25,7 +27,7 @@
 23.06.98  St. Denis    Italy            2-1 Austria
 23.06.98  Nantes       Chile            1-1 Cameroon
 
-▪ Group C ▪
+Group C
 12.06.98  Lens         Saudi Arabia     0-1 Denmark                  1.FRANCE           3  3  0  0   9- 1  9
 12.06.98  Marseille    France           3-0 South Africa             2.DENMARK          3  1  1  1   3- 3  4
 18.06.98  Toulouse     South Africa     1-1 Denmark                  3.South Africa     3  0  2  1   3- 6  2
@@ -33,7 +35,7 @@
 24.06.98  Lyon         France           2-1 Denmark
 24.06.98  Bordeaux     South Africa     2-2 Saudi Arabia
 
-▪ Group D ▪
+Group D
 12.06.98  Montpellier  Paraguay         0-0 Bulgaria                 1.NIGERIA          3  2  0  1   5- 5  6
 13.06.98  Nantes       Spain            2-3 Nigeria                  2.PARAGUAY         3  1  2  0   3- 1  5
 19.06.98  Paris        Nigeria          1-0 Bulgaria                 3.Spain            3  1  1  1   8- 4  4
@@ -41,7 +43,7 @@
 24.06.98  Lens         Spain            6-1 Bulgaria
 24.06.98  Toulouse     Nigeria          1-3 Paraguay
 
-▪ Group E ▪
+Group E
 13.06.98  Lyon         South Korea      1-3 Mexico                   1.NETHERLANDS      3  1  2  0   7- 2  5
 13.06.98  St. Denis    Netherlands      0-0 Belgium                  2.MEXICO           3  1  2  0   7- 5  5
 20.06.98  Bordeaux     Belgium          2-2 Mexico                   3.Belgium          3  0  3  0   3- 3  3
@@ -49,7 +51,7 @@
 25.06.98  St. Etienne  Netherlands      2-2 Mexico
 25.06.98  Paris        Belgium          1-1 South Korea
 
-▪ Group F ▪
+Group F
 14.06.98  St. Etienne  Yugoslavia       1-0 Iran                     1.GERMANY          3  2  1  0   6- 2  7
 15.06.98  Paris        Germany          2-0 USA                      2.YUGOSLAVIA       3  2  1  0   4- 2  7
 21.06.98  Lens         Germany          2-2 Yugoslavia               3.Iran             3  1  0  2   2- 4  3
@@ -57,7 +59,7 @@
 25.06.98  Montpellier  Germany          2-0 Iran
 25.06.98  Nantes       USA              0-1 Yugoslavia
 
-▪ Group G ▪
+Group G
 15.06.98  Marseille    England          2-0 Tunisia                  1.ROMANIA          3  2  1  0   4- 2  7
 15.06.98  Lyon         Romania          1-0 Colombia                 2.ENGLAND          3  2  0  1   5- 2  6
 22.06.98  Montpellier  Colombia         1-0 Tunisia                  3.Colombia         3  1  0  2   1- 3  3
@@ -65,7 +67,7 @@
 26.06.98  St. Denis    Romania          1-1 Tunisia
 26.06.98  Lens         Colombia         0-2 England
 
-▪ Group H ▪
+Group H
 14.06.98  Toulouse     Argentina        1-0 Japan                    1.ARGENTINA        3  3  0  0   7- 0  9
 14.06.98  Lens         Jamaica          1-3 Croatia                  2.CROATIA          3  2  0  1   4- 2  6
 20.06.98  Nantes       Japan            0-1 Croatia                  3.Jamaica          3  1  0  2   3- 9  3
@@ -133,21 +135,10 @@ Red card: Desailly (68', second yellow).
 Topscorer: Suker (Croatia) 6 goals.
 
 
-‹Detailed Infos, see page 98full›
-
-
-
-‹1994 Final Tournament, see page 94f›
-
-‹1998 Qualifying Tournament, see page 98q›
-
-‹2002 Final Tournament, see page 2002f›
-
-‹Overview File, see page ../tablesw/worldcup›
 
 
 
 
 
-<!-- $about$ -->
+
 

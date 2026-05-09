@@ -1,7 +1,9 @@
   <!--
-     source: https://rsssf.org/tables/2014full.html
+     title:   World Cup 2014 - Match Details
+     source:  https://rsssf.org/tables/2014full.html
+     author:  Neil Morrison
+     updated: 24 Jul 2014
     -->
-  
 
 
 == World Cup 2014 - Match Details
@@ -15,7 +17,7 @@ World Cup 2014, Final Tournament
 
 ▪ Round 1 ▪
 
-▪ Group A ▪
+Group A
 
 12/06/2014, São Paulo, Arena Corinthians, 62103
 World Cup
@@ -134,7 +136,7 @@ Cards:              Mexico: 4 Rafael Márquez [Y 39'], 23 José Juan Vázquez [Y
  4.Cameroon                3  0  0  3  1- 9  0
 
 
-▪ Group B ▪
+Group B
 
 13/06/2014, Salvador, Itaipava Arena Fonte Nova, 48173
 World Cup
@@ -251,7 +253,7 @@ Cards:              Netherlands: 5 Daley Blind [Y 64'].
  4.Australia               3  0  0  3  3- 9  0
 
 
-▪ Group C ▪
+Group C
 
 14/06/2014, Belo Horizonte, Estádio Governador Magalhães Pinto 'Mineirão', 57174
 World Cup
@@ -373,7 +375,7 @@ Cards:              Greece: none.
  4.Japan                   3  0  1  2  2- 6  1
 
 
-▪ Group D ▪
+Group D
 
 14/06/2014, Fortaleza, Estádio Plácido Aderaldo Castelo 'Castelão', 58679
 World Cup
@@ -493,7 +495,7 @@ Cards:              Costa Rica: 3 Giancarlo González [Y 60'].
  4.England                 3  0  1  2  2- 4  1
 
 
-▪ Group E ▪
+Group E
 
 15/06/2014, Brasília, Estádio Nacional 'Mané Garrincha', 68351
 World Cup
@@ -613,7 +615,7 @@ Cards:              Ecuador: 16 Luis Antonio Valencia [R 50'], 3 Frickson Erazo 
  4.Honduras                3  0  0  3  1- 8  0
 
 
-▪ Group F ▪
+Group F
 
 15/06/2014, Rio de Janeiro, Estádio Jornalista Mário Filho 'Maracanã', 74738
 World Cup
@@ -729,7 +731,7 @@ Cards:              Bosnia/Herzegovina: 7 Muhamed Bešić [Y 77'].
  4.Iran                    3  0  1  2  1- 4  1
 
 
-▪ Group G ▪
+Group G
 
 16/06/2014, Salvador, Itaipava Arena Fonte Nova, 51081
 World Cup
@@ -846,7 +848,7 @@ Cards:              Portugal: 8 João Moutinho [Y 90+4'].
  4.Ghana                   3  0  1  2  4- 6  1
 
 
-▪ Group H ▪
+Group H
 
 17/06/2014, Belo Horizonte, Estádio Governador Magalhães Pinto 'Mineirão', 56800
 World Cup
@@ -1361,11 +1363,4 @@ Ante Rebic (CRO), Alex Song (CAM), Antonio Valencia (ECU)
 Spectators: 3.429 million (average 53,592)
 
 
-‹overview 2014 final tournament, see page 2014f›
-
-
-
-
-
-<!-- $about$ -->
 

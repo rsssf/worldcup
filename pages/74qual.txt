@@ -1,29 +1,30 @@
   <!--
-     source: https://rsssf.org/tables/74qual.html
+     title:   World Cup 1974 qualifications
+     source:  https://rsssf.org/tables/74qual.html
+
     -->
-  
 
 
-= World Cup 1974 qualifications
 
-<UL>
-<LI>‹Group 1, see §gr1›
-<LI>‹Group 2, see §gr2›
-<LI>‹Group 3, see §gr3›
-<LI>‹Group 4, see §gr4›
-<LI>‹Group 5, see §gr5›
-<LI>‹Group 6, see §gr6›
-<LI>‹Group 7, see §gr7›
-<LI>‹Group 8, see §gr8›
-<LI>‹Group 9, see §gr9›
-<LI>‹Playoff-off between winners of group 9 and 12, see §play›
-<LI>‹Group 10, see §gr10›
-<LI>‹Group 11, see §gr11›
-<LI>‹Group 12, see §gr12›
-<LI>‹Group 13, see §gr13›
-<LI>‹Group 14, see §gr14›
-<LI>‹Group 15, see §gr15›
-</UL>
+
+
+‹Group 1, see §gr1›
+‹Group 2, see §gr2›
+‹Group 3, see §gr3›
+‹Group 4, see §gr4›
+‹Group 5, see §gr5›
+‹Group 6, see §gr6›
+‹Group 7, see §gr7›
+‹Group 8, see §gr8›
+‹Group 9, see §gr9›
+‹Playoff-off between winners of group 9 and 12, see §play›
+‹Group 10, see §gr10›
+‹Group 11, see §gr11›
+‹Group 12, see §gr12›
+‹Group 13, see §gr13›
+‹Group 14, see §gr14›
+‹Group 15, see §gr15›
+
 
 == Europe
 
@@ -530,7 +531,7 @@ and (3) and the loser in pair (1) alloted to group A, the rest to group B.
 
 ▪ First Round ▪
 
-▪ Group A ▪
+Group A
 
 20.05.            JAP-VIE 4:0 (2:0)   Kamamoto 5,86, Mori 19 + 1 o 54
                                       (Coffman NZE)
@@ -541,7 +542,7 @@ and (3) and the loser in pair (1) alloted to group A, the rest to group B.
 2.JAP   2   2  1  0  1   4- 1
 3.VIE   2   2  0  0  2   0- 5
 
-▪ Group B ▪
+Group B
 
 19.05.            ISR-MAL 3:0 (0:0) Farkas 50, Shum 62, Onana 82 (Aing Kim
                                     Ean KAM)

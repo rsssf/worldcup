@@ -1,33 +1,34 @@
   <!--
-     source: https://rsssf.org/tables/82full.html
+     title:   World Cup 1982 finals
+     source:  https://rsssf.org/tables/82full.html
+
     -->
-  
 
 
-= World Cup 1982 finals
+== World Cup 1982 finals
 
-<UL>
-<LI>‹Results, see §results›
-<UL>
-<LI>‹Group A, see §gra›
-<LI>‹Group B, see §grb›
-<LI>‹Group C, see §grc›
-<LI>‹Group D, see §grd›
-<LI>‹Group E, see §gre›
-<LI>‹Group F, see §grf›
-<LI>‹Group 1, see §gr1›
-<LI>‹Group 2, see §gr2›
-<LI>‹Group 3, see §gr3›
-<LI>‹Group 4, see §gr4›
-<LI>‹Semifinals, see §2fin›
-<LI>‹Third place match, see §3place›
-<LI>‹Final, see §final›
-</UL></UL>
-<UL>
-<LI>‹Scorers' list, see §scorers›
-<LI>‹Coaches, assistants, reserve players, see §coaches›
-<LI>‹Oldest and youngest, see §records›
-</UL>
+
+‹Results, see §results›
+
+‹Group A, see §gra›
+‹Group B, see §grb›
+‹Group C, see §grc›
+‹Group D, see §grd›
+‹Group E, see §gre›
+‹Group F, see §grf›
+‹Group 1, see §gr1›
+‹Group 2, see §gr2›
+‹Group 3, see §gr3›
+‹Group 4, see §gr4›
+‹Semifinals, see §2fin›
+‹Third place match, see §3place›
+‹Final, see §final›
+
+
+‹Scorers' list, see §scorers›
+‹Coaches, assistants, reserve players, see §coaches›
+‹Oldest and youngest, see §records›
+
 
 Spain, 13 June - 11 July 1982 (Alicante, Bilbao, Barcelona, Elche, Gijón,
 La Coruña, Madrid, Oviedo, Sevilla, Valladolid, Valencia, Zaragoza).
@@ -37,7 +38,7 @@ in London, 6 July 1966. Entries deadline 31 Aug 1979. 109 teams entered,
 1979 in Zürich. Finals drawn 16 Jan 1982 in Madrid.
 
 
-== Group A - CAM ITA PER POL  ‹§gra›
+=== Group A - CAM ITA PER POL  ‹§gra›
 
 14.06.82  (17.15) Vigo, Estadio Balaidos
 
@@ -149,7 +150,7 @@ booked: Antognoni / N'Djeya
 3. CAM          3  0 3 0  3  1-1
 4. PER          3  0 2 1  2  2-5
 
-== Group B - ALG AUT CHI GER  ‹§grb›
+=== Group B - ALG AUT CHI GER  ‹§grb›
 
 16.06.82  (17.15) Gijon, Estadio El Molinón
 
@@ -268,7 +269,7 @@ booked: Hintermaier, Schachner
 3. ALG          3  2 0 1  4  5-5
 4. CHI          3  0 0 3  0  3-8
 
-== Group C - ARG BEL HUN SAL  ‹§grc›
+=== Group C - ARG BEL HUN SAL  ‹§grc›
 
 13.06.82  (20.00) Barcelona, Estadio Nou Camp
 
@@ -390,7 +391,7 @@ booked: Gallego, Olguin / Ramirez, Racinez, Osorto
 3. HUN          3  1 1 1  4 12-6
 4. SAL          3  0 0 3  0  1-13
 
-== Group D - CZE ENG FRA KUW  ‹§grd›
+=== Group D - CZE ENG FRA KUW  ‹§grd›
 
 16.06.82  (17.15) Bilbao, Estadio San Mamés
 
@@ -509,7 +510,7 @@ booked: Mariner / M.Mubarak
 3. CZE          3  1 1 1  3  2-4
 4. KUW          3  0 0 3  0  2-6
 
-== Group E - ESP JUG HON NIR  ‹§gre›
+=== Group E - ESP JUG HON NIR  ‹§gre›
 
 16.06.82  (21.00) Valencia, Estadio Luis Casanova
 
@@ -626,7 +627,7 @@ sent off: Donaghy (61)
 3. JUG          3  1 1 1  3  2-2
 4. HON          3  0 2 1  2  2-3
 
-== Group F - BRA NZL SCO ZSR  ‹§grf›
+=== Group F - BRA NZL SCO ZSR  ‹§grf›
 
 14.06.82  (21.00) Seville, Estadio Sanchez Pizjuan
 
@@ -734,9 +735,9 @@ NZL: van Hattum - Dods, Almond, Elrick, Herbert - Sumner (c), McKay, Cresswell
 3. SCO          3  1 1 1  3  8-8
 4. NZL          3  0 0 3  0  2-12
 
-= Second phase
+== Second phase
 
-== Group 1 - BEL POL ZSR  ‹§gr1›
+=== Group 1 - BEL POL ZSR  ‹§gr1›
 
 28.06.82  (21.00) Barcelona, Estadio Nou Camp
 
@@ -794,7 +795,7 @@ booked: Boniek, Buncol / Chivadze, Borovsky, Baltacha
 2. ZSR          2  1 1 0  3  1-0
 3. BEL          2  0 0 2  0  0-4
 
-== Group 2 - ENG ESP GER  ‹§gr2›
+=== Group 2 - ENG ESP GER  ‹§gr2›
 
 29.06.82  (21.00) Madrid, Estadio Santiago Bernabeu
 
@@ -850,7 +851,7 @@ booked: Wilkins
 2. ENG          2  0 2 0  2  0-0
 3. ESP          2  0 1 1  1  1-2
 
-== Group 3 - ARG BRA ITA  ‹§gr3›
+=== Group 3 - ARG BRA ITA  ‹§gr3›
 
 29.06.82  (17.15) Barcelona, Estadio Sarria
 
@@ -911,7 +912,7 @@ booked: Gentile, Oriali
 2. BRA          2  1 0 1  2  5-4
 3. ARG          2  0 0 2  0  2-5
 
-== Group 4 - AUT FRA NIR  ‹§gr4›
+=== Group 4 - AUT FRA NIR  ‹§gr4›
 
 28.06.82  (17.15) Madrid, Estadio Vicente Calderon
 
@@ -971,7 +972,7 @@ booked: Tigana / Hamilton
 2. AUT          2  0 1 1  1  2-3
 3. NIR          2  0 1 1  1  3-6
 
-== Semifinals  ‹§2fin›
+=== Semifinals  ‹§2fin›
 
 08.07.82  (17.15) Barcelona, Estadio Nou Camp
 
@@ -1012,7 +1013,7 @@ Penalties: 0:1 Giresse, 1:1 Kaltz, 1:2 Amoros, 2:2 Breitner, 2:3 Rocheteau,
 
 booked: B.Förster / Giresse, Genghini
 
-== Third place match  ‹§3place›
+=== Third place match  ‹§3place›
 
 10.07.82  (20.00) Alicante, Estadio José Rico Perez
 
@@ -1030,7 +1031,7 @@ Couriol 73
 
 booked: Buncol, Wójcicki / Soler
 
-== Final  ‹§final›
+=== Final  ‹§final›
 
 11.07.1982  (20.00) Madrid, Estadio Bernabeu
 
@@ -1049,7 +1050,7 @@ missed penalty)
 
 booked: Conti, Oriali / Dremmler, Littbarski, Stielike
 
-== Scorers' list  ‹§scorers›
+=== Scorers' list  ‹§scorers›
 
 6 - Rossi ITA
 5 - Rummenige GER
@@ -1076,7 +1077,7 @@ In total 146 goals (8 p, 7 f, 21 h, 1 o), 2,81 per match. Most goals FRA (16 -
 scored (including 15 scorers from earlier tournaments - Lato, Szarmach and
 Jordan scored in their third tournament)
 
-== Coaches, assistants, reserve players  ‹§coaches›
+=== Coaches, assistants, reserve players  ‹§coaches›
 
 ALG: M. Khalef, R. Mekloufi | Amara, Bencheikh, Bentaala, Horr, Kouici,
 Maroc

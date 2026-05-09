@@ -1,10 +1,12 @@
   <!--
-     source: https://rsssf.org/tables/86q.html
+     title:   World Cup 1986 Qualifying
+     source:  https://rsssf.org/tables/86q.html
+     authors: Karel Stokkermans and Sergio Henrique Jarreta
+     updated: 3 Jan 2000
     -->
-  
 
 
-== World Cup 1986 Qualifying
+
 
 Qualified as hosts: Mexico
 Qualified as holders: Italy
@@ -489,17 +491,8 @@ Note: Taiwan yielded home advantage and played twice at opponents home ground.
 Australia required to play off with second of Europe Group 7 (see above).
 
 
-‹Detailed Infos, see page 86qual›
-
-
-
-‹1986 Final Tournament, see page 86f›
-
-‹Overview File, see page ../tablesw/worldcup›
 
 
 
 
-
-<!-- $about$ -->
 

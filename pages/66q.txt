@@ -1,10 +1,12 @@
   <!--
-     source: https://rsssf.org/tables/66q.html
+     title:   World Cup 1966 Qualifying
+     source:  https://rsssf.org/tables/66q.html
+     authors: Karel Stokkermans and Sergio Henrique Jarreta
+     updated: 31 Dec 2005
     -->
-  
 
 
-== World Cup 1966 Qualifying
+
 
 Qualified as hosts: England
 Qualified as holders: Brazil
@@ -183,29 +185,29 @@ Africa
 
 ▪ First Round ▪
 
-▪ Group 1 ▪
+Group 1
 Ghana
 Guinea
 
-▪ Group 2 ▪
+Group 2
 Sudan
 Cameroon
 
-▪ Group 3 ▪
+Group 3
 Tunisia
 Algeria
 Liberia
 
-▪ Group 4 ▪
+Group 4
 Morocco
 Senegal
 Mali
 
-▪ Group 5 ▪
+Group 5
 Ethiopia
 Gabon
 
-▪ Group 6 ▪
+Group 6
 Egypt (United Arab Republic)
 Libya
 Nigeria
@@ -239,17 +241,8 @@ winners Asia and 3 second round winners Africa
 24.11.65  Phnom Penh      Australia        1-3 North Korea
 
 
-‹Detailed Infos, see page 66qual›
-
-
-
-‹1966 Final Tournament, see page 66f›
-
-‹Overview File, see page ../tablesw/worldcup›
 
 
 
 
-
-<!-- $about$ -->
 

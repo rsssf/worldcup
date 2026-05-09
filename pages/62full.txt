@@ -1,29 +1,30 @@
   <!--
-     source: https://rsssf.org/tables/62full.html
+     title:   World Cup 1962 finals
+     source:  https://rsssf.org/tables/62full.html
+
     -->
-  
 
 
-= World Cup 1962
+== World Cup 1962
 
-<UL>
-<LI>‹Results, see §results›
-<UL>
-<LI>‹Group A, see §gra›
-<LI>‹Group B, see §grb›
-<LI>‹Group C, see §grc›
-<LI>‹Group D, see §grd›
-<LI>‹Quarterfinals, see §4fin›
-<LI>‹Semifinals, see §2fin›
-<LI>‹Third place match, see §3place›
-<LI>‹Final, see §final›
-</UL></UL>
-<UL>
-<LI>‹Scorers' list, see §scorers›
-<LI>‹Coaches, assistants, reserve players, see §coaches›
-<LI>‹Oldest and youngest, see §records›
-</UL>
-</UL>
+
+‹Results, see §results›
+
+‹Group A, see §gra›
+‹Group B, see §grb›
+‹Group C, see §grc›
+‹Group D, see §grd›
+‹Quarterfinals, see §4fin›
+‹Semifinals, see §2fin›
+‹Third place match, see §3place›
+‹Final, see §final›
+
+
+‹Scorers' list, see §scorers›
+‹Coaches, assistants, reserve players, see §coaches›
+‹Oldest and youngest, see §records›
+
+
 
 Chile, 31 May - 19 June 1962 (Arica, Rancagua, Santiago, Vila del Mar).
 Decided at FIFA Congress in Lisbon, 9 June 1956. Entires deadline 15
@@ -32,7 +33,7 @@ Qualifications drawn 28 Feb 1960 in Basel. Finals drawn 18 Jan 1962
 in Santiago.
 
 
-== Group A - COL JUG URU ZSR  ‹§gra›
+=== Group A - COL JUG URU ZSR  ‹§gra›
 
 30.05.62  (15.00) Arica, Estadio Carlos Dittborn
 
@@ -141,7 +142,7 @@ Aceros, Klinger, Rada, H.González
 3. URU          3  1 0 2  2  4-6
 4. COL          3  0 1 2  1  5-11
 
-== Group B - GER CHI ITA SUI  ‹§grb›
+=== Group B - GER CHI ITA SUI  ‹§grb›
 
 30.05.62  (15.00) Santiago, Estadio Nacional
 
@@ -248,7 +249,7 @@ Vonlanthen, Dürr, Wüthrich, Antenen (c)
 3. ITA          3  1 1 1  3  2-3
 4. SUI          3  0 0 3  0  2-8
 
-== Group C - BRA CZE ESP MEX  ‹§grc›
+=== Group C - BRA CZE ESP MEX  ‹§grc›
 
 30.05.62  (15.00) Vina del Mar, Estadio Sausalito
 
@@ -348,7 +349,7 @@ Scherer, Kvašňák, Adamec, Mašek
 3. MEX          3  1 0 2  2  3-4
 4. ESP          3  1 0 2  2  2-3
 
-== Group D - ARG BUL ENG HUN  ‹§grd›
+=== Group D - ARG BUL ENG HUN  ‹§grd›
 
 30.05.62  (15.00) Rancagua, Estadio Braden
 
@@ -452,7 +453,7 @@ Greaves, Peacock, Haynes (c), R.Charlton
 3. ARG          3  1 1 1  3  2-3
 4. BUL          3  0 1 2  1  1-7
 
-== Quarterfinals  ‹§4fin›
+=== Quarterfinals  ‹§4fin›
 
 10.06.62  (14.30) Arica, Estadio Carlos Dittborn
 
@@ -519,7 +520,7 @@ Albert, Tichy, Fenyvesi
 
 1:0 Scherer 14
 
-== Semifinals  ‹§2fin›
+=== Semifinals  ‹§2fin›
 
 13.06.62  (14.30) Santiago, Estadio Nacional
 
@@ -554,7 +555,7 @@ JUG: Šoškić - Durković, Jusufi, Radaković, Marković - Popović, Sijaković
 
 1:0 Kadraba 49 h, 1:1 Jerković 69, 2:1 Scherer 80, 3:1 Scherer 87 p
 
-== Third place match  ‹§3place›
+=== Third place match  ‹§3place›
 
 16.06.82  (14.30) Santiago, Estadio Nacional
 
@@ -569,7 +570,7 @@ Kovačević, Sekularac, Jerković, Galić (c), Skoblar
 
 1:0 Rojas 90
 
-== Final  ‹§final›
+=== Final  ‹§final›
 
 17.06.1962  (14.30) Santiago, Estadio Nacional
 
@@ -584,7 +585,7 @@ Scherer, Kadraba, Kvašňák, Jelinek
 
 0:1 Masopust 15, 1:1 Amarildo 17, 2:1 Zito 69 h, 3:1 Vavá 78
 
-== Scorers' list  ‹§scorers›
+=== Scorers' list  ‹§scorers›
 
 4 - Garrincha, Vavá BRA, L.Sánchez CHI, Albert HUN, Jerković JUG, V.Ivanov ZSR
 3 - Amarildo BRA, Scherer CZE, Galić JUG, Tichy HUN
@@ -603,7 +604,7 @@ In total 89 goals (8 p, 3 f, 13 h, 1 c), 2,78 per match. Most goals BRA (14),
 no team without goals. 54 players scored (including 6 earlier scorers from
 1958).
 
-== Coaches' list  ‹§coaches›
+=== Coaches' list  ‹§coaches›
 
 ARG: J. C. Lorenzo (F. J. Della Torre) | Abelado, Albrecht, Mariotti
 BRA: A. Moréira, P. L. Amaral. V. Feola* | Bellini, de Castilho,
@@ -641,7 +642,7 @@ Manoshin, Maslachenko, Sabo, Shesternev
 * advisor, did not go to Chile
 ** also as advisor to Herrera
 
-== Oldest and youngest  ‹§records›
+=== Oldest and youngest  ‹§records›
 
 Youngest                  Oldest
 player      Rivera ITA     18y286d   N.Santos BRA       37y 32d

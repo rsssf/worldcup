@@ -1,17 +1,19 @@
   <!--
-     source: https://rsssf.org/tables/2002q.html
+     title:   World Cup 2002 Qualifying
+     source:  https://rsssf.org/tables/2002q.html
+     author:  Karel Stokkermans
+     updated: 27 Nov 2024
     -->
-  
 
 
-== World Cup 2002 Qualifying
+
 
 Qualified as hosts: Japan and South Korea
 Qualified as holders: France
 
 Europe
 
-▪ Group 1 ▪
+Group 1
 
  1.RUSSIA       10  7  2  1 18- 5 23
  2.Slovenia     10  5  5  0 17- 9 20
@@ -86,7 +88,7 @@ Europe
  6-10-01 Ljubljana       Slovenia    3-0 Faroe Islands
                            (Nastja Ceh 13, 31, Senad Tiganj 81)
 
-▪ Group 2 ▪
+Group 2
 
  1.PORTUGAL     10  7  3  0 33- 7 24
  2.Ireland      10  7  3  0 23- 5 24
@@ -173,7 +175,7 @@ Europe
                            (João Pinto 30, Nuno Gomes 53, 66, Pauleta 61,
                             Luis Figo 84)
 
-▪ Group 3 ▪
+Group 3
 
  1.DENMARK      10  6  4  0 22- 6 22
  2.Czech Rep.   10  6  2  2 20- 8 20
@@ -250,7 +252,7 @@ Europe
                            (Tomas Rosicky 5, 70, Pavel Nedved 16, 76,
                             Milan Baros 28, Vratislav Lokvenc 67)
 
-▪ Group 4 ▪
+Group 4
 
  1.SWEDEN       10  8  2  0 20- 3 26
  2.Turkey       10  6  3  1 18- 8 21
@@ -324,7 +326,7 @@ Europe
                            (Lubomir Reyter 27, Peter Dzurik 57, Peter Nemeth 72,
                             Attila Pinte 81, Tomas Oravec 90)
 
-▪ Group 5 ▪
+Group 5
 
  1.POLAND       10  6  3  1 21-11 21
  2.Ukraine      10  4  5  1 13- 8 17
@@ -397,7 +399,7 @@ Europe
  6-10-01 Cardiff         Wales       1-0 Belarus
                            (John Hartson 47)
 
-▪ Group 6 ▪
+Group 6
 
  1.CROATIA       8  5  3  0 15- 2 18
  2.Belgium       8  5  2  1 25- 6 17
@@ -449,7 +451,7 @@ Europe
  6-10-01 Glasgow         Scotland    2-1 Latvia
                            (Dougie Freedman 44, David Weir 53 - Andrej Rubins 21)
 
-▪ Group 7 ▪
+Group 7
 
  1.SPAIN         8  6  2  0 21- 4 20
  2.Austria       8  4  3  1 10- 8 15
@@ -502,7 +504,7 @@ Europe
 27-10-01 Tel Aviv        Israel      1-1 Austria
                            (Shimon Gershon 56pen - Andreas Herzog 90)
 
-▪ Group 8 ▪
+Group 8
 
  1.ITALY         8  6  2  0 16- 3 20
  2.Romania       8  5  1  2 10- 7 16
@@ -555,7 +557,7 @@ Europe
  6-10-01 Bucuresti       Romania     1-1 Georgia
                            (Gheorghe Popescu 88 - Alexander Iashvili 55)
 
-▪ Group 9 ▪
+Group 9
 
  1.ENGLAND       8  5  2  1 16- 6 17
  2.Germany       8  5  2  1 14-10 17
@@ -608,7 +610,7 @@ Europe
                             Angelos Charisteas 37, Demis Nikolaidis 69)
  6-10-01 Gelsenkirchen   Germany     0-0 Finland
 
-Playoffs
+▪ Playoffs ▪
 
 ▪ First Legs ▪
 10-11-01 Brussel         Belgium     1-0 Czech Republic
@@ -915,7 +917,7 @@ North and Central America
 
 Central American zone:
 
-▪ Group A ▪
+Group A
 
  1.El Salvador   4  3  1  0 10- 2 10
  2.Guatemala     4  1  2  1  3- 3  5
@@ -938,7 +940,7 @@ Central American zone:
 NB: matches between Guatemala and Belize moved to neutral venues due to
     border dispute
 
-▪ Group B ▪
+Group B
 
  1.Panama        4  3  0  1  8- 3  9
  2.Honduras      4  3  0  1  7- 2  9
@@ -968,7 +970,7 @@ in the Central American zone for places in the semifinal round.
 
 ▪ Round 1 ▪
 
-▪ Group 1 ▪
+Group 1
 
  5- 3-00 Havana          Cuba               4-0 Cayman Islands
                            (Luis Marten 38, Ariel Alvarez 56, Serguei Prado 87,
@@ -994,7 +996,7 @@ in the Central American zone for places in the semifinal round.
                            (Kirk Babb 55og, Keith Fletcher 59 - Kirk Cox 20,
                             Norman Forde 35, Llewelyn Riley 96)
 
-▪ Group 2 ▪
+Group 2
 
  5- 3-00 Kingstown       Saint Vincent      9-0 US Virgin Islands
                            (Rodney Jack 6, 15, 48, Alwyn Guy 18, 20, 31,
@@ -1022,7 +1024,7 @@ in the Central American zone for places in the semifinal round.
                             Shannon Burgess 57pen, Stanton Lewis 60,
                             Stephen Astwood 61, 79,  Nusum 75, 89)
 
-▪ Group 3 ▪
+Group 3
 
  4- 3-00 Port of Spain   Trinidad/Tobago    5-0 Dutch Antilles
                            (Marvin Andrews 19, Angus Eve 43, 57, Arnold Dwarika 63, 87)
@@ -1048,7 +1050,7 @@ in the Central American zone for places in the semifinal round.
 
 ▪ Round 2 ▪
 
-▪ Group 1 ▪
+Group 1
 
  1- 4-00 Oranjestad      Aruba              1-3 Barbados
                            (Wandal Cross 89 - Gregory Goodridge 2, Jerry Alexander 22, 85)
@@ -1060,7 +1062,7 @@ in the Central American zone for places in the semifinal round.
                            (Osmin Hernández 19)
 16- 4-00 Paramaribo      Surinam            0-0 Cuba
 
-▪ Group 2 ▪
+Group 2
 
 16- 4-00 Saint John's    Antigua/Barbuda    0-0  Bermuda
 23- 4-00 Hamilton        Bermuda            1-1  Antigua and Barbuda
@@ -1071,7 +1073,7 @@ in the Central American zone for places in the semifinal round.
 22- 4-00 Basseterre      St. Kitts/Nevis    1-2 Saint Vincent
                            (Keith Gumbs 65 - Rodney Jack 18, Kendal Velox 58)
 
-▪ Group 3 ▪
+Group 3
 
  1- 4-00 Port-au-Prince  Haiti              9-0 Bahamas
                            (G.Michel 3,16, 57, Jean-Robert Menelas 8, 33, 68,
@@ -1104,7 +1106,7 @@ in the Central American zone for places in the semifinal round.
                            (Dieuphene Thelamour 82 - Dwight Yorke 24)
 
 
-Playoffs
+▪ Playoffs ▪
  4- 6-00 Havana          Cuba               0-1 Canada
                            (Jason de Vos 42)
 11- 6-00 Winnipeg        Canada             0-0 Cuba
@@ -1134,7 +1136,7 @@ group qualify for the final round of six teams. They will play
 off in a single group from which the top three teams qualify for
 the finals in Japan and South Korea.
 
-▪ Group C ▪
+Group C
 
  1.Trinidad/Tob. 6  5  0  1 14- 7 15
  2.Mexico        6  4  1  1 17- 2 13
@@ -1169,7 +1171,7 @@ the finals in Japan and South Korea.
                            (Nigel Pierre 15)
 15-11-00 Toronto         Canada             0-0 Mexico
 
-▪ Group D ▪
+Group D
 
  1.Honduras      6  5  0  1 25- 5 15
  2.Jamaica       6  4  0  2  7- 4 12
@@ -1207,7 +1209,7 @@ the finals in Japan and South Korea.
                             Christián Santa María 52, Luis Santa María 77,
                             Jorge Caballero 85, Renan Bengoche 89)
 
-▪ Group E ▪
+Group E
 
  1.USA           6  3  2  1 14- 3 11
  2.Costa Rica    6  3  1  2  9- 6 10
@@ -1246,7 +1248,7 @@ Second Place Playoff
                            (Paulo Wanchope 7, Rolando Fonseca 43, 59, Reynaldo Parks 58,
                             Jafet Soto 73 - Carlos Ruiz 4, 89)
 
-Final Round
+▪ Final Round ▪
 
  1.COSTA RICA   10  7  2  1 17- 7 23
  2.MEXICO       10  5  2  3 16- 9 17
@@ -1323,7 +1325,7 @@ Asia
 
 2 automatic qualifiers, nr. 3 plays off against 14th team Europe
 
-▪ Group 1 ▪
+Group 1
  1.Oman          6  5  1  0 33- 3 16
  2.Syria         6  4  1  1 40- 6 13
  3.Laos          6  1  1  4  3-40  4
@@ -1386,7 +1388,7 @@ Group 2 (in Tabriz)
 28-11-00  Iran               2-0 Tajikistan
             (Ali Daei 47, Mehdi Hashemi-Nasab 54)
 
-▪ Group 3 ▪
+Group 3
 
  1.Qatar         6  5  1  0 14- 3 16
  2.Palestine     6  2  1  3  8- 9  7
@@ -1421,7 +1423,7 @@ Group 2 (in Tabriz)
             (Imad Ayoub 3, Jamal Al-Holi 29pen, Mohamed Al-Jeech 90;
              Akmal Rizal 21, 62pen, Hairuddin Omar 53, Iswan Fadli Idrus 56)
 
-▪ Group 4 ▪
+Group 4
 
  1.Bahrain       6  5  0  1  9- 4 15
  2.Kuwait        6  4  1  1  9- 3 13
@@ -1455,7 +1457,7 @@ Group 2 (in Tabriz)
 27- 2-01  Kuwait             0-1 Bahrain
             (Mohamed Hassan Mohamed 72pen)
 
-▪ Group 5 ▪
+Group 5
 
  1.Thailand      6  5  1  0 20- 5 16
  2.Lebanon       6  4  1  1 26- 5 13
@@ -1497,7 +1499,7 @@ Group 2 (in Tabriz)
             (Sakesan Pituratana 73, Tawan Sripan 77 - Vartan Ghazarian 35,
              Moussa Hojeij 87)
 
-▪ Group 6 ▪
+Group 6
 
  1.Iraq          6  4  2  0 28- 5 14
  2.Kazakhstan    6  4  2  0 20- 2 14
@@ -1543,7 +1545,7 @@ NB: group originally scheduled to play 6 matches in Kathmandu, March 25-29, 2001
 25- 4-01  Kazakhstan         1-1 Iraq
             (Oleg Litvinenko 32 - Haidar Majid 42)
 
-▪ Group 7 ▪
+Group 7
 
  1.Uzbekistan    6  4  2  0 20- 5 14
  2.Turkmenistan  6  4  0  2 12- 7 12
@@ -1582,7 +1584,7 @@ NB: group originally scheduled to play 6 matches in Kathmandu, March 25-29, 2001
  7- 5-01  Jordan             1-1 Uzbekistan
             (Esam E. Abu Touk 54pen - Vladimir Maminov 77pen)
 
-▪ Group 8 ▪
+Group 8
 
  1.UAE           6  4  0  2 21- 5 12
  2.Yemen         6  3  2  1 14- 8 11
@@ -1621,7 +1623,7 @@ NB: group originally scheduled to play 6 matches in Kathmandu, March 25-29, 2001
                            (Alberto 12, I.M.Vijayan 23, Baichung Bhutia 35pen,
                             Jo Paul Anchery 59, Abdul Hakim 77)
 
-▪ Group 9 ▪
+Group 9
 
  1.China         6  6  0  0 25- 3 18
  2.Indonesia     6  4  0  2 16- 7 12
@@ -1692,14 +1694,14 @@ Group 10 (in Dammam)
 19- 2-01  Saudi Arabia       4-0 Vietnam
             (Talal Al-Meshal 31, 71, 79, Obeid Al-Dossary 88)
 
-Final Round
+▪ Final Round ▪
 
 The two winners of the final round groups qualify for the finals
 in Japan and South Korea. The two runners-up will play off for the
 right to meet a European group runner-up in a further play-off.
 The winner of this play-off qualifies for the finals.
 
-▪ Group A ▪
+Group A
 
  1.SAUDI ARABIA  8  5  2  1 17- 8 17
  2.Iran          8  4  3  1 10- 7 15
@@ -1743,7 +1745,7 @@ The winner of this play-off qualifies for the finals.
 12-10-01 Tehran          Iran               2-1 Iraq
                            (Mehdi Mahdavikia 27, Ali Karimi 71 - Qahtan Drain 52)
 13-10-01 Bangkok         Thailand           abd Bahrain            [abd in 24' at 0-1 due to
-                           (Salman Isa Ghuloom 20]                  fire in stadium)
+                           [Salman Isa Ghuloom 20]                  fire in stadium]
 16-10-01 Bangkok         Thailand           1-1 Bahrain
                            (Wirawoot Srimaka 21 - Hussain Ali Ahmed 90)
 21-10-01 Manama          Bahrain            3-1 Iran
@@ -1753,7 +1755,7 @@ The winner of this play-off qualifies for the finals.
                            (Abdallah Sheehan 40, Abdallah Jamaan 50, Sami Jaber 66pen,
                             Ibrahim Mater 73 - Boriban Tananchai 48)
 
-▪ Group B ▪
+Group B
 
  1.CHINA         8  6  1  1 13- 2 19
  2.UAE           8  3  2  3 10-11 11
@@ -1808,7 +1810,7 @@ The winner of this play-off qualifies for the finals.
 19-10-01 Tashkent        Uzbekistan         1-0 China
                            (Nikolai Shirshov 90)
 
-Third Place Playoff
+▪ Third Place Playoff ▪
 25-10-01 Tehran          Iran               1-0 UAE
                            (Karim Bagheri 45)
 31-10-01 Abu Dhabi       UAE                0-3 Iran
@@ -2052,7 +2054,7 @@ go through to second round which will be divided into five
 groups of five teams. The five winners of these groups qualify
 for the finals.
 
-▪ Group 1 ▪
+Group 1
 
  1.CAMEROON      8  6  1  1 14- 4 19
  2.Angola        8  3  4  1 11- 9 13
@@ -2064,7 +2066,7 @@ for the finals.
                            (Fabrice 'Akwa' Maceio 82, 84 - Andrew Sinkala 34)
 18- 6-00 Tripoli         Libya              0-3 Cameroon
                            (Patrick Mboma 36, 67, Patrice Ebongue 87)
-                           (NB: 3rd goal also reported as by Mboma)
+                           [NB: 3rd goal also reported as by Mboma]
  8- 7-00 Lusaka          Zambia             2-0 Togo
                            (Harry Milinzi 25, Chaswe Nsofwer 68)
  9- 7-00 Yaoundé         Cameroon           3-0 Angola
@@ -2107,7 +2109,7 @@ for the finals.
 29- 7-01 Luanda          Angola             1-1 Togo
                            (Fabrice 'Akwa' Maceio 25 - Potowabani 29)
 
-▪ Group 2 ▪
+Group 2
 
  1.NIGERIA       8  5  1  2 15- 3 16
  2.Liberia       8  5  0  3 10- 8 15
@@ -2158,7 +2160,7 @@ for the finals.
 29- 7-01 Omdurman        Sudan              3-0 Sierra Leone
                            (Edward Aungali 16, Khalid Bhakit 42, Khalid El Mustafa 66)
 
-▪ Group 3 ▪
+Group 3
 
  1.SENEGAL       8  4  3  1 14- 2 15
  2.Morocco       8  4  3  1  8- 3 15
@@ -2207,7 +2209,7 @@ for the finals.
                            (David Thiaw 15, 31, El Hadji Ousseynou Diouf 23,
                             Khalilou Fadiga 77pen, Ndiaye 80)
 
-▪ Group 4 ▪
+Group 4
 
  1.TUNISIA       8  6  2  0 23- 4 20
  2.Ivory Coast   8  4  3  1 18- 8 15
@@ -2268,7 +2270,7 @@ NB: on February 9, 2001, Congo-Brazzaville announced their withdrawal from the
 29- 7-01 Abidjan         Ivory Coast        1-2 Congo-Kinshasa
                            (Kader Keita 72 - Tokala 35, Mulekelayi 79)
 
-▪ Group 5 ▪
+Group 5
 
  1.SOUTH AFRICA  6  5  1  0 10- 3 16
  2.Zimbabwe      6  4  0  2  7- 5 12
@@ -2328,13 +2330,5 @@ NB: Guinea were excluded on March 19, 2001, after the Guinean sports minister
     rules
 
 
-‹2002 Final Tournament, see page 2002f›
 
-‹Overview File, see page ../tablesw/worldcup›
-
-
-
-
-
-<!-- $about$ -->
 

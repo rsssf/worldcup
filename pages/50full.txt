@@ -1,26 +1,27 @@
   <!--
-     source: https://rsssf.org/tables/50full.html
+     title:   World Cup 1950 finals
+     source:  https://rsssf.org/tables/50full.html
+
     -->
-  
 
 
-= World Cup 1950
+== World Cup 1950
 
-<UL>
-<LI>‹Results, see §results›
-<UL>
-<LI>‹Group A, see §gra›
-<LI>‹Group B, see §grb›
-<LI>‹Group C, see §grc›
-<LI>‹Group D, see §grd›
-<LI>‹Final pool, see §final›
-</UL></UL>
-<UL>
-<LI>‹Scorers' list, see §scorers›
-<LI>‹Coaches, assistants, reserve players, see §coaches›
-<LI>‹Oldest and youngest, see §records›
-</UL>
-</UL>
+
+‹Results, see §results›
+
+‹Group A, see §gra›
+‹Group B, see §grb›
+‹Group C, see §grc›
+‹Group D, see §grd›
+‹Final pool, see §final›
+
+
+‹Scorers' list, see §scorers›
+‹Coaches, assistants, reserve players, see §coaches›
+‹Oldest and youngest, see §records›
+
+
 
 Brasil, 24 June - 16 July 1950 (Belo Horizonte, Curitiba, Pórto Alegre,
 Rio de Janeiro, São Paulo). Decided at FIFA Congress in Luxemburg
@@ -30,7 +31,7 @@ Qualiifications drawn 15 Jan 1949 in Geneve. Finals drawn 30 Apr 1950 in
 London.
 
 
-== Group A - BRA JUG MEX SUI  ‹§gra›
+=== Group A - BRA JUG MEX SUI  ‹§gra›
 
 24.06.50  (15.00) Rio de Janeiro, Estadio Maracaná
 
@@ -143,7 +144,7 @@ their subsequent replacements
 3. SUI          3  1 1 1  3  4-6
 4. MEX          3  0 0 3  0  2-10
 
-== Group B - CHI ENG ESP USA  ‹§grb›
+=== Group B - CHI ENG ESP USA  ‹§grb›
 
 25.06.50  (15.00) Rio de Janeiro, Estadio Maracaná
 
@@ -251,7 +252,7 @@ NOTE: Some sources award the last goal to Cremaschi
 3. CHI          3  1 0 2  2  5-6
 4. USA          3  1 0 2  2  4-8
 
-== Group C - ITA PAR SWE (IND withdrew)  ‹§grc›
+=== Group C - ITA PAR SWE (IND withdrew)  ‹§grc›
 
 25.06.50  (15.00) São Paulo, Estadio Pacaembu
 
@@ -305,7 +306,7 @@ Lopez, Jara, López Fretes (c), Unzain
 2. ITA          2  1 0 1  2  4-3
 3. PAR          2  0 1 1  1  2-4
 
-== Group D - BOL URU (SCO, TUR withdrew)  ‹§grd›
+=== Group D - BOL URU (SCO, TUR withdrew)  ‹§grd›
 
 02.07.50  (15.00) Belo Horizonte, Estadio Mineiro
 
@@ -324,7 +325,7 @@ Ugarte, Caparelli, E.Gutierrez, Maldonado
 1. URU^         1  1 0 0  2  8-0
 2. BOL          1  0 0 1  0  0-8
 
-== Final Pool - BRA ESP SWE URU  ‹§final›
+=== Final Pool - BRA ESP SWE URU  ‹§final›
 
 03.07.50  (15.00) Rio de Janeiro, Estadio Maracaná
 
@@ -437,7 +438,7 @@ Ademir. Jair, Chico
 3. SWE          3  1 0 2  2  6-11
 4. ESP          3  0 1 2  1  4-11
 
-== Scorers' list  ‹§scorers›
+=== Scorers' list  ‹§scorers›
 
 9 - Ademir BRA
 5 - Miguez URU
@@ -453,7 +454,7 @@ Ademir. Jair, Chico
 In total 88 goals (3 p, 6 h, 1 f, 1 o), 4.00 per match. Most goals BRA (22),
 BOL without goals. 46 players scored.
 
-== Coaches, assistants, reserve players  ‹§coaches›
+=== Coaches, assistants, reserve players  ‹§coaches›
 
 BOL: M. Pretto, F. Deheza | Aparicio, Aráoz, Arraya, Brown, Carrera,
 Godoy-Veizaga, Guerra, Mena, Saavedra-Araujo
@@ -482,7 +483,7 @@ Britos, Burgueño, Martinez, Ortaño, Pini, Rijo, Romero, VIlchez
 USA: W. Giesler, W. Jeffrey | Annis, Coombes, di Orio, Gardassanich,
 McLaughlin
 
-== Oldest and youngest  ‹§records›
+=== Oldest and youngest  ‹§records›
 
 Youngest                  Oldest
 player      Ibánez CHI     18y224d   Matthews ENG       35y151d

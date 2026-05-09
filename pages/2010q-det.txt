@@ -1,21 +1,23 @@
   <!--
-     source: https://rsssf.org/tables/2010q-det.html
+     title:   World Cup 2010 Qualifying - Match Details
+     source:  https://rsssf.org/tables/2010q-det.html
+     authors: Erik Francisco Lugo and Hamdan Saaid
+     updated: 11 Dec 2009
     -->
-  
-
-
-== World Cup 2010 Qualifying - Match Details
 
 
 
 
 
-==== Europe  ‹§eur›
 
 
-▪ GROUP 1 ▪
 
-_ Sep 6, 2008 _
+== Europe  ‹§eur›
+
+
+GROUP 1
+
+_ Sep 6 2008 _
 
 In Tirana (Qemal Stafa Stadium)
 Albania 0
@@ -66,7 +68,7 @@ POR: 1-Quim; 2-Jose Bosingwa, 3-Pepe, 4-Ricardo Carvalho, 5-Antunes,
      Moutinho 75).
 Coach: Carlos Queiroz.
 
-_ Sep 10, 2008 _
+_ Sep 10 2008 _
 
 In Lisbon (Jose Alvalade Stadium)
 Portugal 2 (Nani 42, Deco 86pen)
@@ -121,7 +123,7 @@ Coach: Dusan Fitzel (Slovakia).
 Booked: ALB - Beqiri 65, Cana 65, Dallku 66.
         MLT - Bajada 78.
 
-_ Oct 11, 2008 _
+_ Oct 11 2008 _
 
 In Budapest (Ferenc Puskas Stadium)
 Hungary 2 (Sandor Torghelle 49, Roland Juhasz 82)
@@ -175,7 +177,7 @@ MLT: 1-Justin Haber; 2-Jonathan Caruana, 3-Ian Azzopardi, 6-Luke Dimech,
 Coach: Dusan Fitzel (Slovakia).
 Booked: MLT - Agius 29, Xuereb 35.
 
-_ Oct 15, 2008 _
+_ Oct 15 2008 _
 
 In Ta'Qali (Ta'Qali National Stadium)
 Malta 0
@@ -223,9 +225,9 @@ Sent off: ALB - Teli 42.
 
 -----------------------------------------------------------------------
 
-▪ GROUP 2 ▪
+GROUP 2
 
-_ Sep 6, 2008 _
+_ Sep 6 2008 _
 
 In Tiraspol ("Sheriff" Sports Complex)
 Moldova 1 (Serghei Alexeev 76)
@@ -286,7 +288,7 @@ Coach: Ottmar Hitzfeld (Germany).
 Booked: ISR - Golan 16, Cohen 63.
         SUI - Huggel 24.
 
-_ Sep 10, 2008 _
+_ Sep 10 2008 _
 
 In Zurich (Letzigrund Stadium)
 Switzerland 1 (Blaise N'kufo 43)
@@ -343,7 +345,7 @@ Booked: MDA - Epureanu 80, Lascencov 90+2.
         ISR - Cohen 42.
 Sent off: MDA - Golovatenco 64.
 
-_ Oct 11, 2008 _
+_ Oct 11 2008 _
 
 In St. Gall (AFG Arena)
 Switzerland 2 (Alexander Frei 63, Blaise N'kufo 73)
@@ -401,7 +403,7 @@ MDA: 12-Nicolai Calancea; 2-Igor Armas, 5-Radu Rebeja ©, 15-Alexei
 Coach: Igor Dobrovolski (Russia).
 Booked: GRE - Samaras 12, Seitaridis 85.
 
-_ Oct 15, 2008 _
+_ Oct 15 2008 _
 
 In Riga (Skonto Stadium)
 Latvia 1 (Vladimirs Kolesnicenko 89)
@@ -466,9 +468,9 @@ Booked: GRE - Papadopoulos 43, Katsouranis 80.
 
 -----------------------------------------------------------------------
 
-▪ GROUP 3 ▪
+GROUP 3
 
-_ Sep 6, 2008 _
+_ Sep 6 2008 _
 
 In Wroclaw (City Stadium)
 Poland 1 (Michal Zewlakow 17pen)
@@ -506,7 +508,7 @@ Coach: Nigel Worthington.
 Booked: SVK - Hamsik 3.
         NIR - Gillespie 35, Evans 69, Brunt 70.
 
-_ Sep 10, 2008 _
+_ Sep 10 2008 _
 
 In Maribor (Ljudski VRT)
 Slovenia 2 (Milivoje Novakovic 23, 82)
@@ -561,7 +563,7 @@ CZE: 1-Petr Cech; 2-Zdenek Grygera, 18-Tomas Ujfalusi ©, 4-David
 Coach: Petr Rada.
 Booked: CZE - Ujfalusi 61, Kovac 80.
 
-_ Oct 11, 2008 _
+_ Oct 11 2008 _
 
 In Chorzow (Slaski Stadium)
 Poland 2 (Pawel Brozek 27, Jakob Blaszczykowski 53)
@@ -619,7 +621,7 @@ Coach: Nigel Worthington.
 Booked: SVN - Cesar 26, Sisic 67, Komac 73, Kirm 79.
         NIR - Davis 24, Lafferty 26, Baird 67, McCartney 81, Evans 90+3.
 
-_ Oct 15, 2008 _
+_ Oct 15 2008 _
 
 In Teplice (Na Stinadlech Stadium)
 Czech Republic 1 (Libor Sionko 62)
@@ -688,9 +690,9 @@ Booked: SVK - Zabavnik 40, Obzera 90+2.
 
 -----------------------------------------------------------------------
 
-▪ GROUP 4 ▪
+GROUP 4
 
-_ Sep 6, 2008 _
+_ Sep 6 2008 _
 
 In Cardiff (Millennium Stadium)
 Wales 1 (Samuel Vokes 83)
@@ -731,7 +733,7 @@ GER: 1-Robert Enke; 2-Clemens Fritz, 4-Serdar Tasci, 3-Heiko Westermann,
 Coach: Joachim Loew.
 Booked: LIE - Burgmeier 18, D'Elia 56.
 
-_ Sep 10, 2008 _
+_ Sep 10 2008 _
 
 In Helsinki (Olympic Stadium)
 Finland 3 (Jonathan Johansson 33, Mika Vayrynen 43, Daniel Sjolund 53)
@@ -786,7 +788,7 @@ WAL: 1-Wayne Hennessey; 2-Christopher Gunter, 5-Craig Morgan, 6-Ashley
 Coach: John Toshack.
 Booked: WAL - Robinson 20, Williams 46, Edwards 72, Ricketts 76.
 
-_ Oct 11, 2008 _
+_ Oct 11 2008 _
 
 In Helsinki (Olympic Stadium)
 Finland 1 (Mikael Forssell 61pen)
@@ -843,7 +845,7 @@ RUS: 1-Igor Akinfeev; 2-Aleksandr Anyukov, 4-Sergei Ignashevich,
 Coach: Guus Hiddink (Netherlands).
 Booked: RUS - Zyrianov 15, V. Berezutsky 69.
 
-_ Oct 15, 2008 _
+_ Oct 15 2008 _
 
 In Moscow (Lokomotiv Stadium)
 Russia 3 (Petri Pasanen og 23, Veli Lampi og 65, Andrei Arshavin 88)
@@ -891,9 +893,9 @@ Booked: WAL - Ricketts 88.
 
 -----------------------------------------------------------------------
 
-▪ GROUP 5 ▪
+GROUP 5
 
-_ Sep 6, 2008 _
+_ Sep 6 2008 _
 
 In Liege (Sclessin Stadium)
 Belgium 3 (Wesley Sonck 39, 81, Steven Defour 75)
@@ -948,7 +950,7 @@ Coach: Miroslav Blazevic (Croatia).
 Booked: ESP - Puyol 48.
         BIH - Berberovic 5, Damjanovic 14, Radeljic 61.
 
-_ Sep 10, 2008 _
+_ Sep 10 2008 _
 
 In Albacete (Carlos Belmonte Stadium)
 Spain 4 (Juan Capdevila 7, David Villa 16, 79, Marcos Senna 83)
@@ -1003,7 +1005,7 @@ EST: 12-Pavel Londak (1-Mihkel Aksalu 70); 17-Enar Jaager, 4-Alo
      Oper.
 Coach: Tarmo Ruutli.
 
-_ Oct 11, 2008 _
+_ Oct 11 2008 _
 
 In Istanbul (Inonu Stadium)
 Turkey 2 (Arda Turan 51, Mevlut Erdinc 66)
@@ -1058,7 +1060,7 @@ Coach: Vicente Del Bosque.
 Booked: EST - Barengrub 38, Kink 56, Piiroja 88.
         ESP - Iraola 90.
 
-_ Oct 15, 2008 _
+_ Oct 15 2008 _
 
 In Zenica (Bilino Polje)
 Bosnia-Herzegovina 4 (Emir Spahic 31, Edin Dzeko 39, Zlatan Muslimovic
@@ -1124,9 +1126,9 @@ Booked: TUR - Turan 84.
 
 -----------------------------------------------------------------------
 
-▪ GROUP 6 ▪
+GROUP 6
 
-_ Aug 20, 2008 _
+_ Aug 20 2008 _
 
 In Almaty (Central Stadium)
 Kazakhstan 3 (Sergey Ostapenko 14, 30, Roman Uzdenov 44)
@@ -1145,7 +1147,7 @@ AND: 1-Josep Gomes; 2-Josep Ayala (14-Jordi Escura 14), 3-Marc Bernaus,
 Coach: David Rodrigo (Spain).
 Booked: AND - Bernaus 22, Gomes 38, I. Lima 38, Andorra 73, Escura 75.
 
-_ Sep 6, 2008 _
+_ Sep 6 2008 _
 
 In Barcelona, Spain (Estadio Olimpic Lluis Companys)
 Andorra 0
@@ -1200,7 +1202,7 @@ Coach: Arno Pijpers (Netherlands).
 Booked: CRO - R. Kovac 78.
         KAZ - Irismetov 25, Baltiyev 60, Chichulin 90+2.
 
-_ Sep 10, 2008 _
+_ Sep 10 2008 _
 
 In Zagreb (Maksimir Stadium)
 Croatia 1 (Mario Mandzukic 78)
@@ -1258,7 +1260,7 @@ Coach: Alexei Mikhailichenko.
 Booked: KAZ - Azovskiy 26, Irismetov 63, Kughma 66.
         UKR - Yarmash 58.
 
-_ Oct 11, 2008 _
+_ Oct 11 2008 _
 
 In London (Wembley Stadium)
 England 5 (Rio Ferdinand 52, Alexandr Kuchma og 64, Wayne Rooney 76, 86,
@@ -1294,7 +1296,7 @@ Coach: Slaven Bilic.
 Booked: UKR - Kravchenko 85.
         CRO - Kovac 45, Srna 71.
 
-_ Oct 15, 2008 _
+_ Oct 15 2008 _
 
 In Zagreb (Maksimir Stadium)
 Croatia 4 (Ivan Rakitic 16, 87pen, Ivica Olic 32, Luka Modric 75)
@@ -1341,9 +1343,9 @@ Booked: BLR - Putilo 22.
 
 -----------------------------------------------------------------------
 
-▪ GROUP 7 ▪
+GROUP 7
 
-_ Sep 6, 2008 _
+_ Sep 6 2008 _
 
 In Belgrade (FK Crvena Zvezda Stadium)
 Serbia 2 (Jon Roi Jacobsen og 30, Nikola Zigic 88)
@@ -1401,7 +1403,7 @@ Coach: Jose Couceiro (Portugal).
 Booked: ROU - Goian 37, M. Niculae 68.
         LTU - D. Cesnauskis 27, Mikoliunas 44, Zelmikas 48, Kalonas 87.
 
-_ Sep 10, 2008 _
+_ Sep 10 2008 _
 
 In Saint-Denis (Stade de France)
 France 2 (Thierry Henry 53, Nicolas Anelka 63)
@@ -1458,7 +1460,7 @@ Booked: FRO - Thomassen 25, C. Jacobsen 58, Davidsen 85.
         ROU - Costea 74.
 Sent off: ROU - Ghionea 50.
 
-_ Oct 11, 2008 _
+_ Oct 11 2008 _
 
 In Torshavn (Torsvollur Stadium)
 Faroe Islands 1 (Bogi Lokin 47)
@@ -1514,7 +1516,7 @@ Coach: Raymond Domenech.
 Booked: ROU - Goian 17.
         FRA - Boumsong 41, Toulalan 62.
 
-_ Oct 15, 2008 _
+_ Oct 15 2008 _
 
 In Kaunas (S Darius & S Girenas Stadium)
 Lithuania 1 (Tomas Danilevicius 20)
@@ -1564,9 +1566,9 @@ Booked: AUT - Ivanschitz 8.
 
 -----------------------------------------------------------------------
 
-▪ GROUP 8 ▪
+GROUP 8
 
-_ Sep 6, 2008 _
+_ Sep 6 2008 _
 
 In Mainz, Germany (Bruchweg Stadium)
 Georgia 1 (Levan Kenia 90+2)
@@ -1625,7 +1627,7 @@ Coach: Marcello Lippi.
 Booked: CYP - Garpozis 36, Nikolaou 69, Charalampidis 72, Makridis 90+2.
         ITA - Toni 34, Cassetti 37, Camoranesi 85.
 
-_ Sep 10, 2008 _
+_ Sep 10 2008 _
 
 In Udine (Friuli Stadium)
 Italy 2 (Daniele De Rossi 17, 89)
@@ -1661,7 +1663,7 @@ IRL: 1-Shay Given; 2-Steve Finnan, 4-John O'Shea, 5-Richard Dunne,
 Coach: Giovanni Trapattoni (Italy).
 Booked: MNE - Pekovic 63.
 
-_ Oct 11, 2008 _
+_ Oct 11 2008 _
 
 In Tbilisi (Boris Paichadze Stadium)
 Georgia 1 (Levan Kobiashvili 73)
@@ -1701,7 +1703,7 @@ ITA: 1-Marco Amelia; 2-Gianluca Zambrotta, 5-Fabio Cannavaro ©,
 Coach: Marcello Lippi.
 Booked: ITA - Chiellini 35, De Rossi 86, Toni 90+1.
 
-_ Oct 15, 2008 _
+_ Oct 15 2008 _
 
 In Dublin (Croke Park)
 Ireland Republic 1 (Robbie Keane 5)
@@ -1770,9 +1772,9 @@ Booked: ITA - Gattuso 43, Amerlia 85.
 
 -----------------------------------------------------------------------
 
-▪ GROUP 9 ▪
+GROUP 9
 
-_ Sep 6, 2008 _
+_ Sep 6 2008 _
 
 In Skopje (City Stadium Gradski)
 Macedonia FYR 1 (Ilco Naumoski 5)
@@ -1810,7 +1812,7 @@ ISL: 1-Kjartan Sturluson; 2-Birkir Saevarsson, 3-Bjarni Eiriksson,
 Coach: Olafur Johannesson.
 Booked: ISL - Steinsson 35, Gislason 56, Hreidarsson 90+1.
 
-_ Sep 10, 2008 _
+_ Sep 10 2008 _
 
 In Reykjavik (Laugardalsvollur Stadium)
 Iceland 1 (Eidur Gudjohnsen 77pen)
@@ -1851,7 +1853,7 @@ Coach: Bert van Marwijk.
 Booked: MKD - Naumoski 21, Grozdanovski 74, Ristic 87.
         NED - Van Persie 15, Van der Vaart 75, Stekelenburg 76.
 
-_ Oct 11, 2008 _
+_ Oct 11 2008 _
 
 In Glasgow (Hampden Park)
 Scotland 0
@@ -1887,7 +1889,7 @@ ISL: 1-Gunnleifur Gunnleifsson; 2-Birkir Saevarsson, 3-Ragnar
      11-Emil Hallfredsson (18-Arnor Smarason 87); 9-Eidur Gudjohnsen ©.
 Coach: Olafur Johannesson.
 
-_ Oct 15, 2008 _
+_ Oct 15 2008 _
 
 In Reykjavik (Laugardalsvollur Stadium)
 Iceland 1 (Veigar Gunnarsson 15)
@@ -1960,12 +1962,12 @@ LEADING GOALSCORERS:
 
 
 
-==== South America  ‹§sam›
+== South America  ‹§sam›
 
 
 ▪ ROUND 1 ▪
 
-_ Oct 13, 2007 _
+_ Oct 13 2007 _
 
 In Montevideo (Estadio Centenario)
 Uruguay 5 (Luis Suarez 4, Diego Forlan 38, Sebastian Abreu 48, Vicente
@@ -2008,7 +2010,7 @@ Booked: ARG - Rodriguez 42.
               Bravo 70.
 Sent off: CHI - Alvarez 54.
 
-_ Oct 14, 2007 _
+_ Oct 14 2007 _
 
 In Quito (Estadio Olimpico Atahualpa)
 Ecuador 0
@@ -2069,7 +2071,7 @@ Booked: PER - Rodriguez 41.
 
 ▪ ROUND 2 ▪
 
-_ Oct 16, 2007 _
+_ Oct 16 2007 _
 
 In Maracaibo (Estadio Jose Pachencho Romero)
 Venezuela 0
@@ -2090,7 +2092,7 @@ Coach: Alfio Basile.
 Booked: VEN - Cichero 39, Maldonado 45+2, Rosales 66.
         ARG - Ibarra 25.
 
-_ Oct 17, 2007 _
+_ Oct 17 2007 _
 
 In La Paz (Hernando Siles Stadium)
 Bolivia 0
@@ -2168,7 +2170,7 @@ Booked: ECU - Bagui 32, Hurtado 41.
 
 ▪ ROUND 3 ▪
 
-_ Nov 17, 2007 _
+_ Nov 17 2007 _
 
 In Buenos Aires (Estadio Monumental Antonio Vespucio Liberti)
 Argentina 3 (Sergio Aguero 41, Juan Roman Riquelme 57, 74)
@@ -2225,7 +2227,7 @@ Coach: Richard Paez.
 Booked: COL - Amaya 30, Velez 90+1.
         VEN - Vallenilla 26, Guerra 68, Rouga 85.
 
-_ Nov 18, 2007 _
+_ Nov 18 2007 _
 
 In Lima (Monumental de Ate 'U' Stadium)
 Peru 1 (Juan Manuel Vargas 71)
@@ -2267,7 +2269,7 @@ Booked: URU - Rodriguez 10, Scotti 29, Gargano 64, Lugano 68.
 
 ▪ ROUND 4 ▪
 
-_ Nov 20, 2007 _
+_ Nov 20 2007 _
 
 In San Cristobal (Estadio Polideportivo de Pueblo Nuevo)
 Venezuela 5 (Daniel Arismendi 20, 44, Alejandro Guerra 83, Giancarlo
@@ -2308,7 +2310,7 @@ Booked: COL - Castrillon 23, Mosquera 44, Amaya 47, Bustos 62, Renteria
         ARG - Demichelis 80, Riquelme 84, Milito 85.
 Sent off: ARG - Tevez 25.
 
-_ Nov 21, 2007 _
+_ Nov 21 2007 _
 
 In Quito (Estadio Olimpico Atahualpa)
 Ecuador 5 (Walter Ayovi 10, 48, Ivan Kaviedes 24, Edison Mendez 44, 62)
@@ -2366,7 +2368,7 @@ Booked: CHI - Jimenez 83.
 
 ▪ ROUND 5 ▪
 
-_ Jun 14, 2008 _
+_ Jun 14 2008 _
 
 In Montevideo (Estadio Centenario)
 Uruguay 1 (Diego Lugano 12)
@@ -2403,7 +2405,7 @@ Coach: Jorge Pinto.
 Booked: PER - Solano 62, Vilchez 78, Rengifo 86.
         COL - Zapata 41, Sanchez 63.
 
-_ Jun 15, 2008 _
+_ Jun 15 2008 _
 
 In Asuncion (Defensores del Chaco Stadium)
 Paraguay 2 (Roque Santa Cruz 26, Salvador Cabanas 49)
@@ -2465,7 +2467,7 @@ Booked: BOL - Limberg Gutierrez 80.
 
 ▪ ROUND 6 ▪
 
-_ Jun 17, 2008 _
+_ Jun 17 2008 _
 
 In Montevideo (Estadio Centenario)
 Uruguay 6 (Diego Forlan 8, 37pen, 56, Carlos Bueno 61, 69, Sebastian
@@ -2488,7 +2490,7 @@ Booked: URU - Godin 19.
         PER - Marino 7, Guerrero 9, Villalta 67, Cevasco 80.
 Sent off: PER - Guerrero 37.
 
-_ Jun 18, 2008 _
+_ Jun 18 2008 _
 
 In La Paz (Estadio Hernando Siles)
 Bolivia 4 (Joaquin Botero 23, 70, Ronald Garcia 25, Marcelo Martins 76)
@@ -2545,7 +2547,7 @@ Coach: Alfio Basile.
 Booked: BRA - Juan 19, Adriano 54.
         ARG - Cruz 26, Gago 59, Mascherano 62, Gutierrez 86.
 
-_ Jun 19, 2008 _
+_ Jun 19 2008 _
 
 In Puerto La Cruz (Estadio General Jose Antonio Anzoategui)
 Venezuela 2 (Giancarlo Maldonado 59, Juan Arango 80)
@@ -2569,7 +2571,7 @@ Booked: VEN - Hernandez 62, Vega 71.
 
 ▪ ROUND 7 ▪
 
-_ Sep 6, 2008 _
+_ Sep 6 2008 _
 
 In Buenos Aires (Estadio Monumental Antonio Vespucio Liberti)
 Argentina 1 (Sergio Aguero 60)
@@ -2648,7 +2650,7 @@ Coach: Cesar Farias.
 Booked: PER - Rodriguez 31.
         VEN - Mea Vitali 30, Rincon 38.
 
-_ Sep 7, 2008 _
+_ Sep 7 2008 _
 
 In Santiago (Estadio Nacional)
 Chile 0
@@ -2674,7 +2676,7 @@ Sent off: CHI - Valdivia 62.
 
 ▪ ROUND 8 ▪
 
-_ Sep 9, 2008 _
+_ Sep 9 2008 _
 
 In Asuncion (Defensores del Chaco Stadium)
 Paraguay 2 (Cristian Riveros 28, Nelson Haedo Valdez 45)
@@ -2695,7 +2697,7 @@ Coach: Cesar Farias.
 Booked: PAR - Santana 18, Manzur 58, Morel 83.
         VEN - Rincon 57, Arango 86.
 
-_ Sep 10, 2008 _
+_ Sep 10 2008 _
 
 In Montevideo (Centenario Stadium)
 Uruguay 0
@@ -2775,7 +2777,7 @@ Booked: PER - De la Haza 4, Solano 18, Zambrano 25, Torres 69, Vilchez
 
 ▪ ROUND 9 ▪
 
-_ Oct 11, 2008 _
+_ Oct 11 2008 _
 
 In La Paz (Estadio Hernando Siles)
 Bolivia 3 (Joaquin Botero 3, 16, Ronald Garcia 81)
@@ -2833,7 +2835,7 @@ Coach: Gerardo Martino (Argentina).
 Booked: COL - Bedoya 50.
         PAR - Veron 43, Cabanas 62.
 
-_ Oct 12, 2008 _
+_ Oct 12 2008 _
 
 In San Cristobal (Estadio Polideportivo de Pueblo Nuevo)
 Venezuela 0
@@ -2876,7 +2878,7 @@ Sent off: ECU - Valencia 75.
 
 ▪ ROUND 10 ▪
 
-_ Oct 14, 2008 _
+_ Oct 14 2008 _
 
 In La Pas (Estadio Hernando Siles)
 Bolivia 2 (Marcelo Martins 15, 41)
@@ -2934,7 +2936,7 @@ Coach: Alfio Basile.
 Booked: CHI - Contreras 10, Orellana 55, Medel 83.
         ARG - Zanetti 72, Demichelis 74.
 
-_ Oct 15, 2008 _
+_ Oct 15 2008 _
 
 In Rio de Janeiro (Estadio do Maracana)
 Brazil 0
@@ -3034,11 +3036,11 @@ R: Massimo BUSACCA (SUI)
 
 
 
-==== Africa  ‹§afr›
+== Africa  ‹§afr›
 
 First Round, First Legs
 
-_ Oct 14, 2007 _
+_ Oct 14 2007 _
 
 In Antananarivo (Stade Municipal de Mahamasina)
 Madagascar 6 (Fanaia Andriatsima 30, 40, 49pen, 57, Rija Rakotomandimby
@@ -3061,7 +3063,7 @@ Coach: Ali Mbae Camara.
 Booked: MAD - Tsaralaza 61.
         COM - Djamal 55.
 
-_ Oct 17, 2007 _
+_ Oct 17 2007 _
 
 In Freetown (National Stadium)
 Sierra Leone 1 (Kewullay Conteh 17)
@@ -3097,11 +3099,11 @@ In Bissau
 
 
 
-==== Asia  ‹§asi›
+== Asia  ‹§asi›
 
 First Round, First Legs
 
-_ Oct 8, 2007 _
+_ Oct 8 2007 _
 
 In Dhaka (Bangabandhu Stadium)
 Bangladesh 1 (Zumratul Hossain Mithu 50)
@@ -3247,7 +3249,7 @@ Coach: Jozef Jankech (Slovakia).
 Booked: YEM - Al-Wadi 57, Al-Hubaishi 67.
         MDV - Jameel 18, Rameez 40.
 
-_ Oct 11, 2007 _
+_ Oct 11 2007 _
 
 In Phnom Penh (Phnom Penh Stadium)
 Cambodia 0
@@ -3265,7 +3267,7 @@ TKM: 16-Nikita Gorbunov; 2-Yagmyrmrat Annamyradov, 3-Gochguly
      77); 11-Mamedaly Karadanov (14-Mekan Nasyrov 88).
 Coach: Rahim Kurbanmamedov.
 
-_ Oct 13, 2007 _
+_ Oct 13 2007 _
 
 In Tashkent (Central Stadium)
 Uzbekistan 9 (Maksim Shatskikh 4, 16, 34, 57, 77, Timur Kapadze 26,
@@ -3422,13 +3424,13 @@ Coach: Egil Olsen (Norway).
 
 First Round, Second Legs
 
-_ Oct 15, 2007 _
+_ Oct 15 2007 _
 
 In Macau (National Stadium)
 Macau 1 (Chan Kin Seng 90+2)
 Thailand 7 (Teerasil Dangda 22, Suree Sukha 39, Nirut Surasiang 43,
 Datsakorn Thonglao 48, Sarayoot Chaikamdee 53, 57, 86)
-(Thailand win 13-2 on aggregate)
+[Thailand win 13-2 on aggregate]
 HT: 0-3. Att: 500. Ref: Abdulrahman Recho (Syria).
 MAC: 1-Leong Chon Kit; 2-Sou Fai Wong (20-Francisco Souza da Cunha 83),
      3-Lam Ka Pou, 4-Kong Cheng Hou, 5-Lam Ka Koi ©, 6-Emmanuel Libano
@@ -3484,7 +3486,7 @@ In Shah Alam
 
 
 
-==== North and Central America  ‹§nca›
+== North and Central America  ‹§nca›
 
 2010 CONCACAF WORLD CUP QUALIFICATION
 
@@ -4087,7 +4089,7 @@ R: Neal BRIZAN (TRI)
 
 SEMIFINAL ROUND
 
-▪ GROUP A ▪
+GROUP A
 
 20.08.08: La Habana, CUBA; Estadio Pedro Marrero (A: 4000)
 CUBA - TRINIDAD & TOBAGO 1:3 (0:1)
@@ -4246,7 +4248,7 @@ GUA: 18-Ricardo Jerez - 2-Carlos Castrillo, 3-Cristian Noriega-C, 4-Yoni Flores,
 TD: Benjamín MONTERROSO (GUA)
 R: Benito Armando ARCHUNDIA (MEX)
 
-▪ GROUP B ▪
+GROUP B
 
 20.08.08: Toronto, CANADA; BMO Field (A: 22000)
 CANADA - JAMAICA 1:1 (0:0)
@@ -4407,7 +4409,7 @@ Sent off: Torrado 89' 2YC, Vela 90+1
 TD: Sven Goran ERIKSSON (SWE)
 R: Carlos BATRES (GUA)
 
-▪ GROUP C ▪
+GROUP C
 
 20.08.08: Port-Au-Prince, HAITI; Stade Sylvio Cator (A: 7800)
 HAITI - SURINAM 2:2 (0:2)
@@ -4568,7 +4570,7 @@ TD: Rodrigo KENTON (CRC)
 R: Silviu PETRESCU (CAN)
 
 
-FINAL ROUND
+▪ FINAL ROUND ▪
 
 11.02.09: Columbus, USA; Columbus Crew Stadium (A: 23776)
 USA - MEXICO 2:0 (1:0)
@@ -4986,7 +4988,7 @@ R: Massimo BUSACCA (SUI)
 
 
 
-==== Oceania  ‹§oce›
+== Oceania  ‹§oce›
 
 [Also XIII South Pacific Games]
 Date: August 25-September 7, 2007
@@ -4997,7 +4999,7 @@ Teams:
   Group B - American Samoa, Samoa, Solomon Islands, Tonga, Vanuatu
 
 
-▪ GROUP A ▪
+GROUP A
 
 _ Aug 25 _
 
@@ -5197,7 +5199,7 @@ Sent off: COK - Joseph 65, Le Mouton 68.
 
 -----------------------------------------------------------------------
 
-▪ GROUP B ▪
+GROUP B
 
 _ Aug 25 _
 
@@ -5488,12 +5490,12 @@ NOTE: New Caledonia, Fiji and Vanuatu advance to Oceania second round,
 
 ▪ SECOND ROUND ▪
 
-_ Oct 13, 2007 _
+_ Oct 13 2007 _
 
 In Auckland (North Harbour Stadium)
 New Zealand - Fiji (postponed due to visa problem)
 
-_ Oct 17, 2007 _
+_ Oct 17 2007 _
 
 In Lautoka (Churchill Park)
 Fiji 0
@@ -5528,13 +5530,5 @@ New Zealand - Vanuatu
 New Caledonia - Fiji
 
 
-‹2010 Qualifying - Overview, see page 2010q›
 
-‹Overview File, see page ../tablesw/worldcup›
-
-
-
-
-
-<!-- $about$ -->
 

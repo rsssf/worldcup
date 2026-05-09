@@ -1,10 +1,12 @@
   <!--
-     source: https://rsssf.org/tables/38q.html
+     title:   World Cup 1938 Qualifying
+     source:  https://rsssf.org/tables/38q.html
+     authors: Karel Stokkermans and Sergio Henrique Jarreta
+     updated: 6 Mar 2026
     -->
-  
 
 
-== World Cup 1938 Qualifying
+
 
 Qualified as hosts: France
 Qualified as holders: Italy
@@ -93,7 +95,7 @@ NB: Argentina were later allowed to re-enter and following a FIFA meeting in
 
 NORTH AMERICA
 
-▪ Group 11 ▪
+Group 11
 Mexico were included in Central America; a Mexican objection against this
 was rejected, leaving only the USA in this group.
 The USA were scheduled to play Dutch East Indies on 26 May 1938 in Rotterdam (see
@@ -107,15 +109,15 @@ Group 12 [Cuba]
 
 Original set-up:
 
-First Stage
+▪ First Stage ▪
 To be played in Barranquilla, starting on 5 Nov 1937;
 participants: Colombia, Cuba, Surinam (Dutch Guyana).
 
-Second Stage
+▪ Second Stage ▪
 To be played in San José;
 participants: Costa Rica, El Salvador, winners Barranquilla tounament.
 
-Third Stage
+▪ Third Stage ▪
 Participants: Mexico, winners San José tournament;
 winners to qualify for final tournament in France.
 
@@ -141,17 +143,8 @@ withdrawal of Argentina (see group 10).
 29.05.38  Bordeaux    Cuba             w/o Argentina
 
 
-‹Detailed Infos, see page 38qual›
-
-
-
-‹1938 Final Tournament, see page 38f›
-
-‹Overview File, see page ../tablesw/worldcup›
 
 
 
 
-
-<!-- $about$ -->
 

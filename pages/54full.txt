@@ -1,29 +1,30 @@
   <!--
-     source: https://rsssf.org/tables/54full.html
+     title:   World Cup 1954 finals
+     source:  https://rsssf.org/tables/54full.html
+
     -->
-  
 
 
-= World Cup 1954
+== World Cup 1954
 
-<UL>
-<LI>‹Results, see §results›
-<UL>
-<LI>‹Group A, see §gra›
-<LI>‹Group B, see §grb›
-<LI>‹Group C, see §grc›
-<LI>‹Group D, see §grd›
-<LI>‹Quarterfinals, see §4fin›
-<LI>‹Semifinals, see §2fin›
-<LI>‹Third place match, see §3place›
-<LI>‹Final, see §final›
-</UL></UL>
-<UL>
-<LI>‹Scorers' list, see §scorers›
-<LI>‹Coaches, assistants, reserve players, see §coaches›
-<LI>‹Oldest and youngest, see §records›
-</UL>
-</UL>
+
+‹Results, see §results›
+
+‹Group A, see §gra›
+‹Group B, see §grb›
+‹Group C, see §grc›
+‹Group D, see §grd›
+‹Quarterfinals, see §4fin›
+‹Semifinals, see §2fin›
+‹Third place match, see §3place›
+‹Final, see §final›
+
+
+‹Scorers' list, see §scorers›
+‹Coaches, assistants, reserve players, see §coaches›
+‹Oldest and youngest, see §records›
+
+
 
 Switzerland, 16 June - 4 July 1954 (Basel, Berne, Geneva, Lausanne, Lugano,
 Zürich). Decided at FIFA Congress in Rio de Janeiro, 22 July 1950. Entries
@@ -40,7 +41,7 @@ draw after normal time. If the draw persisted after the extra time,
 the result was final.
 
 
-== Group A - BRA FRA JUG MEX  ‹§gra›
+=== Group A - BRA FRA JUG MEX  ‹§gra›
 
 16.06.54  (18.00) Lausanne, La Pontaise
 
@@ -114,7 +115,7 @@ Kopa 88 p
 3. FRA          2  1 0 1  2  3-3
 4. MEX          2  0 0 2  0  2-6
 
-== Group B - GER HUN KOR TUR  ‹§grb›
+=== Group B - GER HUN KOR TUR  ‹§grb›
 
 17.06.54  (18.00) Zürich, June 17th - Sportzplatz Hardturm
 
@@ -209,7 +210,7 @@ Coskun, Lefter
 1:0 O.Walter 7, 2:0 Schäfer 11, 2:1 Mustafa 22 h, 3:1 Morlock 31, 4:1 Morlock
 62, 5:1 F.Walter 63, 6:1 Morlock 71, 7:1 Schäfer 79, 7:2 Lefter 84
 
-== Group C - AUT CZE SCO URU  ‹§grc›
+=== Group C - AUT CZE SCO URU  ‹§grc›
 
 16.06.54  (18.00) Zürich, Sportzplatz Hardturm
 
@@ -281,7 +282,7 @@ Fernie, Mochan, Brown, Ormond
 3. CZE          2  0 0 2  0  0-7
 4. SCO          2  0 0 2  0  0-8
 
-== Group D - BEL ENG ITA SUI  ‹§grd›
+=== Group D - BEL ENG ITA SUI  ‹§grd›
 
 17.06.54  (18.10) Basel, St.Jakob Stadion
 
@@ -373,7 +374,7 @@ Segato, Frignani, Pandolfini (c), Lorenzi
 
 1:0 Hügl 12, 2:0 Ballmann 48 h, 2:1 Nesti 67, 3:1 Hügl 85, 4:1 Fatton 90
 
-== Quarterfinals  ‹§4fin›
+=== Quarterfinals  ‹§4fin›
 
 26.06.54  (17.00) Lausanne, La Pontaise
 
@@ -445,7 +446,7 @@ Milutinović, Mitić, Vukas, Bobek (c), Zebec
 
 1:0 Horvat 10 o, 2:0 Rahn 86
 
-== Semifinals  ‹§2fin›
+=== Semifinals  ‹§2fin›
 
 30.06.54  (18.00) Lausanne, La Pontaise
 
@@ -483,7 +484,7 @@ Wagner, Stojaspal, Probst, A.Körner
 
 
 
-== Third place match  ‹§3place›
+=== Third place match  ‹§3place›
 
 03.07.54  (17.00) Zürich, Sportzplatz Hardturm
 
@@ -500,7 +501,7 @@ Mendez, Hohberg, Schiaffino, Borges
 
 NOTE: 100th game of the World Cup
 
-== Final  ‹§final›
+=== Final  ‹§final›
 
 04.07.54  (17.00) Bern, Wankdorf-Stadion
 
@@ -515,7 +516,7 @@ Kocsis, Hidegkuti, Puskás (c), M.Tóth.
 
 0:1 Puskás 6, 0:2 Czibor 9, 1:2 Morlock 11, 2:2 Rahn 18, 3:2 Rahn 84
 
-== Scorers' list  ‹§scorers›
+=== Scorers' list  ‹§scorers›
 
 11 - Kocsis HUN
  6 - Probst AUT, Morlock GER, Hügl SUI
@@ -536,7 +537,7 @@ In total 140 goals (7 p, 16 h, 3 f, 4 o), 5.38 per match (WC record). Most
 goals HUN (27). CZE, SCO, KOR without goals. 59 players scored (including
 6 earlier scorers from 1950)
 
-== Coaches, assistants, reserve players  ‹§coaches›
+=== Coaches, assistants, reserve players  ‹§coaches›
 
 AUT: W. Nausch, E. Früthwirth, J. Molser, H. Pesser | Giesser, Halla,
 Haumer, Pelikan, Riegler, Stotz, Tetnitzer
@@ -574,7 +575,7 @@ Leopardi, Macetras, Pérez, Rivera, Tejera
 ** also called Vinkovics (?)
 *** manager, did not go to Switzerland
 
-== Oldest and youngest  ‹§records›
+=== Oldest and youngest  ‹§records›
 
 Youngest                  Oldest
 player      Coskun TUR     19y 41d   Matthews ENG       39y141d
