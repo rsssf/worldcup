@@ -1,18 +1,20 @@
-  <!--
-     title:   World Cup 2006 Qualifying
-     source:  https://rsssf.org/tables/2006q.html
-     authors: Karel Stokkermans, Lars Aarhus, Jim Goloboy, Ian King, Jarek Owsianski, Malik Riaz Hai Naveed, Julián Díaz Rubio, Martín Tabeira, Antonio Zea and Andre Zlotkowski
-     updated: 26 Nov 2009
-    -->
+<!--
+   title:   World Cup 2006 Qualifying
+   source:  https://rsssf.org/tables/2006q.html
+   authors: Karel Stokkermans, Lars Aarhus, Jim Goloboy, Ian King, Jarek Owsianski, Malik Riaz Hai Naveed, Julián Díaz Rubio, Martín Tabeira, Antonio Zea and Andre Zlotkowski
+   updated: 26 Nov 2009
+  -->
 
+<!--
+                     Contents:
 
-
-
-
-  
-
-
-
+         Europe                             (see §§eur)
+         South America                      (see §§sam)
+         Africa                             (see §§afr)
+         Asia                               (see §§asi)
+         North and Central America          (see §§nca)
+         Oceania                            (see §§oce)
+  -->
 
 
 
@@ -699,9 +701,6 @@ UEFA Playoffs
   (Tomas Rosicky 35)
 
 
-
-
-
 == South America  ‹§sam›
 
 <!-- start pre -->CSF has 4 automatic places and 1 play-off place (the fifth placed team
@@ -960,9 +959,6 @@ CSF/OFC Playoff
   (Dario Rodriguez 37)
 16-11-05 Sydney          Australia   1-0 Uruguay        (aet, 4-2 pen)
   (Marco Bresciano 35)
-
-
-
 
 
 == Africa  ‹§afr›
@@ -1441,9 +1437,6 @@ NB: the qualifying tournament doubles as qualifying tournament for the
     ‹African Nations Cup 2006, see page 06a›
 
 
-
-
-
 == Asia  ‹§asi›
 
 <!-- start pre -->AFC has 4 automatic places and 1 play-off place
@@ -1844,9 +1837,6 @@ CONCACAF/AFC Playoff
 ‹Match Details, see page 2006q-det.html#asi›
 
 
-
-
-
 == North and Central America  ‹§nca›
 
 <!-- start pre -->FC has 3 automatic places and 1 play-off place (against the fourth
@@ -2161,10 +2151,6 @@ CONCACAF/AFC Playoff
 ‹Match Details, see page 2006q-det.html#nca›
 
 
-
-
-
-
 == Oceania  ‹§oce›
 
 <!-- start pre -->OFC has 1 play-off place (against the fifth placed team of South America)
@@ -2298,11 +2284,5 @@ CSF/OFC Playoff
   (Dario Rodriguez 37)
 16-11-05 Sydney          Australia   1-0 Uruguay        (aet, 4-2 pen)
   (Marco Bresciano 35)
-
-
-
-
-
-
 
 

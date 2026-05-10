@@ -1,17 +1,20 @@
-  <!--
-     title:   World Cup 2014 Qualifying
-     source:  https://rsssf.org/tables/2014q.html
-     authors: Karel Stokkermans, Juan Pablo Andrés and Erik Francisco Lugo
-     updated: 1 Feb 2023
-    -->
+<!--
+   title:   World Cup 2014 Qualifying
+   source:  https://rsssf.org/tables/2014q.html
+   authors: Karel Stokkermans, Juan Pablo Andrés and Erik Francisco Lugo
+   updated: 1 Feb 2023
+  -->
 
+<!--
+                     Contents:
 
-
-
-
-  
-
-
+         Europe                             (see §§eur)
+         South America                      (see §§sam)
+         Africa                             (see §§afr)
+         Asia                               (see §§asi)
+         North and Central America          (see §§nca)
+         Oceania                            (see §§oce)
+  -->
 
 
 
@@ -403,11 +406,7 @@ NB: all bar Denmark enter the playoff stage for four places at the
 NB: Croatia, France, Greece and Portugal qualified.
 
 
-
-
-
 == South America  ‹§sam›
-
 
 NB: 5th placed team qualify for playoff against 5th placed team Asia (Jordan)
 
@@ -502,11 +501,7 @@ AFC/CONMEBOL Playoff
 NB: Uruguay qualified.
 
 
-
-
-
 == Africa  ‹§afr›
-
 
 ▪ First Stage ▪
 
@@ -763,11 +758,7 @@ Group 10
 NB: Algeria, Cameroon, Ghana, Ivory Coast and Nigeria qualified.
 
 
-
-
-
 == Asia  ‹§asi›
-
 
 ▪ First Stage ▪
 
@@ -1013,11 +1004,7 @@ AFC/CONMEBOL Playoff
 NB: Uruguay qualified.
 
 
-
-
-
 == North and Central America  ‹§nca›
-
 
 ▪ First Stage ▪
 
@@ -1273,11 +1260,7 @@ CONCACAF/OFC Playoff
 NB: Mexico qualified.
 
 
-
-
-
 == Oceania  ‹§oce›
-
 
 Qualifying Stage
 
@@ -1369,6 +1352,5 @@ CONCACAF/OFC Playoff
 20-11-13 Wellington      New Zealand   2-4 Mexico
 
 NB: Mexico qualified.
-
 
 
